@@ -1,0 +1,82 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Strafe Left,None,A ↓,A ↑
+0,Movement,Strafe Right,None,D ↓,D ↑
+0,Movement,Crouch,None,ControlLeft ↓,ControlLeft ↑
+0,Movement,Jump,None,Space ↓,Space ↑
+0,Weapons & Abilities,Ability 1,None,ShiftLeft ↓,ShiftLeft ↑
+0,Weapons & Abilities,Ability 2,None,E ↓,E ↑
+0,Weapons & Abilities,Ability 3,None,Q ↓,Q ↑
+0,Weapons & Abilities,Interact,None,F ↓,F ↑
+0,Weapons & Abilities,Primary Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Weapons & Abilities,Secondary Fire,None,MouseButton2 ↓,MouseButton2 ↑
+0,Weapons & Abilities,Equip Weapon 1,None,1 ↓,1 ↑
+0,Weapons & Abilities,Equip Weapon 2,None,2 ↓,2 ↑
+0,Weapons & Abilities,Quick Melee,None,V ↓,V ↑
+0,Weapons & Abilities,Reload,None,R ↓,R ↑
+0,Weapons & Abilities,Next Weapon,None,ScrollUp,None
+0,Weapons & Abilities,Previous Weapon,None,ScrollDown,None
+0,Communication,Communication Menu,None,ControlLeft ↓,ControlLeft ↑
+0,Communication,Need Healing/Buffs,None,X ↓,X ↑
+0,Communication,Ultimate Status,None,Z ↓,Z ↑
+0,Communication,Acknowledge,None,G ↓,G ↑
+0,Sprays,Spray Menu,None,Y ↓,Y ↑
+0,Sprays,Spray (Default),None,T ↓,T ↑
+0,Chat & Voice,Hide Chat,None,ShiftLeft ↓ + ControlLeft ↓ + C ↓,ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Chat & Voice,Open Chat,None,Enter ↓,Enter ↑
+0,Chat & Voice,Reply to Whisper,None,Backspace ↓,Backspace ↑
+0,Chat & Voice,Voice Chat: Push to Talk,None,` ↓,` ↑
+0,Chat & Voice,Voice Chat: Toggle Mic Mute,None,M ↓,M ↑
+0,Spectate,Spectate Player 1,None,F1 ↓,F1 ↑
+0,Spectate,Spectate Player 2,None,F2 ↓,F2 ↑
+0,Spectate,Spectate Player 3,None,F3 ↓,F3 ↑
+0,Spectate,Spectate Player 4,None,F4 ↓,F4 ↑
+0,Spectate,Spectate Player 5,None,F5 ↓,F5 ↑
+0,Spectate,Spectate Player 6,None,F6 ↓,F6 ↑
+0,Spectate,Spectate Player 7,None,F7 ↓,F7 ↑
+0,Spectate,Spectate Player 8,None,F8 ↓,F8 ↑
+0,Spectate,Spectate Player 9,None,F9 ↓,F9 ↑
+0,Spectate,Spectate Player 10,None,F10 ↓,F10 ↑
+0,Spectate,Spectate Player 11,None,F11 ↓,F11 ↑
+0,Spectate,Spectate Player 12,None,F12 ↓,F12 ↑
+0,Spectate,Spectate Toggle Overlay,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Spectate,Spectate Toggle Pause,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Spectate,Objective Camera,None,0 ↓,0 ↑
+0,Spectate,Spectate Self,None,ControlRight ↓,ControlRight ↑
+0,Spectate,Spectate Toggle 3P,None,Space ↓,Space ↑
+0,Spectate,Static Camera 1,None,1 ↓,1 ↑
+0,Spectate,Static Camera 2,None,2 ↓,2 ↑
+0,Spectate,Static Camera 3,None,3 ↓,3 ↑
+0,Spectate,Static Camera 4,None,4 ↓,4 ↑
+0,Spectate,Static Camera 5,None,5 ↓,5 ↑
+0,Spectate,Static Camera 6,None,6 ↓,6 ↑
+0,Spectate,Static Camera 7,None,7 ↓,7 ↑
+0,Spectate,Static Camera 8,None,8 ↓,8 ↑
+0,Spectate,Static Camera 9,None,9 ↓,9 ↑
+0,Spectate,Spectate Lock On,None,MouseButton1 ↓,MouseButton1 ↑
+0,Spectate,Spectate Target Under Reticle,None,MouseButton2 ↓,MouseButton2 ↑
+0,Spectate,Disable Camera Blending,None,Z ↓,Z ↑
+0,Spectate,Modify FOV,None,Backspace ↓,Backspace ↑
+0,Spectate,Move Fast,None,ShiftLeft ↓,ShiftLeft ↑
+0,Spectate,Move Slow,None,ControlLeft ↓,ControlLeft ↑
+0,Spectate,Move Down,None,Q ↓,Q ↑
+0,Spectate,Move Up,None,E ↓,E ↑
+0,Spectate,Decrease Speed / Zoom Out,None,ScrollDown,None
+0,Spectate,Increase Speed / Zoom In,None,ScrollUp,None
+0,Replay,Decrease Playback Speed,None,Num- ↓,Num- ↑
+0,Replay,Increase Playback Speed,None,Num+ ↓,Num+ ↑
+0,Replay,Media Controls,None,N ↓,N ↑
+0,Miscellaneous,Capture Highlight,None,F9 ↓,F9 ↑
+0,Miscellaneous,Custom Game Lobby,None,L ↓,L ↑
+0,Miscellaneous,Endorse Players,None,N ↓,N ↑
+0,Miscellaneous,Hero Information,None,F1 ↓,F1 ↑
+0,Miscellaneous,Hero Select,None,H ↓,H ↑
+0,Miscellaneous,Moderator - Pause Game,None,ShiftLeft ↓ + ControlLeft ↓ + = ↓,ShiftLeft ↑ + ControlLeft ↑ + = ↑
+0,Miscellaneous,Scoreboard,None,Tab ↓,Tab ↑
+0,Miscellaneous,Social Menu,None,O ↓,O ↑
+0,Miscellaneous,Social Menu Channels,None,P ↓,P ↑
+0,Miscellaneous,Take Screenshot,None,PrintScreen ↓,PrintScreen ↑
+0,Miscellaneous,Toggle FPS Display,None,ShiftLeft ↓ + ControlLeft ↓ + R ↓,ShiftLeft ↑ + ControlLeft ↑ + R ↑
+0,Miscellaneous,Toggle Netgraph,None,ShiftLeft ↓ + ControlLeft ↓ + N ↓,ShiftLeft ↑ + ControlLeft ↑ + N ↑
+0,Miscellaneous,Toggle UI,None,AltLeft ↓ + Z ↓,AltLeft ↑ + Z ↑

@@ -1,0 +1,55 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Move Left (strafe),None,A ↓,A ↑
+0,Movement,Move Right (strafe),None,D ↓,D ↑
+0,Movement,Jump,None,Space ↓,Space ↑
+0,Movement,Duck,None,ControlLeft ↓,ControlLeft ↑
+0,Movement,Swim Up,None,,
+0,Movement,Swim Down,None,/ ↓,/ ↑
+0,Movement,Loop Up,None,PageUp ↓,PageUp ↑
+0,Movement,Look Down,None,PageDown ↓,PageDown ↑
+0,Communication,Use Voice Communication,None,V ↓,V ↑
+0,Communication,Chat Message,None,Y ↓,Y ↑
+0,Communication,Team Message,None,U ↓,U ↑
+0,Communication,Voice Menu 1,None,Z ↓,Z ↑
+0,Communication,Voice Menu 2,None,X ↓,X ↑
+0,Communication,Voice Menu 3,None,C ↓,C ↑
+0,General,Change Class,None,", ↓",", ↑"
+0,General,Change Team,None,. ↓,. ↑
+0,General,Open Character Loadout,None,M ↓,M ↑
+0,General,Open Backpack,None,N ↓,N ↑
+0,General,Open Contracts Drawer,None,F2 ↓,F2 ↑
+0,General,Open Matchmaking,None,[ ↓,[ ↑
+0,General,Drop the Briefcase,None,L ↓,L ↑
+0,General,Taunts,None,G ↓,G ↑
+0,General,Use Item in Action Slot,None,H ↓,H ↑
+0,General,Show Map Information,None,I ↓,I ↑
+0,General,Inspect Target or Item,None,F ↓,F ↑
+0,Class Specific Skill,SPY: Last Disguise,None,B ↓,B ↑
+0,Class Specific Skill,SPY: Toggle Disguise Team,None,- ↓,- ↑
+0,Combat,Primary Attack,None,MouseButton1 ↓,MouseButton1 ↑
+0,Combat,Secondary Attack,None,MouseButton2 ↓,MouseButton2 ↑
+0,Combat,Special Attack,None,MouseButton3 ↓,MouseButton3 ↑
+0,Combat,Reload Weapon,None,R ↓,R ↑
+0,Combat,Previous Weapon,None,ScrollUp,None
+0,Combat,Next Weapon,None,ScrollDown,None
+0,Combat,Last Weapon Used,None,Q ↓,Q ↑
+0,Combat,Weapon Category 1,None,1 ↓,1 ↑
+0,Combat,Weapon Category 2,None,2 ↓,2 ↑
+0,Combat,Melee Weapon,None,3 ↓,3 ↑
+0,Combat,Weapon Category 4,None,4 ↓,4 ↑
+0,Combat,Weapon Category 5,None,5 ↓,5 ↑
+0,Combat,Weapon Category 6,None,6 ↓,6 ↑
+0,Combat,Weapon Category 7,None,7 ↓,7 ↑
+0,Combat,Weapon Category 8,None,8 ↓,8 ↑
+0,Combat,Weapon Category 9,None,9 ↓,9 ↑
+0,Combat,Weapon Category 0,None,0 ↓,0 ↑
+0,Miscellaneous,Spray Logo,None,T ↓,T ↑
+0,Miscellaneous,Display Multiplayer scores,None,Tab ↓,Tab ↑
+0,Miscellaneous,Take Screen Shot,None,F5 ↓,F5 ↑
+0,Miscellaneous,Save a Replay of Your Current or Last Life,None,F6 ↓,F6 ↑
+0,Miscellaneous,Take Steam Abuse Screenshot,None,F7 ↓,F7 ↑
+0,Miscellaneous,Toggle Developer Console,None,` ↓,` ↑
+0,Miscellaneous,View/Accept the Topmost Alert,None,J ↓,J ↑
+0,Miscellaneous,Remove/Decline the Topmost Alert,None,K ↓,K ↑

@@ -1,0 +1,8 @@
+terminal = "kitty"
+fileManager = "nautilus"
+menu = "rofi -show drun -show-icons -theme /home/sevaed/.config/rofi/mytheme-normal.rasi -normal-window"
+browser = "google-chrome-stable --ozone-platform=wayland"
+discord = "vesktop --ozone-platform=wayland"
+telegram = "Telegram"
+bar = "wayle panel start"
+SwiftPoint_X1 = "/home/sevaed/.local/bin/swiftpoint-x1 hide"

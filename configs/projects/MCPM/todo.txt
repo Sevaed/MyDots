@@ -1,0 +1,6 @@
+1. System to storing info about:
+    1) Minecraft version
+    2) Modloader and modloader version
+    3) Installed mods
+2. System of adding info into the storage
+3. UI

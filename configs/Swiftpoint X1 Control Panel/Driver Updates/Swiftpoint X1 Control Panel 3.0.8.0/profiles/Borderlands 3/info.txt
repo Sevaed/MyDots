@@ -1,0 +1,3 @@
+Name=Borderlands 3
+BundleID=Borderlands 3
+MouseSupport=5,20,30,

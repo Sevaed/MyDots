@@ -1,0 +1,90 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Strafe Left,None,A ↓,A ↑
+0,Movement,Strafe Right,None,D ↓,D ↑
+0,Movement,Jump/Stand/Mantle,None,Space ↓,Space ↑
+0,Movement,Crouch/Slide,None,C ↓,C ↑
+0,Movement,Prone,None,ControlLeft ↓,ControlLeft ↑
+0,Movement,Sprint/Steady Aim/Change Zoom,None,ShiftLeft ↓,ShiftLeft ↑
+0,Movement,Gesture/Sprays,None,T ↓,T ↑
+0,Weapons & Equipment,Fire Weapon,None,MouseButton1 ↓,MouseButton1 ↑
+0,Weapons & Equipment,Aim Down Sight,None,MouseButton2 ↓,MouseButton2 ↑
+0,Weapons & Equipment,Reload,None,R ↓,R ↑
+0,Weapons & Equipment,Next Weapon,None,ScrollUp,None
+0,Weapons & Equipment,Previous Weapon,None,ScrollDown,None
+0,Weapons & Equipment,Weapon Mount,None,MouseButton5 ↓,MouseButton5 ↑
+0,Weapons & Equipment,Alternate Fire,None,B ↓,B ↑
+0,Weapons & Equipment,Melee/Finishing Move,None,MouseButton4 ↓,MouseButton4 ↑
+0,Weapons & Equipment,Use Lethal Equipment,None,MouseButton3 ↓,MouseButton3 ↑
+0,Weapons & Equipment,Use Tactical Equipment,None,Q ↓,Q ↑
+0,Weapons & Equipment,Night Vision Goggles,None,N ↓,N ↑
+0,Weapons & Equipment,Use Field Upgrade,None,X ↓,X ↑
+0,Weapons & Equipment,Mission Ability,None,4 ↓,4 ↑
+0,Weapons & Equipment,Change to Loadout 1,None,Num1 ↓,Num1 ↑
+0,Weapons & Equipment,Change to Loadout 2,None,Num2 ↓,Num2 ↑
+0,Weapons & Equipment,Change to Loadout 3,None,Num3 ↓,Num3 ↑
+0,Weapons & Equipment,Change to Loadout 4,None,Num4 ↓,Num4 ↑
+0,Weapons & Equipment,Change to Loadout 5,None,Num5 ↓,Num5 ↑
+0,Weapons & Equipment,Change to Loadout 6,None,Num6 ↓,Num6 ↑
+0,Weapons & Equipment,Change to Loadout 7,None,Num7 ↓,Num7 ↑
+0,Weapons & Equipment,Change to Loadout 8,None,Num8 ↓,Num8 ↑
+0,Weapons & Equipment,Change to Loadout 9,None,Num9 ↓,Num9 ↑
+0,Weapons & Equipment,Change to Loadout 10,None,Num0 ↓,Num0 ↑
+0,Killstreaks & Vehicles,Killstreak / Munitions 1,None,3 ↓,3 ↑
+0,Killstreaks & Vehicles,Killstreak / Munitions 2,None,4 ↓,4 ↑
+0,Killstreaks & Vehicles,Killstreak / Munitions 3,None,5 ↓,5 ↑
+0,Killstreaks & Vehicles,Killstreak / Munitions 4,None,6 ↓,6 ↑
+0,Killstreaks & Vehicles,Killstreak / Munitions Menu,None,K ↓,K ↑
+0,Killstreaks & Vehicles,Use Armor Plate,None,4 ↓,4 ↑
+0,Killstreaks & Vehicles,Center Vehicle Camera,None,MouseButton4 ↓,MouseButton4 ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Move Forward,None,W ↓,W ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Move Backward,None,S ↓,S ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Turn Left,None,A ↓,A ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Turn Right,None,D ↓,D ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Lean Forward,None,X ↓,X ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Lean Backwards,None,ShiftLeft ↓,ShiftLeft ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Fire Missiles,None,MouseButton3 ↓,MouseButton3 ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Drift/Handbrake,None,Space ↓,Space ↑
+0,Killstreaks & Vehicles,Ground Vehicles - Horn,None,Q ↓,Q ↑
+0,Killstreaks & Vehicles,Air Vehicles - Move Forward,None,W ↓,W ↑
+0,Killstreaks & Vehicles,Air Vehicles - Move Backward,None,S ↓,S ↑
+0,Killstreaks & Vehicles,Air Vehicles - Turn Left,None,A ↓,A ↑
+0,Killstreaks & Vehicles,Air Vehicles - Turn Right,None,D ↓,D ↑
+0,Killstreaks & Vehicles,Air Vehicles - Ascend,None,Space ↓,Space ↑
+0,Killstreaks & Vehicles,Air Vehicles - Descend,None,ControlLeft ↓,ControlLeft ↑
+0,Killstreaks & Vehicles,Air Vehicles - Use Flares,None,MouseButton1 ↓,MouseButton1 ↑
+0,Overlays & Shortcuts,Show Scores,None,Tab ↓,Tab ↑
+0,Overlays & Shortcuts,View Objectives,None,Tab ↓,Tab ↑
+0,Overlays & Shortcuts,Show Map,None,M ↓,M ↑
+0,Overlays & Shortcuts,Ping,None,AltLeft ↓,AltLeft ↑
+0,Overlays & Shortcuts,Text Chat (Last Used Channel),None,Enter ↓,Enter ↑
+0,Overlays & Shortcuts,Open Inventory,None,Tab ↓,Tab ↑
+0,Overlays & Shortcuts,Drop Item,None,Down ↓,Down ↑
+0,Overlays & Shortcuts,Next Item,None,Right ↓,Right ↑
+0,Overlays & Shortcuts,Previous Item,None,Left ↓,Left ↑
+0,Overlays & Shortcuts,Voice Chat (Push to Talk),None,V ↓,V ↑
+0,Overlays & Shortcuts,Mute Voice Chat Shortcut,None,F9 ↓,F9 ↑
+0,Overlays & Shortcuts,Mute Sound Shortcut,None,F10 ↓,F10 ↑
+0,Overlays & Shortcuts,Options Menu Shortcut,None,F3 ↓,F3 ↑
+0,Overlays & Shortcuts,Social Menu Shortcut,None,F1 ↓,F1 ↑
+0,Overlays & Shortcuts,Dismiss Pause Menu Shortcut,None,F2 ↓,F2 ↑
+0,Menu Navigation,Accept Notifications,None,F7 ↓,F7 ↑
+0,Menu Navigation,Decline Notifications,None,F8 ↓,F8 ↑
+0,Menu Navigation,Fullscreen,None,F ↓,F ↑
+0,Menu Navigation,Unbind Key,None,Delete ↓,Delete ↑
+0,Menu Navigation,Confirm Selection,None,Space ↓,Space ↑
+0,Menu Navigation,Navigate to Previous Tab,None,Q ↓,Q ↑
+0,Menu Navigation,Navigate to Next Tab,None,E ↓,E ↑
+0,Menu Navigation,Navigate Up,None,W ↓,W ↑
+0,Menu Navigation,Navigate Down,None,S ↓,S ↑
+0,Menu Navigation,Navigate Left,None,A ↓,A ↑
+0,Menu Navigation,Navigate Right,None,D ↓,D ↑
+0,Menu Navigation,Contextual Menu Action 1,None,R ↓,R ↑
+0,Menu Navigation,Contextual Menu Action 2,None,X ↓,X ↑
+0,Menu Navigation,Contextual Menu Action 3,None,1 ↓,1 ↑
+0,Menu Navigation,Contextual Menu Action 4,None,2 ↓,2 ↑
+0,Menu Navigation,Contextual Menu Action 5,None,3 ↓,3 ↑
+0,Menu Navigation,Contextual Menu Action 6,None,Tab ↓,Tab ↑
+0,Menu Navigation,Contextual Menu Action 7,None,C ↓,C ↑

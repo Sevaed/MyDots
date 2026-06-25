@@ -1,0 +1,3 @@
+Name=Hell Let Loose
+BundleID=Hell Let Loose
+MouseSupport=5,20,30,

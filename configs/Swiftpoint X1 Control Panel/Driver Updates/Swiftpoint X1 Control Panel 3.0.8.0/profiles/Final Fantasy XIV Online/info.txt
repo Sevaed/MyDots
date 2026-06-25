@@ -1,0 +1,3 @@
+Name=Final Fantasy XIV
+BundleID=FINAL FANTASY XIV ONLINE
+MouseSupport=5,20,30,

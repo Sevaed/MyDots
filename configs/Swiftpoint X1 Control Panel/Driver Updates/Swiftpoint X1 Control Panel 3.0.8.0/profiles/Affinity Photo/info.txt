@@ -1,0 +1,3 @@
+Name=Affinity Photo
+BundleID=Affinity Photo
+MouseSupport=5,10,30,

@@ -1,0 +1,126 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move and Steer,None,MouseButton3 ↓,MouseButton3 ↑
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Turn Left,None,A ↓,A ↑
+0,Movement,Turn Right,None,D ↓,D ↑
+0,Movement,Strafe Left,None,Q ↓,Q ↑
+0,Movement,Strafe Right,None,E ↓,E ↑
+0,Movement,Jump,None,Space ↓,Space ↑
+0,Movement,Sit/Move Down,None,X ↓,X ↑
+0,Movement,Sheath/Unsheath Weapon,None,Z ↓,Z ↑
+0,Movement,Toggle Autorun,None,NumLock ↓,NumLock ↑
+0,Movement,Pitch Up,None,Insert ↓,Insert ↑
+0,Movement,Pitch Down,None,Delete ↓,Delete ↑
+0,Movement,Toggle Run/Walk,None,Num/ ↓,Num/ ↑
+0,Movement,Follow Target,None,,
+0,Chat,Open Chat,None,Enter ↓,Enter ↑
+0,Chat,Open Chat Slash,None,/ ↓,/ ↑
+0,Chat,Chat Page Up,None,PageUp ↓,PageUp ↑
+0,Chat,Chat Page Down,None,PageDown ↓,PageDown ↑
+0,Chat,Chat Bottom,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft  ↑ + PageDown ↓
+0,Chat,Chat Reply,None,R ↓,R ↑
+0,Chat,Re-Whisper,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Chat,Combat Log Page Up,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Chat,Combat Log Page Down,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Chat,Combat Log Bottom,None,ControlLeft ↓ + ShiftLeft ↓ + PageDown ↓,ControlLeft ↑ + ShiftLeft ↑ + PageDown ↑
+0,Action Bar,Action Button 1,None,1 ↓,1 ↑
+0,Action Bar,Action Button 2,None,2 ↓,2 ↑
+0,Action Bar,Action Button 3,None,3 ↓,3 ↑
+0,Action Bar,Action Button 4,None,4 ↓,4 ↑
+0,Action Bar,Action Button 5,None,5 ↓,5 ↑
+0,Action Bar,Action Button 6,None,6 ↓,6 ↑
+0,Action Bar,Action Button 7,None,7 ↓,7 ↑
+0,Action Bar,Action Button 8,None,8 ↓,8 ↑
+0,Action Bar,Action Button 9,None,9 ↓,9 ↑
+0,Action Bar,Action Button 10,None,0 ↓,0 ↑
+0,Action Bar,Action Button 11,None,- ↓,- ↑
+0,Action Bar,Action Button 12,None,= ↓,= ↑
+0,Action Bar,Special Action Button 1,None,ControlLeft ↓ + F1 ↓,ControlLeft ↑ + F1 ↑
+0,Action Bar,Special Action Button 2,None,ControlLeft ↓ + F2 ↓,ControlLeft ↑ + F2 ↑
+0,Action Bar,Special Action Button 3,None,ControlLeft ↓ + F3  ↓,ControlLeft ↑ + F3 ↑
+0,Action Bar,Special Action Button 4,None,ControlLeft ↓ + F4 ↓,ControlLeft ↑ + F4 ↑
+0,Action Bar,Special Action Button 5,None,ControlLeft ↓ + F5 ↓,ControlLeft ↑ + F5 ↑
+0,Action Bar,Special Action Button 6,None,ControlLeft ↓ + F6 ↓,ControlLeft ↑ + F6 ↑
+0,Action Bar,Special Action Button 7,None,ControlLeft ↓ + F7 ↓,ControlLeft ↑ + F7 ↑
+0,Action Bar,Special Action Button 8,None,ControlLeft ↓ + F8 ↓,ControlLeft ↑ + F8 ↑
+0,Action Bar,Special Action Button 9,None,ControlLeft ↓ + F9 ↓,ControlLeft ↑ + F9 ↑
+0,Action Bar,Special Action Button 10,None,ControlLeft ↓ + F10 ↓,ControlLeft ↑ + F10 ↑
+0,Action Bar,Pet Action Button 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Action Bar,Pet Action Button 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Action Bar,Pet Action Button 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Action Bar,Pet Action Button 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Action Bar,Pet Action Button 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Action Bar,Pet Action Button 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Action Bar,Pet Action Button 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Action Bar,Pet Action Button 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Action Bar,Pet Action Button 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Action Bar,Pet Action Button 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Targeting Functions,Target Nearest Enemy,None,Tab ↓,Tab ↑
+0,Targeting Functions,Target Previous Enemy,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Targeting Functions,Target Nearest Friend,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,Targeting Functions,Target Previous Friend,None,ControlLeft ↓ + ShiftLeft ↓ + Tab ↓,ControlLeft ↑ + ShiftLeft ↑ + Tab ↑
+0,Targeting Functions,Target Self,None,F1 ↓,F1 ↑
+0,Targeting Functions,Target Party Member 1,None,F2 ↓,F2 ↑
+0,Targeting Functions,Target Party Member 2,None,F3 ↓,F3 ↑
+0,Targeting Functions,Target Party Member 3,None,F4 ↓,F4 ↑
+0,Targeting Functions,Target Party Member 4,None,F5 ↓,F5 ↑
+0,Targeting Functions,Target Pet,None,ShiftLeft ↓ + F1 ↓,ShiftLeft ↑ + F1 ↑
+0,Targeting Functions,Target Party Pet 1,None,ShiftLeft ↓ + F2 ↓,ShiftLeft ↑ + F2 ↑
+0,Targeting Functions,Target Party Pet 2,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,Targeting Functions,Target Party Pet 3,None,ShiftLeft ↓ + F4 ↓,ShiftLeft ↑ + F4 ↑
+0,Targeting Functions,Target Party Pet 4,None,ShiftLeft ↓ + F5 ↓,ShiftLeft ↑ + F5 ↑
+0,Targeting Functions,Target Last Hostile,None,G ↓,G ↑
+0,Targeting Functions,Show Enemy Name Plates,None,V ↓,V ↑
+0,Targeting Functions,Show Friendly Name Plates,None,ShiftLeft ↓ + V ↓,ShiftLeft ↑ + V ↑
+0,Targeting Functions,Show All Name Plates,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Targeting Functions,Assist Target,None,F ↓,F ↑
+0,Targeting Functions,Attack Target,None,T ↓,T ↑
+0,Targeting Functions,Pet Attack,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Interface Panel,Toggle Game Menu,None,Esc ↓,Esc ↑
+0,Interface Panel,Toggle Backpack,None,ShiftLeft ↓ + B ↓,ShiftLeft ↑ + B ↑
+0,Interface Panel,Toggle Bag 1,None,F8 ↓,F8 ↑
+0,Interface Panel,Toggle Bag 2,None,F9 ↓,F9 ↑
+0,Interface Panel,Toggle Bag 3,None,F10 ↓,F10 ↑
+0,Interface Panel,Toggle Bag 4,None,F11 ↓,F11 ↑
+0,Interface Panel,Open All Bags,None,B ↓,B ↑
+0,Interface Panel,Toggle Character Pane,None,C ↓,C ↑
+0,Interface Panel,Toggle Reputation Pane,None,U ↓,U ↑
+0,Interface Panel,Toggle Spellbook,None,P ↓,P ↑
+0,Interface Panel,Toggle Profession Book,None,K ↓,K ↑
+0,Interface Panel,Toggle Pet Spellbook,None,ShiftLeft ↓ + I ↓,ShiftLeft ↑ + I ↑
+0,Interface Panel,Toggle Talent Pane,None,N ↓,N ↑
+0,Interface Panel,Toggle Achievement Frame,None,Y ↓,Y ↑
+0,Interface Panel,Toggle Statistics Frame,None,ShiftLeft ↓ + Y ↓,ShiftLeft ↑ + Y ↑
+0,Interface Panel,Toggle Quest Log,None,L ↓,L ↑
+0,Interface Panel,Toggle World Map Pane,None,M ↓,M ↑
+0,Interface Panel,Toggle Zone Map,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Interface Panel,Toggle Score Screen,None,ShiftLeft ↓ + Space ↓,ShiftLeft ↑ + Space ↑
+0,Interface Panel,Toggle Guild & Communities,None,J ↓,J ↑
+0,Interface Panel,Toggle Social Pane,None,O ↓,O ↑
+0,Interface Panel,Toggle Chat Pane,None,T ↓,T ↑
+0,Interface Panel,Toggle Group Finder,None,I ↓,I ↑
+0,Interface Panel,Toggle Dungeons & Raids,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Interface Panel,Toggle PVP Pane,None,H ↓,H ↑
+0,Interface Panel,Toggle Collections,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Interface Panel,Toggle Adventure Guide,None,ShiftLeft ↓ + J ↓,ShiftLeft ↑ + J ↑
+0,Interface Panel,Toggle Battle Map,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Miscellaneous,Minimap Zoom In,None,Num+ ↓,Num+ ↑
+0,Miscellaneous,Minimap Zoom Out,None,Num- ↓,Num- ↑
+0,Miscellaneous,Toggle Music,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Miscellaneous,Toggle Sound,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Miscellaneous,Master Volume Up,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,Miscellaneous,Master Volume Down,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Miscellaneous,Toggle User Interface,None,AltLeft ↓ + Z ↓,AltLeft ↑ + Z ↑
+0,Miscellaneous,Toggle Framerate Display,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Miscellaneous,Screen Shot,None,PrintScreen ↓,PrintScreen ↑
+0,Miscellaneous,Item Comparison Cycling,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Camera,Next View,None,End ↓,End ↑
+0,Camera,Previous View,None,Home ↓,Home ↑
+0,Camera,Zoom In,None,ScrollUp,None
+0,Camera,Zoom Out,None,ScrollDown,None
+0,Vehicle Controls,Exit Vehicle,None,Num5 ↓,Num5 ↑
+0,Vehicle Controls,Previous Seat,None,Num1 ↓,Num1 ↑
+0,Vehicle Controls,Next Seat,None,Num3 ↓,Num3 ↑
+0,Vehicle Controls,Aim Increment,None,ControlLeft ↓ + ScrollUp,ControlLeft ↑
+0,Vehicle Controls,Aim Decrement,None,ControlLeft ↓ + ScrollDown,ControlLeft ↑

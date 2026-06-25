@@ -1,0 +1,44 @@
+json,2,4
+{
+    "RootProfile": {
+        "ActionMappings": {
+            "$type": "ZMouseConfig.Items.UserConfigurationGroupItem+ActionMappingList, ZMouseConfig",
+            "$values": [
+            ]
+        },
+        "Applications": [
+        ],
+        "CreationDate": "0001-01-01T00:00:00+00:00",
+        "CreationUser": null,
+        "Description": null,
+        "Groups": [
+            {
+                "ActionMappings": {
+                    "$type": "ZMouseConfig.Items.UserConfigurationGroupItem+ActionMappingList, ZMouseConfig",
+                    "$values": [
+                    ]
+                },
+                "Applications": [
+                ],
+                "CreationDate": "0001-01-01T00:00:00+00:00",
+                "CreationUser": null,
+                "Description": null,
+                "InfoProperties": "hasName",
+                "ItemCount": 0,
+                "ItemType": "group",
+                "ModificationDate": "0001-01-01T00:00:00+00:00",
+                "ModificationUser": null,
+                "Name": "test",
+                "ShortName": null
+            }
+        ],
+        "InfoProperties": "none",
+        "ItemCount": 1,
+        "ItemType": "group",
+        "ModificationDate": "0001-01-01T00:00:00+00:00",
+        "ModificationUser": null,
+        "Name": null,
+        "ShortName": null
+    },
+    "Version": 2
+}

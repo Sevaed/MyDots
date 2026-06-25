@@ -1,0 +1,154 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,File,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,File,Import...,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,File,New,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,File,Open...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,File,Print...,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,File,Quit,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,File,Save a Copy...,None,ControlLeft ↓ + ShiftLeft ↓ + AltLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + AltLeft ↑ + S ↑
+0,File,Save As...,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,File,New from Template...,None,ControlLeft ↓ + AltLeft ↓,ControlLeft ↑ + AltLeft ↑
+0,File,Next Window,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,File,Previous Window,None,ControlLeft ↓ + ShiftLeft ↓ + Tab ↓,ControlLeft ↑ + ShiftLeft ↑ + Tab ↑
+0,Edit,Create Clone,None,AltLeft ↓ + D ↓,AltLeft ↑ + D ↑
+0,Edit,Select Original,None,ShiftLeft ↓ + D ↓,ShiftLeft ↑ + D ↑
+0,Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Edit,Delete,None,Delete ↓,Delete ↑
+0,Edit,Deselect,None,Esc ↓,Esc ↑
+0,Edit,Duplicate,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Edit,Invert Selection,None,ShiftLeft ↓ + 1 ↓,ShiftLeft ↑ + 1 ↑
+0,Edit,Invert in All Layers,None,AltLeft ↓ + ShiftLeft ↓ + 1 ↓,AltLeft ↑ + ShiftLeft ↑ + 1 ↑
+0,Edit,Next Path effect parameter,None,7 ↓,7 ↑
+0,Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Edit,Paste In Place,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Edit,Paste Style,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Redo,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Edit,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Edit,Select All in All Layers,None,ControlLeft ↓ + AltLeft ↓ + A ↓,ControlLeft ↑ + AltLeft ↑ + A ↑
+0,Edit,Select Next,None,Tab ↓,Tab ↑
+0,Edit,Select Previous,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Edit,Object Type,None,ShiftLeft ↓ + AltLeft ↓ + A ↓,ShiftLeft ↑ + AltLeft ↑ + A ↑
+0,Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Edit,Unlink Clone,None,ShiftLeft ↓ + AltLeft ↓ + D ↓,ShiftLeft ↑ + AltLeft ↑ + D ↑
+0,Edit,Pattern to Objects,None,ShiftLeft ↓ + AltLeft ↓ + I ↓,ShiftLeft ↑ + AltLeft ↑ + I ↑
+0,Edit,Objects to Guides,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Edit,Objects to Pattern,None,AltLeft ↓ + I ↓,AltLeft ↑ + I ↑
+0,Edit,Paste Path Effect,None,ShiftLeft ↓ + 7 ↓,ShiftLeft ↑ + 7 ↑
+0,Selection,Break Apart,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,Selection,Combine,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Selection,Make a Bitmap Copy,None,AltLeft ↓ + B ↓,AltLeft ↑ + B ↑
+0,Selection,Cut Path,None,ControlLeft ↓ + AltLeft ↓ + / ↓,ControlLeft ↑ + AltLeft ↑ + / ↑
+0,Selection,Difference,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Selection,Division,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Selection,Dynamic Offset,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Selection,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Selection,Grow,None,None,None
+0,Selection,Inset,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Selection,Inset Path by 1 px,None,AltLeft ↓ + 9 ↓,AltLeft ↑ + 9 ↑
+0,Selection,Inset Path by 10 px,None,ShiftLeft ↓ + AltLeft ↓ + 9 ↓,ShiftLeft ↑ + AltLeft ↑ + 9 ↑
+0,Selection,Intersection,None,ControlLeft ↓ + ShiftLeft ↓ + 8 ↓,ControlLeft ↑ + ShiftLeft ↑ + 8 ↑
+0,Selection,Linked Offset,None,ControlLeft ↓ + AltLeft ↓ + J ↓,ControlLeft ↑ + AltLeft ↑ + J ↑
+0,Selection,Lower,None,PageDown ↓,PageDown ↑
+0,Selection,Outset,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Selection,Outset Path by 1 px,None,AltLeft ↓ + 0 ↓,AltLeft ↑ + 0 ↑
+0,Selection,Outset Path by 10 px,None,ShiftLeft ↓ + AltLeft ↓ + 0 ↓,ShiftLeft ↑ + AltLeft ↑ + 0 ↑
+0,Selection,Raise,None,PageUp ↓,PageUp ↑
+0,Selection,Shrink,None,", ↓",", ↑"
+0,Selection,Simplify,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Selection,Exclusion,None,ControlLeft ↓ + ShiftLeft ↓ + 6 ↓,ControlLeft ↑ + ShiftLeft ↑ + 6 ↑
+0,Selection,Lower to Bottom,None,End ↓,End ↑
+0,Selection,Raise to Top,None,Home ↓,Home ↑
+0,Selection,Trace Bitmap...,None,ShiftLeft ↓ + AltLeft ↓ + B ↓,ShiftLeft ↑ + AltLeft ↑ + B ↑
+0,Selection,Ungroup,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,Selection,Union,None,ControlLeft ↓ + ShiftLeft ↓ + = ↓,ControlLeft ↑ + ShiftLeft ↑ + = ↑
+0,Selection,Stroke to Path,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Layer,Lower Layer,None,ControlLeft ↓ + ShiftLeft ↓ + PageDown ↓,ControlLeft ↑ + ShiftLeft ↑ + PageDown ↑
+0,Layer,Move Selection to Layer Above,None,ShiftLeft ↓ + PageUp ↓,ShiftLeft ↑ + PageUp ↑
+0,Layer,Move Selection to Layer Below,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft ↑ + PageDown ↑
+0,Layer,Add Layer...,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Layer,Switch to Layer Above,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Layer,Switch to Layer Below,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Layer,Raise Layer,None,ControlLeft ↓ + ShiftLeft ↓ + PageUp ↓,ControlLeft ↑ + ShiftLeft ↑ + PageUp ↑
+0,Layer,Layer to Bottom,None,ControlLeft ↓ + ShiftLeft ↓ + End ↓,ControlLeft ↑ + ShiftLeft ↑ + End ↑
+0,Layer,Layer to Top,None,ControlLeft ↓ + ShiftLeft ↓ + Home ↓,ControlLeft ↑ + ShiftLeft ↑ + Home ↑
+0,Object,Flip Horizontal,None,H ↓,H ↑
+0,Object,Flip Vertical,None,V ↓,V ↑
+0,Object,Flow into Frame,None,AltLeft ↓ + W ↓,AltLeft ↑ + W ↑
+0,Object,Rotate 90° CW,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Object,Rotate 90° CCW,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Object,Object to Path,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Object,Unflow,None,ShiftLeft ↓ + AltLeft ↓ + W ↓,ShiftLeft ↑ + AltLeft ↑ + W ↑
+0,Context,Center on vertical Axis,None,ControlLeft ↓ + AltLeft ↓ + H ↓,ControlLeft ↑ + AltLeft ↑ + H ↑
+0,Context,Align left edges,None,ControlLeft ↓ + AltLeft ↓ + Num4 ↓,ControlLeft ↑ + AltLeft ↑ + Num4 ↑
+0,Context,Align right sides,None,ControlLeft ↓ + AltLeft ↓ + Num6 ↓,ControlLeft ↑ + AltLeft ↑ + Num6 ↑
+0,Context,Align bottom edges,None,ControlLeft ↓ + AltLeft ↓ + Num2 ↓,ControlLeft ↑ + AltLeft ↑ + Num2 ↑
+0,Context,Center on horizontal axis,None,ControlLeft ↓ + AltLeft ↓ + T ↓,ControlLeft ↑ + AltLeft ↑ + T ↑
+0,Context,Center on horizontal and vertical axis,None,ControlLeft ↓ + AltLeft ↓ + Num5 ↓,ControlLeft ↑ + AltLeft ↑ + Num5 ↑
+0,Context,Align top edges,None,ControlLeft ↓ + AltLeft ↓ + Num8 ↓,ControlLeft ↑ + AltLeft ↑ + Num8 ↑
+0,Context,3D Box,None,X ↓,X ↑
+0,Context,Ellipse,None,E ↓,E ↑
+0,Context,Calligraphy,None,C ↓,C ↑
+0,Context,Connector,None,O ↓,O ↑
+0,Context,Dropper,None,D ↓,D ↑
+0,Context,Eraser,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Context,Gradient,None,G ↓,G ↑
+0,Context,Measure,None,M ↓,M ↑
+0,Context,Node Edit,None,N ↓,N ↑
+0,Context,Paint Bucket,None,U ↓,U ↑
+0,Context,Pen,None,B ↓,B ↑
+0,Context,Pencil,None,P ↓,P ↑
+0,Context,Rectangle,None,R ↓,R ↑
+0,Context,Selection,None,S ↓,S ↑
+0,Context,Spiral,None,I ↓,I ↑
+0,Context,Spray,None,A ↓,A ↑
+0,Context,Star,None,Num/ ↓,Num/ ↑
+0,Context,Text,None,T ↓,T ↑
+0,Context,Tweak,None,W ↓,W ↑
+0,Context,Zoom,None,Z ↓,Z ↑
+0,View,Resize Page to Selection,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,View,Toggle Focus Mode,None,ShiftLeft ↓ + F11 ↓,ShiftLeft ↑ + F11 ↑
+0,View,Fullscreen,None,F11 ↓,F11 ↑
+0,View,Fullscreen & Focus Mode,None,ControlLeft ↓ + F11 ↓,ControlLeft ↑ + F11 ↑
+0,View,Command Palette,None,ShiftLeft ↓ + / ↓,ShiftLeft ↑ + / ↑
+0,View,Page Grid,None,ShiftLeft ↓ + 3 ↓,ShiftLeft ↑ + 3 ↑
+0,View,Guides,None,ShiftLeft ↓ + \ ↓,ShiftLeft ↑ + \ ↑
+0,View,Palette,None,ShiftLeft ↓ + AltLeft ↓ + P ↓,ShiftLeft ↑ + AltLeft ↑ + P ↑
+0,View,Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,View,Scrollbars,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Dialog,Align and Distribute...,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,Dialog,Document Properties...,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Dialog,Export PNG Image...,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Dialog,Fill and Stroke...,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Dialog,Find/Replace,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Dialog,Layers...,None,ControlLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + ShiftLeft ↑ + L ↑
+0,Dialog,Path Effects...,None,ControlLeft ↓ + ShiftLeft ↓ + 7 ↓,ControlLeft ↑ + ShiftLeft ↑ + 7 ↑
+0,Dialog,Object Properties...,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Dialog,Preferences,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Dialog,Selectors and CSS...,None,ControlLeft ↓ + ShiftLeft ↓ + Q ↓,ControlLeft ↑ + ShiftLeft ↑ + Q ↑
+0,Dialog,Check Spelling...,None,ControlLeft ↓ + AltLeft ↓ + K ↓,ControlLeft ↑ + AltLeft ↑ + K ↑
+0,Dialog,Show/Hide Dialogs,None,F12 ↓,F12 ↑
+0,Dialog,Swatches...,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Dialog,Symbols...,None,ControlLeft ↓ + ShiftLeft ↓ + Y ↓,ControlLeft ↑ + ShiftLeft ↑ + Y ↑
+0,Dialog,Text and Font...,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,Dialog,Transform...,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,Dialog,Undo History...,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Dialog,XML Editor...,None,ControlLeft ↓ + ShiftLeft ↓ + X ↓,ControlLeft ↑ + ShiftLeft ↑ + X ↑
+0,Extensions,Previous Extension,None,AltLeft ↓ + Q ↓,AltLeft ↑ + Q ↑
+0,Extensions,Previous Extension Settings...,None,ShiftLeft ↓ + AltLeft ↓ + Q ↓,ShiftLeft ↑ + AltLeft ↑ + Q ↑
+0,Actions > Canvas Display,Color Mode,None,AltLeft ↓ + 5 ↓,AltLeft ↑ + 5 ↑
+0,Actions > Canvas Display,Display Mode Cycle,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Actions > Canvas Display,Split Mode: Split,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Actions > Canvas Display,Split Mode: X-Ray,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Actions > Canvas Geometry,Zoom 1:1,None,1 ↓,1 ↑
+0,Actions > Canvas Geometry,Zoom 1:2,None,2 ↓,2 ↑
+0,Actions > Canvas Geometry,Zoom Center Page,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Actions > Canvas Geometry,Zoom Drawing,None,4 ↓,4 ↑
+0,Actions > Canvas Geometry,Zoom In,None,= ↓,= ↑
+0,Actions > Canvas Geometry,Zoom Next,None,ShiftLeft ↓ + ` ↓,ShiftLeft ↑ + ` ↑
+0,Actions > Canvas Geometry,Zoom Out,None,- ↓,- ↑
+0,Actions > Canvas Geometry,Zoom Page,None,5 ↓,5 ↑
+0,Actions > Canvas Geometry,Zoom Page Width,None,6 ↓,6 ↑
+0,Actions > Canvas Geometry,Zoom Prev,None,` ↓,` ↑
+0,Actions > Canvas Geometry,Zoom Selection,None,3 ↓,3 ↑

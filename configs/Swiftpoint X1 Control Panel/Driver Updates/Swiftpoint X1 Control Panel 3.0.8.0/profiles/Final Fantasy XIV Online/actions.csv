@@ -1,0 +1,130 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Turn Left,None,A ↓,A ↑
+0,Movement,Turn Right,None,D ↓,D ↑
+0,Movement,Strafe Left,None,Q ↓,Q ↑
+0,Movement,Strafe Right,None,E ↓,E ↑
+0,Movement,Jump,None,Space ↓,Space ↑
+0,Movement,Toggle Between Run/Walk,None,NUM/ ↓,NUM/ ↑
+0,Movement,Turn On/Off Auto-Run,None,MouseButton3 ↓,MouseButton3 ↑
+0,Movement,Draw/Sheathe Weapon,None,Z ↓,Z ↑
+0,Camera,Lock Camera On Target,None,NUM5 ↓,NUM5 ↑
+0,Camera,Flight/Diving - Descend,None,ControlLeft ↓ + Space ↓,ControlLeft ↑ + Space ↑
+0,Camera,Point Camera Up,None,Up ↓,Up ↑
+0,Camera,Point Camera Down,None,Down ↓,Down ↑
+0,Camera,Point Camera Left,None,Left ↓,Left ↑
+0,Camera,Point Camera Right,None,Right ↓,Right ↑
+0,Camera,Toggle Between 1st/3rd Person Mode,None,Home ↓,Home ↑
+0,Camera,Flip Camera,None,V ↓,V ↑
+0,Camera,Zoom Camera In,None,PageUp ↓,PageUp ↑
+0,Camera,Zoom Camera Out,None,PageDown ↓,PageDown ↑
+0,Camera,Return Camera to Default Position,None,End ↓,End ↑
+0,Camera,Save Current Camera Position,None,ControlLeft ↓ + End ↓,ControlLeft ↑ + End ↑
+0,Camera,Return Camera to Saved Position,None,ControlLeft ↓ + ShiftLeft ↓ + End ↓,ControlLeft ↑ + ShiftLeft ↑ + End ↑
+0,Camera,Tilt Camera Up,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Camera,Tilt Camera Down,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Camera,Face Camera,None,Pause ↓,Pause ↑
+0,Targeting,Cycle Through Enemies (Nearest to Farthest),None,Tab ↓,Tab ↑
+0,Targeting,Cycle Through enemies (Farthest to Nearest),None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Targeting,Target Self,None,F1 ↓,F1 ↑
+0,Targeting,Target Member 1,None,F2 ↓,F2 ↑
+0,Targeting,Target Member 2,None,F3 ↓,F3 ↑
+0,Targeting,Target Member 3,None,F4 ↓,F4 ↑
+0,Targeting,Target Member 4,None,F5 ↓,F5 ↑
+0,Targeting,Target Member 5,None,F6 ↓,F6 ↑
+0,Targeting,Target Member 6,None,F7 ↓,F7 ↑
+0,Targeting,Target Member 7,None,F8 ↓,F8 ↑
+0,Targeting,Target Member 8,None,F9 ↓,F9 ↑
+0,Targeting,Target Pet/Familiar,None,F9 ↓,F9 ↑
+0,Targeting,Target the Target of Your Current Target (Assist Target),None,T ↓,T ↑
+0,Targeting,Target Enemy Attacking You,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Targeting,Target Nearest Enemy,None,F11 ↓,F11 ↑
+0,Targeting,Target Nearest NPC or Object,None,F12 ↓,F12 ↑
+0,Targeting,Set/Clear Focus Target,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,Targeting,Target Focus Target,None,F10 ↓,F10 ↑
+0,Targeting,Face Target,None,F ↓,F ↑
+0,Targeting,Cycle Up through Enmity List,None,ControlLeft ↓ + Num8 ↓,ControlLeft ↑ + Num8 ↑
+0,Targeting,Cycle Down through Enmity List,None,ControlLeft ↓ + Num2 ↓,ControlLeft ↑ + Num2 ↑
+0,Targeting,Cycle through Alliance List (Nearest to Farthest),None,ControlLeft ↓ + Num6 ↓,ControlLeft ↑ + Num6 ↑
+0,Targeting,Cycle through Alliance List (Farthest to Nearest),None,ControlLeft ↓ + Num4 ↓,ControlLeft ↑ + Num4 ↑
+0,Shortcuts,Character,None,C ↓,C ↑
+0,Shortcuts,Currency,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Shortcuts,Inventory,None,I ↓,I ↑
+0,Shortcuts,Armoury Chest,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Shortcuts,Chocobo Saddlebag,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Shortcuts,Map,None,M ↓,M ↑
+0,Shortcuts,Actions and Traits,None,P ↓,P ↑
+0,Shortcuts,Social Lists,None,O ↓,O ↑
+0,Shortcuts,Free Company,None,; ↓,; ↑
+0,Shortcuts,Linkshells,None,L ↓,L ↑
+0,Shortcuts,Duty Finder,None,U ↓,U ↑
+0,Shortcuts,Timers,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Shortcuts,Journal,None,J ↓,J ↑
+0,Shortcuts,Crafting Log,None,N ↓,N ↑
+0,Shortcuts,Gathering Log,None,B ↓,B ↑
+0,Shortcuts,Hunting Log,None,H ↓,H ↑
+0,Shortcuts,Fishing Log,None,Y ↓,Y ↑
+0,Shortcuts,Fish Guide,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Shortcuts,Orchestrion List,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Shortcuts,Signs,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Shortcuts,Waymarks,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Shortcuts,System Menu,None,Num- ↓,Num- ↑
+0,Shortcuts,Character Configuration,None,K ↓,K ↑
+0,Shortcuts,System Configuration,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Chat,Ready Chat Log,None,Enter ↓,Enter ↑
+0,Chat,Ready Text Command,None,/ ↓,/ ↑
+0,Chat,Reply Temporarily (Forward),None,AltLeft ↓ + R ↓,AltLeft ↑ + R ↑
+0,Chat,Reply Temporarily (Back),None,AltLeft ↓ + ShiftLeft ↓ + R ↓,AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,Chat,Temporarily Switch Chat Mode to Say,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,Chat,Temporarily Switch Chat Mode to Yell,None,AltLeft ↓ + Y ↓,AltLeft ↑ + Y ↑
+0,Chat,Temporarily Switch Chat Mode to Shout,None,AltLeft ↓ + H ↓,AltLeft ↑ + H ↑
+0,Chat,Temporarily Switch Chat Mode to Party,None,AltLeft ↓ + P ↓,AltLeft ↑ + P ↑
+0,Chat,Temporarily Switch Chat Mode to Alliance,None,AltLeft ↓ + A ↓,AltLeft ↑ + A ↑
+0,Chat,Temporarily Switch Chat Mode to Free Company,None,AltLeft ↓ + F ↓,AltLeft ↑ + F ↑
+0,Chat,Temporarily Switch Chat Mode to PvP Team,None,AltLeft ↓ + T ↓,AltLeft ↑ + T ↑
+0,Chat,Temporarily Switch Chat Mode to Next Cross-world LS,None,AltLeft ↓ + C ↓,AltLeft ↑ + C ↑
+0,Chat,Reply (Repeat to Cycle Through PCs),None,AltLeft ↓ + R ↓,AltLeft ↑ + R ↑
+0,Chat,Temporarily Switch Chat Mode to Next Linkshell,None,AltLeft ↓ + L ↓,AltLeft ↑ + L ↑
+0,Chat,Temporarily Switch Chat Mode to Previous Linkshell,None,AltLeft ↓ + ShiftLeft  ↓ + L ↓,AltLeft ↑ + ShiftLeft  ↑ + L ↑
+0,Chat,Temporarily Switch Chat Mode to Novice Network,None,AltLeft ↓ + N ↓,AltLeft ↑ + N ↑
+0,System,Confirm,None,Num0 ↓,Num0 ↑
+0,System,Cancel,None,NUM. ↓,NUM. ↑
+0,System,Close All UI Components,None,Esc ↓,Esc ↑
+0,System,Target Main Menu,None,Num+ ↓,Num+ ↑
+0,System,Display Subcommands,None,Num* ↓,Num* ↑
+0,System,Move Cursor Up/Cycle Up Through Party List,None,Num8 ↓,Num8 ↑
+0,System,Move Cursor Down/Cycle Down Through Party List,None,Num2 ↓,Num2 ↑
+0,System,Move Cursor/Target Cursor Left,None,Num4 ↓,Num4 ↑
+0,System,Move Cursor/Target Cursor Right,None,Num6 ↓,Num6 ↑
+0,Shortcuts,Cycle through UI Component Tabs (Forward),None,NUM9 ↓,NUM9 ↑
+0,Shortcuts,Cycle through UI Component Tabs (Back),None,NUM7 ↓,NUM7 ↑
+0,Shortcuts,Take Screenshot,None,PrintScreen ↓,PrintScreen ↑
+0,Shortcuts,Toggle UI Display Mode,None,ScrollLock ↓,ScrollLock ↑
+0,System,Cycle Through HUD Components (Forward),None,Num1 ↓,Num1 ↑
+0,Shortcuts,Target Filters,None,X ↓,X ↑
+0,Shortcuts,Change Window Size,None,ControlLeft ↓ + Home ↓,ControlLeft ↑ + Home ↑
+0,Hotbar,Hotbar 1 - Slot 1,None,1 ↓,1 ↑
+0,Hotbar,Hotbar 1 - Slot 2,None,2 ↓,2 ↑
+0,Hotbar,Hotbar 1 - Slot 3,None,3 ↓,3 ↑
+0,Hotbar,Hotbar 1 - Slot 4,None,4 ↓,4 ↑
+0,Hotbar,Hotbar 1 - Slot 5,None,5 ↓,5 ↑
+0,Hotbar,Hotbar 1 - Slot 6,None,6 ↓,6 ↑
+0,Hotbar,Hotbar 1 - Slot 7,None,7 ↓,7 ↑
+0,Hotbar,Hotbar 1 - Slot 8,None,8 ↓,8 ↑
+0,Hotbar,Hotbar 1 - Slot 9,None,9 ↓,9 ↑
+0,Hotbar,Hotbar 1 - Slot 10,None,0 ↓,0 ↑
+0,Hotbar,Hotbar 1 - Slot 11,None,- ↓,- ↑
+0,Hotbar,Hotbar 1 - Slot 12,None,= ↓,= ↑
+0,Hotbar,Hotbar 2 - Slot 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Hotbar,Hotbar 2 - Slot 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Hotbar,Hotbar 2 - Slot 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Hotbar,Hotbar 2 - Slot 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Hotbar,Hotbar 2 - Slot 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Hotbar,Hotbar 2 - Slot 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Hotbar,Hotbar 2 - Slot 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Hotbar,Hotbar 2 - Slot 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Hotbar,Hotbar 2 - Slot 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Hotbar,Hotbar 2 - Slot 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Hotbar,Hotbar 2 - Slot 11,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Hotbar,Hotbar 2 - Slot 12,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑

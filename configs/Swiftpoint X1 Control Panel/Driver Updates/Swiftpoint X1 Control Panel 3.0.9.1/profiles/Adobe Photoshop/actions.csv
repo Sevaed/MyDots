@@ -1,0 +1,132 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Application Menus > File,New...,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Application Menus > File,Open...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Application Menus > File,Browse in Bridge...,None,AltLeft ↓ + ControlLeft ↓ + O ↓,AltLeft ↑ + ControlLeft ↑ + O ↑
+0,Application Menus > File,Open As...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + O ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + O ↑
+0,Application Menus > File,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,Application Menus > File,Close All,None,AltLeft ↓ + ControlLeft ↓ + W ↓,AltLeft ↑ + ControlLeft ↑ + W ↑
+0,Application Menus > File,Close Others,None,AltLeft ↓ + ControlLeft ↓ + P ↓,AltLeft ↑ + ControlLeft ↑ + P ↑
+0,Application Menus > File,Close and Go to Bridge...,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Application Menus > File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Application Menus > File,Save As...,None,ShiftLeft ↓ + ControlLeft ↓ + S ↓,ShiftLeft ↑ + ControlLeft ↑ + S ↑
+0,Application Menus > File,Revert,None,F12 ↓,F12 ↑
+0,Application Menus > File > Export,Export As...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + W ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + W ↑
+0,Application Menus > File > Export,Save for Web (Legacy)...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + S ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + S ↑
+0,Application Menus > File,File Info...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + I ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + I ↑
+0,Application Menus > File,Print...,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Application Menus > File,Print One Copy,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + P ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + P ↑
+0,Application Menus > File,Exit,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,Application Menus > Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Application Menus > Edit,Redo,None,ShiftLeft ↓ + ControlLeft ↓ + Z ↓,ShiftLeft ↑ + ControlLeft ↑ + Z ↑
+0,Application Menus > Edit,Toggle Last State,None,AltLeft ↓ + ControlLeft ↓ + Z ↓,AltLeft ↑ + ControlLeft ↑ + Z ↑
+0,Application Menus > Edit,Fade...,None,ShiftLeft ↓ + ControlLeft ↓ + F ↓,ShiftLeft ↑ + ControlLeft ↑ + F ↑
+0,Application Menus > Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Application Menus > Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Application Menus > Edit,Copy Merged,None,ShiftLeft ↓ + ControlLeft ↓ + C ↓,ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Application Menus > Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Application Menus > Edit > Paste Special,Paste in Place,None,ShiftLeft ↓ + ControlLeft ↓ + V ↓,ShiftLeft ↑ + ControlLeft ↑ + V ↑
+0,Application Menus > Edit > Paste Special,Paste Into,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + V ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + V ↑
+0,Application Menus > Edit,Search,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Application Menus > Edit,Fill...,None,ShiftLeft ↓ + F5 ↓,ShiftLeft ↑ + F5 ↑
+0,Application Menus > Edit,Content-Aware Scale,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + C ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Application Menus > Edit,Free Transform,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Application Menus > Edit,Transform Again,None,ShiftLeft ↓ + ControlLeft ↓ + T ↓,ShiftLeft ↑ + ControlLeft ↑ + T ↑
+0,Application Menus > Edit,Color Settings...,None,ShiftLeft ↓ + ControlLeft ↓ + K ↓,ShiftLeft ↑ + ControlLeft ↑ + K ↑
+0,Application Menus > Edit,Keyboard Shortcuts...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + K ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + K ↑
+0,Application Menus > Edit > Preferences,Menus...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + M ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + M ↑
+0,Application Menus > Edit > Preferences,General...,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Application Menus > Image > Adjustments,Levels...,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Application Menus > Image > Adjustments,Curves...,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Application Menus > Image > Adjustments,Hue/Saturation...,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Application Menus > Image > Adjustments,Color Balance...,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Application Menus > Image > Adjustments,Black & White...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + B ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + B ↑
+0,Application Menus > Image > Adjustments,Invert,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Application Menus > Image > Adjustments,Desaturate,None,ShiftLeft ↓ + ControlLeft ↓ + U ↓,ShiftLeft ↑ + ControlLeft ↑ + U ↑
+0,Application Menus > Image,Auto Tone,None,ShiftLeft ↓ + ControlLeft ↓ + L ↓,ShiftLeft ↑ + ControlLeft ↑ + L ↑
+0,Application Menus > Image,Auto Contrast,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + L ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + L ↑
+0,Application Menus > Image,Auto Color,None,ShiftLeft ↓ + ControlLeft ↓ + B ↓,ShiftLeft ↑ + ControlLeft ↑ + B ↑
+0,Application Menus > Image,Image Size...,None,AltLeft ↓ + ControlLeft ↓ + I ↓,AltLeft ↑ + ControlLeft ↑ + I ↑
+0,Application Menus > Image,Canvas Size...,None,AltLeft ↓ + ControlLeft ↓ + C ↓,AltLeft ↑ + ControlLeft ↑ + C ↑
+0,Application Menus > Layer > New,New Layer...,None,ShiftLeft ↓ + ControlLeft ↓ + N ↓,ShiftLeft ↑ + ControlLeft ↑ + N ↑
+0,Application Menus > Layer > New,New Layer via Copy,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Application Menus > Layer > New,New Layer via Cut,None,ShiftLeft ↓ + ControlLeft ↓ + J ↓,ShiftLeft ↑ + ControlLeft ↑ + J ↑
+0,Application Menus > Layer,Quick Export as PNG,None,ShiftLeft ↓ + ControlLeft ↓ + ' ↓,ShiftLeft ↑ + ControlLeft ↑ + ' ↑
+0,Application Menus > Layer,Export As...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + ' ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + ' ↑
+0,Application Menus > Layer,Create/Release Clipping Mask,None,AltLeft ↓ + ControlLeft ↓ + G ↓,AltLeft ↑ + ControlLeft ↑ + G ↑
+0,Application Menus > Layer,Group Layers,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Application Menus > Layer,Ungroup Layers,None,AltLeft ↓ + ControlLeft ↓ + G ↓,AltLeft ↑ + ControlLeft ↑ + G ↑
+0,Application Menus > Layer,Hide/Show Layers,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Application Menus > Layer > Arrange,Bring to Front,None,ShiftLeft ↓ + ControlLeft ↓ + ] ↓,ShiftLeft ↑ + ControlLeft ↑ + ] ↑
+0,Application Menus > Layer > Arrange,Bring Forward,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Application Menus > Layer > Arrange,Send Backward,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Application Menus > Layer > Arrange,Send to Back,None,ShiftLeft ↓ + ControlLeft ↓ + [ ↓,ShiftLeft ↑ + ControlLeft ↑ + [ ↑
+0,Application Menus > Layer,Lock Layers...,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Application Menus > Layer,Merge Layers,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Application Menus > Layer,Merge Visible,None,ShiftLeft ↓ + ControlLeft ↓ + E ↓,ShiftLeft ↑ + ControlLeft ↑ + E ↑
+0,Application Menus > Select,All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Application Menus > Select,Deselect,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Application Menus > Select,Reselect,None,ShiftLeft ↓ + ControlLeft ↓ + D ↓,ShiftLeft ↑ + ControlLeft ↑ + D ↑
+0,Application Menus > Select,Inverse,None,ShiftLeft ↓ + ControlLeft ↓ + I ↓,ShiftLeft ↑ + ControlLeft ↑ + I ↑
+0,Application Menus > Select,All Layers,None,AltLeft ↓ + ControlLeft ↓ + A ↓,AltLeft ↑ + ControlLeft ↑ + A ↑
+0,Application Menus > Select,Find Layers,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + F ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + F ↑
+0,Application Menus > Select,Select and Mask...,None,AltLeft ↓ + ControlLeft ↓ + R ↓,AltLeft ↑ + ControlLeft ↑ + R ↑
+0,Application Menus > Select,Feather...,None,ShiftLeft ↓ + F6 ↓,ShiftLeft ↑ + F6 ↑
+0,Application Menus > Filter,Last Filter,None,AltLeft ↓ + ControlLeft ↓ + F ↓,AltLeft ↑ + ControlLeft ↑ + F ↑
+0,Application Menus > Filter,Adaptive Wide Angle...,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + A ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + A ↑
+0,Application Menus > Filter,Camera Raw Filter...,None,ShiftLeft ↓ + ControlLeft ↓ + A ↓,ShiftLeft ↑ + ControlLeft ↑ + A ↑
+0,Application Menus > Filter,Lens Correction...,None,ShiftLeft ↓ + ControlLeft ↓ + R ↓,ShiftLeft ↑ + ControlLeft ↑ + R ↑
+0,Application Menus > Filter,Liquify...,None,ShiftLeft ↓ + ControlLeft ↓ + X ↓,ShiftLeft ↑ + ControlLeft ↑ + X ↑
+0,Application Menus > Filter,Vanishing Point...,None,AltLeft ↓ + ControlLeft ↓ + V ↓,AltLeft ↑ + ControlLeft ↑ + V ↑
+0,Application Menus > 3D,Render 3D Layer,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + R ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + R ↑
+0,Application Menus > View,Proof Colors,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Application Menus > View,Gamut Warning,None,ShiftLeft ↓ + ControlLeft ↓ + Y ↓,ShiftLeft ↑ + ControlLeft ↑ + Y ↑
+0,Application Menus > View,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,Application Menus > View,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Application Menus > View,Fit on Screen,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Application Menus > View,Extras,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Application Menus > View > Show,Target Path,None,ShiftLeft ↓ + ControlLeft ↓ + H ↓,ShiftLeft ↑ + ControlLeft ↑ + H ↑
+0,Application Menus > View > Show,Grid,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,Application Menus > View > Show,Guides,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,Application Menus > View,Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Application Menus > View,Snap,None,ShiftLeft ↓ + ControlLeft ↓ + ; ↓,ShiftLeft ↑ + ControlLeft ↑ + ; ↑
+0,Application Menus > View,Lock Guides,None,AltLeft ↓ + ControlLeft ↓ + ; ↓,AltLeft ↑ + ControlLeft ↑ + ; ↑
+0,Application Menus > Window,Actions,None,AltLeft ↓ + F9 ↓,AltLeft ↑ + F9 ↑
+0,Application Menus > Window,Brush Settings,None,F5 ↓,F5 ↑
+0,Application Menus > Window,Color,None,F6 ↓,F6 ↑
+0,Application Menus > Window,Info,None,F8 ↓,F8 ↑
+0,Application Menus > Window,Layers,None,F7 ↓,F7 ↑
+0,Tools,Move / Artboard Tool,None,V ↓,V ↑
+0,Tools,Rectangular / Elliptical Marquee Tool,None,M ↓,M ↑
+0,Tools,Lasso Tools,None,L ↓,L ↑
+0,Tools,Object / Quick Selection / Magic Wand Tools,None,W ↓,W ↑
+0,Tools,Crop / Slice Tools,None,C ↓,C ↑
+0,Tools,Frame Tool,None,K ↓,K ↑
+0,Tools,Eyedropper / Ruler/ Note / Count Tool,None,I ↓,I ↑
+0,Tools,Healing / Patch / Content-Aware Move / Red Eye Tools,None,J ↓,J ↑
+0,Tools,Brush Tools,None,B ↓,B ↑
+0,Tools,Clone / Pattern Stamp Tool,None,S ↓,S ↑
+0,Tools,History / Art History Brush ,None,Y ↓,Y ↑
+0,Tools,Eraser Tools,None,E ↓,E ↑
+0,Tools,Gradient / Paint Bucket / 3D Material Drop Tool,None,G ↓,G ↑
+0,Tools,Dodge / Burn / Sponge Tool,None,O ↓,O ↑
+0,Tools,Pen Tools,None,P ↓,P ↑
+0,Tools,Horizontal / Vertical Type (Mask) Tool,None,T ↓,T ↑
+0,Tools,Path / Direct Selection Tool,None,A ↓,A ↑
+0,Tools,Shape Tools,None,U ↓,U ↑
+0,Tools,Hand Tool,None,H ↓,H ↑
+0,Tools,Rotate View Tool,None,R ↓,R ↑
+0,Tools,Zoom Tool,None,Z ↓,Z ↑
+0,Tools,Default Foreground/Background Colors,None,D ↓,D ↑
+0,Tools,Switch Foreground/Background Colors,None,X ↓,X ↑
+0,Tools,Toggle Standard/Quick Mask Modes,None,Q ↓,Q ↑
+0,Tools,Toggle Screen Modes,None,F ↓,F ↑
+0,Tools,Toggle Preserve Transparency,None,/ ↓,/ ↑
+0,Tools,Brush Size/Hardness Gesture,None,AltLeft ↓ + MouseButton2 ↓,AltLeft ↑ + MouseButton2 ↑
+0,Tools,Decrease Brush Size,None,[ ↓,[ ↑
+0,Tools,Increase Brush Size,None,] ↓,] ↑
+0,Tools,Decrease Brush Hardness,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Tools,Increase Brush Hardness,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Tools,Previous Brush,None,", ↓",", ↑"
+0,Tools,Next Brush,None,. ↓,. ↑
+0,Tools,First Brush,None,"ShiftLeft ↓ + , ↓","ShiftLeft ↑ + , ↑"
+0,Tools,Last Brush,None,ShiftLeft ↓ + . ↓,ShiftLeft ↑ + . ↑

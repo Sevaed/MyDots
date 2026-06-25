@@ -1,0 +1,86 @@
+* {
+    font: "JetBrains Mono 11";
+    text-color: #cdd6f4;
+    background-color: transparent;
+    margin: 0px;
+    padding: 0px;
+    spacing: 0px;
+}
+
+window {
+    background-color: #1e1e2e;
+    border: 2px;
+    border-color: #89b4fa;
+    border-radius: 12px;
+    width: 600px;
+    height: 540px;
+    location: center;
+    anchor: center;
+    padding: 15px;
+}
+
+mainbox {
+    children: [inputbar, listview];
+    spacing: 15px;
+}
+
+inputbar {
+    background-color: #1e1e2e;
+    border: 2px;
+    border-color: #89b4fa;
+    border-radius: 8px;
+    padding: 10px 15px;
+    spacing: 10px;
+    children: [prompt, entry];
+    text-color: #cdd6f4;
+    font: "Hack Nerd Font Bold 11";
+}
+
+prompt {
+    enabled: true;
+    text-color: #89b4fa;
+    padding: 0 5px 0 0;
+}
+
+entry {
+    enabled: true;
+    placeholder: "Поиск";
+    placeholder-color: #6c7086;
+    text-color: inherit;
+    font: "JetBrains Mono Bold 11";
+}
+
+listview {
+    background-color: transparent;
+    margin: 0px;
+    columns: 1;
+    lines: 8;
+    fixed-height: true;
+    spacing: 8px;
+    scrollbar: false;
+}
+
+element {
+    padding: 12px 18px;
+    spacing: 12px;
+    border-radius: 8px;
+    horizontal-align: 0;
+}
+
+element-icon {
+    size: 1.6em;
+    vertical-align: 0.5;
+}
+
+element-text {
+    text-color: inherit;
+    vertical-align: 0.5;
+    horizontal-align: 0;
+    font: inherit;
+}
+
+element selected {
+    background-color: #89b4fa;
+    text-color: #1e1e2e;
+}
+

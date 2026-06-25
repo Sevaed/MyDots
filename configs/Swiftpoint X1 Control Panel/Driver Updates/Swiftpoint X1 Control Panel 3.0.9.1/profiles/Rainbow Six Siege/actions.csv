@@ -1,0 +1,66 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,General,Scoreboard,None,Tab ↓,Tab ↑
+0,General,Ping,None,Z ↓,Z ↑
+0,General,Vote Interface,None,7 ↓,7 ↑
+0,General,Open Chat All,None,T ↓,T ↑
+0,General,Team Chat,None,Y ↓,Y ↑
+0,General,Push to Talk,None,U ↓,U ↑
+0,Character Controls,Move Forward,None,W ↓,W ↑
+0,Character Controls,Move Backward,None,S ↓,S ↑
+0,Character Controls,Strafe Left,None,A ↓,A ↑
+0,Character Controls,Strafe Right,None,D ↓,D ↑
+0,Character Controls,Lean Left,None,Q ↓,Q ↑
+0,Character Controls,Lean Right,None,E ↓,E ↑
+0,Character Controls,Spring & Fast Rappel/Ladder Descent,None,ShiftLeft ↓,ShiftLeft ↑
+0,Character Controls,Navigate,None,Space ↓,Space ↑
+0,Character Controls,Crouch & Change Rappel Stance,None,C ↓,C ↑
+0,Character Controls,Prone,None,ControlLeft ↓,ControlLeft ↑
+0,Character Controls,Walk,None,AltLeft ↓,AltLeft ↑
+0,Character Controls,Shoot,None,MouseButton1 ↓,MouseButton1 ↑
+0,Character Controls,Aim,None,MouseButton2 ↓,MouseButton2 ↑
+0,Character Controls,Reload,None,R ↓,R ↑
+0,Character Controls,Interact,None,F ↓,F ↑
+0,Character Controls,Melee Attack,None,V ↓,V ↑
+0,Character Controls,Primary Gadget,None,MouseButton3 ↓,MouseButton3 ↑
+0,Character Controls,Secondary Gadget,None,G ↓,G ↑
+0,Character Controls,Enter Observation Tools,None,5 ↓,5 ↑
+0,Character Controls,Deploy Drone,None,6 ↓,6 ↑
+0,Character Controls,Select Primary Weapon,None,1 ↓,1 ↑
+0,Character Controls,Select Secondary Weapon,None,2 ↓,2 ↑
+0,Character Controls,Switch Firing Mode,None,B ↓,B ↑
+0,Character Controls,Weapon Swap,None,. ↓,. ↑
+0,Observation Tool Controls,Move Forward,None,W ↓,W ↑
+0,Observation Tool Controls,Move Backward,None,S ↓,S ↑
+0,Observation Tool Controls,Strafe Left,None,A ↓,A ↑
+0,Observation Tool Controls,Strafe Right,None,D ↓,D ↑
+0,Observation Tool Controls,Shoot,None,MouseButton1 ↓,MouseButton1 ↑
+0,Observation Tool Controls,Jump,None,Space ↓,Space ↑
+0,Observation Tool Controls,Enemy Scan,None,X ↓,X ↑
+0,Observation Tool Controls,Specific Action 1,None,MouseButton2 ↓,MouseButton2 ↑
+0,Observation Tool Controls,Specific Action 2,None,F ↓,F ↑
+0,Observation Tool Controls,Specific Action 3,None,B ↓,B ↑
+0,Observation Tool Controls,Cycle Left,None,Q ↓,Q ↑
+0,Observation Tool Controls,Cycle Right,None,E ↓,E ↑
+0,Observation Tool Controls,Group Cycle Left,None,1 ↓,1 ↑
+0,Observation Tool Controls,Group Cycle Right,None,3 ↓,3 ↑
+0,Observation Tool Controls,Exit Observation Tools,None,MouseButton3 ↓,MouseButton3 ↑
+0,Spectator Cameras,Zoom In,None,PageUp ↓,PageUp ↑
+0,Spectator Cameras,Zoom Out,None,PageDown ↓,PageDown ↑
+0,Spectator Cameras,Move Up a Floor,None,ShiftLeft ↓,ShiftLeft ↑
+0,Spectator Cameras,Move Down a Floor,None,ControlLeft ↓,ControlLeft ↑
+0,Spectator Cameras,Toggle Follow Player,None,F ↓,F ↑
+0,Spectator Cameras,Follow Selected Player,None,Enter ↓,Enter ↑
+0,Spectator Cameras,Toggle View Mode,None,C ↓,C ↑
+0,Spectator Cameras,Browse Player Left,None,Q ↓,Q ↑
+0,Spectator Cameras,Browse Player Right,None,Enter ↓,Enter ↑
+0,Spectator Cameras,Cycle AR Setting,None,V ↓,V ↑
+0,Spectator Cameras,Follow Player 1,None,1 ↓,1 ↑
+0,Spectator Cameras,Follow Player 2,None,2 ↓,2 ↑
+0,Spectator Cameras,Follow Player 3,None,3 ↓,3 ↑
+0,Spectator Cameras,Follow Player 4,None,4 ↓,4 ↑
+0,Spectator Cameras,Follow Player 5,None,5 ↓,5 ↑
+0,Spectator Cameras,Follow Player 6,None,6 ↓,6 ↑
+0,Spectator Cameras,Follow Player 7,None,7 ↓,7 ↑
+0,Spectator Cameras,Follow Player 8,None,8 ↓,8 ↑
+0,Spectator Cameras,Follow Player 9,None,9 ↓,9 ↑
+0,Spectator Cameras,Follow Player 10,None,0 ↓,0 ↑

@@ -1,0 +1,51 @@
+Nested Level,Action Group,Action Name,Input,Release Output,Press Output
+0,Movement,Move Forward / Accelerate,None,W ↑,W ↓
+0,Movement,Move Backward / Reverse,None,S ↑,S ↓
+0,Movement,Strafe /Steer Left,None,A ↑,A ↓
+0,Movement,Strafe /Steer Right,None,D ↑,D ↓
+0,Movement,Jump,None,Space ↑,Space ↓
+0,Movement,Spring / Boost,None,ShiftLeft ↑,ShiftLeft ↓
+0,Movement,Crouch / Slide / Ground Slam,None,ControlLeft ↑,ControlLeft ↓
+0,Combat / Interaction,Fire / Primary Weapon,None,MouseButton1 ↑,MouseButton1 ↓
+0,Combat / Interaction,Melee,None,V ↑,V ↓
+0,Combat / Interaction,Reload,None,R ↑,R ↓
+0,Combat / Interaction,Action Skill,None,F ↑,F ↓
+0,Combat / Interaction,Throw Grenade,None,G ↑,G ↓
+0,Combat / Interaction,Next Weapon,None,None,ScrollDown
+0,Combat / Interaction,Previous Weapon,None,None,ScrollUp
+0,Combat / Interaction,Weapon 1,None,1 ↑,1 ↓
+0,Combat / Interaction,Weapon 2,None,2 ↑,2 ↓
+0,Combat / Interaction,Weapon 3,None,3 ↑,3 ↓
+0,Combat / Interaction,Weapon 4,None,4 ↑,4 ↓
+0,Combat / Interaction,Primary Use,None,E ↑,E ↓
+0,Combat / Interaction,Secondary Use,None,Q ↑,Q ↓
+0,Combat / Interaction,Weapon Mode,None,C ↑,C ↓
+0,Combat / Interaction,ADS (Aim) / Secondary Weapon,None,MouseButton2 ↑,MouseButton2 ↓
+0,Social,Photo Mode,None,P ↑,P ↓
+0,Social,Emote 1,None,Up ↑,Up ↓
+0,Social,Emote 2,None,Down ↑,Down ↓
+0,Social,Emote 3,None,Left ↑,Left ↓
+0,Social,Emote 4,None,Right ↑,Right ↓
+0,Miscellaneous,Previous Tracked Mission,None,[ ↑,[ ↓
+0,Miscellaneous,Next Tracked Mission,None,] ↑,] ↓
+0,Miscellaneous,Mark Target,None,X ↑,X ↓
+0,Driving,E-Brake / Wheel Ability,None,Space ↑,Space ↓
+0,Driving,Horn,None,F ↑,F ↓
+0,Driving,Exit Vehicle,None,E ↑,E ↓
+0,Driving,Swap Seats,None,Q ↑,Q ↓
+0,Driving,Air Control Up,None,W ↑,W ↓
+0,Driving,Air Control Down,None,S ↑,S ↓
+0,Driving,Air Control Left,None,A ↑,A ↓
+0,Driving,Air Control Right,None,D ↑,D ↓
+0,Common,Character Menu,None,Tab ↑,Tab ↓
+0,Common,Map,None,M ↑,M ↓
+0,Common,Logs,None,Left ↑,Left ↓
+0,Common,Inventory,None,I ↑,I ↓
+0,Common,Skills,None,K ↑,K ↓
+0,Common,Guardian Rank,None,J ↑,J ↓
+0,Common,Roster,None,F1 ↑,F1 ↓
+0,Common,Matchmaking,None,F2 ↑,F2 ↓
+0,Common,SHiFT,None,F3 ↑,F3 ↓
+0,Common,Mail,None,F4 ↑,F4 ↓
+0,Common,LAN Browser,None,F5 ↑,F5 ↓
+0,Common,Quick Menu,None,Z ↑,Z ↓

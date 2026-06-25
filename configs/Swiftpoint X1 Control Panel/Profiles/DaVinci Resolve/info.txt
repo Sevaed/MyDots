@@ -1,0 +1,3 @@
+Name=DaVinci Resolve
+BundleID=DaVinci Resolve
+MouseSupport=5,10,30,

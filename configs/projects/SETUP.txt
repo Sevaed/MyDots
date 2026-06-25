@@ -1,0 +1,27 @@
+No GUI:
+	helix (+config)
+	fastfetch (+config)
+	fish (+config)
+	starship (+config)
+	kitty-terminfo
+	tmux
+	btop
+
+Not main:
+	{No GUI}
+	kitty (+config)
+
+Main:
+	{Not main}
+	telegram
+	vesktop
+	steam
+	obs
+	gimp
+	chrome
+	prism
+	zoom
+	freecad
+	libre-office
+	mpv
+	

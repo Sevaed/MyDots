@@ -1,0 +1,3 @@
+Name=Creo
+BundleID=Creo Parametric
+MouseSupport=5,10,30,

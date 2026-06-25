@@ -1,0 +1,87 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Creo General,Activate,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Creo General,All,None,ControlLeft ↓ + AltLeft ↓ + A ↓,ControlLeft ↑ + AltLeft ↑ + A ↑
+0,Creo General,Appearances,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,Creo General,Corner Rectangle,None,R ↓,R ↑
+0,Creo General,Edit Definition,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Creo General,Expand,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Creo General,Expand All,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Creo General,Extrude...,None,X ↓,X ↑
+0,Creo General,Find...,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Creo General,Full Screen,None,F11 ↓,F11 ↑
+0,Creo General,Geometry filter option,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Creo General,Geometry Search,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,Creo General,Hidden Line,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Creo General,Hide,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Creo General,Hyperlink,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Creo General,Move using Dragger,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Creo General,No Hidden,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Creo General,Paste Special...,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Creo General,Plane...,None,P ↓,P ↑
+0,Creo General,Regenerate,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Creo General,Rename,None,F2 ↓,F2 ↑
+0,Creo General,Repaint,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Creo General,Round...,None,R ↓,R ↑
+0,Creo General,Shading,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Creo General,Shading With Edges,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Creo General,Shading With Reflections,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Creo General,Show Keytips,None,F10 ↓,F10 ↑
+0,Creo General,Sketch region filter option,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Creo General,Sketch...,None,S ↓,S ↑
+0,Creo General,Standard Orientation,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Creo General,Unhide All,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Creo General,View Normal,None,ShiftLeft ↓ + N ↓,ShiftLeft ↑ + N ↑
+0,Creo General,Wireframe,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Creo Freestyle,1 Split,None,1 ↓,1 ↑
+0,Creo Freestyle,2 Splits,None,2 ↓,2 ↑
+0,Creo Freestyle,3 Split,None,3 ↓,3 ↑
+0,Creo Freestyle,4 Split,None,4 ↓,4 ↑
+0,Creo Freestyle,Split faces with 10% offset,None,ShiftLeft ↓ + 1 ↓,ShiftLeft ↑ + 1 ↑
+0,Creo Freestyle,Split faces with 25% offset,None,ShiftLeft ↓ + 2 ↓,ShiftLeft ↑ + 2 ↑
+0,Creo Freestyle,Split faces with 50% offset,None,ShiftLeft ↓ + 3 ↓,ShiftLeft ↑ + 3 ↑
+0,Creo Freestyle,Split faces with 75% offset,None,ShiftLeft ↓ + 4 ↓,ShiftLeft ↑ + 4 ↑
+0,Creo Freestyle,Split faces with 90% offset,None,ShiftLeft ↓ + 5 ↓,ShiftLeft ↑ + 5 ↑
+0,Creo Freestyle,Add Edge,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Creo Freestyle,Box Mode,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Creo Freestyle,Join,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Creo Format,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Creo Format,Box,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Creo Format,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Creo Format,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Creo Section/Sketcher,All,None,ControlLeft ↓ + AltLeft ↓ + A ↓,ControlLeft ↑ + AltLeft ↑ + A ↑
+0,Creo Section/Sketcher,Construction,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Creo Section/Sketcher,Construction Mode,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Creo Section/Sketcher,Delete Segment,None,ControlLeft ↓ + Delete ↓,ControlLeft ↑ + Delete ↑
+0,Creo Section/Sketcher,Dimension,None,D ↓,D ↑
+0,Creo Section/Sketcher,Line Chain,None,L ↓,L ↑
+0,Creo Section/Sketcher,Strong,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Creo Drawing,Create Draft View,None,ShiftLeft ↓ + W ↓,ShiftLeft ↑ + W ↑
+0,Creo Style,Curve,None,L ↓,L ↑
+0,Creo Style,Regenerate All,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Creo Simulate Results,Default View,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Creo Layout,Line/Arc Chain,None,L ↓,L ↑
+0,Creo Layout,Rotate Resize,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Creo Layout,Select All,None,ControlLeft ↓ + AltLeft ↓ + A ↓,ControlLeft ↑ + AltLeft ↑ + A ↑
+0,Creo Mold,Mold Display...,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Creo Assembly,Assemble...,None,A ↓,A ↑
+0,Creo Application Menu,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,Creo Application Menu,Help,None,F1 ↓,F1 ↑
+0,Creo Application Menu,New...,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Creo Application Menu,Open,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Creo Application Menu,Print,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Creo Application Menu,Print Settings / Preview,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Creo Application Menu,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Creo Application Menu,Save a Copy,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Creo Advanced,Previous View,None,AltLeft ↓ + V + P + AltLeft ↑,None
+0,Creo Advanced,Fit to Screen,None,AltLeft ↓ + V + F + AltLeft ↑,None
+0,Creo Advanced,Orientation Gesture,None,Wait 0, None
+1,Creo Advanced,Orient Top,Movement Y- 300,Vibrate 25 7 DontWait + F10 + V + N + V + Up + Up + Up + Enter,None
+1,Creo Advanced,Orient Bottom,Movement Y+ 300,Vibrate 25 7 DontWait + F10 + V + N + V + Down + Down + Down + Down + Enter,None
+1,Creo Advanced,Orient Left,Movement X- 300,Vibrate 25 7 DontWait + F10 + V + N + V + Up + Up + Up + Up + Up + Enter,None
+1,Creo Advanced,Orient Right,Movement X+ 300,Vibrate 25 7 DontWait + F10 + V + N + V + Up + Up + Up + Up + Enter,None
+0,Creo Advanced,Orient Back,None,F10 + V + N + V + Down + Down + Down + Enter,None
+0,Creo Advanced,Orient Bottom,None,F10 + V + N + V + Down + Down + Down + Down + Enter,None
+0,Creo Advanced,Orient Front,None,F10 + V + N + V + Down + Down + Down + Down + Down + Enter,None
+0,Creo Advanced,Orient Left,None,F10 + V + N + V + Up + Up + Up + Up + Up + Enter,None
+0,Creo Advanced,Orient Right,None,F10 + V + N + V + Up + Up + Up + Up + Enter,None
+0,Creo Advanced,Orient Top,None,F10 + V + N + V + Up + Up + Up + Enter,None

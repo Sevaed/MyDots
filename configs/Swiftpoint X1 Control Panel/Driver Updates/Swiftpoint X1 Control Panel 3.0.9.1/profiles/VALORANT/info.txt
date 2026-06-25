@@ -1,0 +1,3 @@
+Name=VALORANT
+BundleID=VALORANT
+MouseSupport=5,20,30,

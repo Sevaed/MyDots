@@ -1,0 +1,278 @@
+{
+  "mappings": {
+    "net/raphimc/immediatelyfast/injection/mixins/core/MixinDebugHud": {
+      "getRightText": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94078_()Ljava/util/List;"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/MixinGlDebug": {
+      "enableDebug": "Lcom/mojang/blaze3d/platform/GlDebug;m_84049_(IZ)V",
+      "info": "Lcom/mojang/blaze3d/platform/GlDebug;m_84038_(IIIIIJJ)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/MixinMinecraftClient": {
+      "<init>": "Lnet/minecraft/client/Minecraft;<init>(Lnet/minecraft/client/main/GameConfig;)V",
+      "joinWorld": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/MixinTextureManager": {
+      "destroyTexture": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118513_(Lnet/minecraft/resources/ResourceLocation;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/MixinWindow": {
+      "<init>": "Lcom/mojang/blaze3d/platform/Window;<init>(Lcom/mojang/blaze3d/platform/WindowEventHandler;Lcom/mojang/blaze3d/platform/ScreenManager;Lcom/mojang/blaze3d/platform/DisplayData;Ljava/lang/String;Ljava/lang/String;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/compat/MixinGameRenderer": {
+      "loadShaders": "Lnet/minecraft/client/renderer/GameRenderer;m_172767_(Lnet/minecraft/server/packs/resources/ResourceManager;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/core/compat/MixinTextRenderer": {
+      "Lnet/minecraft/client/render/VertexConsumerProvider;immediate(Lnet/minecraft/client/render/BufferBuilder;)Lnet/minecraft/client/render/VertexConsumerProvider$Immediate;": "Lnet/minecraft/client/renderer/MultiBufferSource;m_109898_(Lcom/mojang/blaze3d/vertex/BufferBuilder;)Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;",
+      "draw(Ljava/lang/String;FFILnet/minecraft/util/math/Matrix4f;ZZ)I": "Lnet/minecraft/client/gui/Font;m_92803_(Ljava/lang/String;FFILcom/mojang/math/Matrix4f;ZZ)I",
+      "draw(Lnet/minecraft/text/OrderedText;FFILnet/minecraft/util/math/Matrix4f;Z)I": "Lnet/minecraft/client/gui/Font;m_92726_(Lnet/minecraft/util/FormattedCharSequence;FFILcom/mojang/math/Matrix4f;Z)I"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/fast_buffer_upload/MixinVertexBuffer": {
+      "Lcom/mojang/blaze3d/systems/RenderSystem;glBufferData(ILjava/nio/ByteBuffer;I)V": "Lcom/mojang/blaze3d/systems/RenderSystem;m_69525_(ILjava/nio/ByteBuffer;I)V",
+      "configureIndexBuffer": "Lcom/mojang/blaze3d/vertex/VertexBuffer;m_231223_(Lcom/mojang/blaze3d/vertex/BufferBuilder$DrawState;Ljava/nio/ByteBuffer;)Lcom/mojang/blaze3d/systems/RenderSystem$AutoStorageIndexBuffer;",
+      "configureVertexFormat": "Lcom/mojang/blaze3d/vertex/VertexBuffer;m_231218_(Lcom/mojang/blaze3d/vertex/BufferBuilder$DrawState;Ljava/nio/ByteBuffer;)Lcom/mojang/blaze3d/vertex/VertexFormat;"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/ISinglePreparationResourceReloader": {
+      "apply": "m_5787_(Ljava/lang/Object;Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)V",
+      "prepare": "m_5944_(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)Ljava/lang/Object;"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinFontManager": {
+      "<init>": "Lnet/minecraft/client/gui/font/FontManager;<init>(Lnet/minecraft/client/renderer/texture/TextureManager;)V",
+      "Lnet/minecraft/client/font/TextRenderer;<init>(Ljava/util/function/Function;Z)V": "Lnet/minecraft/client/gui/Font;<init>(Ljava/util/function/Function;Z)V",
+      "createAdvanceValidatingTextRenderer": "Lnet/minecraft/client/gui/font/FontManager;m_243082_()Lnet/minecraft/client/gui/Font;",
+      "createTextRenderer": "Lnet/minecraft/client/gui/font/FontManager;m_95006_()Lnet/minecraft/client/gui/Font;",
+      "setIdOverrides": "Lnet/minecraft/client/gui/font/FontManager;m_95011_(Ljava/util/Map;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinFontStorage": {
+      "getGlyph": "Lnet/minecraft/client/gui/font/FontSet;m_243128_(IZ)Lcom/mojang/blaze3d/font/GlyphInfo;",
+      "getGlyphRenderer(I)Lnet/minecraft/client/font/GlyphRenderer;": "Lnet/minecraft/client/gui/font/FontSet;m_95078_(I)Lnet/minecraft/client/gui/font/glyphs/BakedGlyph;",
+      "setFonts": "Lnet/minecraft/client/gui/font/FontSet;m_95071_(Ljava/util/List;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinTextRenderer_Drawer": {
+      "Lnet/minecraft/client/font/TextRenderer;getFontStorage(Lnet/minecraft/util/Identifier;)Lnet/minecraft/client/font/FontStorage;": "Lnet/minecraft/client/gui/Font;m_92863_(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/gui/font/FontSet;",
+      "Lnet/minecraft/client/render/VertexConsumerProvider;getBuffer(Lnet/minecraft/client/render/RenderLayer;)Lnet/minecraft/client/render/VertexConsumer;": "Lnet/minecraft/client/renderer/MultiBufferSource;m_6299_(Lnet/minecraft/client/renderer/RenderType;)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+      "accept": "Lnet/minecraft/client/gui/Font$StringRenderOutput;m_6411_(ILnet/minecraft/network/chat/Style;I)Z"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinBossBarHud": {
+      "render": "Lnet/minecraft/client/gui/components/BossHealthOverlay;m_93704_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinChatHud": {
+      "render": "Lnet/minecraft/client/gui/components/ChatComponent;m_93780_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinDebugHud": {
+      "Lnet/minecraft/client/gui/hud/DebugHud;renderLeftText(Lnet/minecraft/client/util/math/MatrixStack;)V": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94076_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "Lnet/minecraft/client/gui/hud/DebugHud;renderRightText(Lnet/minecraft/client/util/math/MatrixStack;)V": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94079_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "render": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94056_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinInGameHud": {
+      "renderCrosshair": "Lnet/minecraft/client/gui/Gui;m_93080_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderExperienceBar": "Lnet/minecraft/client/gui/Gui;m_93071_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V",
+      "renderHeldItemTooltip": "Lnet/minecraft/client/gui/Gui;m_93069_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderHotbar": "Lnet/minecraft/client/gui/Gui;m_93009_(FLcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderMountHealth": "Lnet/minecraft/client/gui/Gui;m_93086_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderMountJumpBar": "Lnet/minecraft/client/gui/Gui;m_93033_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V",
+      "renderScoreboardSidebar": "Lnet/minecraft/client/gui/Gui;m_93036_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/world/scores/Objective;)V",
+      "renderStatusBars": "Lnet/minecraft/client/gui/Gui;m_93083_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderStatusEffectOverlay": "Lnet/minecraft/client/gui/Gui;m_93028_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinMinecraftClient": {
+      "Lnet/minecraft/client/MinecraftClient;drawProfilerResults(Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/util/profiler/ProfileResult;)V": "Lnet/minecraft/client/Minecraft;m_91140_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/util/profiling/ProfileResults;)V",
+      "render": "Lnet/minecraft/client/Minecraft;m_91383_(Z)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinPlayerListHud": {
+      "render": "Lnet/minecraft/client/gui/components/PlayerTabOverlay;m_94544_(Lcom/mojang/blaze3d/vertex/PoseStack;ILnet/minecraft/world/scores/Scoreboard;Lnet/minecraft/world/scores/Objective;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinSpectatorHud": {
+      "render": "Lnet/minecraft/client/gui/components/spectator/SpectatorGui;m_94773_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderSpectatorMenu(Lnet/minecraft/client/util/math/MatrixStack;FIILnet/minecraft/client/gui/hud/spectator/SpectatorMenuState;)V": "Lnet/minecraft/client/gui/components/spectator/SpectatorGui;m_94778_(Lcom/mojang/blaze3d/vertex/PoseStack;FIILnet/minecraft/client/gui/spectator/categories/SpectatorPage;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinSubtitlesHud": {
+      "render": "Lnet/minecraft/client/gui/components/SubtitleOverlay;m_94642_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/compat/MixinBufferRenderer": {
+      "drawWithShaderInternal": "Lcom/mojang/blaze3d/vertex/BufferUploader;m_231211_(Lcom/mojang/blaze3d/vertex/BufferBuilder$RenderedBuffer;)V",
+      "drawWithoutShader": "Lcom/mojang/blaze3d/vertex/BufferUploader;m_231209_(Lcom/mojang/blaze3d/vertex/BufferBuilder$RenderedBuffer;)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinDrawableHelper": {
+      "drawTexturedQuad": "Lnet/minecraft/client/gui/GuiComponent;m_93112_(Lcom/mojang/math/Matrix4f;IIIIIFFFF)V",
+      "fill(Lnet/minecraft/util/math/Matrix4f;IIIII)V": "Lnet/minecraft/client/gui/GuiComponent;m_93105_(Lcom/mojang/math/Matrix4f;IIIII)V",
+      "fillGradient(Lnet/minecraft/client/util/math/MatrixStack;IIIIIII)V": "Lnet/minecraft/client/gui/GuiComponent;m_168740_(Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIII)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinItemRenderer": {
+      "Lnet/minecraft/client/font/TextRenderer;draw(Ljava/lang/String;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZII)I": "Lnet/minecraft/client/gui/Font;m_92811_(Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I",
+      "Lnet/minecraft/client/render/item/ItemRenderer;renderItem(Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/render/model/json/ModelTransformation$Mode;ZLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;IILnet/minecraft/client/render/model/BakedModel;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemTransforms$TransformType;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V",
+      "renderGuiItemModel": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115127_(Lnet/minecraft/world/item/ItemStack;IILnet/minecraft/client/resources/model/BakedModel;)V",
+      "renderGuiItemOverlay(Lnet/minecraft/client/font/TextRenderer;Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115174_(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V",
+      "renderGuiQuad": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115152_(Lcom/mojang/blaze3d/vertex/BufferBuilder;IIIIIIII)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinTextRenderer": {
+      "Lnet/minecraft/client/font/TextRenderer;draw(Ljava/lang/String;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZIIZ)I": "Lnet/minecraft/client/gui/Font;m_92822_(Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZIIZ)I",
+      "Lnet/minecraft/client/font/TextRenderer;draw(Lnet/minecraft/text/OrderedText;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZII)I": "Lnet/minecraft/client/gui/Font;m_92733_(Lnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I",
+      "draw(Ljava/lang/String;FFILnet/minecraft/util/math/Matrix4f;ZZ)I": "Lnet/minecraft/client/gui/Font;m_92803_(Ljava/lang/String;FFILcom/mojang/math/Matrix4f;ZZ)I",
+      "draw(Lnet/minecraft/text/OrderedText;FFILnet/minecraft/util/math/Matrix4f;Z)I": "Lnet/minecraft/client/gui/Font;m_92726_(Lnet/minecraft/util/FormattedCharSequence;FFILcom/mojang/math/Matrix4f;Z)I"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/map_atlas_generation/MixinMapRenderer": {
+      "clearStateTextures": "Lnet/minecraft/client/gui/MapRenderer;m_93260_()V",
+      "getMapTexture": "Lnet/minecraft/client/gui/MapRenderer;m_168778_(ILnet/minecraft/world/level/saveddata/maps/MapItemSavedData;)Lnet/minecraft/client/gui/MapRenderer$MapInstance;"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/map_atlas_generation/MixinMapRenderer_MapTexture": {
+      "(IIZ)Lnet/minecraft/client/texture/NativeImageBackedTexture;": "(IIZ)Lnet/minecraft/client/renderer/texture/DynamicTexture;",
+      "<init>": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;<init>(Lnet/minecraft/client/gui/MapRenderer;ILnet/minecraft/world/level/saveddata/maps/MapItemSavedData;)V",
+      "Lnet/minecraft/client/render/VertexConsumer;next()V": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_5752_()V",
+      "Lnet/minecraft/client/render/VertexConsumer;texture(FF)Lnet/minecraft/client/render/VertexConsumer;": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_7421_(FF)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+      "Lnet/minecraft/client/render/VertexConsumer;vertex(Lnet/minecraft/util/math/Matrix4f;FFF)Lnet/minecraft/client/render/VertexConsumer;": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_85982_(Lcom/mojang/math/Matrix4f;FFF)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+      "Lnet/minecraft/client/texture/TextureManager;registerDynamicTexture(Ljava/lang/String;Lnet/minecraft/client/texture/NativeImageBackedTexture;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118490_(Ljava/lang/String;Lnet/minecraft/client/renderer/texture/DynamicTexture;)Lnet/minecraft/resources/ResourceLocation;",
+      "close": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;close()V",
+      "draw": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;m_93291_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ZI)V",
+      "updateTexture": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;m_93290_()V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinChatInputSuggestor": {
+      "render": "Lnet/minecraft/client/gui/components/CommandSuggestions;m_93900_(Lcom/mojang/blaze3d/vertex/PoseStack;II)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinChatScreen": {
+      "render": "Lnet/minecraft/client/gui/screens/ChatScreen;m_6305_(Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V"
+    },
+    "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinHandledScreen": {
+      "Lnet/minecraft/client/gui/screen/ingame/HandledScreen;drawForeground(Lnet/minecraft/client/util/math/MatrixStack;II)V": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;m_7027_(Lcom/mojang/blaze3d/vertex/PoseStack;II)V",
+      "Lnet/minecraft/client/gui/screen/ingame/HandledScreen;focusedSlot:Lnet/minecraft/screen/slot/Slot;": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;f_97734_:Lnet/minecraft/world/inventory/Slot;",
+      "render": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;m_6305_(Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/raphimc/immediatelyfast/injection/mixins/core/MixinDebugHud": {
+        "getRightText": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94078_()Ljava/util/List;"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/MixinGlDebug": {
+        "enableDebug": "Lcom/mojang/blaze3d/platform/GlDebug;m_84049_(IZ)V",
+        "info": "Lcom/mojang/blaze3d/platform/GlDebug;m_84038_(IIIIIJJ)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/MixinMinecraftClient": {
+        "<init>": "Lnet/minecraft/client/Minecraft;<init>(Lnet/minecraft/client/main/GameConfig;)V",
+        "joinWorld": "Lnet/minecraft/client/Minecraft;m_91156_(Lnet/minecraft/client/multiplayer/ClientLevel;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/MixinTextureManager": {
+        "destroyTexture": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118513_(Lnet/minecraft/resources/ResourceLocation;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/MixinWindow": {
+        "<init>": "Lcom/mojang/blaze3d/platform/Window;<init>(Lcom/mojang/blaze3d/platform/WindowEventHandler;Lcom/mojang/blaze3d/platform/ScreenManager;Lcom/mojang/blaze3d/platform/DisplayData;Ljava/lang/String;Ljava/lang/String;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/compat/MixinGameRenderer": {
+        "loadShaders": "Lnet/minecraft/client/renderer/GameRenderer;m_172767_(Lnet/minecraft/server/packs/resources/ResourceManager;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/core/compat/MixinTextRenderer": {
+        "Lnet/minecraft/client/render/VertexConsumerProvider;immediate(Lnet/minecraft/client/render/BufferBuilder;)Lnet/minecraft/client/render/VertexConsumerProvider$Immediate;": "Lnet/minecraft/client/renderer/MultiBufferSource;m_109898_(Lcom/mojang/blaze3d/vertex/BufferBuilder;)Lnet/minecraft/client/renderer/MultiBufferSource$BufferSource;",
+        "draw(Ljava/lang/String;FFILnet/minecraft/util/math/Matrix4f;ZZ)I": "Lnet/minecraft/client/gui/Font;m_92803_(Ljava/lang/String;FFILcom/mojang/math/Matrix4f;ZZ)I",
+        "draw(Lnet/minecraft/text/OrderedText;FFILnet/minecraft/util/math/Matrix4f;Z)I": "Lnet/minecraft/client/gui/Font;m_92726_(Lnet/minecraft/util/FormattedCharSequence;FFILcom/mojang/math/Matrix4f;Z)I"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/fast_buffer_upload/MixinVertexBuffer": {
+        "Lcom/mojang/blaze3d/systems/RenderSystem;glBufferData(ILjava/nio/ByteBuffer;I)V": "Lcom/mojang/blaze3d/systems/RenderSystem;m_69525_(ILjava/nio/ByteBuffer;I)V",
+        "configureIndexBuffer": "Lcom/mojang/blaze3d/vertex/VertexBuffer;m_231223_(Lcom/mojang/blaze3d/vertex/BufferBuilder$DrawState;Ljava/nio/ByteBuffer;)Lcom/mojang/blaze3d/systems/RenderSystem$AutoStorageIndexBuffer;",
+        "configureVertexFormat": "Lcom/mojang/blaze3d/vertex/VertexBuffer;m_231218_(Lcom/mojang/blaze3d/vertex/BufferBuilder$DrawState;Ljava/nio/ByteBuffer;)Lcom/mojang/blaze3d/vertex/VertexFormat;"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/ISinglePreparationResourceReloader": {
+        "apply": "m_5787_(Ljava/lang/Object;Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)V",
+        "prepare": "m_5944_(Lnet/minecraft/server/packs/resources/ResourceManager;Lnet/minecraft/util/profiling/ProfilerFiller;)Ljava/lang/Object;"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinFontManager": {
+        "<init>": "Lnet/minecraft/client/gui/font/FontManager;<init>(Lnet/minecraft/client/renderer/texture/TextureManager;)V",
+        "Lnet/minecraft/client/font/TextRenderer;<init>(Ljava/util/function/Function;Z)V": "Lnet/minecraft/client/gui/Font;<init>(Ljava/util/function/Function;Z)V",
+        "createAdvanceValidatingTextRenderer": "Lnet/minecraft/client/gui/font/FontManager;m_243082_()Lnet/minecraft/client/gui/Font;",
+        "createTextRenderer": "Lnet/minecraft/client/gui/font/FontManager;m_95006_()Lnet/minecraft/client/gui/Font;",
+        "setIdOverrides": "Lnet/minecraft/client/gui/font/FontManager;m_95011_(Ljava/util/Map;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinFontStorage": {
+        "getGlyph": "Lnet/minecraft/client/gui/font/FontSet;m_243128_(IZ)Lcom/mojang/blaze3d/font/GlyphInfo;",
+        "getGlyphRenderer(I)Lnet/minecraft/client/font/GlyphRenderer;": "Lnet/minecraft/client/gui/font/FontSet;m_95078_(I)Lnet/minecraft/client/gui/font/glyphs/BakedGlyph;",
+        "setFonts": "Lnet/minecraft/client/gui/font/FontSet;m_95071_(Ljava/util/List;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/fast_text_lookup/MixinTextRenderer_Drawer": {
+        "Lnet/minecraft/client/font/TextRenderer;getFontStorage(Lnet/minecraft/util/Identifier;)Lnet/minecraft/client/font/FontStorage;": "Lnet/minecraft/client/gui/Font;m_92863_(Lnet/minecraft/resources/ResourceLocation;)Lnet/minecraft/client/gui/font/FontSet;",
+        "Lnet/minecraft/client/render/VertexConsumerProvider;getBuffer(Lnet/minecraft/client/render/RenderLayer;)Lnet/minecraft/client/render/VertexConsumer;": "Lnet/minecraft/client/renderer/MultiBufferSource;m_6299_(Lnet/minecraft/client/renderer/RenderType;)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+        "accept": "Lnet/minecraft/client/gui/Font$StringRenderOutput;m_6411_(ILnet/minecraft/network/chat/Style;I)Z"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinBossBarHud": {
+        "render": "Lnet/minecraft/client/gui/components/BossHealthOverlay;m_93704_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinChatHud": {
+        "render": "Lnet/minecraft/client/gui/components/ChatComponent;m_93780_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinDebugHud": {
+        "Lnet/minecraft/client/gui/hud/DebugHud;renderLeftText(Lnet/minecraft/client/util/math/MatrixStack;)V": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94076_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "Lnet/minecraft/client/gui/hud/DebugHud;renderRightText(Lnet/minecraft/client/util/math/MatrixStack;)V": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94079_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "render": "Lnet/minecraft/client/gui/components/DebugScreenOverlay;m_94056_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinInGameHud": {
+        "renderCrosshair": "Lnet/minecraft/client/gui/Gui;m_93080_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderExperienceBar": "Lnet/minecraft/client/gui/Gui;m_93071_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V",
+        "renderHeldItemTooltip": "Lnet/minecraft/client/gui/Gui;m_93069_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderHotbar": "Lnet/minecraft/client/gui/Gui;m_93009_(FLcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderMountHealth": "Lnet/minecraft/client/gui/Gui;m_93086_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderMountJumpBar": "Lnet/minecraft/client/gui/Gui;m_93033_(Lcom/mojang/blaze3d/vertex/PoseStack;I)V",
+        "renderScoreboardSidebar": "Lnet/minecraft/client/gui/Gui;m_93036_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/world/scores/Objective;)V",
+        "renderStatusBars": "Lnet/minecraft/client/gui/Gui;m_93083_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderStatusEffectOverlay": "Lnet/minecraft/client/gui/Gui;m_93028_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinMinecraftClient": {
+        "Lnet/minecraft/client/MinecraftClient;drawProfilerResults(Lnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/util/profiler/ProfileResult;)V": "Lnet/minecraft/client/Minecraft;m_91140_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/util/profiling/ProfileResults;)V",
+        "render": "Lnet/minecraft/client/Minecraft;m_91383_(Z)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinPlayerListHud": {
+        "render": "Lnet/minecraft/client/gui/components/PlayerTabOverlay;m_94544_(Lcom/mojang/blaze3d/vertex/PoseStack;ILnet/minecraft/world/scores/Scoreboard;Lnet/minecraft/world/scores/Objective;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinSpectatorHud": {
+        "render": "Lnet/minecraft/client/gui/components/spectator/SpectatorGui;m_94773_(Lcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderSpectatorMenu(Lnet/minecraft/client/util/math/MatrixStack;FIILnet/minecraft/client/gui/hud/spectator/SpectatorMenuState;)V": "Lnet/minecraft/client/gui/components/spectator/SpectatorGui;m_94778_(Lcom/mojang/blaze3d/vertex/PoseStack;FIILnet/minecraft/client/gui/spectator/categories/SpectatorPage;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/MixinSubtitlesHud": {
+        "render": "Lnet/minecraft/client/gui/components/SubtitleOverlay;m_94642_(Lcom/mojang/blaze3d/vertex/PoseStack;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/compat/MixinBufferRenderer": {
+        "drawWithShaderInternal": "Lcom/mojang/blaze3d/vertex/BufferUploader;m_231211_(Lcom/mojang/blaze3d/vertex/BufferBuilder$RenderedBuffer;)V",
+        "drawWithoutShader": "Lcom/mojang/blaze3d/vertex/BufferUploader;m_231209_(Lcom/mojang/blaze3d/vertex/BufferBuilder$RenderedBuffer;)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinDrawableHelper": {
+        "drawTexturedQuad": "Lnet/minecraft/client/gui/GuiComponent;m_93112_(Lcom/mojang/math/Matrix4f;IIIIIFFFF)V",
+        "fill(Lnet/minecraft/util/math/Matrix4f;IIIII)V": "Lnet/minecraft/client/gui/GuiComponent;m_93105_(Lcom/mojang/math/Matrix4f;IIIII)V",
+        "fillGradient(Lnet/minecraft/client/util/math/MatrixStack;IIIIIII)V": "Lnet/minecraft/client/gui/GuiComponent;m_168740_(Lcom/mojang/blaze3d/vertex/PoseStack;IIIIIII)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinItemRenderer": {
+        "Lnet/minecraft/client/font/TextRenderer;draw(Ljava/lang/String;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZII)I": "Lnet/minecraft/client/gui/Font;m_92811_(Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I",
+        "Lnet/minecraft/client/render/item/ItemRenderer;renderItem(Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/render/model/json/ModelTransformation$Mode;ZLnet/minecraft/client/util/math/MatrixStack;Lnet/minecraft/client/render/VertexConsumerProvider;IILnet/minecraft/client/render/model/BakedModel;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115143_(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/client/renderer/block/model/ItemTransforms$TransformType;ZLcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;IILnet/minecraft/client/resources/model/BakedModel;)V",
+        "renderGuiItemModel": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115127_(Lnet/minecraft/world/item/ItemStack;IILnet/minecraft/client/resources/model/BakedModel;)V",
+        "renderGuiItemOverlay(Lnet/minecraft/client/font/TextRenderer;Lnet/minecraft/item/ItemStack;IILjava/lang/String;)V": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115174_(Lnet/minecraft/client/gui/Font;Lnet/minecraft/world/item/ItemStack;IILjava/lang/String;)V",
+        "renderGuiQuad": "Lnet/minecraft/client/renderer/entity/ItemRenderer;m_115152_(Lcom/mojang/blaze3d/vertex/BufferBuilder;IIIIIIII)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/hud_batching/consumer/MixinTextRenderer": {
+        "Lnet/minecraft/client/font/TextRenderer;draw(Ljava/lang/String;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZIIZ)I": "Lnet/minecraft/client/gui/Font;m_92822_(Ljava/lang/String;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZIIZ)I",
+        "Lnet/minecraft/client/font/TextRenderer;draw(Lnet/minecraft/text/OrderedText;FFIZLnet/minecraft/util/math/Matrix4f;Lnet/minecraft/client/render/VertexConsumerProvider;ZII)I": "Lnet/minecraft/client/gui/Font;m_92733_(Lnet/minecraft/util/FormattedCharSequence;FFIZLcom/mojang/math/Matrix4f;Lnet/minecraft/client/renderer/MultiBufferSource;ZII)I",
+        "draw(Ljava/lang/String;FFILnet/minecraft/util/math/Matrix4f;ZZ)I": "Lnet/minecraft/client/gui/Font;m_92803_(Ljava/lang/String;FFILcom/mojang/math/Matrix4f;ZZ)I",
+        "draw(Lnet/minecraft/text/OrderedText;FFILnet/minecraft/util/math/Matrix4f;Z)I": "Lnet/minecraft/client/gui/Font;m_92726_(Lnet/minecraft/util/FormattedCharSequence;FFILcom/mojang/math/Matrix4f;Z)I"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/map_atlas_generation/MixinMapRenderer": {
+        "clearStateTextures": "Lnet/minecraft/client/gui/MapRenderer;m_93260_()V",
+        "getMapTexture": "Lnet/minecraft/client/gui/MapRenderer;m_168778_(ILnet/minecraft/world/level/saveddata/maps/MapItemSavedData;)Lnet/minecraft/client/gui/MapRenderer$MapInstance;"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/map_atlas_generation/MixinMapRenderer_MapTexture": {
+        "(IIZ)Lnet/minecraft/client/texture/NativeImageBackedTexture;": "(IIZ)Lnet/minecraft/client/renderer/texture/DynamicTexture;",
+        "<init>": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;<init>(Lnet/minecraft/client/gui/MapRenderer;ILnet/minecraft/world/level/saveddata/maps/MapItemSavedData;)V",
+        "Lnet/minecraft/client/render/VertexConsumer;next()V": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_5752_()V",
+        "Lnet/minecraft/client/render/VertexConsumer;texture(FF)Lnet/minecraft/client/render/VertexConsumer;": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_7421_(FF)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+        "Lnet/minecraft/client/render/VertexConsumer;vertex(Lnet/minecraft/util/math/Matrix4f;FFF)Lnet/minecraft/client/render/VertexConsumer;": "Lcom/mojang/blaze3d/vertex/VertexConsumer;m_85982_(Lcom/mojang/math/Matrix4f;FFF)Lcom/mojang/blaze3d/vertex/VertexConsumer;",
+        "Lnet/minecraft/client/texture/TextureManager;registerDynamicTexture(Ljava/lang/String;Lnet/minecraft/client/texture/NativeImageBackedTexture;)Lnet/minecraft/util/Identifier;": "Lnet/minecraft/client/renderer/texture/TextureManager;m_118490_(Ljava/lang/String;Lnet/minecraft/client/renderer/texture/DynamicTexture;)Lnet/minecraft/resources/ResourceLocation;",
+        "close": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;close()V",
+        "draw": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;m_93291_(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/MultiBufferSource;ZI)V",
+        "updateTexture": "Lnet/minecraft/client/gui/MapRenderer$MapInstance;m_93290_()V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinChatInputSuggestor": {
+        "render": "Lnet/minecraft/client/gui/components/CommandSuggestions;m_93900_(Lcom/mojang/blaze3d/vertex/PoseStack;II)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinChatScreen": {
+        "render": "Lnet/minecraft/client/gui/screens/ChatScreen;m_6305_(Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V"
+      },
+      "net/raphimc/immediatelyfast/injection/mixins/screen_batching/MixinHandledScreen": {
+        "Lnet/minecraft/client/gui/screen/ingame/HandledScreen;drawForeground(Lnet/minecraft/client/util/math/MatrixStack;II)V": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;m_7027_(Lcom/mojang/blaze3d/vertex/PoseStack;II)V",
+        "Lnet/minecraft/client/gui/screen/ingame/HandledScreen;focusedSlot:Lnet/minecraft/screen/slot/Slot;": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;f_97734_:Lnet/minecraft/world/inventory/Slot;",
+        "render": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;m_6305_(Lcom/mojang/blaze3d/vertex/PoseStack;IIF)V"
+      }
+    }
+  }
+}

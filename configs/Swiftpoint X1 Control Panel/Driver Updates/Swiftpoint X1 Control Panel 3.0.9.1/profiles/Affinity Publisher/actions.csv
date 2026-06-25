@@ -1,0 +1,201 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,File,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,File,Document Setup...,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,File,Export...,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + S ↑
+0,File,New...,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,File,New From Clipboard,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + N ↑
+0,File,Open...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,File,Place...,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,File,Save As...,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,File,Spread Setup...,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + P ↑
+0,Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Edit,Delete,None,Backspace ↓,Backspace ↑
+0,Edit,Duplicate Selection,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Edit,Paste FX,None,AltLeft ↓ + ShiftLeft ↓ + V ↓,AltLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Paste Inside,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Edit,Paste Style,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Paste Without Format,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Preferences...,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Edit,Redo,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Edit > Photo,Copy Flattened,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Edit > Photo,Fill...,None,ShiftLeft ↓ + F5 ↓,ShiftLeft ↑ + F5 ↑
+0,Edit > Photo,Inpaint,None,AltLeft ↓ + Backspace ↓,AltLeft ↑ + Backspace ↑
+0,Document,Add Page,None,ControlLeft ↓ + ShiftLeft ↓ + PageDown ↓,ControlLeft ↑ + ShiftLeft ↑ + PageDown ↑
+0,Document,Next Page,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Document,Previous Page,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Document > Photo,Flip Horizontal,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Document > Photo,Flip Vertical,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Document > Photo,Resize Canvas...,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Document > Photo,Resize Document...,None,ControlLeft ↓ + AltLeft ↓ + I ↓,ControlLeft ↑ + AltLeft ↑ + I ↑
+0,Document > Photo,Rotate 90° Clockwise,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Document > Photo,Rotate 90° Counter-clockwise,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Text > Alignment,Align Center,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Text > Alignment,Align Left,None,ControlLeft ↓ + AltLeft ↓ + L ↓,ControlLeft ↑ + AltLeft ↑ + L ↑
+0,Text > Alignment,Align Right,None,ControlLeft ↓ + AltLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + R ↑
+0,Text > Alignment,Justify Left,None,ControlLeft ↓ + AltLeft ↓ + I ↓,ControlLeft ↑ + AltLeft ↑ + I ↑
+0,Text > Baseline,Lower Baseline,None,AltLeft ↓ + ShiftLeft ↓ + Down ↓,AltLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Text > Baseline,Precise Lower Baseline,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Text > Baseline,Precise Raise Baseline,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Text > Baseline,Raise Baseline,None,AltLeft ↓ + ShiftLeft ↓ + Up ↓,AltLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Text > Baseline,Subscript,None,ControlLeft ↓ + AltLeft ↓ + - ↓,ControlLeft ↑ + AltLeft ↑ + - ↑
+0,Text > Baseline,Superscript,None,ControlLeft ↓ + ShiftLeft ↓ + = ↓,ControlLeft ↑ + ShiftLeft ↑ + = ↑
+0,Text > Character Traits,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Text > Character Traits,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Text > Character Traits,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Text,Find...,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Text,Insert Index Mark...,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Text > Insert,Line Break,None,ShiftLeft ↓ + Enter ↓,ShiftLeft ↑ + Enter ↑
+0,Text > Insert,Em Dash,None,AltLeft ↓ + ShiftLeft ↓ + - ↓,AltLeft ↑ + ShiftLeft ↑ + - ↑
+0,Text > Insert,En Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Text > Insert,Non-Breaking Hyphen,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + - ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + - ↑
+0,Text > Insert,Soft Hyphen,None,ControlLeft ↓ + ShiftLeft ↓ + - ↓,ControlLeft ↑ + ShiftLeft ↑ + - ↑
+0,Text > Insert,Indent to Here,None,ControlLeft ↓ + \ ↓,ControlLeft ↑ + \ ↑
+0,Text > Insert,Non-Breaking Space,None,AltLeft ↓ + Space ↓,AltLeft ↑ + Space ↑
+0,Text > Insert,Right indent Tab,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Text > List,Decrease Level,None,AltLeft ↓ + ShiftLeft ↓ + [ ↓,AltLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Text > List,Increase Level,None,AltLeft ↓ + ShiftLeft ↓ + ] ↓,AltLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Text > Paragraph Leading,Decrease,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Text > Paragraph Leading,Increase,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Text > Paragraph Leading,Precise Decrease,None,ControlLeft ↓ + AltLeft ↓ + Up ↓,ControlLeft ↑ + AltLeft ↑ + Up ↑
+0,Text > Paragraph Leading,Precise Increase,None,ControlLeft ↓ + AltLeft ↓ + Down ↓,ControlLeft ↑ + AltLeft ↑ + Down ↑
+0,Text,Show Character,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Text,Show Typeography,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,Text > Size,Bigger,None,ControlLeft ↓ + . ↓,ControlLeft ↑ + . ↑
+0,Text > Size,Precise Bigger,None,ControlLeft ↓ + AltLeft ↓ + . ↓,ControlLeft ↑ + AltLeft ↑ + . ↑
+0,Text > Size,Precise Smaller,None,"ControlLeft ↓ + AltLeft ↓ + , ↓","ControlLeft ↑ + AltLeft ↑ + , ↑"
+0,Text > Size,Smaller,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Text > Spacing,Loosen,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Text > Spacing,Loosen More,None,AltLeft ↓ + ShiftLeft ↓ + Right ↓,AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Text > Spacing,Tighten,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Text > Spacing,Tighten More,None,AltLeft ↓ + ShiftLeft ↓ + Left ↓,AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Text > Spelling,Show Spelling Options,None,ControlLeft ↓ + ShiftLeft ↓ + ; ↓,ControlLeft ↑ + ShiftLeft ↑ + ; ↑
+0,Layer > Arrange,Move Back One,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Layer > Arrange,Move Forward One,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Layer > Arrange,Move Inside,None,ControlLeft ↓ + AltLeft ↓ + G ↓,ControlLeft ↑ + AltLeft ↑ + G ↑
+0,Layer > Arrange,Move Outside,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + G ↑
+0,Layer > Arrange,Move to Back,None,ControlLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Layer > Arrange,Move to Front,None,ControlLeft ↓ + ShiftLeft ↓ + ] ↓,ControlLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Layer,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Layer,Lock,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Layer > Master Page,Edit Detached,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Layer > Master Page,Edit Frame Content,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Layer > New Adjustment,Black & White,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + B ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + B ↑
+0,Layer > New Adjustment,Curves,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Layer,Show All,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + H ↑
+0,Layer,Ungroup,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,Layer,Unlock,None,ControlLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + ShiftLeft ↑ + L ↑
+0,Layer,Unlock All,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + L ↑
+0,Layer > Designer,New Layer,None,ControlLeft ↓ + AltLeft ↓ + N ↓,ControlLeft ↑ + AltLeft ↑ + N ↑
+0,Layer > Designer,New Pixel Layer,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Layer > Photo,Convert to Curves,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Layer > Photo,Delete,None,Backspace ↓,Backspace ↑
+0,Layer > Photo,Duplicate Selection,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Layer > Photo,Fade...,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Layer > Photo,Invert,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Layer > Photo,Merge Down,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Layer > Photo,Merge Selected,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Layer > Photo,Merge Visible,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + E ↑
+0,Layer > New Adjustment,HSI...,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Layer > New Adjustment,Levels...,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Select,Deselect,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Select,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Select,Select Next,None,ControlLeft ↓ + AltLeft ↓ + ] ↓,ControlLeft ↑ + AltLeft ↑ + ] ↑
+0,Select,Select Previous,None,ControlLeft ↓ + AltLeft ↓ + [ ↓,ControlLeft ↑ + AltLeft ↑ + [ ↑
+0,Select > Designer,Invert Pixel Selection,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Select > Photo,Feather...,None,ShiftLeft ↓ + F6 ↓,ShiftLeft ↑ + F6 ↑
+0,Select > Photo,Grow/Shrink,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Select > Photo,Refine Edges...,None,ControlLeft ↓ + AltLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + R ↑
+0,Select > Photo,Selection From Layer,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Arrange > Photo,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Arrange > Photo,Live Stack Group,None,ControlLeft ↓ + AltLeft ↓ + G ↓,ControlLeft ↑ + AltLeft ↑ + G ↑
+0,Arrange > Photo,Move Back One,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Arrange > Photo,Move Forward One,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Arrange > Photo,Move to Back,None,ControlLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Arrange > Photo,Move to Front,None,ControlLeft ↓ + ShiftLeft ↓ + ] ↓,ControlLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Arrange > Photo,Ungroup,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,Filters > Distort,Lens Distortion...,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,Filters,Repeat Last Filter,None,ControlLeft ↓ + AltLeft ↓ + F ↓,ControlLeft ↑ + AltLeft ↑ + F ↑
+0,View,Preview Mode,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,View,Reset Rotation,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,View,Show Grid,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,View,Show Guides,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,View,Show Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,View,Show Toolbar,None,ControlLeft ↓ + AltLeft ↓ + T ↓,ControlLeft ↑ + AltLeft ↑ + T ↑
+0,View,Hide Studio,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,View > Studio Presets,Studio Preset 1,None,ControlLeft ↓ + ShiftLeft ↓ + 1 ↓,ControlLeft ↑ + ShiftLeft ↑ + 1 ↑
+0,View > Studio Presets,Studio Preset 2,None,ControlLeft ↓ + ShiftLeft ↓ + 2 ↓,ControlLeft ↑ + ShiftLeft ↑ + 2 ↑
+0,View > Studio Presets,Studio Preset 3,None,ControlLeft ↓ + ShiftLeft ↓ + 3 ↓,ControlLeft ↑ + ShiftLeft ↑ + 3 ↑
+0,View > Studio Presets,Studio Preset 4,None,ControlLeft ↓ + ShiftLeft ↓ + 4 ↓,ControlLeft ↑ + ShiftLeft ↑ + 4 ↑
+0,View > Studio Presets,Studio Preset 5,None,ControlLeft ↓ + ShiftLeft ↓ + 5 ↓,ControlLeft ↑ + ShiftLeft ↑ + 5 ↑
+0,View > Studio Presets,Studio Preset 6,None,ControlLeft ↓ + ShiftLeft ↓ + 6 ↓,ControlLeft ↑ + ShiftLeft ↑ + 6 ↑
+0,View > Studio Presets,Studio Preset 7,None,ControlLeft ↓ + ShiftLeft ↓ + 7 ↓,ControlLeft ↑ + ShiftLeft ↑ + 7 ↑
+0,View > Studio Presets,Studio Preset 8,None,ControlLeft ↓ + ShiftLeft ↓ + 8 ↓,ControlLeft ↑ + ShiftLeft ↑ + 8 ↑
+0,View > Studio Presets,Studio Preset 9,None,ControlLeft ↓ + ShiftLeft ↓ + 9 ↓,ControlLeft ↑ + ShiftLeft ↑ + 9 ↑
+0,View,Toggle UI,None,Tab ↓,Tab ↑
+0,View > View Mode,Clip to Canvas,None,\ ↓,\ ↑
+0,View > View Mode,Split View,None,", ↓",", ↑"
+0,View > View Mode,Pixels,None,ControlLeft ↓ + AltLeft ↓ + Y ↓,ControlLeft ↑ + AltLeft ↑ + Y ↑
+0,View > View Mode,Pixels (Retina),None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Y ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Y ↑
+0,View > Zoom,100%,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,View > Zoom,200%,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,View > Zoom,400%,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,View > Zoom,800%,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,View > Zoom,Actual Size,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,View > Zoom,Pixel Size,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,View > Zoom,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,View > Zoom,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,View > Zoom,Zoom to Document,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + 0 ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + 0 ↑
+0,View > Zoom,Zoom to Fit,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,View > Zoom,Zoom to Selection,None,ControlLeft ↓ + AltLeft ↓ + 0 ↓,ControlLeft ↑ + AltLeft ↑ + 0 ↑
+0,View > Zoom,Zoom to Width,None,AltLeft ↓ + ShiftLeft ↓ + 0 ↓,AltLeft ↑ + ShiftLeft ↑ + 0 ↑
+0,Help,Affinity Photo Help,None,F1 ↓,F1 ↑
+0,Tools > Publisher,Artistic Test/Frame Text/Table Tool,None,T ↓,T ↑
+0,Tools > Publisher,Color Picker Tool,None,I ↓,I ↑
+0,Tools > Publisher,Elipse/Rectangle/Rounded Rectangle Tool,None,M ↓,M ↑
+0,Tools > Publisher,Fill Tool,None,G ↓,G ↑
+0,Tools > Publisher,Move Tool,None,V ↓,V ↑
+0,Tools > Publisher,Node Tool,None,A ↓,A ↑
+0,Tools > Publisher,Pen Tool,None,P ↓,P ↑
+0,Tools > Publisher,Picture Frame Ellipse/Rectangle Tool,None,F ↓,F ↑
+0,Tools > Publisher,Transparency Tool,None,Y ↓,Y ↑
+0,Tools > Publisher,View Tool,None,H ↓,H ↑
+0,Tools > Publisher,Zoom Tool,None,Z ↓,Z ↑
+0,Tools > Designer,Contour Tool,None,O ↓,O ↑
+0,Tools > Designer,Corner Tool,None,C ↓,C ↑
+0,Tools > Designer,Pencil Tool,None,N ↓,N ↑
+0,Tools > Designer,Vector Brush Tool,None,B ↓,B ↑
+0,Tools > Photo,Background Erase/Erase Brush/Flood Erase Tool,None,E ↓,E ↑
+0,Tools > Photo,Blemish/Healing/Patch/Inpainting/Red Eye Tool,None,J ↓,J ↑
+0,Tools > Photo,Burn/Dodge/Sponge Tool,None,O ↓,O ↑
+0,Tools > Photo,Clone Brush Tool,None,S ↓,S ↑
+0,Tools > Photo,Color Replacement/Paint/Pixel/Smudge Brush Tool,None,B ↓,B ↑
+0,Tools > Photo,Marquee Tools,None,M ↓,M ↑
+0,Tools > Photo,Crop Tool,None,C ↓,C ↑
+0,Tools > Photo,Elipse/Rectangle/Rounded Rectangle Tool,None,U ↓,U ↑
+0,Tools > Photo,Flood Fill/Gradient Tool,None,G ↓,G ↑
+0,Tools > Photo,Flood/Brush Select Tool,None,W ↓,W ↑
+0,Tools > Photo,Freehand Selection Tool,None,L ↓,L ↑
+0,Tools > Photo,Pen/Node Tool,None,P ↓,P ↑
+0,Node/Pen Tools,Cycle Nodes (Forwards),None,] ↓,] ↑
+0,Node/Pen Tools,Cycle Nodes (Backwards),None,[ ↓,[ ↑
+0,Brush Tools,Increase Brush Size,None,] ↓,] ↑
+0,Brush Tools,Decrease Brush Size,None,[ ↓,[ ↑
+0,Miscellaneous,Cycle Selection Box,None,. ↓,. ↑
+0,Miscellaneous,Cycle Snapping Planes,None,' ↓,' ↑
+0,Miscellaneous,Find in Layers Panel,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Miscellaneous,Next Window,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,Miscellaneous,Previous Window,None,ControlLeft ↓ + ShiftLeft ↓ + Tab ↓,ControlLeft ↑ + ShiftLeft ↑ + Tab ↑
+0,Miscellaneous,Set Fill to None,None,/ ↓,/ ↑
+0,Miscellaneous,Swap Line and Fill,None,ShiftLeft ↓ + X ↓,ShiftLeft ↑ + X ↑
+0,Miscellaneous,Switch to Next View,None,` ↓,` ↑
+0,Miscellaneous,Toggle Fill Context,None,X ↓,X ↑
+0,Miscellaneous,Toggle Snapping,None,; ↓,; ↑
+0,Miscellaneous,Toggle Unicode,None,AltLeft ↓ + U ↓,AltLeft ↑ + U ↑
+0,Miscellaneous,Toggle Frequency Layer,None,F ↓,F ↑
+0,Miscellaneous,Toggle Quick Mask [Q],None,Q ↓,Q ↑
+0,Miscellaneous,Zoom In,None,F15 ↓,F15 ↑
+0,Miscellaneous,Zoom Out,None,F16 ↓,F16 ↑

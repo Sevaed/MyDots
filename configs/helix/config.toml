@@ -1,0 +1,27 @@
+theme = "tokyonight_moon"
+
+[editor]
+# line-number = "relative"
+mouse = false
+clipboard-provider = "wayland"
+# auto-pairs = false
+color-modes = true
+
+[editor.cursor-shape]
+insert="bar"
+
+[editor.statusline]
+left=["mode","read-only-indicator","file-modification-indicator","spinner","diagnostics",]
+center=["version-control","file-name","position"]
+right=["position-percentage","total-line-numbers","file-type"]
+mode.normal="N"
+mode.insert="I"
+mode.select="S"
+
+[editor.auto-save]
+focus-lost = true
+after-delay.enable = true
+
+
+[keys.normal]
+"tab" = {f=[":fmt",":w"]}

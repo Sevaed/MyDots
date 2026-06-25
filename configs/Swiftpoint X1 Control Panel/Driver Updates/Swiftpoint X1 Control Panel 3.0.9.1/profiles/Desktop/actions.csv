@@ -1,0 +1,34 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Windows Shortcuts,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Windows Shortcuts,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Windows Shortcuts,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Windows Shortcuts,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Windows Shortcuts,Redo,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Windows Shortcuts,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Windows Shortcuts,Print,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Windows Shortcuts,Task Manager,None,ControlLeft ↓ + ShiftLeft ↓ + Esc ↓,ControlLeft ↑ + ShiftLeft ↑ + Esc ↑
+0,Windows Shortcuts,Next Tab,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,Windows Shortcuts,Previous Tab,None,ControlLeft ↓ + ShiftLeft ↓ + Tab ↓,ControlLeft ↑ + ShiftLeft ↑ + Tab ↑
+0,Windows Shortcuts,Alt-Tab,None,AltLeft ↓ + Tab ↓,AltLeft ↑ + Tab ↑
+0,Windows Shortcuts,App Switcher,None,ControlLeft ↓ + AltLeft ↓ + Tab ↓,ControlLeft ↑ + AltLeft ↑ + Tab ↑
+0,Windows Shortcuts,Rename,None,F2 ↓,F2 ↑
+0,Windows Shortcuts,Refresh,None,F5 ↓,F5 ↑
+0,Windows Shortcuts,Close/Exit App,None,AltLeft ↓ + F4 ↓,AltLeft ↑ + F4 ↑
+0,Windows Shortcuts,Task View,None,WinLeft ↓ + Tab ↓,WinLeft ↑ + Tab ↑
+0,Windows Shortcuts,Next Desktop,None,WinLeft ↓ + ControlLeft ↓ + Right ↓,WinLeft ↑ + ControlLeft ↑ + Right ↑
+0,Windows Shortcuts,Previous Desktop,None,WinLeft ↓ + ControlLeft ↓ + Left ↓,WinLeft ↑ + ControlLeft ↑ + Left ↑
+0,Windows Shortcuts,Action Center,None,WinLeft ↓ + A ↓,WinLeft ↑ + A ↑
+0,Windows Shortcuts,Lock Windows,None,WinLeft ↓ + L ↓,WinLeft ↑ + L ↑
+0,Windows Shortcuts,Show/Hide Desktop,None,WinLeft ↓ + D ↓,WinLeft ↑ + D ↑
+0,Windows Shortcuts,Game Bar,None,WinLeft ↓ + G ↓,WinLeft ↑ + G ↑
+0,Windows Shortcuts,Screenshot Tool,None,WinLeft ↓ + ShiftLeft ↓ + S ↓,WinLeft ↑ + ShiftLeft ↑ + S ↑
+0,Windows Shortcuts,Clipboard History,None,WinLeft ↓ + V ↓,WinLeft ↑ + V ↑
+0,Windows Shortcuts,Minimize Inactive Windows,None,WinLeft ↓ + Home ↓,WinLeft ↑ + Home ↑
+0,Gestures,Tab Switching Gesture,None,ControlLeft ↓ + Tab,ControlLeft ↑
+1,Gestures,Next Tab,Movement X+ 300 Repeat,Tab + Vibrate 26 7 DontWait,None
+1,Gestures,Previous Tab,Movement X- 300 Repeat,ShiftLeft ↓ + Tab + ShiftLeft ↑ + Vibrate 26 7 DontWait, None
+0,Gestures,Gesture Template,None,None,None
+1,Gestures,None,Movement X+ 300 Repeat,Vibrate 26 7 DontWait ,None
+1,Gestures,None,Movement X- 300 Repeat,Vibrate 26 7 DontWait, None
+1,Gestures,None,Movement Y+ 200 Repeat,Vibrate 26 7 DontWait ,None
+1,Gestures,None,Movement Y- 200 Repeat,Vibrate 26 7 DontWait, None

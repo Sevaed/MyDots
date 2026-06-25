@@ -1,0 +1,175 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Mouse,Mouse Button 1 (Left),None,MouseButton1 ↓,MouseButton1 ↑
+0,Mouse,Mouse Button 2 (Right),None,MouseButton2 ↓,MouseButton2 ↑
+0,Mouse,Mouse Button 3 (Middle),None,MouseButton3 ↓,MouseButton3 ↑
+0,Mouse,Mouse Button 4 (Back),None,MouseButton4 ↓,MouseButton4 ↑
+0,Mouse,Mouse Button 5 (Forward),None,MouseButton5 ↓,MouseButton5 ↑
+0,Mouse,Scroll Up,None,ScrollUp,None
+0,Mouse,Scroll Down,None,ScrollDown,None
+0,Mouse,Scroll Left,None,ScrollLeft,None
+0,Mouse,Scroll Right,None,ScrollRight,None
+0,Keyboard > Letters & Numbers,A,None,A ↓,A ↑
+0,Keyboard > Letters & Numbers,B,None,B ↓,B ↑
+0,Keyboard > Letters & Numbers,C,None,C ↓,C ↑
+0,Keyboard > Letters & Numbers,D,None,D ↓,D ↑
+0,Keyboard > Letters & Numbers,E,None,E ↓,E ↑
+0,Keyboard > Letters & Numbers,F,None,F ↓,F ↑
+0,Keyboard > Letters & Numbers,G,None,G ↓,G ↑
+0,Keyboard > Letters & Numbers,H,None,H ↓,H ↑
+0,Keyboard > Letters & Numbers,I,None,I ↓,I ↑
+0,Keyboard > Letters & Numbers,J,None,J ↓,J ↑
+0,Keyboard > Letters & Numbers,K,None,K ↓,K ↑
+0,Keyboard > Letters & Numbers,L,None,L ↓,L ↑
+0,Keyboard > Letters & Numbers,M,None,M ↓,M ↑
+0,Keyboard > Letters & Numbers,N,None,N ↓,N ↑
+0,Keyboard > Letters & Numbers,O,None,O ↓,O ↑
+0,Keyboard > Letters & Numbers,P,None,P ↓,P ↑
+0,Keyboard > Letters & Numbers,Q,None,Q ↓,Q ↑
+0,Keyboard > Letters & Numbers,R,None,R ↓,R ↑
+0,Keyboard > Letters & Numbers,S,None,S ↓,S ↑
+0,Keyboard > Letters & Numbers,T,None,T ↓,T ↑
+0,Keyboard > Letters & Numbers,U,None,U ↓,U ↑
+0,Keyboard > Letters & Numbers,V,None,V ↓,V ↑
+0,Keyboard > Letters & Numbers,W,None,W ↓,W ↑
+0,Keyboard > Letters & Numbers,X,None,X ↓,X ↑
+0,Keyboard > Letters & Numbers,Y,None,Y ↓,Y ↑
+0,Keyboard > Letters & Numbers,Z,None,Z ↓,Z ↑
+0,Keyboard > Letters & Numbers,1,None,1 ↓,1 ↑
+0,Keyboard > Letters & Numbers,2,None,2 ↓,2 ↑
+0,Keyboard > Letters & Numbers,3,None,3 ↓,3 ↑
+0,Keyboard > Letters & Numbers,4,None,4 ↓,4 ↑
+0,Keyboard > Letters & Numbers,5,None,5 ↓,5 ↑
+0,Keyboard > Letters & Numbers,6,None,6 ↓,6 ↑
+0,Keyboard > Letters & Numbers,7,None,7 ↓,7 ↑
+0,Keyboard > Letters & Numbers,8,None,8 ↓,8 ↑
+0,Keyboard > Letters & Numbers,9,None,9 ↓,9 ↑
+0,Keyboard > Letters & Numbers,0,None,0 ↓,0 ↑
+0,Keyboard > Symbols,- OR _,None,- ↓,- ↑
+0,Keyboard > Symbols,= OR +,None,= ↓,= ↑
+0,Keyboard > Symbols,[ OR {,None,[ ↓,[ ↑
+0,Keyboard > Symbols,] OR },None,] ↓,] ↑
+0,Keyboard > Symbols,\ OR |,None,\ ↓,\ ↑
+0,Keyboard > Symbols,; OR :,None,; ↓,; ↑
+0,Keyboard > Symbols,"' OR """,None,' ↓,' ↑
+0,Keyboard > Symbols,` OR ~,None,` ↓,` ↑
+0,Keyboard > Symbols,", OR <",None,", ↓",", ↑"
+0,Keyboard > Symbols,. OR >,None,. ↓,. ↑
+0,Keyboard > Symbols,/ OR ?,None,/ ↓,/ ↑
+0,Keyboard > Modifiers & Actions,Control Left,None,ControlLeft ↓,ControlLeft ↑
+0,Keyboard > Modifiers & Actions,Shift Left,None,ShiftLeft ↓,ShiftLeft ↑
+0,Keyboard > Modifiers & Actions,Alt Left,None,AltLeft ↓,AltLeft ↑
+0,Keyboard > Modifiers & Actions,Super Key Left,None,WinLeft ↓,WinLeft ↑
+0,Keyboard > Modifiers & Actions,Control Right,None,ControlRight ↓,ControlRight ↑
+0,Keyboard > Modifiers & Actions,Shift Right,None,ShiftRight ↓,ShiftRight ↑
+0,Keyboard > Modifiers & Actions,Alt Right,None,AltRight ↓,AltRight ↑
+0,Keyboard > Modifiers & Actions,Super Key Right,None,WinRight ↓,WinRight ↑
+0,Keyboard > Modifiers & Actions,Enter,None,Enter ↓,Enter ↑
+0,Keyboard > Modifiers & Actions,Escape,None,Esc ↓,Esc ↑
+0,Keyboard > Modifiers & Actions,Backspace,None,Backspace ↓,Backspace ↑
+0,Keyboard > Modifiers & Actions,Tab,None,Tab ↓,Tab ↑
+0,Keyboard > Modifiers & Actions,Spacebar,None,Space ↓,Space ↑
+0,Keyboard > Modifiers & Actions,Caps Lock,None,CapsLock ↓,CapsLock ↑
+0,Keyboard > Modifiers & Actions,Print Screen,None,PrintScreen ↓,PrintScreen ↑
+0,Keyboard > Modifiers & Actions,Scroll Lock,None,ScrollLock ↓,ScrollLock ↑
+0,Keyboard > Modifiers & Actions,Pause / Break,None,PauseBreak ↓,PauseBreak ↑
+0,Keyboard > Modifiers & Actions,Insert,None,Insert ↓,Insert ↑
+0,Keyboard > Modifiers & Actions,Home,None,Home ↓,Home ↑
+0,Keyboard > Modifiers & Actions,Page Up,None,PageUp ↓,PageUp ↑
+0,Keyboard > Modifiers & Actions,Page Down,None,PageDown ↓,PageDown ↑
+0,Keyboard > Modifiers & Actions,Delete,None,Delete ↓,Delete ↑
+0,Keyboard > Modifiers & Actions,End,None,End ↓,End ↑
+0,Keyboard > Modifiers & Actions,Right,None,Right ↓,Right ↑
+0,Keyboard > Modifiers & Actions,Left,None,Left ↓,Left ↑
+0,Keyboard > Modifiers & Actions,Down,None,Down ↓,Down ↑
+0,Keyboard > Modifiers & Actions,Up,None,Up ↓,Up ↑
+0,Keyboard > Modifiers & Actions,Application,None,Application ↓,Application ↑
+0,Keyboard > Functions,F1,None,F1 ↓,F1 ↑
+0,Keyboard > Functions,F2,None,F2 ↓,F2 ↑
+0,Keyboard > Functions,F3,None,F3 ↓,F3 ↑
+0,Keyboard > Functions,F4,None,F4 ↓,F4 ↑
+0,Keyboard > Functions,F5,None,F5 ↓,F5 ↑
+0,Keyboard > Functions,F6,None,F6 ↓,F6 ↑
+0,Keyboard > Functions,F7,None,F7 ↓,F7 ↑
+0,Keyboard > Functions,F8,None,F8 ↓,F8 ↑
+0,Keyboard > Functions,F9,None,F9 ↓,F9 ↑
+0,Keyboard > Functions,F10,None,F10 ↓,F10 ↑
+0,Keyboard > Functions,F11,None,F11 ↓,F11 ↑
+0,Keyboard > Functions,F12,None,F12 ↓,F12 ↑
+0,Keyboard > Functions,F13,None,F13 ↓,F13 ↑
+0,Keyboard > Functions,F14,None,F14 ↓,F14 ↑
+0,Keyboard > Functions,F15,None,F15 ↓,F15 ↑
+0,Keyboard > Functions,F16,None,F16 ↓,F16 ↑
+0,Keyboard > Functions,F17,None,F17 ↓,F17 ↑
+0,Keyboard > Functions,F18,None,F18 ↓,F18 ↑
+0,Keyboard > Functions,F19,None,F19 ↓,F19 ↑
+0,Keyboard > Functions,F20,None,F20 ↓,F20 ↑
+0,Keyboard > Functions,F21,None,F21 ↓,F21 ↑
+0,Keyboard > Functions,F22,None,F22 ↓,F22 ↑
+0,Keyboard > Functions,F23,None,F23 ↓,F23 ↑
+0,Keyboard > Functions,F24,None,F24 ↓,F24 ↑
+0,Keyboard > NumPad,Num Lock,None,NumLock ↓,NumLock ↑
+0,Keyboard > NumPad,Numpad /,None,Num/ ↓,Num/ ↑
+0,Keyboard > NumPad,Numpad *,None,Num* ↓,Num* ↑
+0,Keyboard > NumPad,Numpad -,None,Num- ↓,Num- ↑
+0,Keyboard > NumPad,Numpad +,None,Num+ ↓,Num+ ↑
+0,Keyboard > NumPad,Numpad Enter,None,NumEnter ↓,NumEnter ↑
+0,Keyboard > NumPad,Numpad 1,None,Num1 ↓,Num1 ↑
+0,Keyboard > NumPad,Numpad 2,None,Num2 ↓,Num2 ↑
+0,Keyboard > NumPad,Numpad 3,None,Num3 ↓,Num3 ↑
+0,Keyboard > NumPad,Numpad 4,None,Num4 ↓,Num4 ↑
+0,Keyboard > NumPad,Numpad 5,None,Num5 ↓,Num5 ↑
+0,Keyboard > NumPad,Numpad 6,None,Num6 ↓,Num6 ↑
+0,Keyboard > NumPad,Numpad 7,None,Num7 ↓,Num7 ↑
+0,Keyboard > NumPad,Numpad 8,None,Num8 ↓,Num8 ↑
+0,Keyboard > NumPad,Numpad 9,None,Num9 ↓,Num9 ↑
+0,Keyboard > NumPad,Numpad 0,None,Num0 ↓,Num0 ↑
+0,Keyboard > NumPad,Numpad .,None,Num. ↓,Num. ↑
+0,Media,Play/Pause,None,PlayPause ↓,PlayPause ↑
+0,Media,Play,None,Play ↓,Play ↑
+0,Media,Pause,None,Pause ↓,Pause ↑
+0,Media,Record,None,Record ↓,Record ↑
+0,Media,Rewind,None,Rewind ↓,Rewind ↑
+0,Media,Next Track,None,NextTrack ↓,NextTrack ↑
+0,Media,Previous Track,None,PrevTrack ↓,PrevTrack ↑
+0,Media,Stop,None,Stop ↓,Stop ↑
+0,Media,Volume Up,None,VolumeUp ↓,VolumeUp ↑
+0,Media,Volume Down,None,VolumeDown ↓,VolumeDown ↑
+0,Media,Mute,None,Mute ↓,Mute ↑
+0,Joystick,Joystick Button 1,None,Joystick1 ↓,Joystick1 ↑
+0,Joystick,Joystick Button 2,None,Joystick2 ↓,Joystick2 ↑
+0,Joystick,Joystick Button 3,None,Joystick3 ↓,Joystick3 ↑
+0,Joystick,Joystick Button 4,None,Joystick4 ↓,Joystick4 ↑
+0,Joystick,Joystick Button 5,None,Joystick5 ↓,Joystick5 ↑
+0,Joystick,Joystick Button 6,None,Joystick6 ↓,Joystick6 ↑
+0,Joystick,Joystick Button 7,None,Joystick7 ↓,Joystick7 ↑
+0,Joystick,Joystick Button 8,None,Joystick8 ↓,Joystick8 ↑
+0,Joystick,Joystick Button 9,None,Joystick9 ↓,Joystick9 ↑
+0,Joystick,Joystick Button 10,None,Joystick10 ↓,Joystick10 ↑
+0,Joystick,Joystick Button 11,None,Joystick11 ↓,Joystick11 ↑
+0,Joystick,Joystick Button 12,None,Joystick12 ↓,Joystick12 ↑
+0,Joystick,Joystick Button 13,None,Joystick13 ↓,Joystick13 ↑
+0,Joystick,Joystick Button 14,None,Joystick14 ↓,Joystick14 ↑
+0,Joystick,Joystick Button 15,None,Joystick15 ↓,Joystick15 ↑
+0,Joystick,Joystick Button 16,None,Joystick16 ↓,Joystick16 ↑
+0,Joystick,Joystick Button 17,None,Joystick17 ↓,Joystick17 ↑
+0,Joystick,Joystick Button 18,None,Joystick18 ↓,Joystick18 ↑
+0,Joystick,Joystick Button 19,None,Joystick19 ↓,Joystick19 ↑
+0,Joystick,Joystick Button 20,None,Joystick20 ↓,Joystick20 ↑
+0,Joystick,Joystick Button 21,None,Joystick21 ↓,Joystick21 ↑
+0,Joystick,Joystick Button 22,None,Joystick22 ↓,Joystick22 ↑
+0,Joystick,Joystick Button 23,None,Joystick23 ↓,Joystick23 ↑
+0,Joystick,Joystick Button 24,None,Joystick24 ↓,Joystick24 ↑
+0,Joystick,Joystick Button 25,None,Joystick25 ↓,Joystick25 ↑
+0,Joystick,Joystick Button 26,None,Joystick26 ↓,Joystick26 ↑
+0,Joystick,Joystick Button 27,None,Joystick27 ↓,Joystick27 ↑
+0,Joystick,Joystick Button 28,None,Joystick28 ↓,Joystick28 ↑
+0,Joystick,Joystick Button 29,None,Joystick29 ↓,Joystick29 ↑
+0,Joystick,Joystick Button 30,None,Joystick30 ↓,Joystick30 ↑
+0,Joystick,Joystick Button 31,None,Joystick31 ↓,Joystick31 ↑
+0,Joystick,Joystick Button 32,None,Joystick32 ↓,Joystick32 ↑
+0,Mouse Settings > DPI,Next DPI Level,None,DPILevel Next,None
+0,Mouse Settings > DPI,Previous DPI Level,None,DPILevel Prev,None
+0,Mouse Settings > Profile Change,Next Profile,None,Profile Next,None
+0,Mouse Settings > Profile Change,Previous Profile,None,Profile Prev,None
+0,Mouse Settings > Profile Change,Parent Profile,None,Profile Parent,None
+0,Mouse Settings > Profile Change,Sub-Profile,None,Profile Sub,None

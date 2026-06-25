@@ -1,0 +1,3 @@
+Name=Overwatch
+BundleID=Overwatch
+MouseSupport=5,20,30,

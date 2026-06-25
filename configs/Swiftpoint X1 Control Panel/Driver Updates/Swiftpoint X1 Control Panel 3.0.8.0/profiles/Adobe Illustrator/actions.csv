@@ -1,0 +1,234 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Tools,Selection,None,V ↓,V ↑
+0,Tools,Direct Selection,None,A ↓,A ↑
+0,Tools,Magic Wand,None,Y ↓,Y ↑
+0,Tools,Artboard,None,ShiftLeft ↓ + O ↓,ShiftLeft ↑ + O ↑
+0,Tools,Lasso,None,Q ↓,Q ↑
+0,Tools,Pen,None,P ↓,P ↑
+0,Tools,Add Anchor Point,None,= ↓,= ↑
+0,Tools,Delete Anchor Point,None,- ↓,- ↑
+0,Tools,Anchor Point,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Tools,Curvature Tool,None,ShiftLeft ↓ + ` ↓,ShiftLeft ↑ + ` ↑
+0,Tools,Line Segment,None,\ ↓,\ ↑
+0,Tools,Rectangle,None,M ↓,M ↑
+0,Tools,Ellipse,None,L ↓,L ↑
+0,Tools,Paintbrush,None,B ↓,B ↑
+0,Tools,Blob Brush,None,ShiftLeft ↓ + B ↓,ShiftLeft ↑ + B ↑
+0,Tools,Pencil,None,N ↓,N ↑
+0,Tools,Shaper Tool,None,ShiftLeft ↓ + N ↓,ShiftLeft ↑ + N ↑
+0,Tools,Symbol Sprayer,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Tools,Column Graph,None,J ↓,J ↑
+0,Tools,Slice,None,ShiftLeft ↓ + K ↓,ShiftLeft ↑ + K ↑
+0,Tools,Perspective Grid,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Tools,Perspective Selection,None,ShiftLeft ↓ + V ↓,ShiftLeft ↑ + V ↑
+0,Tools,Type,None,T ↓,T ↑
+0,Tools,Touch Type,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Tools,Gradient,None,G ↓,G ↑
+0,Tools,Mesh,None,U ↓,U ↑
+0,Tools,Shape Builder,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Tools,Live Paint Bucket,None,K ↓,K ↑
+0,Tools,Live Paint Selection,None,ShiftLeft ↓ + L ↓,ShiftLeft ↑ + L ↑
+0,Tools,Rotate,None,R ↓,R ↑
+0,Tools,Reflect,None,O ↓,O ↑
+0,Tools,Scale,None,S ↓,S ↑
+0,Tools,Width,None,ShiftLeft ↓ + W ↓,ShiftLeft ↑ + W ↑
+0,Tools,Warp,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Tools,Free Transform,None,E ↓,E ↑
+0,Tools,Eyedropper,None,I ↓,I ↑
+0,Tools,Blend,None,W ↓,W ↑
+0,Tools,Eraser,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Tools,Scissors,None,C ↓,C ↑
+0,Tools,Hand,None,H ↓,H ↑
+0,Tools,Rotate View Tool,None,ShiftLeft ↓ + H ↓,ShiftLeft ↑ + H ↑
+0,Tools,Zoom,None,Z ↓,Z ↑
+0,Tools,Toggle Fill/Stroke,None,X ↓,X ↑
+0,Tools,Default,None,D ↓,D ↑
+0,Tools,Swap Fill/Stroke,None,ShiftLeft ↓ + X ↓,ShiftLeft ↑ + X ↑
+0,Tools,Color,None,", ↓",", ↑"
+0,Tools,Gradient,None,. ↓,. ↑
+0,Tools,None,None,/ ↓,/ ↑
+0,Tools,Toggle Screen Mode,None,F ↓,F ↑
+0,Tools,Show/Hide All Palettes,None,Tab ↓,Tab ↑
+0,Tools,Show/Hide All But Toolbox,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Tools,Increase Diameter,None,] ↓,] ↑
+0,Tools,Decrease Diameter,None,[ ↓,[ ↑
+0,Tools,Symbolism Tools - Increase Intensity,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Tools,Symbolism Tools - Decrease Intensity,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Tools,Toggle Drawing Mode,None,ShiftLeft ↓ + D ↓,ShiftLeft ↑ + D ↑
+0,Tools,Presentation Mode,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,File,New,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,File,New from Template,None,ShiftLeft ↓ + ControlLeft ↓ + N ↓,ShiftLeft ↑ + ControlLeft ↑ + N ↑
+0,File,Open,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,File,Browse in Bridge,None,AltLeft ↓ + ControlLeft ↓ + O ↓,AltLeft ↑ + ControlLeft ↑ + O ↑
+0,File,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,File,Close All,None,AltLeft ↓ + ControlLeft ↓ + W ↓,AltLeft ↑ + ControlLeft ↑ + W ↑
+0,File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,File,Save As,None,ShiftLeft ↓ + ControlLeft ↓ + S ↓,ShiftLeft ↑ + ControlLeft ↑ + S ↑
+0,File,Save a Copy,None,AltLeft ↓ + ControlLeft ↓ + S ↓,AltLeft ↑ + ControlLeft ↑ + S ↑
+0,File,Revert,None,F12 ↓,F12 ↑
+0,File,Place,None,ShiftLeft ↓ + ControlLeft ↓ + P ↓,ShiftLeft ↑ + ControlLeft ↑ + P ↑
+0,File > Export,Export for Screens,None,AltLeft ↓ + ControlLeft ↓ + E ↓,AltLeft ↑ + ControlLeft ↑ + E ↑
+0,File > Export,Save for Web (Legacy),None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + S ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + S ↑
+0,File,Package,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + P ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + P ↑
+0,File > Scripts,Other Script,None,ControlLeft ↓ + F12 ↓,ControlLeft ↑ + F12 ↑
+0,File,Document Setup,None,AltLeft ↓ + ControlLeft ↓ + P ↓,AltLeft ↑ + ControlLeft ↑ + P ↑
+0,File,File Info,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + I ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + I ↑
+0,File,Print,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,File,Exit,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Edit,Redo,None,ShiftLeft ↓ + ControlLeft ↓ + Z ↓,ShiftLeft ↑ + ControlLeft ↑ + Z ↑
+0,Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Edit,Paste in Front,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Edit,Paste in Back,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Edit,Paste in Place,None,ShiftLeft ↓ + ControlLeft ↓ + V ↓,ShiftLeft ↑ + ControlLeft ↑ + V ↑
+0,Edit,Paste on All Artboards,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + V ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + V ↑
+0,Edit,Paste without Formatting,None,AltLeft ↓ + ControlLeft ↓ + V ↓,AltLeft ↑ + ControlLeft ↑ + V ↑
+0,Edit > Spelling,Check Spelling,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Edit,Color Settings,None,ShiftLeft ↓ + ControlLeft ↓ + K ↓,ShiftLeft ↑ + ControlLeft ↑ + K ↑
+0,Edit,Keyboard Shortcuts,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + K ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + K ↑
+0,Edit > Preferences,General,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Object > Transform,Transform Again,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Object > Transform,Move,None,ShiftLeft ↓ + ControlLeft ↓ + M ↓,ShiftLeft ↑ + ControlLeft ↑ + M ↑
+0,Object > Arrange,Bring to Front,None,ShiftLeft ↓ + ControlLeft ↓ + ] ↓,ShiftLeft ↑ + ControlLeft ↑ + ] ↑
+0,Object > Arrange,Bring Forward,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Object > Arrange,Send Backward,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Object > Arrange,Send to Back,None,ShiftLeft ↓ + ControlLeft ↓ + [ ↓,ShiftLeft ↑ + ControlLeft ↑ + [ ↑
+0,Object,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Object,Ungroup,None,ShiftLeft ↓ + ControlLeft ↓ + G ↓,ShiftLeft ↑ + ControlLeft ↑ + G ↑
+0,Object > Lock,Selection,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Object,Unlock All,None,AltLeft ↓ + ControlLeft ↓ + 2 ↓,AltLeft ↑ + ControlLeft ↑ + 2 ↑
+0,Object > Hide,Selection,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Object,Show All,None,AltLeft ↓ + ControlLeft ↓ + 3 ↓,AltLeft ↑ + ControlLeft ↑ + 3 ↑
+0,Object > Path,Join,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Object > Path,Average,None,AltLeft ↓ + ControlLeft ↓ + J ↓,AltLeft ↑ + ControlLeft ↑ + J ↑
+0,Object > Pattern,Edit Pattern,None,ShiftLeft ↓ + ControlLeft ↓ + F8 ↓,ShiftLeft ↑ + ControlLeft ↑ + F8 ↑
+0,Object > Blend,Make,None,AltLeft ↓ + ControlLeft ↓ + B ↓,AltLeft ↑ + ControlLeft ↑ + B ↑
+0,Object > Blend,Release,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + B ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + B ↑
+0,Object > Envelope Distort,Make with Warp,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + W ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + W ↑
+0,Object > Envelope Distort,Make with Mesh,None,AltLeft ↓ + ControlLeft ↓ + M ↓,AltLeft ↑ + ControlLeft ↑ + M ↑
+0,Object > Envelope Distort,Make with Top Object,None,AltLeft ↓ + ControlLeft ↓ + C ↓,AltLeft ↑ + ControlLeft ↑ + C ↑
+0,Object > Live Paint,Make,None,AltLeft ↓ + ControlLeft ↓ + X ↓,AltLeft ↑ + ControlLeft ↑ + X ↑
+0,Object > Clipping Mask,Make,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Object > Clipping Mask,Release,None,AltLeft ↓ + ControlLeft ↓ + 7 ↓,AltLeft ↑ + ControlLeft ↑ + 7 ↑
+0,Object Compount Path,Make,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Object Compount Path,Release,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + 8 ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + 8 ↑
+0,Type,Create Outlines,None,ShiftLeft ↓ + ControlLeft ↓ + O ↓,ShiftLeft ↑ + ControlLeft ↑ + O ↑
+0,Type > Insert Special Character > Symbols,Bullet,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Type > Insert Special Character > Symbols,Copyright Symbol,None,AltLeft ↓ + G ↓,AltLeft ↑ + G ↑
+0,Type > Insert Special Character > Symbols,Ellipsis,None,AltLeft ↓ + ; ↓,AltLeft ↑ + ; ↑
+0,Type > Insert Special Character > Symbols,Paragraph Symbol,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Type > Insert Special Character > Symbols,Registered Trademark Symbol,None,AltLeft ↓ + R ↓,AltLeft ↑ + R ↑
+0,Type > Insert Special Character > Symbols,Section Symbol,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Type > Insert Special Character > Symbols,Trademark Symbol,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Type > Insert Special Character > Hyphens And Dashes,Em Dash,None,AltLeft ↓ + ShiftLeft ↓ + - ↓,AltLeft ↑ + ShiftLeft ↑ + - ↑
+0,Type > Insert Special Character > Hyphens And Dashes,En Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Type > Insert Special Character > Hyphens And Dashes,Discretionary Hyphen,None,ShiftLeft ↓ + ControlLeft ↓ + - ↓,ShiftLeft ↑ + ControlLeft ↑ + - ↑
+0,Type > Insert Special Character > Quotation Marks,Double Left Quotation Marks,None,AltLeft ↓ + [ ↓,AltLeft ↑ + [ ↑
+0,Type > Insert Special Character > Quotation Marks,Double Right Quotation Marks,None,AltLeft ↓ + ShiftLeft ↓ + [ ↓,AltLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Type > Insert Special Character > Quotation Marks,Single Left Quotation Marks,None,AltLeft ↓ + ] ↓,AltLeft ↑ + ] ↑
+0,Type > Insert Special Character > Quotation Marks,Single Right Quotation Marks,None,AltLeft ↓ + ShiftLeft ↓ + ] ↓,AltLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Type > Insert WhiteSpace Character,Em Space,None,ShiftLeft ↓ + ControlLeft ↓ + M ↓,ShiftLeft ↑ + ControlLeft ↑ + M ↑
+0,Type > Insert WhiteSpace Character,En Space,None,ShiftLeft ↓ + ControlLeft ↓ + N ↓,ShiftLeft ↑ + ControlLeft ↑ + N ↑
+0,Type > Insert WhiteSpace Character,Thin Space,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + M ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + M ↑
+0,Type,Show Hidden Characters,None,AltLeft ↓ + ControlLeft ↓ + I ↓,AltLeft ↑ + ControlLeft ↑ + I ↑
+0,Select,All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Select,All on Active Artboard,None,AltLeft ↓ + ControlLeft ↓ + A ↓,AltLeft ↑ + ControlLeft ↑ + A ↑
+0,Select,Deselect,None,ShiftLeft ↓ + ControlLeft ↓ + A ↓,ShiftLeft ↑ + ControlLeft ↑ + A ↑
+0,Select,Reselect,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Select,Next Object Above,None,AltLeft ↓ + ControlLeft ↓ + ] ↓,AltLeft ↑ + ControlLeft ↑ + ] ↑
+0,Select,Next Object Below,None,AltLeft ↓ + ControlLeft ↓ + [ ↓,AltLeft ↑ + ControlLeft ↑ + [ ↑
+0,Effect,Apply Last Effect,None,ShiftLeft ↓ + ControlLeft ↓ + E ↓,ShiftLeft ↑ + ControlLeft ↑ + E ↑
+0,Effect,Last Effect,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + E ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + E ↑
+0,View,Preview,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,View,GPU Preview,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,View,Overprint Preview,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + Y ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + Y ↑
+0,View,Pixel Preview,None,AltLeft ↓ + ControlLeft ↓ + Y ↓,AltLeft ↑ + ControlLeft ↑ + Y ↑
+0,View,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,View,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,View,Fit Artboard in Window,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,View,Fit All in Window,None,AltLeft ↓ + ControlLeft ↓ + 0 ↓,AltLeft ↑ + ControlLeft ↑ + 0 ↑
+0,View,Reset Rotate View,None,ShiftLeft ↓ + ControlLeft ↓ + 1 ↓,ShiftLeft ↑ + ControlLeft ↑ + 1 ↑
+0,View,Hide Bounding Box,None,ShiftLeft ↓ + ControlLeft ↓ + B ↓,ShiftLeft ↑ + ControlLeft ↑ + B ↑
+0,View,Show Transparency Grid,None,ShiftLeft ↓ + ControlLeft ↓ + D ↓,ShiftLeft ↑ + ControlLeft ↑ + D ↑
+0,View,Actual Size,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,View,Hide Gradient Annotator,None,AltLeft ↓ + ControlLeft ↓ + G ↓,AltLeft ↑ + ControlLeft ↑ + G ↑
+0,View,Hide Edges,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,View,Smart Guides,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,View > Perspective Grid,Show Grid,None,ShiftLeft ↓ + ControlLeft ↓ + I ↓,ShiftLeft ↑ + ControlLeft ↑ + I ↑
+0,View,Hide Artboards,None,ShiftLeft ↓ + ControlLeft ↓ + H ↓,ShiftLeft ↑ + ControlLeft ↑ + H ↑
+0,View,Show Template,None,ShiftLeft ↓ + ControlLeft ↓ + W ↓,ShiftLeft ↑ + ControlLeft ↑ + W ↑
+0,View > Rulers,Show Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,View > Rulers,Change to Artboard Rulers,None,AltLeft ↓ + ControlLeft ↓ + R ↓,AltLeft ↑ + ControlLeft ↑ + R ↑
+0,View,Show Text Threads,None,ShiftLeft ↓ + ControlLeft ↓ + Y ↓,ShiftLeft ↑ + ControlLeft ↑ + Y ↑
+0,View > Guides,Hide Guides,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,View > Guides,Lock Guides,None,AltLeft ↓ + ControlLeft ↓ + ; ↓,AltLeft ↑ + ControlLeft ↑ + ; ↑
+0,View > Guides,Make Guides,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,View > Guides,Release Guides,None,AltLeft ↓ + ControlLeft ↓ + 5 ↓,AltLeft ↑ + ControlLeft ↑ + 5 ↑
+0,View,Show Grid,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,View,Snap to Grid,None,ShiftLeft ↓ + ControlLeft ↓ + ' ↓,ShiftLeft ↑ + ControlLeft ↑ + ' ↑
+0,View,Snap to Point,None,AltLeft ↓ + ControlLeft ↓ + ' ↓,AltLeft ↑ + ControlLeft ↑ + ' ↑
+0,Window,Align,None,ShiftLeft ↓ + F7 ↓,ShiftLeft ↑ + F7 ↑
+0,Window,Appearance,None,ShiftLeft ↓ + F6 ↓,ShiftLeft ↑ + F6 ↑
+0,Window,Attributes,None,ControlLeft ↓ + F11 ↓,ControlLeft ↑ + F11 ↑
+0,Window,Brushes,None,F5 ↓,F5 ↑
+0,Window,Color,None,F6 ↓,F6 ↑
+0,Window,Color Guide,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,Window,Gradient,None,ControlLeft ↓ + F9 ↓,ControlLeft ↑ + F9 ↑
+0,Window,Graphic Styles,None,ShiftLeft ↓ + F5 ↓,ShiftLeft ↑ + F5 ↑
+0,Window,Info,None,ControlLeft ↓ + F8 ↓,ControlLeft ↑ + F8 ↑
+0,Window,Layers,None,F7 ↓,F7 ↑
+0,Window,Pathfinder,None,ShiftLeft ↓ + ControlLeft ↓ + F9 ↓,ShiftLeft ↑ + ControlLeft ↑ + F9 ↑
+0,Window,Stroke,None,ControlLeft ↓ + F10 ↓,ControlLeft ↑ + F10 ↑
+0,Window,Symbols,None,ShiftLeft ↓ + ControlLeft ↓ + F11 ↓,ShiftLeft ↑ + ControlLeft ↑ + F11 ↑
+0,Window,Transform,None,ShiftLeft ↓ + F8 ↓,ShiftLeft ↑ + F8 ↑
+0,Window,Transparency,None,ShiftLeft ↓ + ControlLeft ↓ + F10 ↓,ShiftLeft ↑ + ControlLeft ↑ + F10 ↑
+0,Window > Type,Character,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Window > Type,OpenType,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + T ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + T ↑
+0,Window > Type,Paragraph,None,AltLeft ↓ + ControlLeft ↓ + T ↓,AltLeft ↑ + ControlLeft ↑ + T ↑
+0,Window > Type,Tabs,None,ShiftLeft ↓ + ControlLeft ↓ + T ↓,ShiftLeft ↑ + ControlLeft ↑ + T ↑
+0,Help,Illustrator Help,None,F1 ↓,F1 ↑
+0,Other Select,Switch Selection Tools,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,Other Text,Point Size Up,None,ShiftLeft ↓ + ControlLeft ↓ + . ↓,ShiftLeft ↑ + ControlLeft ↑ + . ↑
+0,Other Text,Point Size Down,None,"ShiftLeft ↓ + ControlLeft ↓ + , ↓","ShiftLeft ↑ + ControlLeft ↑ + , ↑"
+0,Other Text,Font Size Step Up,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + . ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + . ↑
+0,Other Text,Font Size Step Down,None,"AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + , ↓","AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + , ↑"
+0,Other Text,Kern Looser,None,ShiftLeft ↓ + ControlLeft ↓ + ] ↓,ShiftLeft ↑ + ControlLeft ↑ + ] ↑
+0,Other Text,Kern Tighter,None,ShiftLeft ↓ + ControlLeft ↓ + [ ↓,ShiftLeft ↑ + ControlLeft ↑ + [ ↑
+0,Other Text,Tracking,None,AltLeft ↓ + ControlLeft ↓ + K ↓,AltLeft ↑ + ControlLeft ↑ + K ↑
+0,Other Text,Clear Tracking,None,AltLeft ↓ + ControlLeft ↓ + Q ↓,AltLeft ↑ + ControlLeft ↑ + Q ↑
+0,Other Text,Spacing,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + O ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + O ↑
+0,Other Text,Uniform Type,None,ShiftLeft ↓ + ControlLeft ↓ + X ↓,ShiftLeft ↑ + ControlLeft ↑ + X ↑
+0,Other Text,Highlight Font,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + F ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + F ↑
+0,Other Text,Highlight Font (Secondary),None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + M ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + M ↑
+0,Other Text,Left Align Text,None,ShiftLeft ↓ + ControlLeft ↓ + L ↓,ShiftLeft ↑ + ControlLeft ↑ + L ↑
+0,Other Text,Center Text,None,ShiftLeft ↓ + ControlLeft ↓ + C ↓,ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Other Text,Right Align Text,None,ShiftLeft ↓ + ControlLeft ↓ + R ↓,ShiftLeft ↑ + ControlLeft ↑ + R ↑
+0,Other Text,Justify Text Left,None,ShiftLeft ↓ + ControlLeft ↓ + J ↓,ShiftLeft ↑ + ControlLeft ↑ + J ↑
+0,Other Text,Justify All Lines,None,ShiftLeft ↓ + ControlLeft ↓ + F ↓,ShiftLeft ↑ + ControlLeft ↑ + F ↑
+0,Other Text,Toggle Auto Hyphenation,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + H ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + H ↑
+0,Other Text,Toggle Line Composer,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + C ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Other Text,Subscript,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + = ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + = ↑
+0,Other Text,Superscript,None,ShiftLeft ↓ + ControlLeft ↓ + = ↓,ShiftLeft ↑ + ControlLeft ↑ + = ↑
+0,Other Object,Lock Others,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + 2 ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + 2 ↑
+0,Other Object,Hide Others,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + 3 ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + 3 ↑
+0,Other Object,Repeat Pathfinder,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Other Object,Average & Join,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + J ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + J ↑
+0,Other Panel,New Symbol,None,F8 ↓,F8 ↑
+0,Other Panel,Add New Fill,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Other Panel,Add New Stroke,None,AltLeft ↓ + ControlLeft ↓ + / ↓,AltLeft ↑ + ControlLeft ↑ + / ↑
+0,Other Panel,New Layer,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Other Panel,New Layer with Dialog,None,AltLeft ↓ + ControlLeft ↓ + L ↓,AltLeft ↑ + ControlLeft ↑ + L ↑
+0,Other Misc,Switch Units,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + U ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + U ↑
+0,Other Misc,New File (No Dialog),None,AltLeft ↓ + ControlLeft ↓ + N ↓,AltLeft ↑ + ControlLeft ↑ + N ↑
+0,Other Misc,Cut (Secondary),None,F2 ↓,F2 ↑
+0,Other Misc,Copy (Secondary),None,F3 ↓,F3 ↑
+0,Other Misc,Paste (Secondary),None,F4 ↓,F4 ↑
+0,Other Misc,Zoom In (Secondary),None,ControlLeft ↓ + Num+ ↓,ControlLeft ↑ + Num+ ↑
+0,Other Misc,Navigate to Next Document,None,ControlLeft ↓ + F6 ↓,ControlLeft ↑ + F6 ↑
+0,Other Misc,Navigate to Previous Document,None,ShiftLeft ↓ + ControlLeft ↓ + F6 ↓,ShiftLeft ↑ + ControlLeft ↑ + F6 ↑
+0,Other Misc,Navigate to Next Document Group,None,AltLeft ↓ + ControlLeft ↓ + F6 ↓,AltLeft ↑ + ControlLeft ↑ + F6 ↑
+0,Other Misc,Navigate to Previous Document Group,None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓ + F6 ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑ + F6 ↑
+0,Other Misc,Subscript (Secondary),None,AltLeft ↓ + ShiftLeft ↓ + ControlLeft ↓,AltLeft ↑ + ShiftLeft ↑ + ControlLeft ↑
+0,Other Misc,Superscript (Secondary),None,ShiftLeft ↓ + ControlLeft ↓,ShiftLeft ↑ + ControlLeft ↑

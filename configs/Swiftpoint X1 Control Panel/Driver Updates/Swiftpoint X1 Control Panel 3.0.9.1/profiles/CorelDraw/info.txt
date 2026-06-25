@@ -1,0 +1,3 @@
+Name=CorelDraw
+BundleID=CorelDRAW
+MouseSupport=5,10,30,

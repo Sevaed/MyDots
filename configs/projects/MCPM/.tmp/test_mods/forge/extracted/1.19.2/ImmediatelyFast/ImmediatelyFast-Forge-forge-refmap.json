@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "net/raphimc/immediatelyfast/forge/injection/mixins/hud_batching/MixinForgeGui": {
+      "renderAir": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderAir(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderFood": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderFood(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderHealthMount": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderHealthMount(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+      "renderArmor": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderArmor(Lcom/mojang/blaze3d/vertex/PoseStack;II)V",
+      "renderTitle": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderTitle(IIFLcom/mojang/blaze3d/vertex/PoseStack;)V"
+    },
+    "net/raphimc/immediatelyfast/forge/injection/mixins/screen_batching/MixinHandledScreen": {
+      "renderSlotHighlight": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;renderSlotHighlight(Lcom/mojang/blaze3d/vertex/PoseStack;IIII)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "net/raphimc/immediatelyfast/forge/injection/mixins/hud_batching/MixinForgeGui": {
+        "renderAir": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderAir(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderFood": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderFood(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderHealthMount": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderHealthMount(IILcom/mojang/blaze3d/vertex/PoseStack;)V",
+        "renderArmor": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderArmor(Lcom/mojang/blaze3d/vertex/PoseStack;II)V",
+        "renderTitle": "Lnet/minecraftforge/client/gui/overlay/ForgeGui;renderTitle(IIFLcom/mojang/blaze3d/vertex/PoseStack;)V"
+      },
+      "net/raphimc/immediatelyfast/forge/injection/mixins/screen_batching/MixinHandledScreen": {
+        "renderSlotHighlight": "Lnet/minecraft/client/gui/screens/inventory/AbstractContainerScreen;renderSlotHighlight(Lcom/mojang/blaze3d/vertex/PoseStack;IIII)V"
+      }
+    }
+  }
+}

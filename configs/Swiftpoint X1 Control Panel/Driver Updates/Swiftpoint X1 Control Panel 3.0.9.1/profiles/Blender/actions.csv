@@ -1,0 +1,55 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Global,Open File,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Global,Save File,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Global,New File,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Global,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Global,Redo,None,ShiftLeft ↓ + ControlLeft ↓ + Z ↓,ShiftLeft ↑ + ControlLeft ↑ + Z ↑
+0,Global,Help,None,F1 ↓,F1 ↑
+0,Global,Rename Active Item,None,F2 ↓,F2 ↑
+0,Global,Menu Search,None,F3 ↓,F3 ↑
+0,Global,File Context Menu,None,F4 ↓,F4 ↑
+0,Global,Adjust Last Operation,None,F9 ↓,F9 ↑
+0,Global,Show Render Window,None,F11 ↓,F11 ↑
+0,Global,Render the Current Frame,None,F12 ↓,F12 ↑
+0,Global,Quick access,None,Q ↓,Q ↑
+0,Global,Toggle Maximize Area,None,ControlLeft ↓ + Space ↓,ControlLeft ↑ + Space ↑
+0,Global,Toggle Fullscreen Area,None,ControlLeft ↓ + AltLeft ↓ + Space ↓,ControlLeft ↑ + AltLeft ↑ + Space ↑
+0,Global,Next Workspace,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Global,Previous Workspace,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Global,Playback Animation (reverse),None,ShiftLeft ↓ + ControlLeft ↓ + Space ↓,ShiftLeft ↑ + ControlLeft ↑ + Space ↑
+0,Common Editor,Select all,None,A ↓,A ↑
+0,Common Editor,Select none,None,AltLeft ↓ + A ↓,AltLeft ↑ + A ↑
+0,Common Editor,Invert Selection,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Common Editor,Hide Selection,None,H ↓,H ↑
+0,Common Editor,Reveal Hidden Items,None,AltLeft ↓ + H ↓,AltLeft ↑ + H ↑
+0,Common Editor,Toggle Toolbar,None,T ↓,T ↑
+0,Common Editor,Toggle Sidebar,None,N ↓,N ↑
+0,3D Viewport,Rotate View,None,MouseButton3 ↓,MouseButton3 ↑
+0,3D Viewport,Viewport Navigation Menu,None,` ↓,` ↑
+0,3D Viewport,Mode Switching Menu,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,3D Viewport,Edit-Mode Toggle,None,Tab ↓,Tab ↑
+0,3D Viewport,Pan View,None,ShiftLeft ↓ + MouseButton3 ↓,ShiftLeft ↑ + MouseButton3 ↑
+0,3D Viewport,Zoom View,None,ControlLeft ↓ + MouseButton3 ↓,ControlLeft ↑ + MouseButton3 ↑
+0,3D Viewport,Dolly View,None,ControlLeft ↓ + ShiftLeft ↓ + MouseButton3 ↓,ControlLeft ↑ + ShiftLeft ↑ + MouseButton3 ↑
+0,3D Viewport,Center View to Mouse,None,AltLeft ↓ + MouseButton3 ↓,AltLeft ↑ + MouseButton3 ↑
+0,3D Viewport,Toggle Gizmos,None,ControlLeft ↓ + ` ↓,ControlLeft ↑ + ` ↑
+0,3D Viewport,Walk/Fly Navigation,None,ShiftLeft ↓ + ` ↓,ShiftLeft ↑ + ` ↑
+0,3D Viewport,View Camera,None,Num0 ↓,Num0 ↑
+0,3D Viewport,View Selected,None,Num3 ↓,Num3 ↑
+0,3D Viewport,View Perspective/Orthographic,None,Num5 ↓,Num5 ↑
+0,3D Viewport,View Local,None,Num/ ↓,Num/ ↑
+0,3D Viewport,View Top,None,Num8 ↓,Num8 ↑
+0,3D Viewport,View Bottom,None,Num2 ↓,Num2 ↑
+0,3D Viewport,View Left,None,Num4 ↓,Num4 ↑
+0,3D Viewport,View Right,None,Num6 ↓,Num6 ↑
+0,3D Viewport,View Front,None,Num7 ↓,Num7 ↑
+0,3D Viewport,View Back,None,Num9 ↓,Num9 ↑
+0,3D Viewport,Zoom In,None,Num+ ↓,Num+ ↑
+0,3D Viewport,Zoom Out,None,Num- ↓,Num- ↑
+0,Animation,Insert a Keyframe,None,I ↓,I ↑
+0,Animation,Clear the Keyframe,None,AltLeft ↓ + I ↓,AltLeft ↑ + I ↑
+0,Animation,Clear all Keyframes (removing all F-Curves),None,ShiftLeft ↓ + AltLeft ↓ + I ↓,ShiftLeft ↑ + AltLeft ↑ + I ↑
+0,Animation,Assign a Driver,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Animation,Clear the Driver,None,ControlLeft ↓ + AltLeft ↓ + D ↓,ControlLeft ↑ + AltLeft ↑ + D ↑
+0,Animation,Add a Keying Set,None,K ↓,K ↑
+0,Animation,Clear the Keying Set,None,AltLeft ↓ + K ↓,AltLeft ↑ + K ↑

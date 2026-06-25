@@ -1,0 +1,6 @@
+-comm chrome -nop
+-comm Telegram -nop
+-comm electron -nop
+-comm Discord -nop
+-arg prismlauncher -nop
+-any -ifname enp9s0

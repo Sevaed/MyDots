@@ -1,0 +1,117 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Edit Menu,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Edit Menu,Redo,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Edit Menu,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Edit Menu,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Edit Menu,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Edit Menu,Paste Appearance,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Edit Menu,Duplicate,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Edit Menu,Delete,None,Delete ↓,Delete ↑
+0,Edit Menu,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Edit Menu,Deselect All,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,File Menu,New,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,File Menu,Open...,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,File Menu,Close,None,AltLeft ↓ + F4 ↓,AltLeft ↑ + F4 ↑
+0,File Menu,Save...,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,File Menu,Save As...,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,File Menu,Save As Local Document...,None,ShiftLeft ↓ + ControlLeft ↓ + AltLeft ↓ + S ↓,ShiftLeft ↑ + ControlLeft ↑ + AltLeft ↑ + S ↑
+0,File Menu,Export Batch,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,File Menu,Export Selected,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,File Menu,Import,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Path/Pen,Add,None,ControlLeft ↓ + AltLeft ↓ + U ↓,ControlLeft ↑ + AltLeft ↑ + U ↑
+0,Path/Pen,Subtract,None,ControlLeft ↓ + AltLeft ↓ + S ↓,ControlLeft ↑ + AltLeft ↑ + S ↑
+0,Path/Pen,Intersect,None,ControlLeft ↓ + AltLeft ↓ + I ↓,ControlLeft ↑ + AltLeft ↑ + I ↑
+0,Path/Pen,Exclude Overlap,None,ControlLeft ↓ + AltLeft ↓ + X ↓,ControlLeft ↑ + AltLeft ↑ + X ↑
+0,Path/Pen,Convert to Path,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Group layers,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Ungroup layers,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Make component,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Lock/Unlock layer,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Hide/Show layer,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,"Layers, Groups, Scroll groups, & Artboards",Mask with shape,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Make repeat grid,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 10%,None,1 ↓,1 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 20%,None,2 ↓,2 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 30%,None,3 ↓,3 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 40%,None,4 ↓,4 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 50%,None,5 ↓,5 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 60%,None,6 ↓,6 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 70%,None,7 ↓,7 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 80%,None,8 ↓,8 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 90%,None,9 ↓,9 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Change layer opacity 100%,None,0 ↓,0 ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Show/ Hide artboard guides,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Lock artboard guides,None,ShiftLeft ↓ + ControlLeft ↓ + ; ↓,ShiftLeft ↑ + ControlLeft ↑ + ; ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Move element 10px Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Move element 10px Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Move element 10px Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Move element 10px Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element 1px Left,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element 1px Right,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element 1px Up,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element 1px Down,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element by 10px Left,None,AltLeft ↓ + ShiftLeft ↓ + Left ↓,AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element by 10px Right,None,AltLeft ↓ + ShiftLeft ↓ + Right ↓,AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element by 10px Up,None,AltLeft ↓ + ShiftLeft ↓ + Up ↓,AltLeft ↑ + ShiftLeft ↑ + Up ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Resize element by 10px Down,None,AltLeft ↓ + ShiftLeft ↓ + Down ↓,AltLeft ↑ + ShiftLeft ↑ + Down ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Mirror padding on opposing sides,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Edit all sides,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Horizontal scroll,None,ShiftLeft ↓ + AltLeft ↓ + H ↓,ShiftLeft ↑ + AltLeft ↑ + H ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Vertical scroll,None,ShiftLeft ↓ + AltLeft ↓ + V ↓,ShiftLeft ↑ + AltLeft ↑ + V ↑
+0,"Layers, Groups, Scroll groups, & Artboards",Horizontal and vertical scroll,None,ShiftLeft ↓ + AltLeft ↓ + D ↓,ShiftLeft ↑ + AltLeft ↑ + D ↑
+0,Align,Left,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Align,Center (horizontally),None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Align,Right,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Align,Top,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Align,Middle (vertically),None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Align,Bottom,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Arrange,Bring to Front,None,ShiftLeft ↓ + ControlLeft ↓ + ] ↓,ShiftLeft ↑ + ControlLeft ↑ + ] ↑
+0,Arrange,Bring Forward,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Arrange,Send Backward,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Arrange,Send to Back,None,ShiftLeft ↓ + ControlLeft ↓ + [ ↓,ShiftLeft ↑ + ControlLeft ↑ + [ ↑
+0,Distribute,Horizontal,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Distribute,Vertical,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Text,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Text,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Text,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Text,Increase font size,None,ControlLeft ↓ + ShiftLeft ↓ + . ↓,ControlLeft ↑ + ShiftLeft ↑ + . ↑
+0,Text,Decrease font size,None,"ControlLeft ↓ + ShiftLeft ↓ + , ↓","ControlLeft ↑ + ShiftLeft ↑ + , ↑"
+0,Operations Menu,Switch between Design and Prototype mode,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,Tools Menu,Select,None,V ↓,V ↑
+0,Tools Menu,Rectangle,None,R ↓,R ↑
+0,Tools Menu,Ellipse,None,E ↓,E ↑
+0,Tools Menu,Polygon,None,Y ↓,Y ↑
+0,Tools Menu,Line,None,L ↓,L ↑
+0,Tools Menu,Pen,None,P ↓,P ↑
+0,Tools Menu,Text,None,T ↓,T ↑
+0,Tools Menu,Artboard,None,A ↓,A ↑
+0,Tools Menu,Enter zoom mode,None,Z ↓,Z ↑
+0,Tools Menu,Eyedropper,None,I ↓,I ↑
+0,Interface and View,Switch to Design mode,None,AltLeft ↓ + 1 ↓,AltLeft ↑ + 1 ↑
+0,Interface and View,Switch to Prototype mode,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Interface and View,Switch to Share mode,None,AltLeft ↓ + 3 ↓,AltLeft ↑ + 3 ↑
+0,Interface and View,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,Interface and View,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Interface and View,Zoom to Selection,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Interface and View,Zoom to Fit,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Interface and View,100%,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Interface and View,200%,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Interface and View,Pan,None,MouseButton3 ↓,MouseButton3 ↑
+0,Interface and View,Assets,None,ControlLeft ↓ + ShiftLeft ↓ + Y ↓,ControlLeft ↑ + ShiftLeft ↑ + Y ↑
+0,Interface and View,Layers,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Interface and View,Show Layout Grid,None,ShiftLeft ↓ + ControlLeft ↓ + ' ↓,ShiftLeft ↑ + ControlLeft ↑ + ' ↑
+0,Interface and View,Show Square Grid,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,Interface and View,Switch between design and prototype mode,None,ControlLeft ↓ + Tab ↓,ControlLeft ↑ + Tab ↑
+0,Window Menu,Preview,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Operation Modifiers,Pan Left,None,ShiftLeft ↓ + ScrollUp,ShiftLeft ↑ + None
+0,Operation Modifiers,Pan Right,None,ShiftLeft ↓ + ScrollDown,ShiftLeft ↑ + None
+0,Design Specs,Faster pan Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Design Specs,Faster pan Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Design Specs,Faster pan Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Design Specs,Faster pan Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Vector Editing,Start Editing Selected Vector Object,None,Enter ↓,Enter ↑
+0,Vector Editing,Stop Editing Selected Vector Object,None,Esc ↓,Esc ↑
+0,Prototyping,See all connections in prototype mode,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Prototyping,Preview,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Prototyping,Next Artboard,None,Right ↓,Right ↑
+0,Prototyping,Previous Artboard,None,Left ↓,Left ↑

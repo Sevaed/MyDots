@@ -1,0 +1,422 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,File Menu,Adjust Layout...,None,ShiftLeft ↓ + AltLeft ↓ + P ↓,ShiftLeft ↑ + AltLeft ↑ + P ↑
+0,File Menu,Browse in Bridge...,None,CommandLeft ↓ + AltLeft ↓ + O ↓,CommandLeft ↑ + AltLeft ↑ + O ↑
+0,File Menu,Close,None,CommandLeft ↓ + W ↓,CommandLeft ↑ + W ↑
+0,File Menu,Document Setup...,None,CommandLeft ↓ + AltLeft ↓ + P ↓,CommandLeft ↑ + AltLeft ↑ + P ↑
+0,File Menu,Exit,None,CommandLeft ↓ + Q ↓,CommandLeft ↑ + Q ↑
+0,File Menu,Export...,None,CommandLeft ↓ + E ↓,CommandLeft ↑ + E ↑
+0,File Menu,File Info...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + I ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + I ↑
+0,File Menu > New,Document...,None,CommandLeft ↓ + N ↓,CommandLeft ↑ + N ↑
+0,File Menu,Open...,None,CommandLeft ↓ + O ↓,CommandLeft ↑ + O ↑
+0,File Menu,Package...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + P ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + P ↑
+0,File Menu,Place...,None,CommandLeft ↓ + D ↓,CommandLeft ↑ + D ↑
+0,File Menu,Print...,None,CommandLeft ↓ + P ↓,CommandLeft ↑ + P ↑
+0,File Menu,Save,None,CommandLeft ↓ + S ↓,CommandLeft ↑ + S ↑
+0,File Menu,Save As...,None,ShiftLeft ↓ + CommandLeft ↓ + S ↓,ShiftLeft ↑ + CommandLeft ↑ + S ↑
+0,File Menu,Save a Copy...,None,CommandLeft ↓ + AltLeft ↓ + S ↓,CommandLeft ↑ + AltLeft ↑ + S ↑
+0,Edit Menu,Check In,None,ShiftLeft ↓ + CommandLeft ↓ + F9 ↓,ShiftLeft ↑ + CommandLeft ↑ + F9 ↑
+0,Edit Menu,Check In All,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + F9 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + F9 ↑
+0,Edit Menu,Check Out,None,CommandLeft ↓ + F9 ↓,CommandLeft ↑ + F9 ↑
+0,Edit Menu,Clear,None,Backspace ↓,Backspace ↑
+0,Edit Menu,Copy,None,CommandLeft ↓ + C ↓,CommandLeft ↑ + C ↑
+0,Edit Menu,Cut,None,CommandLeft ↓ + X ↓,CommandLeft ↑ + X ↑
+0,Edit Menu,Deselect All,None,ShiftLeft ↓ + CommandLeft ↓ + A ↓,ShiftLeft ↑ + CommandLeft ↑ + A ↑
+0,Edit Menu,Duplicate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + D ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + D ↑
+0,Edit Menu,Edit in Copy Editor (Beta),None,ShiftLeft ↓ + AltLeft ↓ + Y ↓,ShiftLeft ↑ + AltLeft ↑ + Y ↑
+0,Edit Menu,Edit in Story Editor,None,CommandLeft ↓ + Y ↓,CommandLeft ↑ + Y ↑
+0,Edit Menu,Find Next,None,CommandLeft ↓ + AltLeft ↓ + F ↓,CommandLeft ↑ + AltLeft ↑ + F ↑
+0,Edit Menu,Find/Change...,None,CommandLeft ↓ + F ↓,CommandLeft ↑ + F ↑
+0,Edit Menu,Paste,None,CommandLeft ↓ + V ↓,CommandLeft ↑ + V ↑
+0,Edit Menu,Paste Into,None,CommandLeft ↓ + AltLeft ↓ + V ↓,CommandLeft ↑ + AltLeft ↑ + V ↑
+0,Edit Menu,Paste in Place,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + V ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + V ↑
+0,Edit Menu,Paste without Formatting,None,ShiftLeft ↓ + CommandLeft ↓ + V ↓,ShiftLeft ↑ + CommandLeft ↑ + V ↑
+0,Edit Menu > Preferences,General...,None,CommandLeft ↓ + K ↓,CommandLeft ↑ + K ↑
+0,Edit Menu,Quick Apply...,None,CommandLeft ↓ + Enter ↓,CommandLeft ↑ + Enter ↑
+0,Edit Menu,Redo,None,ShiftLeft ↓ + CommandLeft ↓ + Z ↓,ShiftLeft ↑ + CommandLeft ↑ + Z ↑
+0,Edit Menu,Select All,None,CommandLeft ↓ + A ↓,CommandLeft ↑ + A ↑
+0,Edit Menu > Spelling,Check Spelling...,None,CommandLeft ↓ + I ↓,CommandLeft ↑ + I ↑
+0,Edit Menu,Step and Repeat...,None,CommandLeft ↓ + AltLeft ↓ + U ↓,CommandLeft ↑ + AltLeft ↑ + U ↑
+0,Edit Menu,Toggle search direction,None,CommandLeft ↓ + AltLeft ↓ + Enter ↓,CommandLeft ↑ + AltLeft ↑ + Enter ↑
+0,Edit Menu,Undo,None,CommandLeft ↓ + Z ↓,CommandLeft ↑ + Z ↑
+0,Edit Menu,Update Content,None,CommandLeft ↓ + ControlLeft ↓ + F5 ↓,CommandLeft ↑ + ControlLeft ↑ + F5 ↑
+0,Layout Menu,First Page,None,ShiftLeft ↓ + CommandLeft ↓ + PageUp ↓,ShiftLeft ↑ + CommandLeft ↑ + PageUp ↑
+0,Layout Menu,Go Back,None,CommandLeft ↓ + PageUp ↓,CommandLeft ↑ + PageUp ↑
+0,Layout Menu,Go Forward,None,CommandLeft ↓ + PageDown ↓,CommandLeft ↑ + PageDown ↑
+0,Layout Menu,Go to Page...,None,CommandLeft ↓ + J ↓,CommandLeft ↑ + J ↑
+0,Layout Menu,Last Page,None,ShiftLeft ↓ + CommandLeft ↓ + PageDown ↓,ShiftLeft ↑ + CommandLeft ↑ + PageDown ↑
+0,Layout Menu,Next Page,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft ↑ + PageDown ↑
+0,Layout Menu,Next Spread,None,AltLeft ↓ + PageDown ↓,AltLeft ↑ + PageDown ↑
+0,Layout Menu > Pages,Add Page,None,ShiftLeft ↓ + CommandLeft ↓ + P ↓,ShiftLeft ↑ + CommandLeft ↑ + P ↑
+0,Layout Menu,Previous Page,None,ShiftLeft ↓ + PageUp ↓,ShiftLeft ↑ + PageUp ↑
+0,Layout Menu,Previous Spread,None,AltLeft ↓ + PageUp ↓,AltLeft ↑ + PageUp ↑
+0,Type Menu,Create Outlines,None,ShiftLeft ↓ + CommandLeft ↓ + O ↓,ShiftLeft ↑ + CommandLeft ↑ + O ↑
+0,Type Menu,Create outlines without deleting text,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + O ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + O ↑
+0,Type Menu,Go to Endnote Text,None,ShiftLeft ↓ + CommandLeft ↓ + E ↓,ShiftLeft ↑ + CommandLeft ↑ + E ↑
+0,Type Menu > Insert Break Character,Column Break,None,NumEnter ↓,NumEnter ↑
+0,Type Menu > Insert Break Character,Forced Line Break,None,ShiftLeft ↓ + Enter ↓,ShiftLeft ↑ + Enter ↑
+0,Type Menu > Insert Break Character,Frame Break,None,ShiftLeft ↓ + NumEnter ↓,ShiftLeft ↑ + NumEnter ↑
+0,Type Menu > Insert Break Character,Page Break,None,CommandLeft ↓ + NumEnter ↓,CommandLeft ↑ + NumEnter ↑
+0,Type Menu > Insert Break Character,Paragraph Return,None,Enter ↓,Enter ↑
+0,Type Menu > Insert Special Character > Hyphens and Dashes,Discretionary Hyphen,None,ShiftLeft ↓ + CommandLeft ↓ + - ↓,ShiftLeft ↑ + CommandLeft ↑ + - ↑
+0,Type Menu > Insert Special Character > Hyphens and Dashes,Em Dash,None,ShiftLeft ↓ + AltLeft ↓ + - ↓,ShiftLeft ↑ + AltLeft ↑ + - ↑
+0,Type Menu > Insert Special Character > Hyphens and Dashes,En Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Type Menu > Insert Special Character > Hyphens and Dashes,Nonbreaking Hyphen,None,CommandLeft ↓ + AltLeft ↓ + - ↓,CommandLeft ↑ + AltLeft ↑ + - ↑
+0,Type Menu > Insert Special Character > Markers,Current Page Number,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + N ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + N ↑
+0,Type Menu > Insert Special Character > Other,Indent to Here,None,CommandLeft ↓ + \ ↓,CommandLeft ↑ + \ ↑
+0,Type Menu > Insert Special Character > Other,Right Indent Tab,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Type Menu > Insert Special Character > Other,Tab,None,Tab ↓,Tab ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Double Left Quotation Marks,None,AltLeft ↓ + [ ↓,AltLeft ↑ + [ ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Double Right Quotation Marks,None,ShiftLeft ↓ + AltLeft ↓ + [ ↓,ShiftLeft ↑ + AltLeft ↑ + [ ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Single Left Quotation Mark,None,AltLeft ↓ + ] ↓,AltLeft ↑ + ] ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Single Right Quotation Mark,None,ShiftLeft ↓ + AltLeft ↓ + ] ↓,ShiftLeft ↑ + AltLeft ↑ + ] ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Straight Double Quotation Marks,None,ControlLeft ↓ + ShiftLeft ↓ + ' ↓,ControlLeft ↑ + ShiftLeft ↑ + ' ↑
+0,Type Menu > Insert Special Character > Quotation Marks,Straight Single Quotation Mark (Apostrophe),None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,Type Menu > Insert Special Character > Symbols,Bullet Character,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Type Menu > Insert Special Character > Symbols,Copyright Symbol,None,AltLeft ↓ + G ↓,AltLeft ↑ + G ↑
+0,Type Menu > Insert Special Character > Symbols,Ellipsis,None,AltLeft ↓ + ; ↓,AltLeft ↑ + ; ↑
+0,Type Menu > Insert Special Character > Symbols,Paragraph Symbol,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Type Menu > Insert Special Character > Symbols,Registered Trademark Symbol,None,AltLeft ↓ + R ↓,AltLeft ↑ + R ↑
+0,Type Menu > Insert Special Character > Symbols,Section Symbol,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Type Menu > Insert Special Character > Symbols,Trademark Symbol,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Type Menu > Insert White Space,Em Space,None,ShiftLeft ↓ + CommandLeft ↓ + M ↓,ShiftLeft ↑ + CommandLeft ↑ + M ↑
+0,Type Menu > Insert White Space,En Space,None,ShiftLeft ↓ + CommandLeft ↓ + N ↓,ShiftLeft ↑ + CommandLeft ↑ + N ↑
+0,Type Menu > Insert White Space,Nonbreaking Space,None,CommandLeft ↓ + AltLeft ↓ + X ↓,CommandLeft ↑ + AltLeft ↑ + X ↑
+0,Type Menu > Insert White Space,Thin Space,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + M ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + M ↑
+0,Type Menu > Notes,Notes Mode,None,CommandLeft ↓ + F8 ↓,CommandLeft ↑ + F8 ↑
+0,Type Menu,Show Hidden Characters,None,CommandLeft ↓ + AltLeft ↓ + I ↓,CommandLeft ↑ + AltLeft ↑ + I ↑
+0,Type Menu,Tabs,None,ShiftLeft ↓ + CommandLeft ↓ + T ↓,ShiftLeft ↑ + CommandLeft ↑ + T ↑
+0,Type Menu > Track Changes,Next Change,None,CommandLeft ↓ + PageDown ↓,CommandLeft ↑ + PageDown ↑
+0,Type Menu > Track Changes,Previous Change,None,CommandLeft ↓ + PageUp ↓,CommandLeft ↑ + PageUp ↑
+0,Object Menu > Arrange,Bring Forward,None,CommandLeft ↓ + ] ↓,CommandLeft ↑ + ] ↑
+0,Object Menu > Arrange,Bring to Front,None,ShiftLeft ↓ + CommandLeft ↓ + ] ↓,ShiftLeft ↑ + CommandLeft ↑ + ] ↑
+0,Object Menu > Arrange,Send Backward,None,CommandLeft ↓ + [ ↓,CommandLeft ↑ + [ ↑
+0,Object Menu > Arrange,Send to Back,None,ShiftLeft ↓ + CommandLeft ↓ + [ ↓,ShiftLeft ↑ + CommandLeft ↑ + [ ↑
+0,Object Menu > Clipping Path,Options...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + K ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + K ↑
+0,Object Menu > Effects,Drop Shadow...,None,CommandLeft ↓ + AltLeft ↓ + M ↓,CommandLeft ↑ + AltLeft ↑ + M ↑
+0,Object Menu > Fitting,Center Content,None,ShiftLeft ↓ + CommandLeft ↓ + E ↓,ShiftLeft ↑ + CommandLeft ↑ + E ↑
+0,Object Menu > Fitting,Content-Aware Fit,None,CommandLeft ↓ + AltLeft ↓ + X ↓,CommandLeft ↑ + AltLeft ↑ + X ↑
+0,Object Menu > Fitting,Fill Frame Proportionally,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + C ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + C ↑
+0,Object Menu > Fitting,Fit Content Proportionally,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + E ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + E ↑
+0,Object Menu > Fitting,Fit Content to Frame,None,CommandLeft ↓ + AltLeft ↓ + E ↓,CommandLeft ↑ + AltLeft ↑ + E ↑
+0,Object Menu > Fitting,Fit Frame to Content,None,CommandLeft ↓ + AltLeft ↓ + C ↓,CommandLeft ↑ + AltLeft ↑ + C ↑
+0,Object Menu,Group,None,CommandLeft ↓ + G ↓,CommandLeft ↑ + G ↑
+0,Object Menu,Hide,None,CommandLeft ↓ + 3 ↓,CommandLeft ↑ + 3 ↑
+0,Object Menu,Lock,None,CommandLeft ↓ + L ↓,CommandLeft ↑ + L ↑
+0,Object Menu > Paths,Make Compound Path,None,CommandLeft ↓ + 8 ↓,CommandLeft ↑ + 8 ↑
+0,Object Menu > Paths,Release Compound Path,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 8 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 8 ↑
+0,Object Menu > Select,Container,None,Esc ↓,Esc ↑
+0,Object Menu > Select,Content,None,ShiftLeft ↓ + Esc ↓,ShiftLeft ↑ + Esc ↑
+0,Object Menu > Select,First Object Above,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + ] ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + ] ↑
+0,Object Menu > Select,Last Object Below,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + [ ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + [ ↑
+0,Object Menu > Select,Next Object Above,None,CommandLeft ↓ + AltLeft ↓ + ] ↓,CommandLeft ↑ + AltLeft ↑ + ] ↑
+0,Object Menu > Select,Next Object Below,None,CommandLeft ↓ + AltLeft ↓ + [ ↓,CommandLeft ↑ + AltLeft ↑ + [ ↑
+0,Object Menu,Show All on Spread,None,CommandLeft ↓ + AltLeft ↓ + 3 ↓,CommandLeft ↑ + AltLeft ↑ + 3 ↑
+0,Object Menu,Text Frame Options...,None,CommandLeft ↓ + B ↓,CommandLeft ↑ + B ↑
+0,Object Menu > Transform Again,Transform Sequence Again,None,CommandLeft ↓ + AltLeft ↓ + 4 ↓,CommandLeft ↑ + AltLeft ↑ + 4 ↑
+0,Object Menu > Transform,Move...,None,ShiftLeft ↓ + CommandLeft ↓ + M ↓,ShiftLeft ↑ + CommandLeft ↑ + M ↑
+0,Object Menu,Ungroup,None,ShiftLeft ↓ + CommandLeft ↓ + G ↓,ShiftLeft ↑ + CommandLeft ↑ + G ↑
+0,Object Menu,Unlock All on Spread,None,CommandLeft ↓ + AltLeft ↓ + L ↓,CommandLeft ↑ + AltLeft ↑ + L ↑
+0,Table Menu > Cell Options,Text...,None,CommandLeft ↓ + AltLeft ↓ + B ↓,CommandLeft ↑ + AltLeft ↑ + B ↑
+0,Table Menu > Delete,Column,None,ShiftLeft ↓ + Backspace ↓,ShiftLeft ↑ + Backspace ↑
+0,Table Menu > Delete,Row,None,CommandLeft ↓ + Backspace ↓,CommandLeft ↑ + Backspace ↑
+0,Table Menu,Insert Table...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + T ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + T ↑
+0,Table Menu > Insert,Column...,None,CommandLeft ↓ + AltLeft ↓ + 9 ↓,CommandLeft ↑ + AltLeft ↑ + 9 ↑
+0,Table Menu > Insert,Row...,None,CommandLeft ↓ + 9 ↓,CommandLeft ↑ + 9 ↑
+0,Table Menu > Select,Cell,None,CommandLeft ↓ + / ↓,CommandLeft ↑ + / ↑
+0,Table Menu > Select,Column,None,CommandLeft ↓ + AltLeft ↓ + 3 ↓,CommandLeft ↑ + AltLeft ↑ + 3 ↑
+0,Table Menu > Select,Row,None,CommandLeft ↓ + 3 ↓,CommandLeft ↑ + 3 ↑
+0,Table Menu > Select,Table,None,CommandLeft ↓ + AltLeft ↓ + A ↓,CommandLeft ↑ + AltLeft ↑ + A ↑
+0,Table Menu > Table Options,Table Setup...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + B ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + B ↑
+0,View Menu,Actual Size,None,CommandLeft ↓ + 1 ↓,CommandLeft ↑ + 1 ↑
+0,View Menu > Display Performance,Clear Object-Level Display Settings,None,ShiftLeft ↓ + CommandLeft ↓ + F2 ↓,ShiftLeft ↑ + CommandLeft ↑ + F2 ↑
+0,View Menu > Display Performance,Fast Display,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Z ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Z ↑
+0,View Menu > Display Performance,High Quality Display,None,ControlLeft ↓ + CommandLeft ↓ + AltLeft ↓ + H ↓,ControlLeft ↑ + CommandLeft ↑ + AltLeft ↑ + H ↑
+0,View Menu > Display Performance,Typical Display,None,CommandLeft ↓ + AltLeft ↓ + Z ↓,CommandLeft ↑ + AltLeft ↑ + Z ↑
+0,View Menu,Entire Pasteboard,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 0 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 0 ↑
+0,View Menu > Extras,Hide Conveyor,None,AltLeft ↓ + B ↓,AltLeft ↑ + B ↑
+0,View Menu > Extras,Show Frame Edges,None,ControlLeft ↓ + CommandLeft ↓ + H ↓,ControlLeft ↑ + CommandLeft ↑ + H ↑
+0,View Menu > Extras,Show Text Threads,None,CommandLeft ↓ + AltLeft ↓ + Y ↓,CommandLeft ↑ + AltLeft ↑ + Y ↑
+0,View Menu,Fit Page in Window,None,CommandLeft ↓ + 0 ↓,CommandLeft ↑ + 0 ↑
+0,View Menu,Fit Spread in Window,None,CommandLeft ↓ + AltLeft ↓ + 0 ↓,CommandLeft ↑ + AltLeft ↑ + 0 ↑
+0,View Menu > Grids & Guides,Lock Guides,None,CommandLeft ↓ + AltLeft ↓ + ; ↓,CommandLeft ↑ + AltLeft ↑ + ; ↑
+0,View Menu > Grids & Guides,Show Baseline Grid,None,CommandLeft ↓ + AltLeft ↓ + ' ↓,CommandLeft ↑ + AltLeft ↑ + ' ↑
+0,View Menu > Grids & Guides,Show Document Grid,None,CommandLeft ↓ + ' ↓,CommandLeft ↑ + ' ↑
+0,View Menu > Grids & Guides,Show Guides,None,CommandLeft ↓ + ; ↓,CommandLeft ↑ + ; ↑
+0,View Menu > Grids & Guides,Smart Guides,None,CommandLeft ↓ + U ↓,CommandLeft ↑ + U ↑
+0,View Menu > Grids & Guides,Snap to Document Grid,None,ShiftLeft ↓ + CommandLeft ↓ + ' ↓,ShiftLeft ↑ + CommandLeft ↑ + ' ↑
+0,View Menu > Grids & Guides,Snap to Guides,None,ShiftLeft ↓ + CommandLeft ↓ + ; ↓,ShiftLeft ↑ + CommandLeft ↑ + ; ↑
+0,View Menu,Hide Rulers,None,CommandLeft ↓ + R ↓,CommandLeft ↑ + R ↑
+0,View Menu,Overprint Preview,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Y ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Y ↑
+0,View Menu > Structure,Show Structure,None,CommandLeft ↓ + AltLeft ↓ + 1 ↓,CommandLeft ↑ + AltLeft ↑ + 1 ↑
+0,View Menu,Zoom In,None,CommandLeft ↓ + = ↓,CommandLeft ↑ + = ↑
+0,View Menu,Zoom Out,None,CommandLeft ↓ + - ↓,CommandLeft ↑ + - ↑
+0,Window Menu > Color,Color,None,F6 ↓,F6 ↑
+0,Window Menu > Color,Swatches,None,F5 ↓,F5 ↑
+0,Window Menu,Control,None,CommandLeft ↓ + AltLeft ↓ + 6 ↓,CommandLeft ↑ + AltLeft ↑ + 6 ↑
+0,Window Menu,Effects,None,ShiftLeft ↓ + CommandLeft ↓ + F10 ↓,ShiftLeft ↑ + CommandLeft ↑ + F10 ↑
+0,Window Menu,Info,None,F8 ↓,F8 ↑
+0,Window Menu > Interactive,EPUB Interactivity Preview,None,ShiftLeft ↓ + AltLeft ↓ + Enter ↓,ShiftLeft ↑ + AltLeft ↑ + Enter ↑
+0,Window Menu,Layers,None,F7 ↓,F7 ↑
+0,Window Menu,Links,None,ShiftLeft ↓ + CommandLeft ↓ + D ↓,ShiftLeft ↑ + CommandLeft ↑ + D ↑
+0,Window Menu > Object & Layout,Align,None,ShiftLeft ↓ + F7 ↓,ShiftLeft ↑ + F7 ↑
+0,Window Menu > Output,Preflight,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + F ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + F ↑
+0,Window Menu > Output,Separations Preview,None,ShiftLeft ↓ + F6 ↓,ShiftLeft ↑ + F6 ↑
+0,Window Menu,Pages,None,F12 ↓,F12 ↑
+0,Window Menu,Stroke,None,F10 ↓,F10 ↑
+0,Window Menu > Styles,Character Styles,None,ShiftLeft ↓ + F11 ↓,ShiftLeft ↑ + F11 ↑
+0,Window Menu > Styles,Object Styles,None,CommandLeft ↓ + F7 ↓,CommandLeft ↑ + F7 ↑
+0,Window Menu > Styles,Paragraph Styles,None,F11 ↓,F11 ↑
+0,Window Menu,Text Wrap,None,CommandLeft ↓ + AltLeft ↓ + W ↓,CommandLeft ↑ + AltLeft ↑ + W ↑
+0,Window Menu > Type & Tables,Character,None,CommandLeft ↓ + T ↓,CommandLeft ↑ + T ↑
+0,Window Menu > Type & Tables,Glyphs,None,ShiftLeft ↓ + AltLeft ↓ + F11 ↓,ShiftLeft ↑ + AltLeft ↑ + F11 ↑
+0,Window Menu > Type & Tables,Index,None,ShiftLeft ↓ + F8 ↓,ShiftLeft ↑ + F8 ↑
+0,Window Menu > Type & Tables,Paragraph,None,CommandLeft ↓ + AltLeft ↓ + T ↓,CommandLeft ↑ + AltLeft ↑ + T ↑
+0,Window Menu > Type & Tables,Table,None,ShiftLeft ↓ + F9 ↓,ShiftLeft ↑ + F9 ↑
+0,Window Menu > Utilities,Scripts,None,CommandLeft ↓ + AltLeft ↓ + F11 ↓,CommandLeft ↑ + AltLeft ↑ + F11 ↑
+0,Help Menu,InDesign Help...,None,F1 ↓,F1 ↑
+0,Object Editing,Decrease scale by 1%,None,"CommandLeft ↓ + , ↓","CommandLeft ↑ + , ↑"
+0,Object Editing,Decrease scale by 5%,None,"CommandLeft ↓ + AltLeft ↓ + , ↓","CommandLeft ↑ + AltLeft ↑ + , ↑"
+0,Object Editing,End Path Drawing,None,Enter ↓,Enter ↑
+0,Object Editing,Increase scale by 1%,None,CommandLeft ↓ + . ↓,CommandLeft ↑ + . ↑
+0,Object Editing,Increase scale by 5%,None,CommandLeft ↓ + AltLeft ↓ + . ↓,CommandLeft ↑ + AltLeft ↑ + . ↑
+0,Object Editing,Nudge down,None,Down ↓,Down ↑
+0,Object Editing,Nudge down 1/10,None,ShiftLeft ↓ + CommandLeft ↓ + Down ↓,ShiftLeft ↑ + CommandLeft ↑ + Down ↑
+0,Object Editing,Nudge down 1/10 duplicate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Down ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Down ↑
+0,Object Editing,Nudge down duplicate,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Object Editing,Nudge down x10,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Object Editing,Nudge down x10 duplicate,None,ShiftLeft ↓ + AltLeft ↓ + Down ↓,ShiftLeft ↑ + AltLeft ↑ + Down ↑
+0,Object Editing,Nudge left,None,Left ↓,Left ↑
+0,Object Editing,Nudge left 1/10,None,ShiftLeft ↓ + CommandLeft ↓ + Left ↓,ShiftLeft ↑ + CommandLeft ↑ + Left ↑
+0,Object Editing,Nudge left 1/10 duplicate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Left ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Left ↑
+0,Object Editing,Nudge left duplicate,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Object Editing,Nudge left x10,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Object Editing,Nudge left x10 duplicate,None,ShiftLeft ↓ + AltLeft ↓ + Left ↓,ShiftLeft ↑ + AltLeft ↑ + Left ↑
+0,Object Editing,Nudge right,None,Right ↓,Right ↑
+0,Object Editing,Nudge right 1/10,None,ShiftLeft ↓ + CommandLeft ↓ + Right ↓,ShiftLeft ↑ + CommandLeft ↑ + Right ↑
+0,Object Editing,Nudge right 1/10 duplicate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Right ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Right ↑
+0,Object Editing,Nudge right duplicate,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Object Editing,Nudge right x10,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Object Editing,Nudge right x10 duplicate,None,ShiftLeft ↓ + AltLeft ↓ + Right ↓,ShiftLeft ↑ + AltLeft ↑ + Right ↑
+0,Object Editing,Nudge up,None,Up ↓,Up ↑
+0,Object Editing,Nudge up 1/10,None,ShiftLeft ↓ + CommandLeft ↓ + Up ↓,ShiftLeft ↑ + CommandLeft ↑ + Up ↑
+0,Object Editing,Nudge up 1/10 duplicate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Up ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Up ↑
+0,Object Editing,Nudge up duplicate,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Object Editing,Nudge up x10,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Object Editing,Nudge up x10 duplicate,None,ShiftLeft ↓ + AltLeft ↓ + Up ↓,ShiftLeft ↑ + AltLeft ↑ + Up ↑
+0,Object Editing,Pin Bottom Edge,None,CommandLeft ↓ + AltLeft ↓ + Down ↓,CommandLeft ↑ + AltLeft ↑ + Down ↑
+0,Object Editing,Pin Left Edge,None,CommandLeft ↓ + AltLeft ↓ + Left ↓,CommandLeft ↑ + AltLeft ↑ + Left ↑
+0,Object Editing,Pin Right Edge,None,CommandLeft ↓ + AltLeft ↓ + Right ↓,CommandLeft ↑ + AltLeft ↑ + Right ↑
+0,Object Editing,Pin Top Edge,None,CommandLeft ↓ + AltLeft ↓ + Up ↓,CommandLeft ↑ + AltLeft ↑ + Up ↑
+0,Object Editing,Resize Horizontally,None,ShiftLeft ↓ + AltLeft ↓ + H ↓,ShiftLeft ↑ + AltLeft ↑ + H ↑
+0,Object Editing,Resize Vertically,None,ShiftLeft ↓ + AltLeft ↓ + V ↓,ShiftLeft ↑ + AltLeft ↑ + V ↑
+0,Object Editing,Select all Guides,None,CommandLeft ↓ + AltLeft ↓ + G ↓,CommandLeft ↑ + AltLeft ↑ + G ↑
+0,Object Editing,Toggle Live Edit Mode,None,4 ↓,4 ↑
+0,Panel Menus > Character Styles,Redefine Style,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + C ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + C ↑
+0,Panel Menus > Character,All Caps,None,ShiftLeft ↓ + CommandLeft ↓ + K ↓,ShiftLeft ↑ + CommandLeft ↑ + K ↑
+0,Panel Menus > Character,Small Caps,None,ShiftLeft ↓ + CommandLeft ↓ + H ↓,ShiftLeft ↑ + CommandLeft ↑ + H ↑
+0,Panel Menus > Character,Strikethrough,None,ControlLeft ↓ + ShiftLeft ↓ + CommandLeft ↓ + / ↓,ControlLeft ↑ + ShiftLeft ↑ + CommandLeft ↑ + / ↑
+0,Panel Menus > Character,Subscript,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + = ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + = ↑
+0,Panel Menus > Character,Superscript,None,ShiftLeft ↓ + CommandLeft ↓ + = ↓,ShiftLeft ↑ + CommandLeft ↑ + = ↑
+0,Panel Menus > Character,Underline,None,ShiftLeft ↓ + CommandLeft ↓ + U ↓,ShiftLeft ↑ + CommandLeft ↑ + U ↑
+0,Panel Menus > Index,Add new index entry,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + [ ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + [ ↑
+0,Panel Menus > Index,Add new index entry (reversed),None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + ] ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + ] ↑
+0,Panel Menus > Index,New...,None,CommandLeft ↓ + 7 ↓,CommandLeft ↑ + 7 ↑
+0,Panel Menus > Pages,Override All Master Page Items,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + L ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + L ↑
+0,Panel Menus > Paragraph Styles,Redefine Style,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + R ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + R ↑
+0,Panel Menus > Paragraph,Drop Caps and Nested Styles...,None,CommandLeft ↓ + AltLeft ↓ + R ↓,CommandLeft ↑ + AltLeft ↑ + R ↑
+0,Panel Menus > Paragraph,Justification...,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + J ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + J ↑
+0,Panel Menus > Paragraph,Keep Options...,None,CommandLeft ↓ + AltLeft ↓ + K ↓,CommandLeft ↑ + AltLeft ↑ + K ↑
+0,Panel Menus > Paragraph,Paragraph Rules...,None,CommandLeft ↓ + AltLeft ↓ + J ↓,CommandLeft ↑ + AltLeft ↑ + J ↑
+0,Panel Menus > Tags,Autotag,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + F7 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + F7 ↑
+0,XML Structure Navigation,Collapse element,None,Left ↓,Left ↑
+0,XML Structure Navigation,Collapse element and child elements,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,XML Structure Navigation,Expand element,None,Right ↓,Right ↑
+0,XML Structure Navigation,Expand element and child elements,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,XML Structure Navigation,Extend XML selection down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,XML Structure Navigation,Extend XML selection up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,XML Structure Navigation,Move XML selection down,None,Down ↓,Down ↑
+0,XML Structure Navigation,Move XML selection up,None,Up ↓,Up ↑
+0,XML Structure Navigation,Scroll structure pane down one screen,None,PageDown ↓,PageDown ↑
+0,XML Structure Navigation,Scroll structure pane up one screen,None,PageUp ↓,PageUp ↑
+0,XML Structure Navigation,Select first XML node,None,Home ↓,Home ↑
+0,XML Structure Navigation,Select last XML node,None,End ↓,End ↑
+0,XML Structure Navigation,Select through first XML node,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,XML Structure Navigation,Select through last XML node,None,ShiftLeft ↓ + End ↓,ShiftLeft ↑ + End ↑
+0,XML Structure Navigation,View next validation error,None,CommandLeft ↓ + Right ↓,CommandLeft ↑ + Right ↑
+0,XML Structure Navigation,View previous validation error,None,CommandLeft ↓ + Left ↓,CommandLeft ↑ + Left ↑
+0,Text and Tables,Align center,None,ShiftLeft ↓ + CommandLeft ↓ + C ↓,ShiftLeft ↑ + CommandLeft ↑ + C ↑
+0,Text and Tables,Align force justify,None,ShiftLeft ↓ + CommandLeft ↓ + F ↓,ShiftLeft ↑ + CommandLeft ↑ + F ↑
+0,Text and Tables,Align justify,None,ShiftLeft ↓ + CommandLeft ↓ + J ↓,ShiftLeft ↑ + CommandLeft ↑ + J ↑
+0,Text and Tables,Align left,None,ShiftLeft ↓ + CommandLeft ↓ + L ↓,ShiftLeft ↑ + CommandLeft ↑ + L ↑
+0,Text and Tables,Align right,None,ShiftLeft ↓ + CommandLeft ↓ + R ↓,ShiftLeft ↑ + CommandLeft ↑ + R ↑
+0,Text and Tables,Align to baseline grid,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + G ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + G ↑
+0,Text and Tables,Apply bold,None,ShiftLeft ↓ + CommandLeft ↓ + B ↓,ShiftLeft ↑ + CommandLeft ↑ + B ↑
+0,Text and Tables,Apply italic,None,ShiftLeft ↓ + CommandLeft ↓ + I ↓,ShiftLeft ↑ + CommandLeft ↑ + I ↑
+0,Text and Tables,Apply normal,None,ShiftLeft ↓ + CommandLeft ↓ + Y ↓,ShiftLeft ↑ + CommandLeft ↑ + Y ↑
+0,Text and Tables,Auto leading,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + A ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + A ↑
+0,Text and Tables,Auto-hyphenate on/off,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + H ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + H ↑
+0,Text and Tables,Clear,None,Backspace ↓,Backspace ↑
+0,Text and Tables,Decrease Cell Height,None,CommandLeft ↓ + Up ↓,CommandLeft ↑ + Up ↑
+0,Text and Tables,Decrease Cell Width,None,CommandLeft ↓ + Left ↓,CommandLeft ↑ + Left ↑
+0,Text and Tables,Decrease baseline Shift Left,None,ShiftLeft ↓ + AltLeft ↓ + Down ↓,ShiftLeft ↑ + AltLeft ↑ + Down ↑
+0,Text and Tables,Decrease baseline Shift Left x 5,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Down ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Down ↑
+0,Text and Tables,Decrease kerning/tracking,None,ShiftLeft ↓ + AltLeft ↓ + Left ↓,ShiftLeft ↑ + AltLeft ↑ + Left ↑
+0,Text and Tables,Decrease kerning/tracking x 5,None,CommandLeft ↓ + AltLeft ↓ + Left ↓,CommandLeft ↑ + AltLeft ↑ + Left ↑
+0,Text and Tables,Decrease leading,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Text and Tables,Decrease leading x 5,None,CommandLeft ↓ + AltLeft ↓ + Up ↓,CommandLeft ↑ + AltLeft ↑ + Up ↑
+0,Text and Tables,Decrease point size,None,"ShiftLeft ↓ + CommandLeft ↓ + , ↓","ShiftLeft ↑ + CommandLeft ↑ + , ↑"
+0,Text and Tables,Decrease point size x 5,None,"ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + , ↓","ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + , ↑"
+0,Text and Tables,Decrease word space,None,CommandLeft ↓ + AltLeft ↓ + Backspace ↓,CommandLeft ↑ + AltLeft ↑ + Backspace ↑
+0,Text and Tables,Decrease word space x 5,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Backspace ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Backspace ↑
+0,Text and Tables,Delete,None,Delete ↓,Delete ↑
+0,Text and Tables,Delete one character to the left,None,Backspace ↓,Backspace ↑
+0,Text and Tables,Delete one character to the right,None,Delete ↓,Delete ↑
+0,Text and Tables,Delete one word to the left,None,CommandLeft ↓ + Backspace ↓,CommandLeft ↑ + Backspace ↑
+0,Text and Tables,Delete one word to the right,None,CommandLeft ↓ + Delete ↓,CommandLeft ↑ + Delete ↑
+0,Text and Tables,Find Next,None,ShiftLeft ↓ + F2 ↓,ShiftLeft ↑ + F2 ↑
+0,Text and Tables,Increase Cell Height,None,CommandLeft ↓ + Down ↓,CommandLeft ↑ + Down ↑
+0,Text and Tables,Increase Cell Width,None,CommandLeft ↓ + Right ↓,CommandLeft ↑ + Right ↑
+0,Text and Tables,Increase baseline Shift Left,None,ShiftLeft ↓ + AltLeft ↓ + Up ↓,ShiftLeft ↑ + AltLeft ↑ + Up ↑
+0,Text and Tables,Increase baseline Shift Left x 5,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Up ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Up ↑
+0,Text and Tables,Increase kerning/tracking,None,ShiftLeft ↓ + AltLeft ↓ + Right ↓,ShiftLeft ↑ + AltLeft ↑ + Right ↑
+0,Text and Tables,Increase kerning/tracking x 5,None,CommandLeft ↓ + AltLeft ↓ + Right ↓,CommandLeft ↑ + AltLeft ↑ + Right ↑
+0,Text and Tables,Increase leading,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Text and Tables,Increase leading x 5,None,CommandLeft ↓ + AltLeft ↓ + Down ↓,CommandLeft ↑ + AltLeft ↑ + Down ↑
+0,Text and Tables,Increase point size,None,ShiftLeft ↓ + CommandLeft ↓ + . ↓,ShiftLeft ↑ + CommandLeft ↑ + . ↑
+0,Text and Tables,Increase point size x 5,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + . ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + . ↑
+0,Text and Tables,Increase word space,None,ControlLeft ↓ + CommandLeft ↓ + AltLeft ↓ + \ ↓,ControlLeft ↑ + CommandLeft ↑ + AltLeft ↑ + \ ↑
+0,Text and Tables,Increase word space x 5,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + \ ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + \ ↑
+0,Text and Tables,Load Find and Find Next instance,None,ShiftLeft ↓ + F1 ↓,ShiftLeft ↑ + F1 ↑
+0,Text and Tables,Load Find with selected text,None,CommandLeft ↓ + F1 ↓,CommandLeft ↑ + F1 ↑
+0,Text and Tables,Load Replace with selected text,None,CommandLeft ↓ + F2 ↓,CommandLeft ↑ + F2 ↑
+0,Text and Tables,Move Down,None,Down ↓,Down ↑
+0,Text and Tables,Move Left,None,Left ↓,Left ↑
+0,Text and Tables,Move Right,None,Right ↓,Right ↑
+0,Text and Tables,Move Up,None,Up ↓,Up ↑
+0,Text and Tables,Move down one line,None,Down ↓,Down ↑
+0,Text and Tables,Move to First Cell in Column,None,AltLeft ↓ + PageUp ↓,AltLeft ↑ + PageUp ↑
+0,Text and Tables,Move to First Cell in Row,None,AltLeft ↓ + Home ↓,AltLeft ↑ + Home ↑
+0,Text and Tables,Move to First Row in Frame,None,PageUp ↓,PageUp ↑
+0,Text and Tables,Move to Last Cell in Column,None,AltLeft ↓ + PageDown ↓,AltLeft ↑ + PageDown ↑
+0,Text and Tables,Move to Last Cell in Row,None,AltLeft ↓ + End ↓,AltLeft ↑ + End ↑
+0,Text and Tables,Move to Last Row in Frame,None,PageDown ↓,PageDown ↑
+0,Text and Tables,Move to Next Cell,None,Tab ↓,Tab ↑
+0,Text and Tables,Move to Previous Cell,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Text and Tables,Move to beginning of story,None,CommandLeft ↓ + Home ↓,CommandLeft ↑ + Home ↑
+0,Text and Tables,Move to end of story,None,CommandLeft ↓ + End ↓,CommandLeft ↑ + End ↑
+0,Text and Tables,Move to the end of the line,None,End ↓,End ↑
+0,Text and Tables,Move to the left one character,None,Left ↓,Left ↑
+0,Text and Tables,Move to the left one word,None,CommandLeft ↓ + Left ↓,CommandLeft ↑ + Left ↑
+0,Text and Tables,Move to the next paragraph,None,CommandLeft ↓ + Down ↓,CommandLeft ↑ + Down ↑
+0,Text and Tables,Move to the previous paragraph,None,CommandLeft ↓ + Up ↓,CommandLeft ↑ + Up ↑
+0,Text and Tables,Move to the right one character,None,Right ↓,Right ↑
+0,Text and Tables,Move to the right one word,None,CommandLeft ↓ + Right ↓,CommandLeft ↑ + Right ↑
+0,Text and Tables,Move to the start of the line,None,Home ↓,Home ↑
+0,Text and Tables,Move up one line,None,Up ↓,Up ↑
+0,Text and Tables,Normal horizontal text scale,None,ShiftLeft ↓ + CommandLeft ↓ + X ↓,ShiftLeft ↑ + CommandLeft ↑ + X ↑
+0,Text and Tables,Normal vertical text scale,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + X ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + X ↑
+0,Text and Tables,Object Down,None,Down ↓,Down ↑
+0,Text and Tables,Object Escape,None,Esc ↓,Esc ↑
+0,Text and Tables,Object Left,None,Left ↓,Left ↑
+0,Text and Tables,Object Move to Next Cell,None,Tab ↓,Tab ↑
+0,Text and Tables,Object Move to Prev Cell,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Text and Tables,Object Right,None,Right ↓,Right ↑
+0,Text and Tables,Object Up,None,Up ↓,Up ↑
+0,Text and Tables,Recompose all stories,None,CommandLeft ↓ + AltLeft ↓ + / ↓,CommandLeft ↑ + AltLeft ↑ + / ↑
+0,Text and Tables,Replace with Change To text,None,CommandLeft ↓ + F3 ↓,CommandLeft ↑ + F3 ↑
+0,Text and Tables,Replace with Change To text and Find Next,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,Text and Tables,Reset kerning and tracking,None,CommandLeft ↓ + AltLeft ↓ + Q ↓,CommandLeft ↑ + AltLeft ↑ + Q ↑
+0,Text and Tables,Select Cells Above,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Text and Tables,Select Cells Below,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Text and Tables,Select Cells to the Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Text and Tables,Select Cells to the Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Text and Tables,Select line,None,ShiftLeft ↓ + CommandLeft ↓ + \ ↓,ShiftLeft ↑ + CommandLeft ↑ + \ ↑
+0,Text and Tables,Select one character to the left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Text and Tables,Select one character to the right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Text and Tables,Select one line above,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Text and Tables,Select one line below,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Text and Tables,Select one paragraph before,None,ShiftLeft ↓ + CommandLeft ↓ + Up ↓,ShiftLeft ↑ + CommandLeft ↑ + Up ↑
+0,Text and Tables,Select one paragraph forward,None,ShiftLeft ↓ + CommandLeft ↓ + Down ↓,ShiftLeft ↑ + CommandLeft ↑ + Down ↑
+0,Text and Tables,Select one word to the left,None,ShiftLeft ↓ + CommandLeft ↓ + Left ↓,ShiftLeft ↑ + CommandLeft ↑ + Left ↑
+0,Text and Tables,Select one word to the right,None,ShiftLeft ↓ + CommandLeft ↓ + Right ↓,ShiftLeft ↑ + CommandLeft ↑ + Right ↑
+0,Text and Tables,Select to beginning of story,None,ShiftLeft ↓ + CommandLeft ↓ + Home ↓,ShiftLeft ↑ + CommandLeft ↑ + Home ↑
+0,Text and Tables,Select to end of story,None,ShiftLeft ↓ + CommandLeft ↓ + End ↓,ShiftLeft ↑ + CommandLeft ↑ + End ↑
+0,Text and Tables,Select to the end of the line,None,ShiftLeft ↓ + End ↓,ShiftLeft ↑ + End ↑
+0,Text and Tables,Select to the start of the line,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,Text and Tables,Start Row on Next Column,None,NumEnter ↓,NumEnter ↑
+0,Text and Tables,Start Row on Next Frame,None,ShiftLeft ↓ + NumEnter ↓,ShiftLeft ↑ + NumEnter ↑
+0,Text and Tables,Toggle Cell/Text Selection,None,Esc ↓,Esc ↑
+0,Text and Tables,Toggle Typographer's Quotes Preference,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + ' ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + ' ↑
+0,Text and Tables,Update missing font list,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + / ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + / ↑
+0,Tools,Add Anchor Point Tool,None,= ↓,= ↑
+0,Tools,Apply Color,None,", ↓",", ↑"
+0,Tools,Apply Gradient,None,. ↓,. ↑
+0,Tools,Apply None,None,Num/ ↓,Num/ ↑
+0,Tools,Apply default fill and stroke colors,None,D ↓,D ↑
+0,Tools,Color Theme Tool,None,ShiftLeft ↓ + I ↓,ShiftLeft ↑ + I ↑
+0,Tools,Convert Direction Point Tool,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Tools,Delete Anchor Point Tool,None,- ↓,- ↑
+0,Tools,Direct Selection Tool,None,A ↓,A ↑
+0,Tools,Ellipse Tool,None,L ↓,L ↑
+0,Tools,Eyedropper Tool,None,I ↓,I ↑
+0,Tools,Free Transform Tool,None,E ↓,E ↑
+0,Tools,Gap Tool,None,U ↓,U ↑
+0,Tools,Gradient Feather Tool,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Tools,Gradient Swatch Tool,None,G ↓,G ↑
+0,Tools,Hand Tool,None,H ↓,H ↑
+0,Tools,Line Tool,None,\ ↓,\ ↑
+0,Tools,Measure Tool,None,K ↓,K ↑
+0,Tools,Page Tool,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Tools,Pen Tool,None,P ↓,P ↑
+0,Tools,Pencil Tool,None,N ↓,N ↑
+0,Tools,Rectangle Frame Tool,None,F ↓,F ↑
+0,Tools,Rectangle Tool,None,M ↓,M ↑
+0,Tools,Rotate Tool,None,R ↓,R ↑
+0,Tools,Scale Tool,None,S ↓,S ↑
+0,Tools,Scissors Tool,None,C ↓,C ↑
+0,Tools,Selection Tool,None,V ↓,V ↑
+0,Tools,Shear Tool,None,O ↓,O ↑
+0,Tools,Swap fill and stroke activation,None,X ↓,X ↑
+0,Tools,Swap fill and stroke colors,None,ShiftLeft ↓ + X ↓,ShiftLeft ↑ + X ↑
+0,Tools,Toggle Content Collector and Content Placer,None,B ↓,B ↑
+0,Tools,Toggle Text and Object Control,None,J ↓,J ↑
+0,Tools,Toggle view setting between default and preview,None,W ↓,W ↑
+0,Tools,Type Tool,None,T ↓,T ↑
+0,Tools,Type on a Path Tool,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Tools,Zoom Tool,None,Z ↓,Z ↑
+0,"Views, Navigation",200% size,None,CommandLeft ↓ + 2 ↓,CommandLeft ↑ + 2 ↑
+0,"Views, Navigation",400% size,None,CommandLeft ↓ + 4 ↓,CommandLeft ↑ + 4 ↑
+0,"Views, Navigation",50% size,None,CommandLeft ↓ + 5 ↓,CommandLeft ↑ + 5 ↑
+0,"Views, Navigation",Activate last-used field in panel,None,CommandLeft ↓ + AltLeft ↓ + ' ↓,CommandLeft ↑ + AltLeft ↑ + ' ↑
+0,"Views, Navigation",Close all,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + W ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + W ↑
+0,"Views, Navigation",Close document,None,ShiftLeft ↓ + CommandLeft ↓ + W ↓,ShiftLeft ↑ + CommandLeft ↑ + W ↑
+0,"Views, Navigation",First Spread,None,ShiftLeft ↓ + AltLeft ↓ + PageUp ↓,ShiftLeft ↑ + AltLeft ↑ + PageUp ↑
+0,"Views, Navigation",Fit Selection in Window,None,CommandLeft ↓ + AltLeft ↓ + = ↓,CommandLeft ↑ + AltLeft ↑ + = ↑
+0,"Views, Navigation",Force redraw,None,ShiftLeft ↓ + F5 ↓,ShiftLeft ↑ + F5 ↑
+0,"Views, Navigation",Go to first frame in thread,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + PageUp ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + PageUp ↑
+0,"Views, Navigation",Go to last frame in thread,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + PageDown ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + PageDown ↑
+0,"Views, Navigation",Go to next frame in thread,None,CommandLeft ↓ + AltLeft ↓ + PageDown ↓,CommandLeft ↑ + AltLeft ↑ + PageDown ↑
+0,"Views, Navigation",Go to previous frame in thread,None,CommandLeft ↓ + AltLeft ↓ + PageUp ↓,CommandLeft ↑ + AltLeft ↑ + PageUp ↑
+0,"Views, Navigation",Last Spread,None,ShiftLeft ↓ + AltLeft ↓ + PageDown ↓,ShiftLeft ↑ + AltLeft ↑ + PageDown ↑
+0,"Views, Navigation",New default document,None,CommandLeft ↓ + AltLeft ↓ + N ↓,CommandLeft ↑ + AltLeft ↑ + N ↑
+0,"Views, Navigation",Next window,None,CommandLeft ↓ + Tab ↓,CommandLeft ↑ + Tab ↑
+0,"Views, Navigation",Open context menu,None,ShiftLeft ↓ + F10 ↓,ShiftLeft ↑ + F10 ↑
+0,"Views, Navigation",Open/Close all panels in side tabs,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + Tab ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + Tab ↑
+0,"Views, Navigation",Previous window,None,ShiftLeft ↓ + CommandLeft ↓ + Tab ↓,ShiftLeft ↑ + CommandLeft ↑ + Tab ↑
+0,"Views, Navigation",Save all,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + S ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + S ↑
+0,"Views, Navigation",Scroll down one screen,None,PageDown ↓,PageDown ↑
+0,"Views, Navigation",Scroll up one screen,None,PageUp ↓,PageUp ↑
+0,"Views, Navigation",Show 1st spot plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 5 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 5 ↑
+0,"Views, Navigation",Show 2nd spot plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 6 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 6 ↑
+0,"Views, Navigation",Show 3rd spot plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 7 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 7 ↑
+0,"Views, Navigation",Show Black plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 4 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 4 ↑
+0,"Views, Navigation",Show Cyan plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 1 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 1 ↑
+0,"Views, Navigation",Show Magenta plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 2 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 2 ↑
+0,"Views, Navigation",Show Yellow plate,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + 3 ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + 3 ↑
+0,"Views, Navigation",Show all plates,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + ' ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + ' ↑
+0,"Views, Navigation",Show/Hide all panels,None,Tab ↓,Tab ↑
+0,"Views, Navigation",Show/Hide all panels except toolbox,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,"Views, Navigation",Toggle Character and Paragraph Modes in Control Panel,None,CommandLeft ↓ + AltLeft ↓ + 7 ↓,CommandLeft ↑ + AltLeft ↑ + 7 ↑
+0,"Views, Navigation",Toggle Keyboard Focus in Control Panel,None,CommandLeft ↓ + 6 ↓,CommandLeft ↑ + 6 ↑
+0,"Views, Navigation",Toggle Measurement System,None,ShiftLeft ↓ + CommandLeft ↓ + AltLeft ↓ + U ↓,ShiftLeft ↑ + CommandLeft ↑ + AltLeft ↑ + U ↑
+0,"Views, Navigation",Toggle between current and previous views,None,CommandLeft ↓ + AltLeft ↓ + 2 ↓,CommandLeft ↑ + AltLeft ↑ + 2 ↑

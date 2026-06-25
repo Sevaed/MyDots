@@ -1,0 +1,3008 @@
+2026-03-27T12:33:27.239 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.9"
+2026-03-27T12:33:27.297 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T12:33:27.396 - ExpertView: loadSaveFile() start
+2026-03-27T12:33:27.397 - copyStarterFile:  true
+2026-03-27T12:33:27.430 - ExpertView: loadSaveFile():  33 msec
+2026-03-27T12:33:27.447 - HIDManager: mouse match, PID: 10
+2026-03-27T12:33:27.447 - HIDManager: ERROR - failed to open device ( LIBUSB_ERROR_ACCESS )
+2026-03-27T12:33:27.535 - libpng warning: iCCP: known incorrect sRGB profile
+2026-03-27T12:33:27.535 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-03-27T12:33:27.653 - Opening Window in Simple Mode
+2026-03-27T12:33:28.742 - Opening Window in Simple Mode
+2026-03-27T12:33:28.743 - QDialog::exec: Recursive call detected
+2026-03-27T12:33:36.923 - SWUpdate: upgrade started
+2026-03-27T12:34:28.310 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T12:34:28.372 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T12:34:28.468 - ExpertView: loadSaveFile() start
+2026-03-27T12:34:28.502 - ConfigFile: no defaut or backup save file found, use  "/home/sevaed/.config/Swiftpoint X1 Control Panel/Starter Mappings.spcf"
+2026-03-27T12:34:28.502 - copyStarterFile:  true
+2026-03-27T12:34:28.502 - ExpertView: loadSaveFile():  33 msec
+2026-03-27T12:34:28.518 - HIDManager: mouse match, PID: 10
+2026-03-27T12:34:28.518 - HIDManager: ERROR - failed to open device ( LIBUSB_ERROR_ACCESS )
+2026-03-27T12:34:28.618 - libpng warning: iCCP: known incorrect sRGB profile
+2026-03-27T12:34:28.618 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-03-27T12:34:28.724 - Opening Window in Simple Mode
+2026-03-27T12:34:29.607 - Opening Window in Simple Mode
+2026-03-27T12:34:29.608 - QDialog::exec: Recursive call detected
+2026-03-27T12:34:41.869 - ConfigFile: saved to file
+2026-03-27T12:35:18.297 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T12:35:18.357 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T12:35:18.448 - ExpertView: loadSaveFile() start
+2026-03-27T12:35:18.480 - copyStarterFile:  true
+2026-03-27T12:35:18.480 - ExpertView: loadSaveFile():  31 msec
+2026-03-27T12:35:18.497 - HIDManager: mouse match, PID: 10
+2026-03-27T12:35:18.591 - libpng warning: iCCP: known incorrect sRGB profile
+2026-03-27T12:35:18.591 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-03-27T12:35:18.660 - MouseFunctions: getBuildNumber
+2026-03-27T12:35:18.660 - Firmware version: "000196D"
+2026-03-27T12:35:18.660 - MouseFunctions: incompatible firmware! "000196D"
+2026-03-27T12:35:18.752 - Opening Window in Expert Mode
+2026-03-27T12:35:52.272 - HIDManager: mouse removal, PID: 10
+2026-03-27T12:58:09.672 - HIDManager: mouse match, PID: 10
+2026-03-27T12:58:09.674 - MouseFunctions: getBuildNumber
+2026-03-27T12:58:09.679 - Firmware version: "000205"
+2026-03-27T12:58:10.160 - MouseFunctions: getOpticalSensorId
+2026-03-27T12:58:10.640 - MouseFunctions: WaitForDpiStep
+2026-03-27T12:58:11.620 - MouseFunctions: saveToRAM
+2026-03-27T12:58:13.541 - HIDManager: ERROR - write failed ( LIBUSB_ERROR_PIPE )
+2026-03-27T12:58:13.718 - HIDManager: mouse removal, PID: 10
+2026-03-27T12:58:59.038 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T12:58:59.096 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T12:58:59.185 - ExpertView: loadSaveFile() start
+2026-03-27T12:58:59.217 - copyStarterFile:  true
+2026-03-27T12:58:59.217 - ExpertView: loadSaveFile():  32 msec
+2026-03-27T12:58:59.234 - HIDManager: mouse match, PID: 10
+2026-03-27T12:58:59.371 - MouseFunctions: getBuildNumber
+2026-03-27T12:58:59.376 - Firmware version: "000205"
+2026-03-27T12:58:59.438 - Opening Window in Expert Mode
+2026-03-27T12:58:59.443 - MouseFunctions: getOpticalSensorId
+2026-03-27T12:58:59.456 - MouseFunctions: WaitForDpiStep
+2026-03-27T12:58:59.530 - MouseFunctions: saveToRAM
+2026-03-27T12:58:59.630 - ConfigFile: saved to file
+2026-03-27T13:00:45.577 - QEventLoop::exec: instance 0x55acc6fcf280 has already called exec()
+2026-03-27T13:02:20.704 - MouseFunctions: saveToRAM
+2026-03-27T13:02:20.803 - ConfigFile: saved to file
+2026-03-27T13:03:02.685 - MouseFunctions: saveToRAM
+2026-03-27T13:03:02.779 - ConfigFile: saved to file
+2026-03-27T13:04:26.583 - Mappings: save()
+2026-03-27T13:04:27.898 - Mappings: save()
+2026-03-27T13:05:06.605 - MouseFunctions: saveToRAM
+2026-03-27T13:05:06.700 - ConfigFile: saved to file
+2026-03-27T13:06:14.084 - Mappings: save()
+2026-03-27T13:06:29.085 - Mappings: save()
+2026-03-27T13:06:41.216 - MouseFunctions: saveToRAM
+2026-03-27T13:06:41.311 - ConfigFile: saved to file
+2026-03-27T13:06:48.462 - MouseFunctions: saveToRAM
+2026-03-27T13:06:48.556 - ConfigFile: saved to file
+2026-03-27T13:07:05.185 - Mappings: save()
+2026-03-27T13:07:07.855 - Mappings: save()
+2026-03-27T13:07:09.116 - MouseFunctions: saveToRAM
+2026-03-27T13:07:09.204 - ConfigFile: saved to file
+2026-03-27T13:07:15.665 - HIDManager: mouse removal, PID: 10
+2026-03-27T13:07:16.369 - HIDManager: mouse match, PID: 10
+2026-03-27T13:07:16.370 - MouseFunctions: getBuildNumber
+2026-03-27T13:07:16.375 - Firmware version: "000205"
+2026-03-27T13:07:16.907 - MouseFunctions: getOpticalSensorId
+2026-03-27T13:07:17.438 - MouseFunctions: WaitForDpiStep
+2026-03-27T13:07:18.569 - MouseFunctions: saveToRAM
+2026-03-27T13:07:19.051 - HIDManager: ERROR - write failed ( LIBUSB_ERROR_PIPE )
+2026-03-27T13:07:19.247 - HIDManager: mouse removal, PID: 10
+2026-03-27T13:07:22.910 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T13:07:22.971 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T13:07:23.060 - ExpertView: loadSaveFile() start
+2026-03-27T13:07:23.092 - copyStarterFile:  true
+2026-03-27T13:07:23.092 - ExpertView: loadSaveFile():  31 msec
+2026-03-27T13:07:23.316 - Opening Window in Expert Mode
+2026-03-27T13:07:59.708 - HIDManager: mouse match, PID: 10
+2026-03-27T13:07:59.708 - MouseFunctions: getBuildNumber
+2026-03-27T13:07:59.710 - Firmware version: "000205"
+2026-03-27T13:07:59.713 - MouseFunctions: getOpticalSensorId
+2026-03-27T13:07:59.716 - MouseFunctions: WaitForDpiStep
+2026-03-27T13:07:59.788 - MouseFunctions: saveToRAM
+2026-03-27T13:07:59.836 - ConfigFile: saved to file
+2026-03-27T13:08:30.622 - Mappings: save()
+2026-03-27T13:08:40.615 - Mappings: save()
+2026-03-27T13:10:45.785 - MouseFunctions: saveToRAM
+2026-03-27T13:10:45.840 - ConfigFile: saved to file
+2026-03-27T13:21:58.895 - MouseFunctions: saveToRAM
+2026-03-27T13:21:58.951 - ConfigFile: saved to file
+2026-03-27T13:22:24.095 - MouseFunctions: saveToRAM
+2026-03-27T13:22:24.151 - ConfigFile: saved to file
+2026-03-27T13:22:30.300 - MouseFunctions: saveToRAM
+2026-03-27T13:22:30.355 - ConfigFile: saved to file
+2026-03-27T13:22:38.114 - MouseFunctions: saveToRAM
+2026-03-27T13:22:38.169 - ConfigFile: saved to file
+2026-03-27T13:24:06.127 - MouseFunctions: saveToRAM
+2026-03-27T13:24:06.183 - ConfigFile: saved to file
+2026-03-27T13:33:29.643 - Mappings: save()
+2026-03-27T13:33:31.231 - Mappings: save()
+2026-03-27T13:34:53.545 - MouseFunctions: saveToRAM
+2026-03-27T13:34:53.597 - ConfigFile: saved to file
+2026-03-27T13:35:15.811 - MouseFunctions: saveToRAM
+2026-03-27T13:35:15.863 - ConfigFile: saved to file
+2026-03-27T13:37:29.546 - MouseFunctions: saveToRAM
+2026-03-27T13:37:29.601 - ConfigFile: saved to file
+2026-03-27T13:37:39.367 - MouseFunctions: saveToRAM
+2026-03-27T13:37:39.419 - ConfigFile: saved to file
+2026-03-27T13:45:13.542 - Mappings: save()
+2026-03-27T13:45:29.473 - QEventLoop::exec: instance 0x5607a939c280 has already called exec()
+2026-03-27T13:45:55.876 - MouseFunctions: saveToRAM
+2026-03-27T13:45:55.931 - ConfigFile: saved to file
+2026-03-27T13:49:03.147 - MouseFunctions: saveToRAM
+2026-03-27T13:49:03.203 - ConfigFile: saved to file
+2026-03-27T13:49:23.132 - MouseFunctions: saveToRAM
+2026-03-27T13:49:23.187 - ConfigFile: saved to file
+2026-03-27T13:50:12.195 - MouseFunctions: saveToRAM
+2026-03-27T13:50:12.254 - ConfigFile: saved to file
+2026-03-27T13:51:35.759 - MouseFunctions: saveToRAM
+2026-03-27T13:51:35.818 - ConfigFile: saved to file
+2026-03-27T13:52:45.811 - MouseFunctions: saveToRAM
+2026-03-27T13:52:45.869 - ConfigFile: saved to file
+2026-03-27T13:54:08.325 - MouseFunctions: saveToRAM
+2026-03-27T13:54:08.384 - ConfigFile: saved to file
+2026-03-27T13:54:14.650 - MouseFunctions: saveToRAM
+2026-03-27T13:54:14.710 - ConfigFile: saved to file
+2026-03-27T13:54:54.838 - MouseFunctions: saveToRAM
+2026-03-27T13:54:54.896 - ConfigFile: saved to file
+2026-03-27T13:55:59.515 - MouseFunctions: saveToRAM
+2026-03-27T13:55:59.575 - ConfigFile: saved to file
+2026-03-27T13:56:26.770 - MouseFunctions: saveToRAM
+2026-03-27T13:56:26.828 - ConfigFile: saved to file
+2026-03-27T13:57:12.346 - MouseFunctions: saveToRAM
+2026-03-27T13:57:12.405 - ConfigFile: saved to file
+2026-03-27T13:57:43.001 - MouseFunctions: saveToRAM
+2026-03-27T13:57:43.060 - ConfigFile: saved to file
+2026-03-27T13:58:24.460 - MouseFunctions: saveToRAM
+2026-03-27T13:58:24.521 - ConfigFile: saved to file
+2026-03-27T13:58:49.380 - MouseFunctions: saveToRAM
+2026-03-27T13:58:49.438 - ConfigFile: saved to file
+2026-03-27T13:58:59.792 - MouseFunctions: saveToRAM
+2026-03-27T13:58:59.851 - ConfigFile: saved to file
+2026-03-27T13:59:18.014 - MouseFunctions: saveToRAM
+2026-03-27T13:59:18.076 - ConfigFile: saved to file
+2026-03-27T13:59:25.503 - MouseFunctions: saveToRAM
+2026-03-27T13:59:25.565 - ConfigFile: saved to file
+2026-03-27T13:59:35.841 - MouseFunctions: saveToRAM
+2026-03-27T13:59:35.903 - ConfigFile: saved to file
+2026-03-27T14:03:00.446 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.9"
+2026-03-27T14:03:00.508 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T14:03:00.603 - ExpertView: loadSaveFile() start
+2026-03-27T14:03:00.639 - copyStarterFile:  true
+2026-03-27T14:03:00.639 - ExpertView: loadSaveFile():  35 msec
+2026-03-27T14:03:00.656 - HIDManager: mouse match, PID: 10
+2026-03-27T14:03:00.809 - MouseFunctions: getBuildNumber
+2026-03-27T14:03:00.810 - Firmware version: "000205"
+2026-03-27T14:03:00.865 - Opening Window in Expert Mode
+2026-03-27T14:03:00.873 - MouseFunctions: getOpticalSensorId
+2026-03-27T14:03:00.884 - MouseFunctions: WaitForDpiStep
+2026-03-27T14:03:00.966 - MouseFunctions: saveToRAM
+2026-03-27T14:03:01.026 - ConfigFile: saved to file
+2026-03-27T14:03:03.789 - SWUpdate: upgrade started
+2026-03-27T14:03:30.335 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T14:03:30.398 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T14:03:30.492 - ExpertView: loadSaveFile() start
+2026-03-27T14:03:30.529 - copyStarterFile:  true
+2026-03-27T14:03:30.529 - ExpertView: loadSaveFile():  36 msec
+2026-03-27T14:03:30.547 - HIDManager: mouse match, PID: 10
+2026-03-27T14:03:30.705 - MouseFunctions: getBuildNumber
+2026-03-27T14:03:30.706 - Firmware version: "000205"
+2026-03-27T14:03:30.762 - Opening Window in Expert Mode
+2026-03-27T14:03:31.570 - Opening Window in Expert Mode
+2026-03-27T14:03:31.571 - QDialog::exec: Recursive call detected
+2026-03-27T14:03:33.231 - MouseFunctions: getOpticalSensorId
+2026-03-27T14:03:33.233 - MouseFunctions: WaitForDpiStep
+2026-03-27T14:03:33.314 - MouseFunctions: saveToRAM
+2026-03-27T14:03:33.375 - ConfigFile: saved to file
+2026-03-27T14:04:34.235 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T14:04:34.301 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T14:04:34.402 - ExpertView: loadSaveFile() start
+2026-03-27T14:04:34.440 - copyStarterFile:  true
+2026-03-27T14:04:34.440 - ExpertView: loadSaveFile():  38 msec
+2026-03-27T14:04:34.458 - HIDManager: mouse match, PID: 10
+2026-03-27T14:04:34.617 - MouseFunctions: getBuildNumber
+2026-03-27T14:04:34.619 - Firmware version: "000205"
+2026-03-27T14:04:34.673 - Opening Window in Expert Mode
+2026-03-27T14:04:34.679 - MouseFunctions: getOpticalSensorId
+2026-03-27T14:04:34.693 - MouseFunctions: WaitForDpiStep
+2026-03-27T14:04:34.770 - MouseFunctions: saveToRAM
+2026-03-27T14:04:34.830 - ConfigFile: saved to file
+2026-03-27T14:05:42.492 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-27T14:05:42.559 - Blfwk: libblfwk_wrapper not loaded
+2026-03-27T14:05:42.655 - ExpertView: loadSaveFile() start
+2026-03-27T14:05:42.693 - copyStarterFile:  true
+2026-03-27T14:05:42.693 - ExpertView: loadSaveFile():  37 msec
+2026-03-27T14:05:42.710 - HIDManager: mouse match, PID: 10
+2026-03-27T14:05:42.871 - MouseFunctions: getBuildNumber
+2026-03-27T14:05:42.872 - Firmware version: "000205"
+2026-03-27T14:05:42.929 - Opening Window in Expert Mode
+2026-03-27T14:05:42.934 - MouseFunctions: getOpticalSensorId
+2026-03-27T14:05:42.950 - MouseFunctions: WaitForDpiStep
+2026-03-27T14:05:43.028 - MouseFunctions: saveToRAM
+2026-03-27T14:05:43.088 - ConfigFile: saved to file
+2026-03-27T18:45:26.247 - Mappings: save()
+2026-03-27T18:45:27.268 - Mappings: save()
+2026-03-27T18:45:51.898 - MouseFunctions: saveToRAM
+2026-03-27T18:45:51.961 - ConfigFile: saved to file
+2026-03-27T20:39:20.017 - MouseFunctions: saveToRAM
+2026-03-27T20:39:20.078 - ConfigFile: saved to file
+2026-03-27T22:39:20.964 - MouseFunctions: saveToRAM
+2026-03-27T22:39:21.027 - ConfigFile: saved to file
+2026-03-27T22:51:39.769 - MouseFunctions: saveToRAM
+2026-03-27T22:51:39.832 - ConfigFile: saved to file
+2026-03-27T23:03:48.455 - MouseFunctions: saveToRAM
+2026-03-27T23:03:48.520 - ConfigFile: saved to file
+2026-03-27T23:03:57.235 - MouseFunctions: saveToRAM
+2026-03-27T23:03:57.299 - ConfigFile: saved to file
+2026-03-27T23:04:22.683 - Mappings: save()
+2026-03-27T23:04:43.014 - Mappings: save()
+2026-03-27T23:07:07.481 - HIDManager: mouse removal, PID: 10
+2026-03-27T23:08:33.083 - HIDManager: mouse match, PID: 10
+2026-03-27T23:08:33.083 - MouseFunctions: getBuildNumber
+2026-03-27T23:08:33.084 - Firmware version: "000205"
+2026-03-27T23:08:33.562 - MouseFunctions: getOpticalSensorId
+2026-03-27T23:08:34.040 - MouseFunctions: WaitForDpiStep
+2026-03-27T23:08:35.018 - MouseFunctions: saveToRAM
+2026-03-27T23:08:45.445 - ConfigFile: saved to file
+2026-03-28T16:41:30.431 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-28T16:41:30.508 - Blfwk: libblfwk_wrapper not loaded
+2026-03-28T16:41:30.625 - ExpertView: loadSaveFile() start
+2026-03-28T16:41:30.665 - copyStarterFile:  true
+2026-03-28T16:41:30.665 - ExpertView: loadSaveFile():  40 msec
+2026-03-28T16:41:30.682 - HIDManager: mouse match, PID: 10
+2026-03-28T16:41:30.877 - MouseFunctions: getBuildNumber
+2026-03-28T16:41:30.878 - Firmware version: "000205"
+2026-03-28T16:41:30.934 - Opening Window in Expert Mode
+2026-03-28T16:41:30.938 - MouseFunctions: getOpticalSensorId
+2026-03-28T16:41:30.946 - MouseFunctions: WaitForDpiStep
+2026-03-28T16:41:31.031 - MouseFunctions: saveToRAM
+2026-03-28T16:41:31.097 - ConfigFile: saved to file
+2026-03-28T16:41:37.145 - MouseFunctions: saveToRAM
+2026-03-28T16:41:37.211 - ConfigFile: saved to file
+2026-03-28T16:41:47.844 - MouseFunctions: saveToRAM
+2026-03-28T16:41:47.908 - ConfigFile: saved to file
+2026-03-28T16:41:47.908 - MouseFunctions: saveToFlash
+2026-03-29T00:09:55.786 - The X11 connection broke (error 1). Did the X11 server die?
+2026-03-29T09:49:32.821 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-03-29T09:49:32.883 - Blfwk: libblfwk_wrapper not loaded
+2026-03-29T09:49:32.974 - ExpertView: loadSaveFile() start
+2026-03-29T09:49:33.009 - copyStarterFile:  true
+2026-03-29T09:49:33.009 - ExpertView: loadSaveFile():  35 msec
+2026-03-29T09:49:33.026 - HIDManager: mouse match, PID: 10
+2026-03-29T09:49:33.226 - MouseFunctions: getBuildNumber
+2026-03-29T09:49:33.227 - Firmware version: "000205"
+2026-03-29T09:49:33.280 - Opening Window in Expert Mode
+2026-03-29T09:49:33.285 - MouseFunctions: getOpticalSensorId
+2026-03-29T09:49:33.294 - MouseFunctions: WaitForDpiStep
+2026-03-29T09:49:33.362 - MouseFunctions: saveToRAM
+2026-03-29T09:49:33.427 - ConfigFile: saved to file
+2026-03-29T09:50:51.609 - MouseFunctions: saveToRAM
+2026-03-29T09:50:51.675 - ConfigFile: saved to file
+2026-03-29T09:51:07.862 - MouseFunctions: saveToRAM
+2026-03-29T09:51:07.928 - ConfigFile: saved to file
+2026-03-29T09:51:34.597 - MouseFunctions: saveToRAM
+2026-03-29T09:51:34.664 - ConfigFile: saved to file
+2026-03-29T09:51:34.664 - MouseFunctions: saveToFlash
+2026-03-29T09:53:05.429 - Mappings: save()
+2026-03-29T09:53:15.418 - Mappings: save()
+2026-03-29T09:53:50.996 - MouseFunctions: saveToRAM
+2026-03-29T09:53:51.061 - ConfigFile: saved to file
+2026-03-29T09:53:56.185 - Mappings: save()
+2026-03-29T09:53:59.781 - MouseFunctions: saveToRAM
+2026-03-29T09:53:59.847 - ConfigFile: saved to file
+2026-03-29T09:55:01.230 - MouseFunctions: saveToRAM
+2026-03-29T09:55:01.295 - ConfigFile: saved to file
+2026-03-29T09:55:01.295 - MouseFunctions: saveToFlash
+2026-03-29T09:57:42.224 - ConfigFile: saved to file
+2026-03-29T09:58:27.767 - ConfigFile: saved to file
+2026-03-29T09:58:40.475 - ConfigFile: saved to file
+2026-03-29T10:09:28.880 - MouseFunctions: saveToRAM
+2026-03-29T10:09:28.945 - ConfigFile: saved to file
+2026-03-29T10:09:32.518 - MouseFunctions: saveToRAM
+2026-03-29T10:09:32.582 - ConfigFile: saved to file
+2026-03-29T10:09:32.582 - MouseFunctions: saveToFlash
+2026-03-30T03:32:25.552 - The X11 connection broke (error 1). Did the X11 server die?
+2026-04-01T19:42:05.099 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-01T19:42:05.177 - Blfwk: libblfwk_wrapper not loaded
+2026-04-01T19:42:05.290 - ExpertView: loadSaveFile() start
+2026-04-01T19:42:05.330 - copyStarterFile:  true
+2026-04-01T19:42:05.330 - ExpertView: loadSaveFile():  40 msec
+2026-04-01T19:42:05.347 - HIDManager: mouse match, PID: 10
+2026-04-01T19:42:05.529 - MouseFunctions: getBuildNumber
+2026-04-01T19:42:05.529 - Firmware version: "000205"
+2026-04-01T19:42:05.585 - Opening Window in Expert Mode
+2026-04-01T19:42:06.518 - Opening Window in Expert Mode
+2026-04-01T19:42:06.519 - QDialog::exec: Recursive call detected
+2026-04-01T19:42:09.402 - MouseFunctions: getOpticalSensorId
+2026-04-01T19:42:09.404 - MouseFunctions: WaitForDpiStep
+2026-04-01T19:42:09.475 - MouseFunctions: saveToRAM
+2026-04-01T19:42:09.539 - ConfigFile: saved to file
+2026-04-01T19:45:05.159 - HIDManager: mouse removal, PID: 10
+2026-04-01T19:45:07.433 - HIDManager: mouse match, PID: 10
+2026-04-01T19:45:07.434 - MouseFunctions: getBuildNumber
+2026-04-01T19:45:07.435 - Firmware version: "000205"
+2026-04-01T19:45:07.930 - MouseFunctions: getOpticalSensorId
+2026-04-01T19:45:08.430 - MouseFunctions: WaitForDpiStep
+2026-04-01T19:45:09.431 - MouseFunctions: saveToRAM
+2026-04-01T19:45:19.933 - ConfigFile: saved to file
+2026-04-01T19:46:12.474 - MouseFunctions: saveToRAM
+2026-04-01T19:46:22.933 - ConfigFile: saved to file
+2026-04-01T19:47:23.342 - MouseFunctions: saveToRAM
+2026-04-01T19:47:33.932 - ConfigFile: saved to file
+2026-04-01T19:50:15.467 - MouseFunctions: saveToRAM
+2026-04-01T19:50:25.932 - ConfigFile: saved to file
+2026-04-01T19:50:30.413 - MouseFunctions: saveToRAM
+2026-04-01T19:50:40.933 - ConfigFile: saved to file
+2026-04-01T19:51:17.394 - MouseFunctions: saveToRAM
+2026-04-01T19:51:27.933 - ConfigFile: saved to file
+2026-04-01T19:52:36.830 - Mappings: save()
+2026-04-01T19:52:40.623 - MouseFunctions: saveToRAM
+2026-04-01T19:52:50.932 - ConfigFile: saved to file
+2026-04-01T19:53:04.930 - MouseFunctions: saveToRAM
+2026-04-01T19:53:15.432 - ConfigFile: saved to file
+2026-04-02T00:57:20.534 - Mappings: save()
+2026-04-02T00:57:26.544 - MouseFunctions: saveToRAM
+2026-04-02T00:57:36.932 - ConfigFile: saved to file
+2026-04-02T02:24:37.934 - HIDManager: mouse removal, PID: 10
+2026-04-02T02:24:41.952 - HIDManager: mouse match, PID: 10
+2026-04-02T02:24:41.952 - MouseFunctions: getBuildNumber
+2026-04-02T02:24:41.954 - Firmware version: "000205"
+2026-04-02T02:24:42.431 - MouseFunctions: getOpticalSensorId
+2026-04-02T02:24:42.930 - MouseFunctions: WaitForDpiStep
+2026-04-02T02:24:43.930 - MouseFunctions: saveToRAM
+2026-04-02T02:24:54.433 - ConfigFile: saved to file
+2026-04-02T03:03:39.889 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-02T03:03:39.949 - Blfwk: libblfwk_wrapper not loaded
+2026-04-02T03:03:40.040 - ExpertView: loadSaveFile() start
+2026-04-02T03:03:40.099 - copyStarterFile:  true
+2026-04-02T03:03:40.099 - ExpertView: loadSaveFile():  58 msec
+2026-04-02T03:03:40.116 - HIDManager: mouse match, PID: 10
+2026-04-02T03:03:40.293 - MouseFunctions: getBuildNumber
+2026-04-02T03:03:40.294 - Firmware version: "000205"
+2026-04-02T03:03:40.357 - Opening Window in Expert Mode
+2026-04-02T03:03:40.362 - MouseFunctions: getOpticalSensorId
+2026-04-02T03:03:40.373 - MouseFunctions: WaitForDpiStep
+2026-04-02T03:03:40.534 - MouseFunctions: saveToRAM
+2026-04-02T03:03:40.598 - ConfigFile: saved to file
+2026-04-02T03:04:22.337 - Mappings: save()
+2026-04-02T03:05:12.443 - MouseFunctions: saveToRAM
+2026-04-02T03:05:12.509 - ConfigFile: saved to file
+2026-04-02T03:05:22.205 - MouseFunctions: saveToRAM
+2026-04-02T03:05:22.270 - ConfigFile: saved to file
+2026-04-02T03:05:34.933 - MouseFunctions: saveToRAM
+2026-04-02T03:05:34.998 - ConfigFile: saved to file
+2026-04-02T03:05:42.214 - MouseFunctions: saveToRAM
+2026-04-02T03:05:42.281 - ConfigFile: saved to file
+2026-04-02T03:07:45.295 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-02T03:07:45.355 - Blfwk: libblfwk_wrapper not loaded
+2026-04-02T03:07:45.443 - ExpertView: loadSaveFile() start
+2026-04-02T03:07:45.502 - copyStarterFile:  true
+2026-04-02T03:07:45.502 - ExpertView: loadSaveFile():  58 msec
+2026-04-02T03:07:45.518 - HIDManager: mouse match, PID: 10
+2026-04-02T03:07:45.667 - Autostart - launched minimized
+2026-04-02T03:07:45.714 - MouseFunctions: getBuildNumber
+2026-04-02T03:07:45.715 - Firmware version: "000205"
+2026-04-02T03:07:45.760 - MouseFunctions: getOpticalSensorId
+2026-04-02T03:07:45.762 - MouseFunctions: WaitForDpiStep
+2026-04-02T03:07:45.789 - MouseFunctions: saveToRAM
+2026-04-02T03:07:45.854 - ConfigFile: saved to file
+2026-04-02T14:42:36.029 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-02T14:42:36.244 - Blfwk: libblfwk_wrapper not loaded
+2026-04-02T14:42:36.534 - ExpertView: loadSaveFile() start
+2026-04-02T14:42:36.659 - copyStarterFile:  true
+2026-04-02T14:42:36.659 - ExpertView: loadSaveFile():  125 msec
+2026-04-02T14:42:36.681 - HIDManager: mouse match, PID: 10
+2026-04-02T14:42:36.938 - Autostart - launched minimized
+2026-04-02T14:42:37.034 - MouseFunctions: getBuildNumber
+2026-04-02T14:42:37.035 - Firmware version: "000205"
+2026-04-02T14:42:37.091 - MouseFunctions: getOpticalSensorId
+2026-04-02T14:42:37.094 - MouseFunctions: WaitForDpiStep
+2026-04-02T14:42:37.130 - MouseFunctions: saveToRAM
+2026-04-02T14:42:37.199 - ConfigFile: saved to file
+2026-04-03T01:51:52.143 - Opening Window in Expert Mode
+2026-04-03T01:52:00.958 - MouseFunctions: saveToRAM
+2026-04-03T01:52:01.022 - ConfigFile: saved to file
+2026-04-03T03:31:08.402 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:34:53.244 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:38:47.124 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:39:32.159 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:39:32.501 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:40:09.665 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:41:14.814 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:41:55.807 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:41:56.168 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:44:59.607 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:45:11.753 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:46:22.121 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:49:54.050 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:50:06.802 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T03:50:30.495 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T04:11:45.802 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T04:11:56.079 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T04:14:19.474 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T04:16:14.803 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-04-03T15:41:33.779 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-03T15:41:33.980 - Blfwk: libblfwk_wrapper not loaded
+2026-04-03T15:41:34.270 - ExpertView: loadSaveFile() start
+2026-04-03T15:41:34.366 - copyStarterFile:  true
+2026-04-03T15:41:34.366 - ExpertView: loadSaveFile():  95 msec
+2026-04-03T15:41:34.409 - HIDManager: mouse match, PID: 10
+2026-04-03T15:41:34.694 - Autostart - launched minimized
+2026-04-03T15:41:34.804 - MouseFunctions: getBuildNumber
+2026-04-03T15:41:34.808 - Firmware version: "000205"
+2026-04-03T15:41:34.894 - MouseFunctions: getOpticalSensorId
+2026-04-03T15:41:34.898 - MouseFunctions: WaitForDpiStep
+2026-04-03T15:41:34.948 - MouseFunctions: saveToRAM
+2026-04-03T15:41:35.023 - ConfigFile: saved to file
+2026-04-03T22:47:18.007 - Opening Window in Expert Mode
+2026-04-03T22:49:52.685 - MouseFunctions: saveToRAM
+2026-04-03T22:49:52.750 - ConfigFile: saved to file
+2026-04-03T22:50:02.070 - MouseFunctions: saveToRAM
+2026-04-03T22:50:02.134 - ConfigFile: saved to file
+2026-04-03T22:50:11.572 - MouseFunctions: saveToRAM
+2026-04-03T22:50:11.638 - ConfigFile: saved to file
+2026-04-03T22:59:09.718 - Mappings: save()
+2026-04-03T22:59:41.573 - MouseFunctions: saveToRAM
+2026-04-03T22:59:41.642 - ConfigFile: saved to file
+2026-04-03T23:00:38.948 - MouseFunctions: saveToRAM
+2026-04-03T23:00:39.016 - ConfigFile: saved to file
+2026-04-03T23:20:54.308 - Mappings: save()
+2026-04-03T23:20:57.408 - Mappings: save()
+2026-04-03T23:21:03.763 - MouseFunctions: saveToRAM
+2026-04-03T23:21:03.834 - ConfigFile: saved to file
+2026-04-03T23:43:42.564 - Mappings: save()
+2026-04-03T23:43:45.947 - Mappings: save()
+2026-04-03T23:44:57.698 - MouseFunctions: saveToRAM
+2026-04-03T23:44:57.772 - ConfigFile: saved to file
+2026-04-03T23:48:23.050 - ConfigFile: saved to file
+2026-04-03T23:56:25.974 - MouseFunctions: saveToRAM
+2026-04-03T23:56:26.043 - ConfigFile: saved to file
+2026-04-03T23:56:39.822 - MouseFunctions: saveToRAM
+2026-04-03T23:56:39.889 - ConfigFile: saved to file
+2026-04-03T23:56:39.889 - MouseFunctions: saveToFlash
+2026-04-04T00:22:02.205 - MouseFunctions: saveToRAM
+2026-04-04T00:22:02.277 - ConfigFile: saved to file
+2026-04-04T00:24:52.931 - MouseFunctions: saveToRAM
+2026-04-04T00:24:53.004 - ConfigFile: saved to file
+2026-04-04T15:31:07.412 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-04T15:31:07.670 - Blfwk: libblfwk_wrapper not loaded
+2026-04-04T15:31:08.033 - ExpertView: loadSaveFile() start
+2026-04-04T15:31:08.195 - copyStarterFile:  true
+2026-04-04T15:31:08.195 - ExpertView: loadSaveFile():  162 msec
+2026-04-04T15:31:08.219 - HIDManager: mouse match, PID: 10
+2026-04-04T15:31:08.611 - Autostart - launched minimized
+2026-04-04T15:31:08.790 - MouseFunctions: getBuildNumber
+2026-04-04T15:31:08.792 - Firmware version: "000205"
+2026-04-04T15:31:08.854 - MouseFunctions: getOpticalSensorId
+2026-04-04T15:31:08.862 - MouseFunctions: WaitForDpiStep
+2026-04-04T15:31:08.973 - MouseFunctions: saveToRAM
+2026-04-04T15:31:09.048 - ConfigFile: saved to file
+2026-04-04T20:41:11.882 - Opening Window in Expert Mode
+2026-04-04T20:41:29.804 - MouseFunctions: saveToRAM
+2026-04-04T20:41:29.875 - ConfigFile: saved to file
+2026-04-04T20:41:38.240 - MouseFunctions: saveToRAM
+2026-04-04T20:41:38.312 - ConfigFile: saved to file
+2026-04-04T20:41:58.822 - MouseFunctions: saveToRAM
+2026-04-04T20:41:58.893 - ConfigFile: saved to file
+2026-04-04T21:00:26.658 - MouseFunctions: saveToRAM
+2026-04-04T21:00:26.729 - ConfigFile: saved to file
+2026-04-04T21:00:34.276 - MouseFunctions: saveToRAM
+2026-04-04T21:00:34.346 - ConfigFile: saved to file
+2026-04-04T21:34:39.739 - Mappings: save()
+2026-04-04T21:34:59.782 - Mappings: save()
+2026-04-04T21:35:04.343 - Mappings: save()
+2026-04-04T21:35:10.078 - Mappings: save()
+2026-04-04T21:35:30.841 - MouseFunctions: saveToRAM
+2026-04-04T21:35:30.914 - ConfigFile: saved to file
+2026-04-04T21:37:16.090 - Mappings: save()
+2026-04-04T21:37:16.824 - MouseFunctions: saveToRAM
+2026-04-04T21:37:16.897 - ConfigFile: saved to file
+2026-04-04T21:39:17.952 - Mappings: save()
+2026-04-04T21:39:19.743 - Mappings: save()
+2026-04-04T21:39:24.013 - Mappings: save()
+2026-04-04T21:39:32.162 - Mappings: save()
+2026-04-04T21:40:23.174 - internal error:  void QXcbWindow::setNetWmStateOnUnmappedWindow() called on mapped window
+2026-04-04T21:40:51.099 - MouseFunctions: saveToRAM
+2026-04-04T21:40:51.175 - ConfigFile: saved to file
+2026-04-04T21:41:33.971 - MouseFunctions: saveToRAM
+2026-04-04T21:41:34.052 - ConfigFile: saved to file
+2026-04-04T21:42:13.048 - Mappings: save()
+2026-04-04T21:42:14.757 - MouseFunctions: saveToRAM
+2026-04-04T21:42:14.837 - ConfigFile: saved to file
+2026-04-04T21:42:23.864 - MouseFunctions: saveToRAM
+2026-04-04T21:42:23.944 - ConfigFile: saved to file
+2026-04-04T21:42:30.666 - MouseFunctions: saveToRAM
+2026-04-04T21:42:30.742 - ConfigFile: saved to file
+2026-04-04T21:42:48.444 - Mappings: save()
+2026-04-04T21:42:53.162 - Mappings: save()
+2026-04-04T21:43:12.774 - MouseFunctions: saveToRAM
+2026-04-04T21:43:12.854 - ConfigFile: saved to file
+2026-04-04T21:43:36.406 - MouseFunctions: saveToRAM
+2026-04-04T21:43:36.484 - ConfigFile: saved to file
+2026-04-04T21:45:27.803 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-04T21:45:27.975 - Blfwk: libblfwk_wrapper not loaded
+2026-04-04T21:45:28.211 - ExpertView: loadSaveFile() start
+2026-04-04T21:45:28.309 - copyStarterFile:  true
+2026-04-04T21:45:28.309 - ExpertView: loadSaveFile():  97 msec
+2026-04-04T21:45:28.328 - HIDManager: mouse match, PID: 10
+2026-04-04T21:45:28.541 - Autostart - launched minimized
+2026-04-04T21:45:28.672 - MouseFunctions: getBuildNumber
+2026-04-04T21:45:28.673 - Firmware version: "000205"
+2026-04-04T21:45:28.723 - MouseFunctions: getOpticalSensorId
+2026-04-04T21:45:28.726 - MouseFunctions: WaitForDpiStep
+2026-04-04T21:45:28.762 - MouseFunctions: saveToRAM
+2026-04-04T21:45:28.843 - ConfigFile: saved to file
+2026-04-04T21:48:21.707 - Opening Window in Expert Mode
+2026-04-04T21:48:24.803 - MouseFunctions: saveToRAM
+2026-04-04T21:48:24.876 - ConfigFile: saved to file
+2026-04-04T21:49:26.164 - Mappings: save()
+2026-04-04T21:49:27.298 - MouseFunctions: saveToRAM
+2026-04-04T21:49:27.377 - ConfigFile: saved to file
+2026-04-04T21:49:54.433 - Mappings: save()
+2026-04-04T21:49:56.887 - MouseFunctions: saveToRAM
+2026-04-04T21:49:56.965 - ConfigFile: saved to file
+2026-04-04T21:53:06.374 - ConfigFile: saved to file
+2026-04-04T21:55:23.667 - Mappings: save()
+2026-04-04T21:55:25.663 - MouseFunctions: saveToRAM
+2026-04-04T21:55:25.742 - ConfigFile: saved to file
+2026-04-04T21:55:32.503 - ConfigFile: saved to file
+2026-04-04T21:59:28.199 - Mappings: save()
+2026-04-04T21:59:54.233 - Mappings: save()
+2026-04-04T21:59:57.975 - Mappings: save()
+2026-04-04T22:03:30.493 - MouseFunctions: saveToRAM
+2026-04-04T22:03:30.569 - ConfigFile: saved to file
+2026-04-04T22:49:21.479 - MouseFunctions: saveToRAM
+2026-04-04T22:49:21.550 - ConfigFile: saved to file
+2026-04-04T22:49:25.699 - MouseFunctions: saveToRAM
+2026-04-04T22:49:25.769 - ConfigFile: saved to file
+2026-04-04T22:49:25.769 - MouseFunctions: saveToFlash
+2026-04-05T17:12:01.402 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-05T17:12:01.674 - Blfwk: libblfwk_wrapper not loaded
+2026-04-05T17:12:02.013 - ExpertView: loadSaveFile() start
+2026-04-05T17:12:02.118 - copyStarterFile:  true
+2026-04-05T17:12:02.118 - ExpertView: loadSaveFile():  104 msec
+2026-04-05T17:12:02.142 - HIDManager: mouse match, PID: 10
+2026-04-05T17:12:02.422 - Autostart - launched minimized
+2026-04-05T17:12:02.511 - MouseFunctions: getBuildNumber
+2026-04-05T17:12:02.512 - Firmware version: "000205"
+2026-04-05T17:12:02.620 - MouseFunctions: getOpticalSensorId
+2026-04-05T17:12:02.624 - MouseFunctions: WaitForDpiStep
+2026-04-05T17:12:02.736 - MouseFunctions: saveToRAM
+2026-04-05T17:12:02.818 - ConfigFile: saved to file
+2026-04-06T00:00:07.361 - Opening Window in Expert Mode
+2026-04-06T00:15:16.736 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-04-06T17:07:10.052 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-06T17:07:10.168 - Blfwk: libblfwk_wrapper not loaded
+2026-04-06T17:07:10.442 - ExpertView: loadSaveFile() start
+2026-04-06T17:07:10.532 - copyStarterFile:  true
+2026-04-06T17:07:10.532 - ExpertView: loadSaveFile():  90 msec
+2026-04-06T17:07:10.557 - HIDManager: mouse match, PID: 10
+2026-04-06T17:07:10.764 - Autostart - launched minimized
+2026-04-06T17:07:10.849 - MouseFunctions: getBuildNumber
+2026-04-06T17:07:10.850 - Firmware version: "000205"
+2026-04-06T17:07:10.917 - MouseFunctions: getOpticalSensorId
+2026-04-06T17:07:10.921 - MouseFunctions: WaitForDpiStep
+2026-04-06T17:07:10.964 - MouseFunctions: saveToRAM
+2026-04-06T17:07:11.057 - ConfigFile: saved to file
+2026-04-07T18:48:02.307 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-07T18:48:02.527 - Blfwk: libblfwk_wrapper not loaded
+2026-04-07T18:48:03.143 - ExpertView: loadSaveFile() start
+2026-04-07T18:48:03.287 - copyStarterFile:  true
+2026-04-07T18:48:03.287 - ExpertView: loadSaveFile():  143 msec
+2026-04-07T18:48:03.313 - HIDManager: mouse match, PID: 10
+2026-04-07T18:48:03.557 - Autostart - launched minimized
+2026-04-07T18:48:03.700 - MouseFunctions: getBuildNumber
+2026-04-07T18:48:03.702 - Firmware version: "000205"
+2026-04-07T18:48:03.781 - MouseFunctions: getOpticalSensorId
+2026-04-07T18:48:03.783 - MouseFunctions: WaitForDpiStep
+2026-04-07T18:48:03.846 - MouseFunctions: saveToRAM
+2026-04-07T18:48:03.917 - ConfigFile: saved to file
+2026-04-09T11:42:01.094 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-09T11:42:01.316 - Blfwk: libblfwk_wrapper not loaded
+2026-04-09T11:42:01.616 - ExpertView: loadSaveFile() start
+2026-04-09T11:42:01.701 - copyStarterFile:  true
+2026-04-09T11:42:01.701 - ExpertView: loadSaveFile():  84 msec
+2026-04-09T11:42:01.731 - HIDManager: mouse match, PID: 10
+2026-04-09T11:42:01.952 - Autostart - launched minimized
+2026-04-09T11:42:02.050 - MouseFunctions: getBuildNumber
+2026-04-09T11:42:02.051 - Firmware version: "000205"
+2026-04-09T11:42:02.116 - MouseFunctions: getOpticalSensorId
+2026-04-09T11:42:02.119 - MouseFunctions: WaitForDpiStep
+2026-04-09T11:42:02.162 - MouseFunctions: saveToRAM
+2026-04-09T11:42:02.245 - ConfigFile: saved to file
+2026-04-10T19:39:08.394 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-10T19:39:08.513 - Blfwk: libblfwk_wrapper not loaded
+2026-04-10T19:39:08.708 - ExpertView: loadSaveFile() start
+2026-04-10T19:39:08.769 - copyStarterFile:  true
+2026-04-10T19:39:08.769 - ExpertView: loadSaveFile():  61 msec
+2026-04-10T19:39:08.786 - HIDManager: mouse match, PID: 10
+2026-04-10T19:39:08.957 - Autostart - launched minimized
+2026-04-10T19:39:09.027 - MouseFunctions: getBuildNumber
+2026-04-10T19:39:09.028 - Firmware version: "000205"
+2026-04-10T19:39:09.080 - MouseFunctions: getOpticalSensorId
+2026-04-10T19:39:09.083 - MouseFunctions: WaitForDpiStep
+2026-04-10T19:39:09.117 - MouseFunctions: saveToRAM
+2026-04-10T19:39:09.190 - ConfigFile: saved to file
+2026-04-11T15:00:10.280 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-11T15:00:10.401 - Blfwk: libblfwk_wrapper not loaded
+2026-04-11T15:00:10.609 - ExpertView: loadSaveFile() start
+2026-04-11T15:00:10.671 - copyStarterFile:  true
+2026-04-11T15:00:10.671 - ExpertView: loadSaveFile():  62 msec
+2026-04-11T15:00:10.688 - HIDManager: mouse match, PID: 10
+2026-04-11T15:00:10.892 - Autostart - launched minimized
+2026-04-11T15:00:10.968 - MouseFunctions: getBuildNumber
+2026-04-11T15:00:10.969 - Firmware version: "000205"
+2026-04-11T15:00:11.021 - MouseFunctions: getOpticalSensorId
+2026-04-11T15:00:11.023 - MouseFunctions: WaitForDpiStep
+2026-04-11T15:00:11.061 - MouseFunctions: saveToRAM
+2026-04-11T15:00:11.135 - ConfigFile: saved to file
+2026-04-11T15:00:18.872 - The X11 connection broke (error 1). Did the X11 server die?
+2026-04-11T15:01:53.829 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-11T15:01:54.416 - Blfwk: libblfwk_wrapper not loaded
+2026-04-11T15:01:55.349 - ExpertView: loadSaveFile() start
+2026-04-11T15:01:55.848 - copyStarterFile:  true
+2026-04-11T15:01:55.848 - ExpertView: loadSaveFile():  498 msec
+2026-04-11T15:01:55.872 - HIDManager: mouse match, PID: 10
+2026-04-11T15:01:57.502 - Autostart - launched minimized
+2026-04-11T15:01:58.000 - MouseFunctions: getBuildNumber
+2026-04-11T15:01:58.001 - Firmware version: "000205"
+2026-04-11T15:01:58.412 - MouseFunctions: getOpticalSensorId
+2026-04-11T15:01:58.415 - MouseFunctions: WaitForDpiStep
+2026-04-11T15:01:58.729 - MouseFunctions: saveToRAM
+2026-04-11T15:01:58.915 - ConfigFile: saved to file
+2026-04-12T00:39:30.880 - Opening Window in Expert Mode
+2026-04-12T15:01:01.827 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-12T15:01:02.022 - Blfwk: libblfwk_wrapper not loaded
+2026-04-12T15:01:02.358 - ExpertView: loadSaveFile() start
+2026-04-12T15:01:02.424 - copyStarterFile:  true
+2026-04-12T15:01:02.424 - ExpertView: loadSaveFile():  66 msec
+2026-04-12T15:01:02.447 - HIDManager: mouse match, PID: 10
+2026-04-12T15:01:02.630 - Autostart - launched minimized
+2026-04-12T15:01:02.719 - MouseFunctions: getBuildNumber
+2026-04-12T15:01:02.720 - Firmware version: "000205"
+2026-04-12T15:01:02.780 - MouseFunctions: getOpticalSensorId
+2026-04-12T15:01:02.783 - MouseFunctions: WaitForDpiStep
+2026-04-12T15:01:02.828 - MouseFunctions: saveToRAM
+2026-04-12T15:01:02.903 - ConfigFile: saved to file
+2026-04-13T09:14:28.027 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-13T09:14:28.198 - Blfwk: libblfwk_wrapper not loaded
+2026-04-13T09:14:28.586 - ExpertView: loadSaveFile() start
+2026-04-13T09:14:28.686 - copyStarterFile:  true
+2026-04-13T09:14:28.686 - ExpertView: loadSaveFile():  99 msec
+2026-04-13T09:14:28.717 - HIDManager: mouse match, PID: 10
+2026-04-13T09:14:28.957 - Autostart - launched minimized
+2026-04-13T09:14:29.067 - MouseFunctions: getBuildNumber
+2026-04-13T09:14:29.068 - Firmware version: "000205"
+2026-04-13T09:14:29.156 - MouseFunctions: getOpticalSensorId
+2026-04-13T09:14:29.160 - MouseFunctions: WaitForDpiStep
+2026-04-13T09:14:29.204 - MouseFunctions: saveToRAM
+2026-04-13T09:14:29.282 - ConfigFile: saved to file
+2026-04-13T15:30:51.006 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-13T15:30:51.158 - Blfwk: libblfwk_wrapper not loaded
+2026-04-13T15:30:51.362 - ExpertView: loadSaveFile() start
+2026-04-13T15:30:51.421 - copyStarterFile:  true
+2026-04-13T15:30:51.421 - ExpertView: loadSaveFile():  59 msec
+2026-04-13T15:30:51.437 - HIDManager: mouse match, PID: 10
+2026-04-13T15:30:51.583 - Autostart - launched minimized
+2026-04-13T15:30:51.652 - MouseFunctions: getBuildNumber
+2026-04-13T15:30:51.653 - Firmware version: "000205"
+2026-04-13T15:30:51.703 - MouseFunctions: getOpticalSensorId
+2026-04-13T15:30:51.705 - MouseFunctions: WaitForDpiStep
+2026-04-13T15:30:51.741 - MouseFunctions: saveToRAM
+2026-04-13T15:30:51.818 - ConfigFile: saved to file
+2026-04-14T09:03:19.744 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-14T09:03:19.964 - Blfwk: libblfwk_wrapper not loaded
+2026-04-14T09:03:20.243 - ExpertView: loadSaveFile() start
+2026-04-14T09:03:20.328 - copyStarterFile:  true
+2026-04-14T09:03:20.328 - ExpertView: loadSaveFile():  85 msec
+2026-04-14T09:03:20.350 - HIDManager: mouse match, PID: 10
+2026-04-14T09:03:20.539 - Autostart - launched minimized
+2026-04-14T09:03:20.627 - MouseFunctions: getBuildNumber
+2026-04-14T09:03:20.628 - Firmware version: "000205"
+2026-04-14T09:03:20.705 - MouseFunctions: getOpticalSensorId
+2026-04-14T09:03:20.708 - MouseFunctions: WaitForDpiStep
+2026-04-14T09:03:20.757 - MouseFunctions: saveToRAM
+2026-04-14T09:03:20.840 - ConfigFile: saved to file
+2026-04-15T16:27:25.559 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-15T16:27:25.742 - Blfwk: libblfwk_wrapper not loaded
+2026-04-15T16:27:25.978 - ExpertView: loadSaveFile() start
+2026-04-15T16:27:26.038 - copyStarterFile:  true
+2026-04-15T16:27:26.038 - ExpertView: loadSaveFile():  60 msec
+2026-04-15T16:27:26.056 - HIDManager: mouse match, PID: 10
+2026-04-15T16:27:26.249 - Autostart - launched minimized
+2026-04-15T16:27:26.340 - MouseFunctions: getBuildNumber
+2026-04-15T16:27:26.342 - Firmware version: "000205"
+2026-04-15T16:27:26.392 - MouseFunctions: getOpticalSensorId
+2026-04-15T16:27:26.394 - MouseFunctions: WaitForDpiStep
+2026-04-15T16:27:26.467 - MouseFunctions: saveToRAM
+2026-04-15T16:27:26.542 - ConfigFile: saved to file
+2026-04-16T10:10:02.881 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-16T10:10:03.091 - Blfwk: libblfwk_wrapper not loaded
+2026-04-16T10:10:03.354 - ExpertView: loadSaveFile() start
+2026-04-16T10:10:03.497 - copyStarterFile:  true
+2026-04-16T10:10:03.497 - ExpertView: loadSaveFile():  142 msec
+2026-04-16T10:10:03.526 - HIDManager: mouse match, PID: 10
+2026-04-16T10:10:03.743 - Autostart - launched minimized
+2026-04-16T10:10:03.834 - MouseFunctions: getBuildNumber
+2026-04-16T10:10:03.836 - Firmware version: "000205"
+2026-04-16T10:10:03.909 - MouseFunctions: getOpticalSensorId
+2026-04-16T10:10:03.912 - MouseFunctions: WaitForDpiStep
+2026-04-16T10:10:03.956 - MouseFunctions: saveToRAM
+2026-04-16T10:10:04.041 - ConfigFile: saved to file
+2026-04-17T10:16:49.563 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-17T10:16:49.785 - Blfwk: libblfwk_wrapper not loaded
+2026-04-17T10:16:50.190 - ExpertView: loadSaveFile() start
+2026-04-17T10:16:50.271 - copyStarterFile:  true
+2026-04-17T10:16:50.272 - ExpertView: loadSaveFile():  81 msec
+2026-04-17T10:16:50.300 - HIDManager: mouse match, PID: 10
+2026-04-17T10:16:50.492 - Autostart - launched minimized
+2026-04-17T10:16:50.575 - MouseFunctions: getBuildNumber
+2026-04-17T10:16:50.576 - Firmware version: "000205"
+2026-04-17T10:16:50.630 - MouseFunctions: getOpticalSensorId
+2026-04-17T10:16:50.633 - MouseFunctions: WaitForDpiStep
+2026-04-17T10:16:50.681 - MouseFunctions: saveToRAM
+2026-04-17T10:16:50.754 - ConfigFile: saved to file
+2026-04-17T10:21:43.286 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-17T10:21:43.453 - Blfwk: libblfwk_wrapper not loaded
+2026-04-17T10:21:43.681 - ExpertView: loadSaveFile() start
+2026-04-17T10:21:43.741 - copyStarterFile:  true
+2026-04-17T10:21:43.741 - ExpertView: loadSaveFile():  59 msec
+2026-04-17T10:21:43.760 - HIDManager: mouse match, PID: 10
+2026-04-17T10:21:43.954 - Autostart - launched minimized
+2026-04-17T10:21:44.040 - MouseFunctions: getBuildNumber
+2026-04-17T10:21:44.040 - Firmware version: "000205"
+2026-04-17T10:21:44.090 - MouseFunctions: getOpticalSensorId
+2026-04-17T10:21:44.092 - MouseFunctions: WaitForDpiStep
+2026-04-17T10:21:44.095 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-04-17T10:21:44.145 - MouseFunctions: saveToRAM
+2026-04-17T10:21:44.219 - ConfigFile: saved to file
+2026-04-17T23:57:27.977 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-17T23:57:28.192 - Blfwk: libblfwk_wrapper not loaded
+2026-04-17T23:57:28.415 - ExpertView: loadSaveFile() start
+2026-04-17T23:57:28.501 - copyStarterFile:  true
+2026-04-17T23:57:28.501 - ExpertView: loadSaveFile():  85 msec
+2026-04-17T23:57:28.527 - HIDManager: mouse match, PID: 10
+2026-04-17T23:57:28.724 - Autostart - launched minimized
+2026-04-17T23:57:28.820 - MouseFunctions: getBuildNumber
+2026-04-17T23:57:28.821 - Firmware version: "000205"
+2026-04-17T23:57:28.883 - MouseFunctions: getOpticalSensorId
+2026-04-17T23:57:28.886 - MouseFunctions: WaitForDpiStep
+2026-04-17T23:57:28.938 - MouseFunctions: saveToRAM
+2026-04-17T23:57:29.019 - ConfigFile: saved to file
+2026-04-18T15:06:27.938 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-18T15:06:28.117 - Blfwk: libblfwk_wrapper not loaded
+2026-04-18T15:06:28.469 - ExpertView: loadSaveFile() start
+2026-04-18T15:06:28.533 - copyStarterFile:  true
+2026-04-18T15:06:28.533 - ExpertView: loadSaveFile():  63 msec
+2026-04-18T15:06:28.557 - HIDManager: mouse match, PID: 10
+2026-04-18T15:06:28.740 - Autostart - launched minimized
+2026-04-18T15:06:28.846 - MouseFunctions: getBuildNumber
+2026-04-18T15:06:28.848 - Firmware version: "000205"
+2026-04-18T15:06:28.913 - MouseFunctions: getOpticalSensorId
+2026-04-18T15:06:28.916 - MouseFunctions: WaitForDpiStep
+2026-04-18T15:06:28.964 - MouseFunctions: saveToRAM
+2026-04-18T15:06:29.042 - ConfigFile: saved to file
+2026-04-18T15:58:16.403 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-18T15:58:16.647 - Blfwk: libblfwk_wrapper not loaded
+2026-04-18T15:58:16.981 - ExpertView: loadSaveFile() start
+2026-04-18T15:58:17.065 - copyStarterFile:  true
+2026-04-18T15:58:17.065 - ExpertView: loadSaveFile():  83 msec
+2026-04-18T15:58:17.086 - HIDManager: mouse match, PID: 10
+2026-04-18T15:58:17.348 - Autostart - launched minimized
+2026-04-18T15:58:17.494 - MouseFunctions: getBuildNumber
+2026-04-18T15:58:17.496 - Firmware version: "000205"
+2026-04-18T15:58:17.571 - MouseFunctions: getOpticalSensorId
+2026-04-18T15:58:17.573 - MouseFunctions: WaitForDpiStep
+2026-04-18T15:58:17.612 - MouseFunctions: saveToRAM
+2026-04-18T15:58:17.686 - ConfigFile: saved to file
+2026-04-19T13:41:16.989 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-19T13:41:17.197 - Blfwk: libblfwk_wrapper not loaded
+2026-04-19T13:41:17.529 - ExpertView: loadSaveFile() start
+2026-04-19T13:41:17.631 - copyStarterFile:  true
+2026-04-19T13:41:17.631 - ExpertView: loadSaveFile():  101 msec
+2026-04-19T13:41:17.661 - HIDManager: mouse match, PID: 10
+2026-04-19T13:41:17.896 - Autostart - launched minimized
+2026-04-19T13:41:18.046 - MouseFunctions: getBuildNumber
+2026-04-19T13:41:18.048 - Firmware version: "000205"
+2026-04-19T13:41:18.116 - MouseFunctions: getOpticalSensorId
+2026-04-19T13:41:18.120 - MouseFunctions: WaitForDpiStep
+2026-04-19T13:41:18.174 - MouseFunctions: saveToRAM
+2026-04-19T13:41:18.253 - ConfigFile: saved to file
+2026-04-19T13:46:03.126 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-19T13:46:03.283 - Blfwk: libblfwk_wrapper not loaded
+2026-04-19T13:46:03.499 - ExpertView: loadSaveFile() start
+2026-04-19T13:46:03.565 - copyStarterFile:  true
+2026-04-19T13:46:03.565 - ExpertView: loadSaveFile():  65 msec
+2026-04-19T13:46:03.587 - HIDManager: mouse match, PID: 10
+2026-04-19T13:46:03.925 - Autostart - launched minimized
+2026-04-19T13:46:04.082 - MouseFunctions: getBuildNumber
+2026-04-19T13:46:04.083 - Firmware version: "000205"
+2026-04-19T13:46:04.174 - MouseFunctions: getOpticalSensorId
+2026-04-19T13:46:04.177 - MouseFunctions: WaitForDpiStep
+2026-04-19T13:46:04.180 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-04-19T13:46:04.274 - MouseFunctions: saveToRAM
+2026-04-19T13:46:04.349 - ConfigFile: saved to file
+2026-04-20T13:23:16.126 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-20T13:23:16.309 - Blfwk: libblfwk_wrapper not loaded
+2026-04-20T13:23:16.661 - ExpertView: loadSaveFile() start
+2026-04-20T13:23:16.736 - copyStarterFile:  true
+2026-04-20T13:23:16.736 - ExpertView: loadSaveFile():  74 msec
+2026-04-20T13:23:16.760 - HIDManager: mouse match, PID: 10
+2026-04-20T13:23:16.977 - Autostart - launched minimized
+2026-04-20T13:23:17.084 - MouseFunctions: getBuildNumber
+2026-04-20T13:23:17.085 - Firmware version: "000205"
+2026-04-20T13:23:17.166 - MouseFunctions: getOpticalSensorId
+2026-04-20T13:23:17.170 - MouseFunctions: WaitForDpiStep
+2026-04-20T13:23:17.230 - MouseFunctions: saveToRAM
+2026-04-20T13:23:17.306 - ConfigFile: saved to file
+2026-04-20T16:25:17.279 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-20T16:25:17.437 - Blfwk: libblfwk_wrapper not loaded
+2026-04-20T16:25:17.632 - ExpertView: loadSaveFile() start
+2026-04-20T16:25:17.682 - copyStarterFile:  true
+2026-04-20T16:25:17.682 - ExpertView: loadSaveFile():  50 msec
+2026-04-20T16:25:17.700 - HIDManager: mouse match, PID: 10
+2026-04-20T16:25:17.849 - Autostart - launched minimized
+2026-04-20T16:25:17.935 - MouseFunctions: getBuildNumber
+2026-04-20T16:25:17.936 - Firmware version: "000205"
+2026-04-20T16:25:18.003 - MouseFunctions: getOpticalSensorId
+2026-04-20T16:25:18.006 - MouseFunctions: WaitForDpiStep
+2026-04-20T16:25:18.052 - MouseFunctions: saveToRAM
+2026-04-20T16:25:18.128 - ConfigFile: saved to file
+2026-04-21T17:02:50.783 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-21T17:02:50.968 - Blfwk: libblfwk_wrapper not loaded
+2026-04-21T17:02:51.289 - ExpertView: loadSaveFile() start
+2026-04-21T17:02:51.369 - copyStarterFile:  true
+2026-04-21T17:02:51.369 - ExpertView: loadSaveFile():  80 msec
+2026-04-21T17:02:51.412 - HIDManager: mouse match, PID: 10
+2026-04-21T17:02:51.619 - Autostart - launched minimized
+2026-04-21T17:02:51.711 - MouseFunctions: getBuildNumber
+2026-04-21T17:02:51.712 - Firmware version: "000205"
+2026-04-21T17:02:51.786 - MouseFunctions: getOpticalSensorId
+2026-04-21T17:02:51.791 - MouseFunctions: WaitForDpiStep
+2026-04-21T17:02:51.935 - MouseFunctions: saveToRAM
+2026-04-21T17:02:52.032 - ConfigFile: saved to file
+2026-04-22T15:43:44.444 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-22T15:43:44.664 - Blfwk: libblfwk_wrapper not loaded
+2026-04-22T15:43:44.968 - ExpertView: loadSaveFile() start
+2026-04-22T15:43:45.055 - copyStarterFile:  true
+2026-04-22T15:43:45.055 - ExpertView: loadSaveFile():  87 msec
+2026-04-22T15:43:45.081 - HIDManager: mouse match, PID: 10
+2026-04-22T15:43:45.318 - Autostart - launched minimized
+2026-04-22T15:43:45.452 - MouseFunctions: getBuildNumber
+2026-04-22T15:43:45.453 - Firmware version: "000205"
+2026-04-22T15:43:45.520 - MouseFunctions: getOpticalSensorId
+2026-04-22T15:43:45.522 - MouseFunctions: WaitForDpiStep
+2026-04-22T15:43:45.568 - MouseFunctions: saveToRAM
+2026-04-22T15:43:45.643 - ConfigFile: saved to file
+2026-04-22T15:59:08.816 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-22T15:59:08.963 - Blfwk: libblfwk_wrapper not loaded
+2026-04-22T15:59:09.334 - ExpertView: loadSaveFile() start
+2026-04-22T15:59:09.443 - copyStarterFile:  true
+2026-04-22T15:59:09.443 - ExpertView: loadSaveFile():  109 msec
+2026-04-22T15:59:09.472 - HIDManager: mouse match, PID: 10
+2026-04-22T15:59:09.703 - Autostart - launched minimized
+2026-04-22T15:59:09.797 - MouseFunctions: getBuildNumber
+2026-04-22T15:59:09.797 - Firmware version: "000205"
+2026-04-22T15:59:09.857 - MouseFunctions: getOpticalSensorId
+2026-04-22T15:59:09.861 - MouseFunctions: WaitForDpiStep
+2026-04-22T15:59:09.910 - MouseFunctions: saveToRAM
+2026-04-22T15:59:09.983 - ConfigFile: saved to file
+2026-04-22T16:03:34.333 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-22T16:03:34.531 - Blfwk: libblfwk_wrapper not loaded
+2026-04-22T16:03:35.069 - ExpertView: loadSaveFile() start
+2026-04-22T16:03:35.179 - copyStarterFile:  true
+2026-04-22T16:03:35.179 - ExpertView: loadSaveFile():  110 msec
+2026-04-22T16:03:35.204 - HIDManager: mouse match, PID: 10
+2026-04-22T16:03:35.399 - Autostart - launched minimized
+2026-04-22T16:03:35.484 - MouseFunctions: getBuildNumber
+2026-04-22T16:03:35.485 - Firmware version: "000205"
+2026-04-22T16:03:35.552 - MouseFunctions: getOpticalSensorId
+2026-04-22T16:03:35.556 - MouseFunctions: WaitForDpiStep
+2026-04-22T16:03:35.605 - MouseFunctions: saveToRAM
+2026-04-22T16:03:35.685 - ConfigFile: saved to file
+2026-04-23T14:41:15.572 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-23T14:41:15.792 - Blfwk: libblfwk_wrapper not loaded
+2026-04-23T14:41:16.080 - ExpertView: loadSaveFile() start
+2026-04-23T14:41:16.190 - copyStarterFile:  true
+2026-04-23T14:41:16.190 - ExpertView: loadSaveFile():  109 msec
+2026-04-23T14:41:16.213 - HIDManager: mouse match, PID: 10
+2026-04-23T14:41:16.453 - Autostart - launched minimized
+2026-04-23T14:41:16.565 - MouseFunctions: getBuildNumber
+2026-04-23T14:41:16.566 - Firmware version: "000205"
+2026-04-23T14:41:16.631 - MouseFunctions: getOpticalSensorId
+2026-04-23T14:41:16.635 - MouseFunctions: WaitForDpiStep
+2026-04-23T14:41:16.681 - MouseFunctions: saveToRAM
+2026-04-23T14:41:16.764 - ConfigFile: saved to file
+2026-04-24T11:52:12.725 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-24T11:52:12.903 - Blfwk: libblfwk_wrapper not loaded
+2026-04-24T11:52:13.140 - ExpertView: loadSaveFile() start
+2026-04-24T11:52:13.208 - copyStarterFile:  true
+2026-04-24T11:52:13.208 - ExpertView: loadSaveFile():  67 msec
+2026-04-24T11:52:13.227 - HIDManager: mouse match, PID: 10
+2026-04-24T11:52:13.384 - Autostart - launched minimized
+2026-04-24T11:52:13.466 - MouseFunctions: getBuildNumber
+2026-04-24T11:52:13.467 - Firmware version: "000205"
+2026-04-24T11:52:13.527 - MouseFunctions: getOpticalSensorId
+2026-04-24T11:52:13.530 - MouseFunctions: WaitForDpiStep
+2026-04-24T11:52:13.574 - MouseFunctions: saveToRAM
+2026-04-24T11:52:13.650 - ConfigFile: saved to file
+2026-04-25T13:09:26.716 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-25T13:09:26.890 - Blfwk: libblfwk_wrapper not loaded
+2026-04-25T13:09:27.131 - ExpertView: loadSaveFile() start
+2026-04-25T13:09:27.206 - copyStarterFile:  true
+2026-04-25T13:09:27.206 - ExpertView: loadSaveFile():  74 msec
+2026-04-25T13:09:27.232 - HIDManager: mouse match, PID: 10
+2026-04-25T13:09:27.396 - Autostart - launched minimized
+2026-04-25T13:09:27.502 - MouseFunctions: getBuildNumber
+2026-04-25T13:09:27.503 - Firmware version: "000205"
+2026-04-25T13:09:27.569 - MouseFunctions: getOpticalSensorId
+2026-04-25T13:09:27.572 - MouseFunctions: WaitForDpiStep
+2026-04-25T13:09:27.638 - MouseFunctions: saveToRAM
+2026-04-25T13:09:27.715 - ConfigFile: saved to file
+2026-04-25T16:53:10.780 - Opening Window in Expert Mode
+2026-04-25T16:53:47.434 - MouseFunctions: saveToRAM
+2026-04-25T16:53:47.501 - ConfigFile: saved to file
+2026-04-25T16:55:01.738 - MouseFunctions: saveToRAM
+2026-04-25T16:55:01.807 - ConfigFile: saved to file
+2026-04-25T16:55:20.466 - MouseFunctions: saveToRAM
+2026-04-25T16:55:20.535 - ConfigFile: saved to file
+2026-04-25T16:56:24.723 - MouseFunctions: saveToRAM
+2026-04-25T16:56:24.792 - ConfigFile: saved to file
+2026-04-25T16:57:42.772 - MouseFunctions: saveToRAM
+2026-04-25T16:57:42.842 - ConfigFile: saved to file
+2026-04-25T16:57:59.559 - MouseFunctions: saveToRAM
+2026-04-25T16:57:59.628 - ConfigFile: saved to file
+2026-04-25T16:58:27.784 - MouseFunctions: saveToRAM
+2026-04-25T16:58:27.875 - ConfigFile: saved to file
+2026-04-25T16:59:10.294 - MouseFunctions: saveToRAM
+2026-04-25T16:59:10.362 - ConfigFile: saved to file
+2026-04-25T17:01:53.086 - Mappings: save()
+2026-04-25T17:02:09.034 - MouseFunctions: saveToRAM
+2026-04-25T17:02:09.103 - ConfigFile: saved to file
+2026-04-25T17:02:16.550 - MouseFunctions: saveToRAM
+2026-04-25T17:02:16.619 - ConfigFile: saved to file
+2026-04-25T17:02:32.765 - MouseFunctions: saveToRAM
+2026-04-25T17:02:32.832 - ConfigFile: saved to file
+2026-04-25T17:03:03.761 - MouseFunctions: saveToRAM
+2026-04-25T17:03:03.830 - ConfigFile: saved to file
+2026-04-25T17:03:12.405 - MouseFunctions: saveToRAM
+2026-04-25T17:03:12.473 - ConfigFile: saved to file
+2026-04-25T17:03:16.710 - MouseFunctions: saveToRAM
+2026-04-25T17:03:16.780 - ConfigFile: saved to file
+2026-04-25T17:03:51.332 - MouseFunctions: saveToRAM
+2026-04-25T17:03:51.399 - ConfigFile: saved to file
+2026-04-25T17:04:40.392 - MouseFunctions: saveToRAM
+2026-04-25T17:04:40.460 - ConfigFile: saved to file
+2026-04-25T17:05:01.854 - Mappings: save()
+2026-04-25T17:05:09.736 - Mappings: save()
+2026-04-25T17:15:38.629 - MouseFunctions: saveToRAM
+2026-04-25T17:15:38.695 - ConfigFile: saved to file
+2026-04-25T17:20:44.214 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.214 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.214 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.230 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.230 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.230 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.246 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.246 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.246 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.262 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.262 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.262 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.278 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.278 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.278 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.278 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.294 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.294 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.294 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.294 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.294 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.310 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.310 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.310 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.310 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.310 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.326 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.326 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.326 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.326 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.326 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.342 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.342 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.342 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.342 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.342 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.358 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.358 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.358 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.358 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:20:44.358 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:21:02.491 - ManageProfiles: add "DaVinci Resolve"
+2026-04-25T17:21:02.520 - ManageProfiles: add "GIMP"
+2026-04-25T17:21:02.547 - ManageProfiles: add "Solidworks"
+2026-04-25T17:22:01.354 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.370 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.386 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.402 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.418 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.434 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.450 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.450 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.450 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.450 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.450 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.466 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.466 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.466 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.466 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.466 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:01.482 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:17.549 - QGraphicsScene::sendEvent: cannot send event to a null item
+2026-04-25T17:22:17.916 - QGraphicsScene::sendEvent: cannot send event to a null item
+2026-04-25T17:22:23.065 - QGraphicsScene::sendEvent: cannot send event to a null item
+2026-04-25T17:22:24.643 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.659 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.675 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.691 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.707 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.723 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:24.739 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.455 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.455 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.471 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.471 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.471 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.487 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.487 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.487 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.503 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.503 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.503 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.519 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.519 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.519 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.535 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.535 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.535 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.551 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.551 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:31.551 - QPropertyAnimation::updateState (opacity): Changing state of an animation without target
+2026-04-25T17:22:55.645 - MouseFunctions: saveToRAM
+2026-04-25T17:22:55.787 - ConfigFile: saved to file
+2026-04-25T17:24:11.030 - MouseFunctions: saveToRAM
+2026-04-25T17:24:11.157 - ConfigFile: saved to file
+2026-04-25T17:24:33.506 - MouseFunctions: saveToRAM
+2026-04-25T17:24:33.632 - ConfigFile: saved to file
+2026-04-25T17:24:33.632 - MouseFunctions: saveToFlash
+2026-04-25T20:52:22.179 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-25T20:52:22.393 - Blfwk: libblfwk_wrapper not loaded
+2026-04-25T20:52:22.710 - ExpertView: loadSaveFile() start
+2026-04-25T20:52:22.922 - copyStarterFile:  true
+2026-04-25T20:52:22.922 - ExpertView: loadSaveFile():  211 msec
+2026-04-25T20:52:22.953 - HIDManager: mouse match, PID: 10
+2026-04-25T20:52:23.282 - Autostart - launched minimized
+2026-04-25T20:52:23.432 - MouseFunctions: getBuildNumber
+2026-04-25T20:52:23.433 - Firmware version: "000205"
+2026-04-25T20:52:23.512 - MouseFunctions: getOpticalSensorId
+2026-04-25T20:52:23.518 - MouseFunctions: WaitForDpiStep
+2026-04-25T20:52:23.583 - MouseFunctions: saveToRAM
+2026-04-25T20:52:23.719 - ConfigFile: saved to file
+2026-04-26T13:23:01.046 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-26T13:23:01.173 - Blfwk: libblfwk_wrapper not loaded
+2026-04-26T13:23:01.417 - ExpertView: loadSaveFile() start
+2026-04-26T13:23:01.560 - copyStarterFile:  true
+2026-04-26T13:23:01.560 - ExpertView: loadSaveFile():  143 msec
+2026-04-26T13:23:01.588 - HIDManager: mouse match, PID: 10
+2026-04-26T13:23:01.829 - Autostart - launched minimized
+2026-04-26T13:23:02.000 - MouseFunctions: getBuildNumber
+2026-04-26T13:23:02.000 - Firmware version: "000205"
+2026-04-26T13:23:02.064 - MouseFunctions: getOpticalSensorId
+2026-04-26T13:23:02.067 - MouseFunctions: WaitForDpiStep
+2026-04-26T13:23:02.124 - MouseFunctions: saveToRAM
+2026-04-26T13:23:02.265 - ConfigFile: saved to file
+2026-04-27T11:55:32.101 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-27T11:55:32.310 - Blfwk: libblfwk_wrapper not loaded
+2026-04-27T11:55:32.687 - ExpertView: loadSaveFile() start
+2026-04-27T11:55:32.906 - copyStarterFile:  true
+2026-04-27T11:55:32.906 - ExpertView: loadSaveFile():  218 msec
+2026-04-27T11:55:32.937 - HIDManager: mouse match, PID: 10
+2026-04-27T11:55:33.162 - Autostart - launched minimized
+2026-04-27T11:55:33.283 - MouseFunctions: getBuildNumber
+2026-04-27T11:55:33.286 - Firmware version: "000205"
+2026-04-27T11:55:33.381 - MouseFunctions: getOpticalSensorId
+2026-04-27T11:55:33.386 - MouseFunctions: WaitForDpiStep
+2026-04-27T11:55:33.469 - MouseFunctions: saveToRAM
+2026-04-27T11:55:33.609 - ConfigFile: saved to file
+2026-04-27T20:29:28.838 - Opening Window in Expert Mode
+2026-04-28T12:38:15.635 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-28T12:38:15.794 - Blfwk: libblfwk_wrapper not loaded
+2026-04-28T12:38:16.235 - ExpertView: loadSaveFile() start
+2026-04-28T12:38:16.427 - copyStarterFile:  true
+2026-04-28T12:38:16.427 - ExpertView: loadSaveFile():  192 msec
+2026-04-28T12:38:16.450 - HIDManager: mouse match, PID: 10
+2026-04-28T12:38:16.613 - Autostart - launched minimized
+2026-04-28T12:38:16.753 - MouseFunctions: getBuildNumber
+2026-04-28T12:38:16.754 - Firmware version: "000205"
+2026-04-28T12:38:16.836 - MouseFunctions: getOpticalSensorId
+2026-04-28T12:38:16.839 - MouseFunctions: WaitForDpiStep
+2026-04-28T12:38:16.893 - MouseFunctions: saveToRAM
+2026-04-28T12:38:17.034 - ConfigFile: saved to file
+2026-04-28T23:52:57.435 - Opening Window in Expert Mode
+2026-04-28T23:53:19.546 - MouseFunctions: saveToRAM
+2026-04-28T23:53:19.675 - ConfigFile: saved to file
+2026-04-28T23:53:42.341 - MouseFunctions: saveToRAM
+2026-04-28T23:53:42.471 - ConfigFile: saved to file
+2026-04-29T13:52:04.330 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-29T13:52:04.498 - Blfwk: libblfwk_wrapper not loaded
+2026-04-29T13:52:04.736 - ExpertView: loadSaveFile() start
+2026-04-29T13:52:04.869 - copyStarterFile:  true
+2026-04-29T13:52:04.869 - ExpertView: loadSaveFile():  133 msec
+2026-04-29T13:52:04.891 - HIDManager: mouse match, PID: 10
+2026-04-29T13:52:05.099 - Autostart - launched minimized
+2026-04-29T13:52:05.219 - MouseFunctions: getBuildNumber
+2026-04-29T13:52:05.220 - Firmware version: "000205"
+2026-04-29T13:52:05.283 - MouseFunctions: getOpticalSensorId
+2026-04-29T13:52:05.286 - MouseFunctions: WaitForDpiStep
+2026-04-29T13:52:05.335 - MouseFunctions: saveToRAM
+2026-04-29T13:52:05.474 - ConfigFile: saved to file
+2026-04-29T15:31:43.851 - Opening Window in Expert Mode
+2026-04-30T15:13:42.839 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-04-30T15:13:43.035 - Blfwk: libblfwk_wrapper not loaded
+2026-04-30T15:13:43.332 - ExpertView: loadSaveFile() start
+2026-04-30T15:13:43.523 - copyStarterFile:  true
+2026-04-30T15:13:43.523 - ExpertView: loadSaveFile():  191 msec
+2026-04-30T15:13:43.546 - HIDManager: mouse match, PID: 10
+2026-04-30T15:13:43.757 - Autostart - launched minimized
+2026-04-30T15:13:43.884 - MouseFunctions: getBuildNumber
+2026-04-30T15:13:43.885 - Firmware version: "000205"
+2026-04-30T15:13:43.969 - MouseFunctions: getOpticalSensorId
+2026-04-30T15:13:43.972 - MouseFunctions: WaitForDpiStep
+2026-04-30T15:13:44.039 - MouseFunctions: saveToRAM
+2026-04-30T15:13:44.176 - ConfigFile: saved to file
+2026-05-01T11:55:13.237 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-01T11:55:13.445 - Blfwk: libblfwk_wrapper not loaded
+2026-05-01T11:55:13.730 - ExpertView: loadSaveFile() start
+2026-05-01T11:55:13.896 - copyStarterFile:  true
+2026-05-01T11:55:13.896 - ExpertView: loadSaveFile():  166 msec
+2026-05-01T11:55:13.917 - HIDManager: mouse match, PID: 10
+2026-05-01T11:55:14.146 - Autostart - launched minimized
+2026-05-01T11:55:14.285 - MouseFunctions: getBuildNumber
+2026-05-01T11:55:14.288 - Firmware version: "000205"
+2026-05-01T11:55:14.355 - MouseFunctions: getOpticalSensorId
+2026-05-01T11:55:14.359 - MouseFunctions: WaitForDpiStep
+2026-05-01T11:55:14.437 - MouseFunctions: saveToRAM
+2026-05-01T11:55:14.579 - ConfigFile: saved to file
+2026-05-02T16:50:37.924 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-02T16:50:38.051 - Blfwk: libblfwk_wrapper not loaded
+2026-05-02T16:50:38.291 - ExpertView: loadSaveFile() start
+2026-05-02T16:50:38.408 - copyStarterFile:  true
+2026-05-02T16:50:38.408 - ExpertView: loadSaveFile():  116 msec
+2026-05-02T16:50:38.425 - HIDManager: mouse match, PID: 10
+2026-05-02T16:50:38.808 - Autostart - launched minimized
+2026-05-02T16:50:38.921 - MouseFunctions: getBuildNumber
+2026-05-02T16:50:38.921 - Firmware version: "000205"
+2026-05-02T16:50:38.970 - MouseFunctions: getOpticalSensorId
+2026-05-02T16:50:38.973 - MouseFunctions: WaitForDpiStep
+2026-05-02T16:50:39.008 - MouseFunctions: saveToRAM
+2026-05-02T16:50:39.138 - ConfigFile: saved to file
+2026-05-03T13:39:12.940 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-03T13:39:13.139 - Blfwk: libblfwk_wrapper not loaded
+2026-05-03T13:39:13.720 - ExpertView: loadSaveFile() start
+2026-05-03T13:39:13.930 - copyStarterFile:  true
+2026-05-03T13:39:13.930 - ExpertView: loadSaveFile():  210 msec
+2026-05-03T13:39:13.953 - HIDManager: mouse match, PID: 10
+2026-05-03T13:39:14.649 - Autostart - launched minimized
+2026-05-03T13:39:14.764 - MouseFunctions: getBuildNumber
+2026-05-03T13:39:14.765 - Firmware version: "000205"
+2026-05-03T13:39:15.156 - MouseFunctions: getOpticalSensorId
+2026-05-03T13:39:15.267 - MouseFunctions: WaitForDpiStep
+2026-05-03T13:39:15.322 - MouseFunctions: saveToRAM
+2026-05-03T13:39:15.470 - ConfigFile: saved to file
+2026-05-04T14:10:25.559 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-04T14:10:25.726 - Blfwk: libblfwk_wrapper not loaded
+2026-05-04T14:10:25.980 - ExpertView: loadSaveFile() start
+2026-05-04T14:10:26.140 - copyStarterFile:  true
+2026-05-04T14:10:26.140 - ExpertView: loadSaveFile():  159 msec
+2026-05-04T14:10:26.164 - HIDManager: mouse match, PID: 10
+2026-05-04T14:10:26.332 - Autostart - launched minimized
+2026-05-04T14:10:26.459 - MouseFunctions: getBuildNumber
+2026-05-04T14:10:26.460 - Firmware version: "000205"
+2026-05-04T14:10:26.532 - MouseFunctions: getOpticalSensorId
+2026-05-04T14:10:26.535 - MouseFunctions: WaitForDpiStep
+2026-05-04T14:10:26.586 - MouseFunctions: saveToRAM
+2026-05-04T14:10:26.720 - ConfigFile: saved to file
+2026-05-05T12:44:13.206 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-05T12:44:13.385 - Blfwk: libblfwk_wrapper not loaded
+2026-05-05T12:44:13.629 - ExpertView: loadSaveFile() start
+2026-05-05T12:44:13.775 - copyStarterFile:  true
+2026-05-05T12:44:13.775 - ExpertView: loadSaveFile():  145 msec
+2026-05-05T12:44:13.802 - HIDManager: mouse match, PID: 10
+2026-05-05T12:44:14.005 - Autostart - launched minimized
+2026-05-05T12:44:14.257 - MouseFunctions: getBuildNumber
+2026-05-05T12:44:14.259 - Firmware version: "000205"
+2026-05-05T12:44:14.325 - MouseFunctions: getOpticalSensorId
+2026-05-05T12:44:14.328 - MouseFunctions: WaitForDpiStep
+2026-05-05T12:44:14.385 - MouseFunctions: saveToRAM
+2026-05-05T12:44:14.517 - ConfigFile: saved to file
+2026-05-06T10:29:12.079 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-06T10:29:12.361 - Blfwk: libblfwk_wrapper not loaded
+2026-05-06T10:29:12.715 - ExpertView: loadSaveFile() start
+2026-05-06T10:29:12.879 - copyStarterFile:  true
+2026-05-06T10:29:12.879 - ExpertView: loadSaveFile():  164 msec
+2026-05-06T10:29:12.913 - HIDManager: mouse match, PID: 10
+2026-05-06T10:29:13.168 - Autostart - launched minimized
+2026-05-06T10:29:13.295 - MouseFunctions: getBuildNumber
+2026-05-06T10:29:13.295 - Firmware version: "000205"
+2026-05-06T10:29:13.357 - MouseFunctions: getOpticalSensorId
+2026-05-06T10:29:13.361 - MouseFunctions: WaitForDpiStep
+2026-05-06T10:29:13.568 - MouseFunctions: saveToRAM
+2026-05-06T10:29:13.698 - ConfigFile: saved to file
+2026-05-06T11:49:46.667 - Opening Window in Expert Mode
+2026-05-06T22:10:46.767 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-06T22:12:53.551 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-06T22:12:53.724 - Blfwk: libblfwk_wrapper not loaded
+2026-05-06T22:12:54.111 - ExpertView: loadSaveFile() start
+2026-05-06T22:12:54.359 - copyStarterFile:  true
+2026-05-06T22:12:54.359 - ExpertView: loadSaveFile():  248 msec
+2026-05-06T22:12:54.397 - HIDManager: mouse match, PID: 10
+2026-05-06T22:12:54.532 - Autostart - launched minimized
+2026-05-06T22:12:54.628 - MouseFunctions: getBuildNumber
+2026-05-06T22:12:54.629 - Firmware version: "000205"
+2026-05-06T22:12:54.687 - MouseFunctions: getOpticalSensorId
+2026-05-06T22:12:54.689 - MouseFunctions: WaitForDpiStep
+2026-05-06T22:12:54.737 - MouseFunctions: saveToRAM
+2026-05-06T22:12:54.871 - ConfigFile: saved to file
+2026-05-06T22:51:26.708 - Opening Window in Expert Mode
+2026-05-06T23:16:14.530 - MouseFunctions: saveToRAM
+2026-05-06T23:16:14.660 - ConfigFile: saved to file
+2026-05-06T23:29:38.234 - MouseFunctions: saveToRAM
+2026-05-06T23:29:38.363 - ConfigFile: saved to file
+2026-05-06T23:30:02.426 - MouseFunctions: saveToRAM
+2026-05-06T23:30:02.555 - ConfigFile: saved to file
+2026-05-06T23:30:48.840 - MouseFunctions: saveToRAM
+2026-05-06T23:30:48.969 - ConfigFile: saved to file
+2026-05-06T23:31:01.676 - MouseFunctions: saveToRAM
+2026-05-06T23:31:01.813 - ConfigFile: saved to file
+2026-05-06T23:31:09.881 - MouseFunctions: saveToRAM
+2026-05-06T23:31:10.012 - ConfigFile: saved to file
+2026-05-06T23:31:44.102 - MouseFunctions: saveToRAM
+2026-05-06T23:31:44.235 - ConfigFile: saved to file
+2026-05-06T23:31:47.477 - MouseFunctions: saveToRAM
+2026-05-06T23:31:47.607 - ConfigFile: saved to file
+2026-05-06T23:32:31.364 - MouseFunctions: saveToRAM
+2026-05-06T23:32:31.496 - ConfigFile: saved to file
+2026-05-06T23:33:00.096 - MouseFunctions: saveToRAM
+2026-05-06T23:33:00.228 - ConfigFile: saved to file
+2026-05-06T23:33:17.617 - MouseFunctions: saveToRAM
+2026-05-06T23:33:17.749 - ConfigFile: saved to file
+2026-05-06T23:33:36.734 - MouseFunctions: saveToRAM
+2026-05-06T23:33:36.867 - ConfigFile: saved to file
+2026-05-06T23:34:19.156 - MouseFunctions: saveToRAM
+2026-05-06T23:34:19.288 - ConfigFile: saved to file
+2026-05-06T23:34:33.508 - MouseFunctions: saveToRAM
+2026-05-06T23:34:33.641 - ConfigFile: saved to file
+2026-05-06T23:34:38.174 - MouseFunctions: saveToRAM
+2026-05-06T23:34:38.303 - ConfigFile: saved to file
+2026-05-06T23:35:34.040 - MouseFunctions: saveToRAM
+2026-05-06T23:35:34.169 - ConfigFile: saved to file
+2026-05-06T23:36:36.226 - MouseFunctions: saveToRAM
+2026-05-06T23:36:36.355 - ConfigFile: saved to file
+2026-05-06T23:36:48.458 - MouseFunctions: saveToRAM
+2026-05-06T23:36:48.586 - ConfigFile: saved to file
+2026-05-06T23:37:15.192 - MouseFunctions: saveToRAM
+2026-05-06T23:37:15.320 - ConfigFile: saved to file
+2026-05-06T23:37:36.381 - MouseFunctions: saveToRAM
+2026-05-06T23:37:36.512 - ConfigFile: saved to file
+2026-05-06T23:37:40.792 - MouseFunctions: saveToRAM
+2026-05-06T23:37:40.919 - ConfigFile: saved to file
+2026-05-06T23:37:56.971 - MouseFunctions: saveToRAM
+2026-05-06T23:37:57.099 - ConfigFile: saved to file
+2026-05-06T23:38:21.763 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-06T23:38:21.829 - Blfwk: libblfwk_wrapper not loaded
+2026-05-06T23:38:21.925 - ExpertView: loadSaveFile() start
+2026-05-06T23:38:22.024 - copyStarterFile:  true
+2026-05-06T23:38:22.024 - ExpertView: loadSaveFile():  99 msec
+2026-05-06T23:38:22.041 - HIDManager: mouse match, PID: 10
+2026-05-06T23:38:22.265 - MouseFunctions: getBuildNumber
+2026-05-06T23:38:22.266 - Firmware version: "000205"
+2026-05-06T23:38:22.349 - Opening Window in Expert Mode
+2026-05-06T23:38:22.353 - MouseFunctions: getOpticalSensorId
+2026-05-06T23:38:22.368 - MouseFunctions: WaitForDpiStep
+2026-05-06T23:38:22.532 - MouseFunctions: saveToRAM
+2026-05-06T23:38:22.658 - ConfigFile: saved to file
+2026-05-06T23:38:43.362 - MouseFunctions: saveToRAM
+2026-05-06T23:38:43.490 - ConfigFile: saved to file
+2026-05-06T23:38:46.752 - MouseFunctions: saveToRAM
+2026-05-06T23:38:46.882 - ConfigFile: saved to file
+2026-05-06T23:39:12.893 - Mappings: save()
+2026-05-06T23:39:13.404 - Mappings: save()
+2026-05-06T23:39:18.922 - MouseFunctions: saveToRAM
+2026-05-06T23:39:19.052 - ConfigFile: saved to file
+2026-05-07T12:00:17.193 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-07T12:00:17.364 - Blfwk: libblfwk_wrapper not loaded
+2026-05-07T12:00:17.635 - ExpertView: loadSaveFile() start
+2026-05-07T12:00:17.846 - copyStarterFile:  true
+2026-05-07T12:00:17.846 - ExpertView: loadSaveFile():  211 msec
+2026-05-07T12:00:17.872 - HIDManager: mouse match, PID: 10
+2026-05-07T12:00:18.153 - Autostart - launched minimized
+2026-05-07T12:00:18.315 - MouseFunctions: getBuildNumber
+2026-05-07T12:00:18.317 - Firmware version: "000205"
+2026-05-07T12:00:18.397 - MouseFunctions: getOpticalSensorId
+2026-05-07T12:00:18.399 - MouseFunctions: WaitForDpiStep
+2026-05-07T12:00:18.539 - MouseFunctions: saveToRAM
+2026-05-07T12:00:18.679 - ConfigFile: saved to file
+2026-05-08T01:57:18.891 - Opening Window in Expert Mode
+2026-05-08T01:57:24.155 - MouseFunctions: saveToRAM
+2026-05-08T01:57:24.284 - ConfigFile: saved to file
+2026-05-08T01:57:28.232 - MouseFunctions: saveToRAM
+2026-05-08T01:57:28.360 - ConfigFile: saved to file
+2026-05-08T12:07:36.594 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-08T12:07:36.748 - Blfwk: libblfwk_wrapper not loaded
+2026-05-08T12:07:36.956 - ExpertView: loadSaveFile() start
+2026-05-08T12:07:37.103 - copyStarterFile:  true
+2026-05-08T12:07:37.104 - ExpertView: loadSaveFile():  147 msec
+2026-05-08T12:07:37.127 - HIDManager: mouse match, PID: 10
+2026-05-08T12:07:37.322 - Autostart - launched minimized
+2026-05-08T12:07:37.424 - MouseFunctions: getBuildNumber
+2026-05-08T12:07:37.425 - Firmware version: "000205"
+2026-05-08T12:07:37.480 - MouseFunctions: getOpticalSensorId
+2026-05-08T12:07:37.483 - MouseFunctions: WaitForDpiStep
+2026-05-08T12:07:37.527 - MouseFunctions: saveToRAM
+2026-05-08T12:07:37.666 - ConfigFile: saved to file
+2026-05-08T14:11:57.690 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-05-08T14:37:18.652 - Opening Window in Expert Mode
+2026-05-08T14:37:55.715 - MouseFunctions: saveToRAM
+2026-05-08T14:37:55.843 - ConfigFile: saved to file
+2026-05-08T14:38:10.122 - MouseFunctions: saveToRAM
+2026-05-08T14:38:10.252 - ConfigFile: saved to file
+2026-05-08T14:38:21.209 - MouseFunctions: saveToRAM
+2026-05-08T14:38:21.337 - ConfigFile: saved to file
+2026-05-08T15:08:39.504 - Mappings: save()
+2026-05-08T15:08:44.751 - MouseFunctions: saveToRAM
+2026-05-08T15:08:44.880 - ConfigFile: saved to file
+2026-05-09T00:43:07.313 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-09T00:44:54.351 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-09T00:44:54.522 - Blfwk: libblfwk_wrapper not loaded
+2026-05-09T00:44:54.756 - ExpertView: loadSaveFile() start
+2026-05-09T00:44:54.894 - copyStarterFile:  true
+2026-05-09T00:44:54.894 - ExpertView: loadSaveFile():  137 msec
+2026-05-09T00:44:54.916 - HIDManager: mouse match, PID: 10
+2026-05-09T00:44:55.056 - Autostart - launched minimized
+2026-05-09T00:44:55.153 - MouseFunctions: getBuildNumber
+2026-05-09T00:44:55.154 - Firmware version: "000205"
+2026-05-09T00:44:55.210 - MouseFunctions: getOpticalSensorId
+2026-05-09T00:44:55.212 - MouseFunctions: WaitForDpiStep
+2026-05-09T00:44:55.283 - MouseFunctions: saveToRAM
+2026-05-09T00:44:55.413 - ConfigFile: saved to file
+2026-05-09T01:18:58.022 - Opening Window in Expert Mode
+2026-05-09T02:40:55.693 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-09T12:38:13.099 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-09T12:38:13.270 - Blfwk: libblfwk_wrapper not loaded
+2026-05-09T12:38:13.557 - ExpertView: loadSaveFile() start
+2026-05-09T12:38:13.746 - copyStarterFile:  true
+2026-05-09T12:38:13.746 - ExpertView: loadSaveFile():  189 msec
+2026-05-09T12:38:13.772 - HIDManager: mouse match, PID: 10
+2026-05-09T12:38:14.008 - Autostart - launched minimized
+2026-05-09T12:38:14.158 - MouseFunctions: getBuildNumber
+2026-05-09T12:38:14.159 - Firmware version: "000205"
+2026-05-09T12:38:14.249 - MouseFunctions: getOpticalSensorId
+2026-05-09T12:38:14.254 - MouseFunctions: WaitForDpiStep
+2026-05-09T12:38:14.329 - MouseFunctions: saveToRAM
+2026-05-09T12:38:14.467 - ConfigFile: saved to file
+2026-05-10T01:49:50.868 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-10T01:58:12.288 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-10T01:58:12.437 - Blfwk: libblfwk_wrapper not loaded
+2026-05-10T01:58:12.654 - ExpertView: loadSaveFile() start
+2026-05-10T01:58:12.786 - copyStarterFile:  true
+2026-05-10T01:58:12.786 - ExpertView: loadSaveFile():  131 msec
+2026-05-10T01:58:12.806 - HIDManager: mouse match, PID: 10
+2026-05-10T01:58:12.958 - Autostart - launched minimized
+2026-05-10T01:58:13.059 - MouseFunctions: getBuildNumber
+2026-05-10T01:58:13.060 - Firmware version: "000205"
+2026-05-10T01:58:13.113 - MouseFunctions: getOpticalSensorId
+2026-05-10T01:58:13.116 - MouseFunctions: WaitForDpiStep
+2026-05-10T01:58:13.163 - MouseFunctions: saveToRAM
+2026-05-10T01:58:13.293 - ConfigFile: saved to file
+2026-05-10T02:11:38.068 - Opening Window in Expert Mode
+2026-05-10T11:38:11.898 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-10T11:38:12.049 - Blfwk: libblfwk_wrapper not loaded
+2026-05-10T11:38:12.276 - ExpertView: loadSaveFile() start
+2026-05-10T11:38:12.450 - copyStarterFile:  true
+2026-05-10T11:38:12.450 - ExpertView: loadSaveFile():  174 msec
+2026-05-10T11:38:12.477 - HIDManager: mouse match, PID: 10
+2026-05-10T11:38:12.695 - Autostart - launched minimized
+2026-05-10T11:38:12.807 - MouseFunctions: getBuildNumber
+2026-05-10T11:38:12.809 - Firmware version: "000205"
+2026-05-10T11:38:12.871 - MouseFunctions: getOpticalSensorId
+2026-05-10T11:38:12.874 - MouseFunctions: WaitForDpiStep
+2026-05-10T11:38:12.941 - MouseFunctions: saveToRAM
+2026-05-10T11:38:13.075 - ConfigFile: saved to file
+2026-05-11T12:36:37.343 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T12:36:37.582 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T12:36:37.872 - ExpertView: loadSaveFile() start
+2026-05-11T12:36:38.012 - copyStarterFile:  true
+2026-05-11T12:36:38.012 - ExpertView: loadSaveFile():  139 msec
+2026-05-11T12:36:38.037 - HIDManager: mouse match, PID: 10
+2026-05-11T12:36:38.213 - Autostart - launched minimized
+2026-05-11T12:36:38.348 - MouseFunctions: getBuildNumber
+2026-05-11T12:36:38.349 - Firmware version: "000205"
+2026-05-11T12:36:38.412 - MouseFunctions: getOpticalSensorId
+2026-05-11T12:36:38.415 - MouseFunctions: WaitForDpiStep
+2026-05-11T12:36:38.472 - MouseFunctions: saveToRAM
+2026-05-11T12:36:38.608 - ConfigFile: saved to file
+2026-05-11T15:35:21.911 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-11T15:42:31.831 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T15:42:32.029 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T15:42:32.300 - ExpertView: loadSaveFile() start
+2026-05-11T15:42:32.468 - copyStarterFile:  true
+2026-05-11T15:42:32.468 - ExpertView: loadSaveFile():  167 msec
+2026-05-11T15:42:32.504 - HIDManager: mouse match, PID: 10
+2026-05-11T15:42:32.767 - Autostart - launched minimized
+2026-05-11T15:42:32.934 - MouseFunctions: getBuildNumber
+2026-05-11T15:42:32.939 - Firmware version: "000205"
+2026-05-11T15:42:33.037 - MouseFunctions: getOpticalSensorId
+2026-05-11T15:42:33.039 - MouseFunctions: WaitForDpiStep
+2026-05-11T15:42:33.142 - MouseFunctions: saveToRAM
+2026-05-11T15:42:33.278 - ConfigFile: saved to file
+2026-05-11T15:49:02.701 - The X11 connection broke (error 1). Did the X11 server die?
+2026-05-11T16:03:26.870 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T16:03:27.031 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T16:03:27.209 - ExpertView: loadSaveFile() start
+2026-05-11T16:03:27.421 - copyStarterFile:  true
+2026-05-11T16:03:27.421 - ExpertView: loadSaveFile():  212 msec
+2026-05-11T16:03:27.452 - HIDManager: mouse match, PID: 10
+2026-05-11T16:03:27.563 - Autostart - launched minimized
+2026-05-11T16:03:27.669 - MouseFunctions: getBuildNumber
+2026-05-11T16:03:27.670 - Firmware version: "000205"
+2026-05-11T16:03:27.749 - MouseFunctions: getOpticalSensorId
+2026-05-11T16:03:27.752 - MouseFunctions: WaitForDpiStep
+2026-05-11T16:03:27.790 - MouseFunctions: saveToRAM
+2026-05-11T16:03:27.928 - ConfigFile: saved to file
+2026-05-11T16:24:12.618 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T16:24:12.907 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T16:24:13.151 - ExpertView: loadSaveFile() start
+2026-05-11T16:24:13.715 - copyStarterFile:  true
+2026-05-11T16:24:13.715 - ExpertView: loadSaveFile():  564 msec
+2026-05-11T16:24:13.733 - HIDManager: mouse match, PID: 10
+2026-05-11T16:24:14.918 - Autostart - launched minimized
+2026-05-11T16:24:15.093 - MouseFunctions: getBuildNumber
+2026-05-11T16:24:15.094 - Firmware version: "000205"
+2026-05-11T16:24:15.159 - MouseFunctions: getOpticalSensorId
+2026-05-11T16:24:15.162 - MouseFunctions: WaitForDpiStep
+2026-05-11T16:24:15.528 - MouseFunctions: saveToRAM
+2026-05-11T16:24:15.658 - ConfigFile: saved to file
+2026-05-11T20:46:58.506 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T20:46:58.710 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T20:46:58.991 - ExpertView: loadSaveFile() start
+2026-05-11T20:46:59.114 - copyStarterFile:  true
+2026-05-11T20:46:59.114 - ExpertView: loadSaveFile():  123 msec
+2026-05-11T20:46:59.132 - HIDManager: mouse match, PID: 10
+2026-05-11T20:46:59.480 - Autostart - launched minimized
+2026-05-11T20:46:59.612 - MouseFunctions: getBuildNumber
+2026-05-11T20:46:59.613 - Firmware version: "000205"
+2026-05-11T20:46:59.697 - MouseFunctions: getOpticalSensorId
+2026-05-11T20:46:59.702 - MouseFunctions: WaitForDpiStep
+2026-05-11T20:47:00.694 - MouseFunctions: saveToRAM
+2026-05-11T20:47:00.827 - ConfigFile: saved to file
+2026-05-11T20:57:12.975 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-11T20:57:13.139 - Blfwk: libblfwk_wrapper not loaded
+2026-05-11T20:57:13.380 - ExpertView: loadSaveFile() start
+2026-05-11T20:57:13.495 - copyStarterFile:  true
+2026-05-11T20:57:13.495 - ExpertView: loadSaveFile():  114 msec
+2026-05-11T20:57:13.512 - HIDManager: mouse match, PID: 10
+2026-05-11T20:57:13.856 - Autostart - launched minimized
+2026-05-11T20:57:14.094 - MouseFunctions: getBuildNumber
+2026-05-11T20:57:14.095 - Firmware version: "000205"
+2026-05-11T20:57:14.165 - MouseFunctions: getOpticalSensorId
+2026-05-11T20:57:14.169 - MouseFunctions: WaitForDpiStep
+2026-05-11T20:57:14.924 - MouseFunctions: saveToRAM
+2026-05-11T20:57:15.064 - ConfigFile: saved to file
+2026-05-12T02:31:11.029 - Opening Window in Expert Mode
+2026-05-12T13:17:56.763 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-12T13:17:56.949 - Blfwk: libblfwk_wrapper not loaded
+2026-05-12T13:17:57.213 - ExpertView: loadSaveFile() start
+2026-05-12T13:17:57.341 - copyStarterFile:  true
+2026-05-12T13:17:57.341 - ExpertView: loadSaveFile():  128 msec
+2026-05-12T13:17:57.360 - HIDManager: mouse match, PID: 10
+2026-05-12T13:17:57.727 - Autostart - launched minimized
+2026-05-12T13:17:58.033 - MouseFunctions: getBuildNumber
+2026-05-12T13:17:58.034 - Firmware version: "000205"
+2026-05-12T13:17:58.102 - MouseFunctions: getOpticalSensorId
+2026-05-12T13:17:58.106 - MouseFunctions: WaitForDpiStep
+2026-05-12T13:17:59.072 - MouseFunctions: saveToRAM
+2026-05-12T13:17:59.202 - ConfigFile: saved to file
+2026-05-13T15:09:51.609 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-13T15:09:51.740 - Blfwk: libblfwk_wrapper not loaded
+2026-05-13T15:09:51.979 - ExpertView: loadSaveFile() start
+2026-05-13T15:09:52.104 - copyStarterFile:  true
+2026-05-13T15:09:52.104 - ExpertView: loadSaveFile():  125 msec
+2026-05-13T15:09:52.120 - HIDManager: mouse match, PID: 10
+2026-05-13T15:09:52.399 - Autostart - launched minimized
+2026-05-13T15:09:52.501 - MouseFunctions: getBuildNumber
+2026-05-13T15:09:52.501 - Firmware version: "000205"
+2026-05-13T15:09:52.575 - MouseFunctions: getOpticalSensorId
+2026-05-13T15:09:52.579 - MouseFunctions: WaitForDpiStep
+2026-05-13T15:09:52.626 - MouseFunctions: saveToRAM
+2026-05-13T15:09:52.761 - ConfigFile: saved to file
+2026-05-13T22:02:30.999 - Opening Window in Expert Mode
+2026-05-13T22:02:58.888 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-13T22:02:58.944 - Blfwk: libblfwk_wrapper not loaded
+2026-05-13T22:02:59.038 - ExpertView: loadSaveFile() start
+2026-05-13T22:02:59.129 - copyStarterFile:  true
+2026-05-13T22:02:59.129 - ExpertView: loadSaveFile():  90 msec
+2026-05-13T22:02:59.144 - HIDManager: mouse match, PID: 10
+2026-05-13T22:02:59.370 - MouseFunctions: getBuildNumber
+2026-05-13T22:02:59.371 - Firmware version: "000205"
+2026-05-13T22:02:59.449 - Opening Window in Expert Mode
+2026-05-13T22:02:59.457 - MouseFunctions: getOpticalSensorId
+2026-05-13T22:02:59.465 - MouseFunctions: WaitForDpiStep
+2026-05-13T22:02:59.619 - MouseFunctions: saveToRAM
+2026-05-13T22:02:59.748 - ConfigFile: saved to file
+2026-05-13T22:03:47.219 - MouseFunctions: saveToRAM
+2026-05-13T22:03:47.350 - ConfigFile: saved to file
+2026-05-14T15:27:38.192 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-14T15:27:38.357 - Blfwk: libblfwk_wrapper not loaded
+2026-05-14T15:27:38.572 - ExpertView: loadSaveFile() start
+2026-05-14T15:27:38.686 - copyStarterFile:  true
+2026-05-14T15:27:38.686 - ExpertView: loadSaveFile():  114 msec
+2026-05-14T15:27:38.702 - HIDManager: mouse match, PID: 10
+2026-05-14T15:27:39.028 - Autostart - launched minimized
+2026-05-14T15:27:39.244 - MouseFunctions: getBuildNumber
+2026-05-14T15:27:39.245 - Firmware version: "000205"
+2026-05-14T15:27:39.316 - MouseFunctions: getOpticalSensorId
+2026-05-14T15:27:39.321 - MouseFunctions: WaitForDpiStep
+2026-05-14T15:27:40.196 - MouseFunctions: saveToRAM
+2026-05-14T15:27:40.326 - ConfigFile: saved to file
+2026-05-19T18:50:17.943 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-19T18:50:18.110 - Blfwk: libblfwk_wrapper not loaded
+2026-05-19T18:50:18.367 - ExpertView: loadSaveFile() start
+2026-05-19T18:50:18.483 - copyStarterFile:  true
+2026-05-19T18:50:18.483 - ExpertView: loadSaveFile():  116 msec
+2026-05-19T18:50:18.499 - HIDManager: mouse match, PID: 10
+2026-05-19T18:50:18.810 - Autostart - launched minimized
+2026-05-19T18:50:18.975 - MouseFunctions: getBuildNumber
+2026-05-19T18:50:18.976 - Firmware version: "000205"
+2026-05-19T18:50:19.059 - MouseFunctions: getOpticalSensorId
+2026-05-19T18:50:19.064 - MouseFunctions: WaitForDpiStep
+2026-05-19T18:50:19.066 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-05-19T18:50:19.480 - MouseFunctions: saveToRAM
+2026-05-19T18:50:19.617 - ConfigFile: saved to file
+2026-05-20T12:15:33.236 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-20T12:15:33.404 - Blfwk: libblfwk_wrapper not loaded
+2026-05-20T12:15:33.774 - ExpertView: loadSaveFile() start
+2026-05-20T12:15:33.893 - copyStarterFile:  true
+2026-05-20T12:15:33.893 - ExpertView: loadSaveFile():  118 msec
+2026-05-20T12:15:33.909 - HIDManager: mouse match, PID: 10
+2026-05-20T12:15:34.429 - Autostart - launched minimized
+2026-05-20T12:15:34.765 - MouseFunctions: getBuildNumber
+2026-05-20T12:15:34.766 - Firmware version: "000205"
+2026-05-20T12:15:34.842 - MouseFunctions: getOpticalSensorId
+2026-05-20T12:15:34.846 - MouseFunctions: WaitForDpiStep
+2026-05-20T12:15:35.979 - MouseFunctions: saveToRAM
+2026-05-20T12:15:36.111 - ConfigFile: saved to file
+2026-05-20T15:28:10.169 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-20T17:36:47.993 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-20T17:36:48.197 - Blfwk: libblfwk_wrapper not loaded
+2026-05-20T17:36:48.464 - ExpertView: loadSaveFile() start
+2026-05-20T17:36:48.585 - copyStarterFile:  true
+2026-05-20T17:36:48.585 - ExpertView: loadSaveFile():  120 msec
+2026-05-20T17:36:48.602 - HIDManager: mouse match, PID: 10
+2026-05-20T17:36:48.976 - Autostart - launched minimized
+2026-05-20T17:36:49.229 - MouseFunctions: getBuildNumber
+2026-05-20T17:36:49.230 - Firmware version: "000205"
+2026-05-20T17:36:49.298 - MouseFunctions: getOpticalSensorId
+2026-05-20T17:36:49.302 - MouseFunctions: WaitForDpiStep
+2026-05-20T17:36:50.124 - SWUpdate: netReply error "Connection closed"
+2026-05-20T17:36:50.124 - MouseFunctions: saveToRAM
+2026-05-20T17:36:50.256 - ConfigFile: saved to file
+2026-05-20T19:06:04.471 - Opening Window in Expert Mode
+2026-05-21T00:54:06.276 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:54:51.242 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:54:51.243 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:54:51.256 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:54:52.116 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:54:52.117 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:56:55.335 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:56:55.336 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:56:55.353 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:57:53.141 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:59:01.025 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T00:59:01.026 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:00:41.680 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:00:41.681 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:00:41.692 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:00:48.272 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:00:48.273 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:01:14.862 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:01:14.863 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:01:14.885 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:04:22.162 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:04:22.163 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:09:05.290 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:09:33.532 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:09:33.533 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:09:33.543 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:41:17.410 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T01:41:17.411 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:06.100 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:06.101 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:06.118 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:10.995 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:10.996 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:33.885 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:33.886 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:33.901 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:33.986 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:02:33.987 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:04:44.241 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:04:44.242 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:04:44.260 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:04:53.630 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:05:03.666 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:05:27.786 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T02:05:27.787 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-05-21T12:15:08.133 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-21T12:15:08.474 - Blfwk: libblfwk_wrapper not loaded
+2026-05-21T12:15:08.800 - ExpertView: loadSaveFile() start
+2026-05-21T12:15:08.915 - copyStarterFile:  true
+2026-05-21T12:15:08.915 - ExpertView: loadSaveFile():  115 msec
+2026-05-21T12:15:08.931 - HIDManager: mouse match, PID: 10
+2026-05-21T12:15:09.382 - Autostart - launched minimized
+2026-05-21T12:15:09.969 - MouseFunctions: getBuildNumber
+2026-05-21T12:15:09.970 - Firmware version: "000205"
+2026-05-21T12:15:10.104 - MouseFunctions: getOpticalSensorId
+2026-05-21T12:15:10.110 - MouseFunctions: WaitForDpiStep
+2026-05-21T12:15:10.684 - MouseFunctions: saveToRAM
+2026-05-21T12:15:10.871 - ConfigFile: saved to file
+2026-05-21T12:29:11.003 - SWUpdate: error while download
+2026-05-21T18:08:46.882 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-21T18:08:47.067 - Blfwk: libblfwk_wrapper not loaded
+2026-05-21T18:08:47.314 - ExpertView: loadSaveFile() start
+2026-05-21T18:08:47.431 - copyStarterFile:  true
+2026-05-21T18:08:47.431 - ExpertView: loadSaveFile():  117 msec
+2026-05-21T18:08:47.448 - HIDManager: mouse match, PID: 10
+2026-05-21T18:08:47.798 - Autostart - launched minimized
+2026-05-21T18:08:47.974 - MouseFunctions: getBuildNumber
+2026-05-21T18:08:47.975 - Firmware version: "000205"
+2026-05-21T18:08:48.044 - MouseFunctions: getOpticalSensorId
+2026-05-21T18:08:48.049 - MouseFunctions: WaitForDpiStep
+2026-05-21T18:08:48.698 - MouseFunctions: saveToRAM
+2026-05-21T18:08:48.830 - ConfigFile: saved to file
+2026-05-21T18:30:25.212 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-21T18:30:25.402 - Blfwk: libblfwk_wrapper not loaded
+2026-05-21T18:30:25.670 - ExpertView: loadSaveFile() start
+2026-05-21T18:30:25.795 - copyStarterFile:  true
+2026-05-21T18:30:25.795 - ExpertView: loadSaveFile():  124 msec
+2026-05-21T18:30:25.813 - HIDManager: mouse match, PID: 10
+2026-05-21T18:30:26.138 - Autostart - launched minimized
+2026-05-21T18:30:26.361 - MouseFunctions: getBuildNumber
+2026-05-21T18:30:26.362 - Firmware version: "000205"
+2026-05-21T18:30:26.440 - MouseFunctions: getOpticalSensorId
+2026-05-21T18:30:26.444 - MouseFunctions: WaitForDpiStep
+2026-05-21T18:30:26.446 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-05-21T18:30:27.061 - MouseFunctions: saveToRAM
+2026-05-21T18:30:27.196 - ConfigFile: saved to file
+2026-05-22T12:42:14.006 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-22T12:42:14.341 - Blfwk: libblfwk_wrapper not loaded
+2026-05-22T12:42:14.962 - ExpertView: loadSaveFile() start
+2026-05-22T12:42:15.090 - copyStarterFile:  true
+2026-05-22T12:42:15.090 - ExpertView: loadSaveFile():  127 msec
+2026-05-22T12:42:15.107 - HIDManager: mouse match, PID: 10
+2026-05-22T12:42:15.859 - Autostart - launched minimized
+2026-05-22T12:42:16.872 - MouseFunctions: getBuildNumber
+2026-05-22T12:42:16.873 - Firmware version: "000205"
+2026-05-22T12:42:16.950 - MouseFunctions: getOpticalSensorId
+2026-05-22T12:42:16.954 - MouseFunctions: WaitForDpiStep
+2026-05-22T12:42:16.956 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-05-22T12:42:17.331 - MouseFunctions: saveToRAM
+2026-05-22T12:42:17.599 - ConfigFile: saved to file
+2026-05-23T11:43:13.729 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-23T11:43:13.910 - Blfwk: libblfwk_wrapper not loaded
+2026-05-23T11:43:14.169 - ExpertView: loadSaveFile() start
+2026-05-23T11:43:14.285 - copyStarterFile:  true
+2026-05-23T11:43:14.285 - ExpertView: loadSaveFile():  116 msec
+2026-05-23T11:43:14.303 - HIDManager: mouse match, PID: 10
+2026-05-23T11:43:14.674 - Autostart - launched minimized
+2026-05-23T11:43:15.860 - MouseFunctions: getBuildNumber
+2026-05-23T11:43:15.861 - Firmware version: "000205"
+2026-05-23T11:43:15.927 - MouseFunctions: getOpticalSensorId
+2026-05-23T11:43:15.930 - MouseFunctions: WaitForDpiStep
+2026-05-23T11:43:15.981 - MouseFunctions: saveToRAM
+2026-05-23T11:43:16.117 - ConfigFile: saved to file
+2026-05-23T21:47:59.761 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-23T21:47:59.946 - Blfwk: libblfwk_wrapper not loaded
+2026-05-23T21:48:00.930 - ExpertView: loadSaveFile() start
+2026-05-23T21:48:01.340 - copyStarterFile:  true
+2026-05-23T21:48:01.340 - ExpertView: loadSaveFile():  410 msec
+2026-05-23T21:48:01.358 - HIDManager: mouse match, PID: 10
+2026-05-23T21:48:03.278 - Autostart - launched minimized
+2026-05-23T21:48:03.711 - MouseFunctions: getBuildNumber
+2026-05-23T21:48:03.712 - Firmware version: "000205"
+2026-05-23T21:48:03.917 - MouseFunctions: getOpticalSensorId
+2026-05-23T21:48:03.921 - MouseFunctions: WaitForDpiStep
+2026-05-23T21:48:04.813 - MouseFunctions: saveToRAM
+2026-05-23T21:48:04.955 - ConfigFile: saved to file
+2026-05-24T13:35:28.252 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-24T13:35:28.427 - Blfwk: libblfwk_wrapper not loaded
+2026-05-24T13:35:28.670 - ExpertView: loadSaveFile() start
+2026-05-24T13:35:28.803 - copyStarterFile:  true
+2026-05-24T13:35:28.803 - ExpertView: loadSaveFile():  132 msec
+2026-05-24T13:35:28.821 - HIDManager: mouse match, PID: 10
+2026-05-24T13:35:28.987 - Autostart - launched minimized
+2026-05-24T13:35:29.163 - MouseFunctions: getBuildNumber
+2026-05-24T13:35:29.164 - Firmware version: "000205"
+2026-05-24T13:35:29.220 - MouseFunctions: getOpticalSensorId
+2026-05-24T13:35:29.223 - MouseFunctions: WaitForDpiStep
+2026-05-24T13:35:29.307 - MouseFunctions: saveToRAM
+2026-05-24T13:35:29.446 - ConfigFile: saved to file
+2026-05-25T12:49:15.944 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-25T12:49:16.113 - Blfwk: libblfwk_wrapper not loaded
+2026-05-25T12:49:16.423 - ExpertView: loadSaveFile() start
+2026-05-25T12:49:16.557 - copyStarterFile:  true
+2026-05-25T12:49:16.557 - ExpertView: loadSaveFile():  134 msec
+2026-05-25T12:49:16.578 - HIDManager: mouse match, PID: 10
+2026-05-25T12:49:16.861 - Autostart - launched minimized
+2026-05-25T12:49:17.131 - MouseFunctions: getBuildNumber
+2026-05-25T12:49:17.132 - Firmware version: "000205"
+2026-05-25T12:49:17.203 - MouseFunctions: getOpticalSensorId
+2026-05-25T12:49:17.210 - MouseFunctions: WaitForDpiStep
+2026-05-25T12:49:17.213 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-05-25T12:49:18.275 - MouseFunctions: saveToRAM
+2026-05-25T12:49:18.410 - ConfigFile: saved to file
+2026-05-25T12:51:28.983 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-25T12:51:29.148 - Blfwk: libblfwk_wrapper not loaded
+2026-05-25T12:51:29.408 - ExpertView: loadSaveFile() start
+2026-05-25T12:51:29.536 - copyStarterFile:  true
+2026-05-25T12:51:29.536 - ExpertView: loadSaveFile():  127 msec
+2026-05-25T12:51:29.553 - HIDManager: mouse match, PID: 10
+2026-05-25T12:51:29.733 - Autostart - launched minimized
+2026-05-25T12:51:29.895 - MouseFunctions: getBuildNumber
+2026-05-25T12:51:29.897 - Firmware version: "000205"
+2026-05-25T12:51:29.955 - MouseFunctions: getOpticalSensorId
+2026-05-25T12:51:29.960 - MouseFunctions: WaitForDpiStep
+2026-05-25T12:51:30.052 - MouseFunctions: saveToRAM
+2026-05-25T12:51:30.188 - ConfigFile: saved to file
+2026-05-25T21:54:02.628 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-25T21:54:02.808 - Blfwk: libblfwk_wrapper not loaded
+2026-05-25T21:54:03.075 - ExpertView: loadSaveFile() start
+2026-05-25T21:54:03.215 - copyStarterFile:  true
+2026-05-25T21:54:03.215 - ExpertView: loadSaveFile():  140 msec
+2026-05-25T21:54:03.235 - HIDManager: mouse match, PID: 10
+2026-05-25T21:54:03.614 - Autostart - launched minimized
+2026-05-25T21:54:04.722 - MouseFunctions: getBuildNumber
+2026-05-25T21:54:04.723 - Firmware version: "000205"
+2026-05-25T21:54:04.777 - MouseFunctions: getOpticalSensorId
+2026-05-25T21:54:04.781 - MouseFunctions: WaitForDpiStep
+2026-05-25T21:54:04.854 - MouseFunctions: saveToRAM
+2026-05-25T21:54:04.988 - ConfigFile: saved to file
+2026-05-25T21:54:05.011 - SWUpdate: netReply error "Connection closed"
+2026-05-26T12:55:43.869 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-26T12:55:44.195 - Blfwk: libblfwk_wrapper not loaded
+2026-05-26T12:55:44.741 - ExpertView: loadSaveFile() start
+2026-05-26T12:55:44.887 - copyStarterFile:  true
+2026-05-26T12:55:44.887 - ExpertView: loadSaveFile():  145 msec
+2026-05-26T12:55:44.906 - HIDManager: mouse match, PID: 10
+2026-05-26T12:55:46.449 - Autostart - launched minimized
+2026-05-26T12:55:46.749 - MouseFunctions: getBuildNumber
+2026-05-26T12:55:46.750 - Firmware version: "000205"
+2026-05-26T12:55:46.810 - MouseFunctions: getOpticalSensorId
+2026-05-26T12:55:46.814 - MouseFunctions: WaitForDpiStep
+2026-05-26T12:55:47.132 - MouseFunctions: saveToRAM
+2026-05-26T12:55:47.264 - ConfigFile: saved to file
+2026-05-27T12:35:14.327 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-27T12:35:14.506 - Blfwk: libblfwk_wrapper not loaded
+2026-05-27T12:35:14.793 - ExpertView: loadSaveFile() start
+2026-05-27T12:35:14.950 - copyStarterFile:  true
+2026-05-27T12:35:14.950 - ExpertView: loadSaveFile():  156 msec
+2026-05-27T12:35:14.969 - HIDManager: mouse match, PID: 10
+2026-05-27T12:35:16.280 - Autostart - launched minimized
+2026-05-27T12:35:16.454 - MouseFunctions: getBuildNumber
+2026-05-27T12:35:16.454 - Firmware version: "000205"
+2026-05-27T12:35:16.523 - MouseFunctions: getOpticalSensorId
+2026-05-27T12:35:16.529 - MouseFunctions: WaitForDpiStep
+2026-05-27T12:35:16.665 - MouseFunctions: saveToRAM
+2026-05-27T12:35:16.796 - ConfigFile: saved to file
+2026-05-28T14:08:21.554 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-28T14:08:21.729 - Blfwk: libblfwk_wrapper not loaded
+2026-05-28T14:08:21.966 - ExpertView: loadSaveFile() start
+2026-05-28T14:08:22.084 - copyStarterFile:  true
+2026-05-28T14:08:22.084 - ExpertView: loadSaveFile():  118 msec
+2026-05-28T14:08:22.101 - HIDManager: mouse match, PID: 10
+2026-05-28T14:08:22.458 - Autostart - launched minimized
+2026-05-28T14:08:22.659 - MouseFunctions: getBuildNumber
+2026-05-28T14:08:22.660 - Firmware version: "000205"
+2026-05-28T14:08:22.732 - MouseFunctions: getOpticalSensorId
+2026-05-28T14:08:22.734 - MouseFunctions: WaitForDpiStep
+2026-05-28T14:08:22.736 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-05-28T14:08:23.109 - MouseFunctions: saveToRAM
+2026-05-28T14:08:23.239 - ConfigFile: saved to file
+2026-05-28T14:11:25.125 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-28T14:11:25.293 - Blfwk: libblfwk_wrapper not loaded
+2026-05-28T14:11:25.558 - ExpertView: loadSaveFile() start
+2026-05-28T14:11:25.737 - copyStarterFile:  true
+2026-05-28T14:11:25.737 - ExpertView: loadSaveFile():  178 msec
+2026-05-28T14:11:25.754 - HIDManager: mouse match, PID: 10
+2026-05-28T14:11:26.712 - Autostart - launched minimized
+2026-05-28T14:11:26.925 - MouseFunctions: getBuildNumber
+2026-05-28T14:11:26.926 - Firmware version: "000205"
+2026-05-28T14:11:26.997 - MouseFunctions: getOpticalSensorId
+2026-05-28T14:11:27.001 - MouseFunctions: WaitForDpiStep
+2026-05-28T14:11:27.090 - MouseFunctions: saveToRAM
+2026-05-28T14:11:27.222 - ConfigFile: saved to file
+2026-05-28T23:20:14.274 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-28T23:20:14.475 - Blfwk: libblfwk_wrapper not loaded
+2026-05-28T23:20:14.718 - ExpertView: loadSaveFile() start
+2026-05-28T23:20:14.851 - copyStarterFile:  true
+2026-05-28T23:20:14.851 - ExpertView: loadSaveFile():  133 msec
+2026-05-28T23:20:14.868 - HIDManager: mouse match, PID: 10
+2026-05-28T23:20:15.929 - Autostart - launched minimized
+2026-05-28T23:20:16.103 - MouseFunctions: getBuildNumber
+2026-05-28T23:20:16.105 - Firmware version: "000205"
+2026-05-28T23:20:16.172 - MouseFunctions: getOpticalSensorId
+2026-05-28T23:20:16.176 - MouseFunctions: WaitForDpiStep
+2026-05-28T23:20:16.267 - MouseFunctions: saveToRAM
+2026-05-28T23:20:16.400 - ConfigFile: saved to file
+2026-05-29T15:02:34.362 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-29T15:02:34.525 - Blfwk: libblfwk_wrapper not loaded
+2026-05-29T15:02:34.818 - ExpertView: loadSaveFile() start
+2026-05-29T15:02:34.966 - copyStarterFile:  true
+2026-05-29T15:02:34.966 - ExpertView: loadSaveFile():  148 msec
+2026-05-29T15:02:34.987 - HIDManager: mouse match, PID: 10
+2026-05-29T15:02:36.106 - Autostart - launched minimized
+2026-05-29T15:02:36.254 - MouseFunctions: getBuildNumber
+2026-05-29T15:02:36.255 - Firmware version: "000205"
+2026-05-29T15:02:36.324 - MouseFunctions: getOpticalSensorId
+2026-05-29T15:02:36.327 - MouseFunctions: WaitForDpiStep
+2026-05-29T15:02:36.385 - MouseFunctions: saveToRAM
+2026-05-29T15:02:36.515 - ConfigFile: saved to file
+2026-05-30T13:37:54.848 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-30T13:37:55.012 - Blfwk: libblfwk_wrapper not loaded
+2026-05-30T13:37:55.297 - ExpertView: loadSaveFile() start
+2026-05-30T13:37:55.440 - copyStarterFile:  true
+2026-05-30T13:37:55.440 - ExpertView: loadSaveFile():  143 msec
+2026-05-30T13:37:55.457 - HIDManager: mouse match, PID: 10
+2026-05-30T13:37:56.159 - Autostart - launched minimized
+2026-05-30T13:37:56.787 - MouseFunctions: getBuildNumber
+2026-05-30T13:37:56.787 - Firmware version: "000205"
+2026-05-30T13:37:56.848 - MouseFunctions: getOpticalSensorId
+2026-05-30T13:37:56.851 - MouseFunctions: WaitForDpiStep
+2026-05-30T13:37:57.035 - MouseFunctions: saveToRAM
+2026-05-30T13:37:57.164 - ConfigFile: saved to file
+2026-05-31T16:27:28.459 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-05-31T16:27:28.609 - Blfwk: libblfwk_wrapper not loaded
+2026-05-31T16:27:28.864 - ExpertView: loadSaveFile() start
+2026-05-31T16:27:29.036 - copyStarterFile:  true
+2026-05-31T16:27:29.036 - ExpertView: loadSaveFile():  171 msec
+2026-05-31T16:27:29.053 - HIDManager: mouse match, PID: 10
+2026-05-31T16:27:30.204 - Autostart - launched minimized
+2026-05-31T16:27:30.326 - MouseFunctions: getBuildNumber
+2026-05-31T16:27:30.327 - Firmware version: "000205"
+2026-05-31T16:27:30.399 - MouseFunctions: getOpticalSensorId
+2026-05-31T16:27:30.405 - MouseFunctions: WaitForDpiStep
+2026-05-31T16:27:30.516 - MouseFunctions: saveToRAM
+2026-05-31T16:27:30.645 - ConfigFile: saved to file
+2026-05-31T21:18:08.786 - Opening Window in Expert Mode
+2026-05-31T21:19:09.015 - MouseFunctions: saveToRAM
+2026-05-31T21:19:09.142 - ConfigFile: saved to file
+2026-06-01T14:32:01.906 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-01T14:32:02.093 - Blfwk: libblfwk_wrapper not loaded
+2026-06-01T14:32:02.390 - ExpertView: loadSaveFile() start
+2026-06-01T14:32:02.554 - copyStarterFile:  true
+2026-06-01T14:32:02.554 - ExpertView: loadSaveFile():  164 msec
+2026-06-01T14:32:02.572 - HIDManager: mouse match, PID: 10
+2026-06-01T14:32:03.661 - Autostart - launched minimized
+2026-06-01T14:32:03.799 - MouseFunctions: getBuildNumber
+2026-06-01T14:32:03.800 - Firmware version: "000205"
+2026-06-01T14:32:03.871 - MouseFunctions: getOpticalSensorId
+2026-06-01T14:32:03.877 - MouseFunctions: WaitForDpiStep
+2026-06-01T14:32:04.004 - MouseFunctions: saveToRAM
+2026-06-01T14:32:04.134 - ConfigFile: saved to file
+2026-06-02T17:46:00.518 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-02T17:46:00.669 - Blfwk: libblfwk_wrapper not loaded
+2026-06-02T17:46:00.874 - ExpertView: loadSaveFile() start
+2026-06-02T17:46:00.994 - copyStarterFile:  true
+2026-06-02T17:46:00.994 - ExpertView: loadSaveFile():  120 msec
+2026-06-02T17:46:01.012 - HIDManager: mouse match, PID: 10
+2026-06-02T17:46:01.185 - Autostart - launched minimized
+2026-06-02T17:46:01.287 - MouseFunctions: getBuildNumber
+2026-06-02T17:46:01.288 - Firmware version: "000205"
+2026-06-02T17:46:01.342 - MouseFunctions: getOpticalSensorId
+2026-06-02T17:46:01.345 - MouseFunctions: WaitForDpiStep
+2026-06-02T17:46:01.380 - MouseFunctions: saveToRAM
+2026-06-02T17:46:01.508 - ConfigFile: saved to file
+2026-06-03T14:40:18.877 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-03T14:40:19.054 - Blfwk: libblfwk_wrapper not loaded
+2026-06-03T14:40:19.347 - ExpertView: loadSaveFile() start
+2026-06-03T14:40:19.458 - copyStarterFile:  true
+2026-06-03T14:40:19.458 - ExpertView: loadSaveFile():  110 msec
+2026-06-03T14:40:19.477 - HIDManager: mouse match, PID: 10
+2026-06-03T14:40:20.034 - Autostart - launched minimized
+2026-06-03T14:40:20.331 - MouseFunctions: getBuildNumber
+2026-06-03T14:40:20.332 - Firmware version: "000205"
+2026-06-03T14:40:20.402 - MouseFunctions: getOpticalSensorId
+2026-06-03T14:40:20.406 - MouseFunctions: WaitForDpiStep
+2026-06-03T14:40:20.930 - MouseFunctions: saveToRAM
+2026-06-03T14:40:21.061 - ConfigFile: saved to file
+2026-06-04T15:21:55.529 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-04T15:21:55.728 - Blfwk: libblfwk_wrapper not loaded
+2026-06-04T15:21:55.950 - ExpertView: loadSaveFile() start
+2026-06-04T15:21:56.060 - copyStarterFile:  true
+2026-06-04T15:21:56.060 - ExpertView: loadSaveFile():  110 msec
+2026-06-04T15:21:56.077 - HIDManager: mouse match, PID: 10
+2026-06-04T15:21:56.382 - Autostart - launched minimized
+2026-06-04T15:21:56.553 - MouseFunctions: getBuildNumber
+2026-06-04T15:21:56.554 - Firmware version: "000205"
+2026-06-04T15:21:56.634 - MouseFunctions: getOpticalSensorId
+2026-06-04T15:21:56.639 - MouseFunctions: WaitForDpiStep
+2026-06-04T15:21:57.594 - MouseFunctions: saveToRAM
+2026-06-04T15:21:57.726 - ConfigFile: saved to file
+2026-06-04T15:38:56.786 - SWUpdate: netReply error "Socket operation timed out"
+2026-06-04T23:42:23.523 - Opening Window in Expert Mode
+2026-06-04T23:43:15.502 - MouseFunctions: saveToRAM
+2026-06-04T23:43:15.635 - ConfigFile: saved to file
+2026-06-04T23:43:23.267 - Mappings: save()
+2026-06-05T00:08:03.260 - MouseFunctions: saveToRAM
+2026-06-05T00:08:03.385 - ConfigFile: saved to file
+2026-06-05T16:05:16.399 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-05T16:05:16.574 - Blfwk: libblfwk_wrapper not loaded
+2026-06-05T16:05:16.832 - ExpertView: loadSaveFile() start
+2026-06-05T16:05:16.992 - copyStarterFile:  true
+2026-06-05T16:05:16.992 - ExpertView: loadSaveFile():  159 msec
+2026-06-05T16:05:17.008 - HIDManager: mouse match, PID: 10
+2026-06-05T16:05:17.400 - Autostart - launched minimized
+2026-06-05T16:05:17.852 - MouseFunctions: getBuildNumber
+2026-06-05T16:05:17.853 - Firmware version: "000205"
+2026-06-05T16:05:17.924 - MouseFunctions: getOpticalSensorId
+2026-06-05T16:05:17.929 - MouseFunctions: WaitForDpiStep
+2026-06-05T16:05:18.420 - MouseFunctions: saveToRAM
+2026-06-05T16:05:18.551 - ConfigFile: saved to file
+2026-06-06T01:21:50.474 - Opening Window in Expert Mode
+2026-06-06T01:22:07.907 - Mappings: save()
+2026-06-06T01:22:11.973 - Mappings: save()
+2026-06-06T01:22:15.192 - MouseFunctions: saveToRAM
+2026-06-06T01:22:15.314 - ConfigFile: saved to file
+2026-06-06T01:22:22.159 - Mappings: save()
+2026-06-06T01:22:33.807 - Mappings: save()
+2026-06-06T01:23:14.167 - MouseFunctions: saveToRAM
+2026-06-06T01:23:14.289 - ConfigFile: saved to file
+2026-06-06T01:23:15.884 - SWUpdate: upgrade started
+2026-06-06T01:24:10.873 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-06T01:24:10.941 - Blfwk: libblfwk_wrapper not loaded
+2026-06-06T01:24:11.028 - ExpertView: loadSaveFile() start
+2026-06-06T01:24:11.118 - copyStarterFile:  true
+2026-06-06T01:24:11.118 - ExpertView: loadSaveFile():  89 msec
+2026-06-06T01:24:11.137 - HIDManager: mouse match, PID: 10
+2026-06-06T01:24:11.449 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-06T01:24:11.449 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-06T01:24:11.580 - MouseFunctions: getBuildNumber
+2026-06-06T01:24:11.581 - Firmware version: "000205"
+2026-06-06T01:24:11.581 - MouseFunctions: incompatible firmware! "000205"
+2026-06-06T01:24:11.721 - Opening Window in Expert Mode
+2026-06-06T01:25:12.839 - ConfigFile: saved to file
+2026-06-06T01:25:39.324 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-06T01:25:39.401 - Blfwk: libblfwk_wrapper not loaded
+2026-06-06T01:25:39.513 - ExpertView: loadSaveFile() start
+2026-06-06T01:25:39.607 - copyStarterFile:  true
+2026-06-06T01:25:39.607 - ExpertView: loadSaveFile():  94 msec
+2026-06-06T01:25:39.625 - HIDManager: mouse match, PID: 10
+2026-06-06T01:25:39.838 - MouseFunctions: getBuildNumber
+2026-06-06T01:25:39.839 - Firmware version: "000205"
+2026-06-06T01:25:39.925 - Opening Window in Expert Mode
+2026-06-06T01:25:39.934 - MouseFunctions: getOpticalSensorId
+2026-06-06T01:25:39.947 - MouseFunctions: WaitForDpiStep
+2026-06-06T01:25:40.108 - MouseFunctions: saveToRAM
+2026-06-06T01:25:40.230 - ConfigFile: saved to file
+2026-06-06T01:25:46.027 - MouseFunctions: saveToRAM
+2026-06-06T01:25:46.151 - ConfigFile: saved to file
+2026-06-06T01:26:12.592 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-06T01:26:12.649 - Blfwk: libblfwk_wrapper not loaded
+2026-06-06T01:26:12.764 - ExpertView: loadSaveFile() start
+2026-06-06T01:26:12.851 - copyStarterFile:  true
+2026-06-06T01:26:12.851 - ExpertView: loadSaveFile():  87 msec
+2026-06-06T01:26:12.869 - HIDManager: mouse match, PID: 10
+2026-06-06T01:26:13.068 - MouseFunctions: getBuildNumber
+2026-06-06T01:26:13.069 - Firmware version: "000205"
+2026-06-06T01:26:13.148 - Opening Window in Expert Mode
+2026-06-06T01:26:13.155 - MouseFunctions: getOpticalSensorId
+2026-06-06T01:26:13.162 - MouseFunctions: WaitForDpiStep
+2026-06-06T01:26:13.339 - MouseFunctions: saveToRAM
+2026-06-06T01:26:13.462 - ConfigFile: saved to file
+2026-06-06T01:26:18.095 - MouseFunctions: saveToRAM
+2026-06-06T01:26:18.217 - ConfigFile: saved to file
+2026-06-06T02:05:48.854 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-06T02:05:49.034 - Blfwk: libblfwk_wrapper not loaded
+2026-06-06T02:05:49.293 - ExpertView: loadSaveFile() start
+2026-06-06T02:05:49.414 - copyStarterFile:  true
+2026-06-06T02:05:49.414 - ExpertView: loadSaveFile():  120 msec
+2026-06-06T02:05:49.431 - HIDManager: mouse match, PID: 10
+2026-06-06T02:05:49.900 - Autostart - launched minimized
+2026-06-06T02:05:50.214 - MouseFunctions: getBuildNumber
+2026-06-06T02:05:50.215 - Firmware version: "000205"
+2026-06-06T02:05:50.278 - MouseFunctions: getOpticalSensorId
+2026-06-06T02:05:50.283 - MouseFunctions: WaitForDpiStep
+2026-06-06T02:05:50.683 - MouseFunctions: saveToRAM
+2026-06-06T02:05:50.813 - ConfigFile: saved to file
+2026-06-06T14:13:47.182 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-06T14:13:47.341 - Blfwk: libblfwk_wrapper not loaded
+2026-06-06T14:13:47.636 - ExpertView: loadSaveFile() start
+2026-06-06T14:13:47.769 - copyStarterFile:  true
+2026-06-06T14:13:47.769 - ExpertView: loadSaveFile():  132 msec
+2026-06-06T14:13:47.787 - HIDManager: mouse match, PID: 10
+2026-06-06T14:13:49.020 - Autostart - launched minimized
+2026-06-06T14:13:49.167 - MouseFunctions: getBuildNumber
+2026-06-06T14:13:49.168 - Firmware version: "000205"
+2026-06-06T14:13:49.226 - MouseFunctions: getOpticalSensorId
+2026-06-06T14:13:49.230 - MouseFunctions: WaitForDpiStep
+2026-06-06T14:13:49.321 - MouseFunctions: saveToRAM
+2026-06-06T14:13:49.443 - ConfigFile: saved to file
+2026-06-07T19:26:47.302 - Opening Window in Expert Mode
+2026-06-07T19:27:43.796 - MouseFunctions: saveToRAM
+2026-06-07T19:27:43.917 - ConfigFile: saved to file
+2026-06-07T19:27:58.553 - MouseFunctions: saveToRAM
+2026-06-07T19:27:58.675 - ConfigFile: saved to file
+2026-06-07T22:00:25.910 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-07T22:00:26.037 - Blfwk: libblfwk_wrapper not loaded
+2026-06-07T22:00:26.168 - ExpertView: loadSaveFile() start
+2026-06-07T22:00:26.374 - copyStarterFile:  true
+2026-06-07T22:00:26.374 - ExpertView: loadSaveFile():  205 msec
+2026-06-07T22:00:26.403 - HIDManager: mouse match, PID: 10
+2026-06-07T22:00:26.542 - Autostart - launched minimized
+2026-06-07T22:00:26.638 - MouseFunctions: getBuildNumber
+2026-06-07T22:00:26.639 - Firmware version: "000205"
+2026-06-07T22:00:26.755 - MouseFunctions: getOpticalSensorId
+2026-06-07T22:00:26.757 - MouseFunctions: WaitForDpiStep
+2026-06-07T22:00:26.817 - MouseFunctions: saveToRAM
+2026-06-07T22:00:26.957 - ConfigFile: saved to file
+2026-06-07T22:36:01.779 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-07T22:36:01.860 - Blfwk: libblfwk_wrapper not loaded
+2026-06-07T22:36:01.976 - ExpertView: loadSaveFile() start
+2026-06-07T22:36:02.068 - copyStarterFile:  true
+2026-06-07T22:36:02.068 - ExpertView: loadSaveFile():  91 msec
+2026-06-07T22:36:02.086 - HIDManager: mouse match, PID: 10
+2026-06-07T22:36:02.702 - MouseFunctions: getBuildNumber
+2026-06-07T22:36:02.702 - Firmware version: "000205"
+2026-06-07T22:36:02.785 - Opening Window in Expert Mode
+2026-06-07T22:36:02.792 - MouseFunctions: getOpticalSensorId
+2026-06-07T22:36:02.802 - MouseFunctions: WaitForDpiStep
+2026-06-07T22:36:02.959 - MouseFunctions: saveToRAM
+2026-06-07T22:36:03.079 - ConfigFile: saved to file
+2026-06-07T23:17:15.219 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-07T23:17:35.144 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-07T23:33:28.694 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-08T00:03:45.078 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-08T00:14:06.113 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-08T00:15:22.104 - The X11 connection broke (error 1). Did the X11 server die?
+2026-06-08T17:55:34.461 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-08T17:55:34.741 - Blfwk: libblfwk_wrapper not loaded
+2026-06-08T17:55:34.854 - ExpertView: loadSaveFile() start
+2026-06-08T17:55:34.946 - copyStarterFile:  true
+2026-06-08T17:55:34.946 - ExpertView: loadSaveFile():  91 msec
+2026-06-08T17:55:34.963 - HIDManager: mouse match, PID: 10
+2026-06-08T17:55:35.206 - MouseFunctions: getBuildNumber
+2026-06-08T17:55:35.207 - Firmware version: "000205"
+2026-06-08T17:55:35.286 - Opening Window in Expert Mode
+2026-06-08T17:55:35.293 - MouseFunctions: getOpticalSensorId
+2026-06-08T17:55:35.300 - MouseFunctions: WaitForDpiStep
+2026-06-08T17:55:35.643 - MouseFunctions: saveToRAM
+2026-06-08T17:55:35.765 - ConfigFile: saved to file
+2026-06-08T17:55:41.485 - MouseFunctions: saveToRAM
+2026-06-08T17:55:41.608 - ConfigFile: saved to file
+2026-06-09T13:18:07.905 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-09T13:18:08.170 - Blfwk: libblfwk_wrapper not loaded
+2026-06-09T13:18:08.860 - ExpertView: loadSaveFile() start
+2026-06-09T13:18:08.990 - copyStarterFile:  true
+2026-06-09T13:18:08.990 - ExpertView: loadSaveFile():  129 msec
+2026-06-09T13:18:09.008 - HIDManager: mouse match, PID: 10
+2026-06-09T13:18:09.528 - Autostart - launched minimized
+2026-06-09T13:18:10.848 - MouseFunctions: getBuildNumber
+2026-06-09T13:18:10.849 - Firmware version: "000205"
+2026-06-09T13:18:10.975 - MouseFunctions: getOpticalSensorId
+2026-06-09T13:18:10.978 - MouseFunctions: WaitForDpiStep
+2026-06-09T13:18:11.074 - MouseFunctions: saveToRAM
+2026-06-09T13:18:11.188 - ConfigFile: saved to file
+2026-06-10T14:04:35.806 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-10T14:04:35.962 - Blfwk: libblfwk_wrapper not loaded
+2026-06-10T14:04:36.212 - ExpertView: loadSaveFile() start
+2026-06-10T14:04:36.358 - copyStarterFile:  true
+2026-06-10T14:04:36.358 - ExpertView: loadSaveFile():  145 msec
+2026-06-10T14:04:36.376 - HIDManager: mouse match, PID: 10
+2026-06-10T14:04:36.847 - Autostart - launched minimized
+2026-06-10T14:04:37.147 - MouseFunctions: getBuildNumber
+2026-06-10T14:04:37.148 - Firmware version: "000205"
+2026-06-10T14:04:37.213 - MouseFunctions: getOpticalSensorId
+2026-06-10T14:04:37.218 - MouseFunctions: WaitForDpiStep
+2026-06-10T14:04:38.134 - MouseFunctions: saveToRAM
+2026-06-10T14:04:38.258 - ConfigFile: saved to file
+2026-06-11T01:25:33.223 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-11T01:25:33.378 - Blfwk: libblfwk_wrapper not loaded
+2026-06-11T01:25:33.638 - ExpertView: loadSaveFile() start
+2026-06-11T01:25:33.823 - copyStarterFile:  true
+2026-06-11T01:25:33.823 - ExpertView: loadSaveFile():  184 msec
+2026-06-11T01:25:33.840 - HIDManager: mouse match, PID: 10
+2026-06-11T01:25:34.289 - Autostart - launched minimized
+2026-06-11T01:25:34.907 - MouseFunctions: getBuildNumber
+2026-06-11T01:25:34.909 - Firmware version: "000205"
+2026-06-11T01:25:34.991 - MouseFunctions: getOpticalSensorId
+2026-06-11T01:25:34.997 - MouseFunctions: WaitForDpiStep
+2026-06-11T01:25:35.356 - MouseFunctions: saveToRAM
+2026-06-11T01:25:35.489 - ConfigFile: saved to file
+2026-06-11T12:26:10.891 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-11T12:26:11.033 - Blfwk: libblfwk_wrapper not loaded
+2026-06-11T12:26:11.263 - ExpertView: loadSaveFile() start
+2026-06-11T12:26:11.390 - copyStarterFile:  true
+2026-06-11T12:26:11.390 - ExpertView: loadSaveFile():  127 msec
+2026-06-11T12:26:11.409 - HIDManager: mouse match, PID: 10
+2026-06-11T12:26:11.862 - Autostart - launched minimized
+2026-06-11T12:26:12.102 - MouseFunctions: getBuildNumber
+2026-06-11T12:26:12.103 - Firmware version: "000205"
+2026-06-11T12:26:12.177 - MouseFunctions: getOpticalSensorId
+2026-06-11T12:26:12.181 - MouseFunctions: WaitForDpiStep
+2026-06-11T12:26:12.802 - MouseFunctions: saveToRAM
+2026-06-11T12:26:12.950 - ConfigFile: saved to file
+2026-06-11T17:58:34.950 - HIDManager: mouse removal, PID: 10
+2026-06-11T17:58:39.525 - HIDManager: mouse match, PID: 10
+2026-06-11T17:58:39.525 - MouseFunctions: getBuildNumber
+2026-06-11T17:58:39.526 - Firmware version: "000205"
+2026-06-11T17:58:40.030 - MouseFunctions: getOpticalSensorId
+2026-06-11T17:58:40.530 - MouseFunctions: WaitForDpiStep
+2026-06-11T17:58:41.530 - MouseFunctions: saveToRAM
+2026-06-11T17:59:01.033 - ConfigFile: saved to file
+2026-06-11T18:02:12.742 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-11T18:02:12.864 - Blfwk: libblfwk_wrapper not loaded
+2026-06-11T18:02:13.099 - ExpertView: loadSaveFile() start
+2026-06-11T18:02:13.231 - copyStarterFile:  true
+2026-06-11T18:02:13.231 - ExpertView: loadSaveFile():  131 msec
+2026-06-11T18:02:13.248 - HIDManager: mouse match, PID: 10
+2026-06-11T18:02:13.714 - Autostart - launched minimized
+2026-06-11T18:02:13.911 - MouseFunctions: getBuildNumber
+2026-06-11T18:02:13.913 - Firmware version: "000205"
+2026-06-11T18:02:13.978 - MouseFunctions: getOpticalSensorId
+2026-06-11T18:02:13.984 - MouseFunctions: WaitForDpiStep
+2026-06-11T18:02:14.240 - MouseFunctions: saveToRAM
+2026-06-11T18:02:14.422 - ConfigFile: saved to file
+2026-06-12T12:43:10.011 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-12T12:43:10.136 - Blfwk: libblfwk_wrapper not loaded
+2026-06-12T12:43:10.310 - ExpertView: loadSaveFile() start
+2026-06-12T12:43:10.460 - copyStarterFile:  true
+2026-06-12T12:43:10.460 - ExpertView: loadSaveFile():  149 msec
+2026-06-12T12:43:10.487 - HIDManager: mouse match, PID: 10
+2026-06-12T12:43:10.663 - Autostart - launched minimized
+2026-06-12T12:43:10.742 - MouseFunctions: getBuildNumber
+2026-06-12T12:43:10.744 - Firmware version: "000205"
+2026-06-12T12:43:10.814 - MouseFunctions: getOpticalSensorId
+2026-06-12T12:43:10.817 - MouseFunctions: WaitForDpiStep
+2026-06-12T12:43:10.866 - MouseFunctions: saveToRAM
+2026-06-12T12:43:11.007 - ConfigFile: saved to file
+2026-06-13T13:05:37.292 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-13T13:05:37.445 - Blfwk: libblfwk_wrapper not loaded
+2026-06-13T13:05:37.733 - ExpertView: loadSaveFile() start
+2026-06-13T13:05:37.862 - copyStarterFile:  true
+2026-06-13T13:05:37.862 - ExpertView: loadSaveFile():  129 msec
+2026-06-13T13:05:37.883 - HIDManager: mouse match, PID: 10
+2026-06-13T13:05:38.162 - Autostart - launched minimized
+2026-06-13T13:05:38.447 - MouseFunctions: getBuildNumber
+2026-06-13T13:05:38.447 - Firmware version: "000205"
+2026-06-13T13:05:38.533 - MouseFunctions: getOpticalSensorId
+2026-06-13T13:05:38.536 - MouseFunctions: WaitForDpiStep
+2026-06-13T13:05:38.654 - MouseFunctions: saveToRAM
+2026-06-13T13:05:38.780 - ConfigFile: saved to file
+2026-06-14T01:38:32.023 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-14T01:38:32.969 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-14T01:39:43.998 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-14T01:39:44.003 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-14T01:39:46.349 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-14T13:55:09.787 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-14T13:55:09.983 - Blfwk: libblfwk_wrapper not loaded
+2026-06-14T13:55:10.296 - ExpertView: loadSaveFile() start
+2026-06-14T13:55:10.460 - copyStarterFile:  true
+2026-06-14T13:55:10.461 - ExpertView: loadSaveFile():  164 msec
+2026-06-14T13:55:10.483 - HIDManager: mouse match, PID: 10
+2026-06-14T13:55:10.897 - Autostart - launched minimized
+2026-06-14T13:55:11.121 - MouseFunctions: getBuildNumber
+2026-06-14T13:55:11.122 - Firmware version: "000205"
+2026-06-14T13:55:11.186 - MouseFunctions: getOpticalSensorId
+2026-06-14T13:55:11.191 - MouseFunctions: WaitForDpiStep
+2026-06-14T13:55:11.510 - MouseFunctions: saveToRAM
+2026-06-14T13:55:11.639 - ConfigFile: saved to file
+2026-06-15T14:03:53.946 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-15T14:03:54.168 - Blfwk: libblfwk_wrapper not loaded
+2026-06-15T14:03:54.432 - ExpertView: loadSaveFile() start
+2026-06-15T14:03:54.577 - copyStarterFile:  true
+2026-06-15T14:03:54.577 - ExpertView: loadSaveFile():  144 msec
+2026-06-15T14:03:54.596 - HIDManager: mouse match, PID: 10
+2026-06-15T14:03:54.942 - Autostart - launched minimized
+2026-06-15T14:03:55.332 - MouseFunctions: getBuildNumber
+2026-06-15T14:03:55.333 - Firmware version: "000205"
+2026-06-15T14:03:55.398 - MouseFunctions: getOpticalSensorId
+2026-06-15T14:03:55.401 - MouseFunctions: WaitForDpiStep
+2026-06-15T14:03:55.756 - MouseFunctions: saveToRAM
+2026-06-15T14:03:55.880 - ConfigFile: saved to file
+2026-06-15T15:33:59.697 - Opening Window in Expert Mode
+2026-06-15T15:34:25.254 - MouseFunctions: saveToRAM
+2026-06-15T15:34:25.378 - ConfigFile: saved to file
+2026-06-15T15:34:31.152 - MouseFunctions: saveToRAM
+2026-06-15T15:34:31.274 - ConfigFile: saved to file
+2026-06-15T23:49:51.791 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.8.0"
+2026-06-15T23:49:51.866 - Blfwk: libblfwk_wrapper not loaded
+2026-06-15T23:49:51.982 - ExpertView: loadSaveFile() start
+2026-06-15T23:49:52.078 - copyStarterFile:  true
+2026-06-15T23:49:52.078 - ExpertView: loadSaveFile():  96 msec
+2026-06-15T23:49:52.095 - HIDManager: mouse match, PID: 10
+2026-06-15T23:49:52.516 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-15T23:49:52.516 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-15T23:49:52.533 - MouseFunctions: getBuildNumber
+2026-06-15T23:49:52.535 - Firmware version: "000208"
+2026-06-15T23:49:52.535 - MouseFunctions: incompatible firmware! "000208"
+2026-06-15T23:49:52.677 - Opening Window in Expert Mode
+2026-06-15T23:49:53.106 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-15T23:49:53.107 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-15T23:50:50.056 - ConfigFile: saved to file
+2026-06-15T23:52:35.639 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-15T23:52:35.639 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-15T23:55:59.867 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-15T23:55:59.945 - Blfwk: libblfwk_wrapper not loaded
+2026-06-15T23:56:00.058 - ExpertView: loadSaveFile() start
+2026-06-15T23:56:00.150 - copyStarterFile:  true
+2026-06-15T23:56:00.150 - ExpertView: loadSaveFile():  91 msec
+2026-06-15T23:56:00.167 - HIDManager: mouse match, PID: 10
+2026-06-15T23:56:00.278 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-15T23:56:00.278 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-15T23:56:00.437 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-15T23:56:00.437 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-15T23:56:00.451 - MouseFunctions: getBuildNumber
+2026-06-15T23:56:00.452 - Firmware version: "000208"
+2026-06-15T23:56:00.530 - Opening Window in Expert Mode
+2026-06-15T23:56:00.539 - MouseFunctions: getOpticalSensorId
+2026-06-15T23:56:00.546 - MouseFunctions: WaitForDpiStep
+2026-06-15T23:56:00.693 - MouseFunctions: saveToRAM
+2026-06-15T23:56:00.813 - ConfigFile: saved to file
+2026-06-15T23:56:00.856 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-15T23:56:00.857 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-15T23:56:07.214 - MouseFunctions: saveToRAM
+2026-06-15T23:56:07.336 - ConfigFile: saved to file
+2026-06-15T23:56:45.520 - QGraphicsScene::sendEvent: cannot send event to a null item
+2026-06-15T23:57:13.687 - MouseFunctions: saveToRAM
+2026-06-15T23:57:13.808 - ConfigFile: saved to file
+2026-06-16T00:25:08.686 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T00:25:08.750 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T00:25:08.832 - ExpertView: loadSaveFile() start
+2026-06-16T00:25:08.915 - copyStarterFile:  true
+2026-06-16T00:25:08.915 - ExpertView: loadSaveFile():  83 msec
+2026-06-16T00:25:08.932 - HIDManager: mouse match, PID: 10
+2026-06-16T00:25:09.035 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T00:25:09.035 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T00:25:09.156 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T00:25:09.156 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T00:25:09.170 - MouseFunctions: getBuildNumber
+2026-06-16T00:25:09.171 - Firmware version: "000208"
+2026-06-16T00:25:09.246 - Opening Window in Expert Mode
+2026-06-16T00:25:09.253 - MouseFunctions: getOpticalSensorId
+2026-06-16T00:25:09.260 - MouseFunctions: WaitForDpiStep
+2026-06-16T00:25:09.403 - MouseFunctions: saveToRAM
+2026-06-16T00:25:09.524 - ConfigFile: saved to file
+2026-06-16T00:25:09.578 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T00:25:09.579 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T00:49:39.470 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T00:49:39.533 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T00:49:39.616 - ExpertView: loadSaveFile() start
+2026-06-16T00:49:39.702 - copyStarterFile:  true
+2026-06-16T00:49:39.702 - ExpertView: loadSaveFile():  86 msec
+2026-06-16T00:49:39.720 - HIDManager: mouse match, PID: 10
+2026-06-16T00:49:39.818 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T00:49:39.818 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T00:49:39.933 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T00:49:39.933 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T00:49:39.949 - MouseFunctions: getBuildNumber
+2026-06-16T00:49:39.950 - Firmware version: "000208"
+2026-06-16T00:49:40.029 - Opening Window in Expert Mode
+2026-06-16T00:49:40.039 - MouseFunctions: getOpticalSensorId
+2026-06-16T00:49:40.047 - MouseFunctions: WaitForDpiStep
+2026-06-16T00:49:40.200 - MouseFunctions: saveToRAM
+2026-06-16T00:49:40.319 - ConfigFile: saved to file
+2026-06-16T00:49:40.382 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T00:49:40.383 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T00:52:23.716 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T00:52:23.774 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T00:52:23.856 - ExpertView: loadSaveFile() start
+2026-06-16T00:52:23.941 - copyStarterFile:  true
+2026-06-16T00:52:23.941 - ExpertView: loadSaveFile():  84 msec
+2026-06-16T00:52:23.957 - HIDManager: mouse match, PID: 10
+2026-06-16T00:52:24.058 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T00:52:24.058 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T00:52:24.170 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T00:52:24.170 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T00:52:24.184 - MouseFunctions: getBuildNumber
+2026-06-16T00:52:24.185 - Firmware version: "000208"
+2026-06-16T00:52:24.259 - Opening Window in Expert Mode
+2026-06-16T00:52:24.266 - MouseFunctions: getOpticalSensorId
+2026-06-16T00:52:24.274 - MouseFunctions: WaitForDpiStep
+2026-06-16T00:52:24.416 - MouseFunctions: saveToRAM
+2026-06-16T00:52:24.537 - ConfigFile: saved to file
+2026-06-16T00:52:24.632 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T00:52:24.632 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T00:52:27.144 - MouseFunctions: saveToRAM
+2026-06-16T00:52:27.267 - ConfigFile: saved to file
+2026-06-16T00:59:01.320 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T00:59:01.374 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T00:59:01.457 - ExpertView: loadSaveFile() start
+2026-06-16T00:59:01.544 - copyStarterFile:  true
+2026-06-16T00:59:01.544 - ExpertView: loadSaveFile():  86 msec
+2026-06-16T00:59:01.561 - HIDManager: mouse match, PID: 10
+2026-06-16T00:59:01.661 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T00:59:01.661 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T00:59:01.773 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T00:59:01.773 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T00:59:01.786 - MouseFunctions: getBuildNumber
+2026-06-16T00:59:01.787 - Firmware version: "000208"
+2026-06-16T00:59:01.861 - Opening Window in Expert Mode
+2026-06-16T00:59:01.868 - MouseFunctions: getOpticalSensorId
+2026-06-16T00:59:01.875 - MouseFunctions: WaitForDpiStep
+2026-06-16T00:59:02.019 - MouseFunctions: saveToRAM
+2026-06-16T00:59:02.140 - ConfigFile: saved to file
+2026-06-16T00:59:02.264 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T00:59:02.264 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:00:41.969 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:00:42.028 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:00:42.109 - ExpertView: loadSaveFile() start
+2026-06-16T01:00:42.193 - copyStarterFile:  true
+2026-06-16T01:00:42.193 - ExpertView: loadSaveFile():  84 msec
+2026-06-16T01:00:42.210 - HIDManager: mouse match, PID: 10
+2026-06-16T01:00:42.307 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T01:00:42.307 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T01:00:42.419 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:00:42.419 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:00:42.433 - MouseFunctions: getBuildNumber
+2026-06-16T01:00:42.434 - Firmware version: "000208"
+2026-06-16T01:00:42.509 - Opening Window in Expert Mode
+2026-06-16T01:00:42.517 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:00:42.524 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:00:42.666 - MouseFunctions: saveToRAM
+2026-06-16T01:00:42.786 - ConfigFile: saved to file
+2026-06-16T01:00:42.925 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:00:42.925 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:00:50.237 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:00:50.293 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:00:50.386 - ExpertView: loadSaveFile() start
+2026-06-16T01:00:50.480 - copyStarterFile:  true
+2026-06-16T01:00:50.480 - ExpertView: loadSaveFile():  93 msec
+2026-06-16T01:00:50.497 - HIDManager: mouse match, PID: 10
+2026-06-16T01:00:50.588 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T01:00:50.588 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T01:00:50.702 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:00:50.702 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:00:50.716 - MouseFunctions: getBuildNumber
+2026-06-16T01:00:50.716 - Firmware version: "000208"
+2026-06-16T01:00:50.793 - Opening Window in Expert Mode
+2026-06-16T01:00:50.802 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:00:50.810 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:00:50.950 - MouseFunctions: saveToRAM
+2026-06-16T01:00:51.015 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:00:51.021 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:00:51.070 - ConfigFile: saved to file
+2026-06-16T01:01:07.010 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:01:07.069 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:01:07.151 - ExpertView: loadSaveFile() start
+2026-06-16T01:01:07.235 - copyStarterFile:  true
+2026-06-16T01:01:07.235 - ExpertView: loadSaveFile():  84 msec
+2026-06-16T01:01:07.252 - HIDManager: mouse match, PID: 10
+2026-06-16T01:01:07.347 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T01:01:07.347 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T01:01:07.462 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:01:07.462 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:01:07.475 - MouseFunctions: getBuildNumber
+2026-06-16T01:01:07.477 - Firmware version: "000208"
+2026-06-16T01:01:07.551 - Opening Window in Expert Mode
+2026-06-16T01:01:07.559 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:01:07.566 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:01:07.710 - MouseFunctions: saveToRAM
+2026-06-16T01:01:07.809 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:01:07.814 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:01:07.828 - ConfigFile: saved to file
+2026-06-16T01:01:13.457 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:01:13.513 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:01:13.593 - ExpertView: loadSaveFile() start
+2026-06-16T01:01:13.679 - copyStarterFile:  true
+2026-06-16T01:01:13.679 - ExpertView: loadSaveFile():  85 msec
+2026-06-16T01:01:13.696 - HIDManager: mouse match, PID: 10
+2026-06-16T01:01:13.785 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T01:01:13.785 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T01:01:13.896 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:01:13.896 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:01:13.909 - MouseFunctions: getBuildNumber
+2026-06-16T01:01:13.911 - Firmware version: "000208"
+2026-06-16T01:01:13.984 - Opening Window in Expert Mode
+2026-06-16T01:01:13.992 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:01:13.999 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:01:14.146 - MouseFunctions: saveToRAM
+2026-06-16T01:01:14.260 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:01:14.260 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:01:14.265 - ConfigFile: saved to file
+2026-06-16T01:01:21.179 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:01:21.237 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:01:21.319 - ExpertView: loadSaveFile() start
+2026-06-16T01:01:21.403 - copyStarterFile:  true
+2026-06-16T01:01:21.403 - ExpertView: loadSaveFile():  84 msec
+2026-06-16T01:01:21.420 - HIDManager: mouse match, PID: 10
+2026-06-16T01:01:21.511 - libpng warning: iCCP: known incorrect sRGB profile
+2026-06-16T01:01:21.511 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-06-16T01:01:21.621 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:01:21.621 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:01:21.635 - MouseFunctions: getBuildNumber
+2026-06-16T01:01:21.636 - Firmware version: "000208"
+2026-06-16T01:01:21.712 - Opening Window in Expert Mode
+2026-06-16T01:01:21.719 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:01:21.727 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:01:21.831 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:01:21.869 - MouseFunctions: saveToRAM
+2026-06-16T01:01:21.871 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:01:21.988 - ConfigFile: saved to file
+2026-06-16T01:01:25.532 - MouseFunctions: saveToRAM
+2026-06-16T01:01:25.655 - ConfigFile: saved to file
+2026-06-16T01:04:19.034 - The X11 connection broke (error 1). Did the X11 server die?
+2026-06-16T01:04:30.408 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:04:30.571 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:04:30.800 - ExpertView: loadSaveFile() start
+2026-06-16T01:04:31.083 - copyStarterFile:  true
+2026-06-16T01:04:31.083 - ExpertView: loadSaveFile():  283 msec
+2026-06-16T01:04:31.130 - HIDManager: mouse match, PID: 10
+2026-06-16T01:04:31.357 - Autostart - launched minimized
+2026-06-16T01:04:31.366 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:04:31.367 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:04:31.469 - MouseFunctions: getBuildNumber
+2026-06-16T01:04:31.470 - Firmware version: "000208"
+2026-06-16T01:04:31.560 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:04:31.564 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:04:31.633 - MouseFunctions: saveToRAM
+2026-06-16T01:04:31.737 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:04:31.743 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:04:31.769 - ConfigFile: saved to file
+2026-06-16T01:07:02.545 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:07:02.754 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:07:02.948 - ExpertView: loadSaveFile() start
+2026-06-16T01:07:03.235 - copyStarterFile:  true
+2026-06-16T01:07:03.236 - ExpertView: loadSaveFile():  287 msec
+2026-06-16T01:07:03.278 - HIDManager: mouse match, PID: 10
+2026-06-16T01:07:03.586 - Autostart - launched minimized
+2026-06-16T01:07:03.597 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:07:03.597 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:07:03.769 - MouseFunctions: getBuildNumber
+2026-06-16T01:07:03.770 - Firmware version: "000208"
+2026-06-16T01:07:03.865 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:07:03.868 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:07:03.919 - MouseFunctions: saveToRAM
+2026-06-16T01:07:04.044 - ConfigFile: saved to file
+2026-06-16T01:07:04.318 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:07:04.318 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T01:09:10.004 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T01:09:10.140 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T01:09:10.297 - ExpertView: loadSaveFile() start
+2026-06-16T01:09:10.780 - copyStarterFile:  true
+2026-06-16T01:09:10.780 - ExpertView: loadSaveFile():  482 msec
+2026-06-16T01:09:10.857 - HIDManager: mouse match, PID: 10
+2026-06-16T01:09:11.125 - Autostart - launched minimized
+2026-06-16T01:09:11.130 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T01:09:11.130 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T01:09:11.222 - MouseFunctions: getBuildNumber
+2026-06-16T01:09:11.223 - Firmware version: "000208"
+2026-06-16T01:09:11.286 - MouseFunctions: getOpticalSensorId
+2026-06-16T01:09:11.290 - MouseFunctions: WaitForDpiStep
+2026-06-16T01:09:11.328 - MouseFunctions: saveToRAM
+2026-06-16T01:09:11.445 - ConfigFile: saved to file
+2026-06-16T01:09:11.461 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T01:09:11.471 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T14:43:30.988 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-16T14:43:31.181 - Blfwk: libblfwk_wrapper not loaded
+2026-06-16T14:43:31.491 - ExpertView: loadSaveFile() start
+2026-06-16T14:43:31.655 - copyStarterFile:  true
+2026-06-16T14:43:31.655 - ExpertView: loadSaveFile():  164 msec
+2026-06-16T14:43:31.680 - HIDManager: mouse match, PID: 10
+2026-06-16T14:43:32.096 - Autostart - launched minimized
+2026-06-16T14:43:32.133 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-16T14:43:32.133 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-16T14:43:32.218 - MouseFunctions: getBuildNumber
+2026-06-16T14:43:32.219 - Firmware version: "000208"
+2026-06-16T14:43:32.307 - MouseFunctions: getOpticalSensorId
+2026-06-16T14:43:32.311 - MouseFunctions: WaitForDpiStep
+2026-06-16T14:43:32.389 - MouseFunctions: saveToRAM
+2026-06-16T14:43:32.477 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-16T14:43:32.482 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-16T14:43:32.514 - ConfigFile: saved to file
+2026-06-16T21:14:12.128 - no keyboard layouts with latin keys present
+2026-06-17T13:16:44.726 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-17T13:16:44.925 - Blfwk: libblfwk_wrapper not loaded
+2026-06-17T13:16:45.208 - ExpertView: loadSaveFile() start
+2026-06-17T13:16:45.346 - copyStarterFile:  true
+2026-06-17T13:16:45.346 - ExpertView: loadSaveFile():  137 msec
+2026-06-17T13:16:45.372 - HIDManager: mouse match, PID: 10
+2026-06-17T13:16:45.819 - Autostart - launched minimized
+2026-06-17T13:16:45.883 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-17T13:16:45.883 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-17T13:16:46.005 - MouseFunctions: getBuildNumber
+2026-06-17T13:16:46.006 - Firmware version: "000208"
+2026-06-17T13:16:46.106 - MouseFunctions: getOpticalSensorId
+2026-06-17T13:16:46.108 - MouseFunctions: WaitForDpiStep
+2026-06-17T13:16:46.162 - MouseFunctions: saveToRAM
+2026-06-17T13:16:46.274 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-17T13:16:46.276 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-17T13:16:46.305 - ConfigFile: saved to file
+2026-06-17T16:42:02.229 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-17T16:42:12.979 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-17T16:42:12.980 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-17T16:53:54.245 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-17T16:53:54.446 - Blfwk: libblfwk_wrapper not loaded
+2026-06-17T16:53:54.749 - ExpertView: loadSaveFile() start
+2026-06-17T16:53:54.915 - copyStarterFile:  true
+2026-06-17T16:53:54.915 - ExpertView: loadSaveFile():  166 msec
+2026-06-17T16:53:54.938 - HIDManager: mouse match, PID: 10
+2026-06-17T16:53:55.273 - Autostart - launched minimized
+2026-06-17T16:53:55.398 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-17T16:53:55.398 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-17T16:53:55.510 - MouseFunctions: getBuildNumber
+2026-06-17T16:53:55.510 - Firmware version: "000208"
+2026-06-17T16:53:55.604 - MouseFunctions: getOpticalSensorId
+2026-06-17T16:53:55.610 - MouseFunctions: WaitForDpiStep
+2026-06-17T16:53:55.713 - MouseFunctions: saveToRAM
+2026-06-17T16:53:55.759 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-17T16:53:55.762 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-17T16:53:55.840 - ConfigFile: saved to file
+2026-06-18T14:37:07.193 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-18T14:37:07.382 - Blfwk: libblfwk_wrapper not loaded
+2026-06-18T14:37:07.657 - ExpertView: loadSaveFile() start
+2026-06-18T14:37:08.147 - copyStarterFile:  true
+2026-06-18T14:37:08.148 - ExpertView: loadSaveFile():  490 msec
+2026-06-18T14:37:08.198 - HIDManager: mouse match, PID: 10
+2026-06-18T14:37:08.405 - Autostart - launched minimized
+2026-06-18T14:37:08.413 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-18T14:37:08.413 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-18T14:37:08.504 - MouseFunctions: getBuildNumber
+2026-06-18T14:37:08.505 - Firmware version: "000208"
+2026-06-18T14:37:08.573 - MouseFunctions: getOpticalSensorId
+2026-06-18T14:37:08.577 - MouseFunctions: WaitForDpiStep
+2026-06-18T14:37:08.623 - MouseFunctions: saveToRAM
+2026-06-18T14:37:08.750 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-18T14:37:08.756 - ConfigFile: saved to file
+2026-06-18T14:37:08.778 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-18T14:37:16.738 - Opening Window in Expert Mode
+2026-06-18T14:37:21.469 - MouseFunctions: saveToRAM
+2026-06-18T14:37:21.589 - ConfigFile: saved to file
+2026-06-18T17:36:47.996 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:06.104 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:10.119 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.038 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.040 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.040 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.050 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.294 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:16.295 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:24.111 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:24.114 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:23:24.114 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.160 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.163 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.164 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.165 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.178 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.190 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.787 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.788 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:37:56.789 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.139 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.141 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.141 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.143 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.151 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T18:38:03.155 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T19:57:08.010 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T20:07:27.899 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T22:42:48.001 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T22:53:08.025 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T22:58:28.032 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-18T23:19:03.018 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T15:54:14.591 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-19T15:54:14.766 - Blfwk: libblfwk_wrapper not loaded
+2026-06-19T15:54:15.095 - ExpertView: loadSaveFile() start
+2026-06-19T15:54:15.243 - copyStarterFile:  true
+2026-06-19T15:54:15.243 - ExpertView: loadSaveFile():  148 msec
+2026-06-19T15:54:15.270 - HIDManager: mouse match, PID: 10
+2026-06-19T15:54:15.711 - Autostart - launched minimized
+2026-06-19T15:54:15.830 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-19T15:54:15.830 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-19T15:54:15.898 - MouseFunctions: getBuildNumber
+2026-06-19T15:54:15.899 - Firmware version: "000208"
+2026-06-19T15:54:15.965 - MouseFunctions: getOpticalSensorId
+2026-06-19T15:54:15.968 - MouseFunctions: WaitForDpiStep
+2026-06-19T15:54:16.007 - MouseFunctions: saveToRAM
+2026-06-19T15:54:16.130 - ConfigFile: saved to file
+2026-06-19T15:56:16.055 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-06-19T16:01:36.709 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:01:51.271 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:03:45.945 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:03:49.216 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:03:49.218 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:03:49.218 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:04:12.217 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:04:12.219 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:04:12.219 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:04:12.233 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:04:12.411 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:28:02.882 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:29:02.115 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T16:34:01.379 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T17:40:24.616 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T17:41:13.796 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T18:33:28.402 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T18:34:06.541 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:40.624 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:40.625 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:40.626 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:53.396 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:53.398 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:53.399 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:53.411 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:10:53.417 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T19:24:06.766 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T20:22:00.916 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T20:54:32.694 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T20:54:39.487 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T22:25:12.458 - The X11 connection broke (error 1). Did the X11 server die?
+2026-06-19T22:26:31.096 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T22:26:37.399 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T22:26:42.231 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T22:28:03.297 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-19T22:30:25.869 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-20T13:34:45.004 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-20T13:34:45.170 - Blfwk: libblfwk_wrapper not loaded
+2026-06-20T13:34:45.476 - ExpertView: loadSaveFile() start
+2026-06-20T13:34:45.625 - copyStarterFile:  true
+2026-06-20T13:34:45.625 - ExpertView: loadSaveFile():  148 msec
+2026-06-20T13:34:45.648 - HIDManager: mouse match, PID: 10
+2026-06-20T13:34:47.022 - Autostart - launched minimized
+2026-06-20T13:34:47.048 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-20T13:34:47.048 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-20T13:34:47.127 - MouseFunctions: getBuildNumber
+2026-06-20T13:34:47.132 - Firmware version: "000208"
+2026-06-20T13:34:47.193 - MouseFunctions: getOpticalSensorId
+2026-06-20T13:34:47.196 - MouseFunctions: WaitForDpiStep
+2026-06-20T13:34:47.231 - MouseFunctions: saveToRAM
+2026-06-20T13:34:47.355 - ConfigFile: saved to file
+2026-06-20T13:37:07.303 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-06-21T14:11:40.856 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-21T14:11:41.029 - Blfwk: libblfwk_wrapper not loaded
+2026-06-21T14:11:41.354 - ExpertView: loadSaveFile() start
+2026-06-21T14:11:41.533 - copyStarterFile:  true
+2026-06-21T14:11:41.533 - ExpertView: loadSaveFile():  179 msec
+2026-06-21T14:11:41.555 - HIDManager: mouse match, PID: 10
+2026-06-21T14:11:41.878 - Autostart - launched minimized
+2026-06-21T14:11:41.909 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-21T14:11:41.909 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-21T14:11:41.973 - MouseFunctions: getBuildNumber
+2026-06-21T14:11:41.974 - Firmware version: "000208"
+2026-06-21T14:11:42.031 - MouseFunctions: getOpticalSensorId
+2026-06-21T14:11:42.034 - MouseFunctions: WaitForDpiStep
+2026-06-21T14:11:42.084 - MouseFunctions: saveToRAM
+2026-06-21T14:11:42.208 - ConfigFile: saved to file
+2026-06-21T14:11:42.237 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-21T14:11:42.238 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-21T14:18:40.988 - Opening Window in Expert Mode
+2026-06-21T14:19:02.889 - MouseFunctions: saveToRAM
+2026-06-21T14:19:03.013 - ConfigFile: saved to file
+2026-06-21T14:28:57.148 - MouseFunctions: saveToRAM
+2026-06-21T14:28:57.269 - ConfigFile: saved to file
+2026-06-21T14:29:55.297 - Mappings: save()
+2026-06-21T14:29:56.431 - MouseFunctions: saveToRAM
+2026-06-21T14:29:56.553 - ConfigFile: saved to file
+2026-06-21T14:46:40.912 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-21T14:46:41.146 - Blfwk: libblfwk_wrapper not loaded
+2026-06-21T14:46:41.531 - ExpertView: loadSaveFile() start
+2026-06-21T14:46:41.744 - copyStarterFile:  true
+2026-06-21T14:46:41.744 - ExpertView: loadSaveFile():  212 msec
+2026-06-21T14:46:41.773 - HIDManager: mouse match, PID: 10
+2026-06-21T14:46:42.537 - Autostart - launched minimized
+2026-06-21T14:46:42.639 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-21T14:46:42.639 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-21T14:46:42.731 - MouseFunctions: getBuildNumber
+2026-06-21T14:46:42.732 - Firmware version: "000208"
+2026-06-21T14:46:42.798 - MouseFunctions: getOpticalSensorId
+2026-06-21T14:46:42.800 - MouseFunctions: WaitForDpiStep
+2026-06-21T14:46:42.868 - MouseFunctions: saveToRAM
+2026-06-21T14:46:42.879 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-21T14:46:42.883 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-21T14:46:42.996 - ConfigFile: saved to file
+2026-06-21T16:32:02.028 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-21T17:36:23.892 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-21T17:36:25.516 - Blfwk: libblfwk_wrapper not loaded
+2026-06-21T17:36:27.008 - ExpertView: loadSaveFile() start
+2026-06-21T17:36:27.207 - copyStarterFile:  true
+2026-06-21T17:36:27.207 - ExpertView: loadSaveFile():  199 msec
+2026-06-21T17:36:27.227 - HIDManager: mouse match, PID: 10
+2026-06-21T17:36:28.805 - Autostart - launched minimized
+2026-06-21T17:36:29.236 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-21T17:36:29.236 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-21T17:36:29.319 - MouseFunctions: getBuildNumber
+2026-06-21T17:36:29.320 - Firmware version: "000208"
+2026-06-21T17:36:29.679 - MouseFunctions: getOpticalSensorId
+2026-06-21T17:36:29.682 - MouseFunctions: WaitForDpiStep
+2026-06-21T17:36:30.089 - MouseFunctions: saveToRAM
+2026-06-21T17:36:30.117 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-21T17:36:30.121 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-21T17:36:30.469 - ConfigFile: saved to file
+2026-06-21T17:45:05.813 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-21T17:45:06.082 - Blfwk: libblfwk_wrapper not loaded
+2026-06-21T17:45:06.435 - ExpertView: loadSaveFile() start
+2026-06-21T17:45:06.627 - copyStarterFile:  true
+2026-06-21T17:45:06.627 - ExpertView: loadSaveFile():  191 msec
+2026-06-21T17:45:06.649 - HIDManager: mouse match, PID: 10
+2026-06-21T17:45:07.381 - Autostart - launched minimized
+2026-06-21T17:45:07.411 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-21T17:45:07.418 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-21T17:45:07.481 - MouseFunctions: getBuildNumber
+2026-06-21T17:45:07.483 - Firmware version: "000208"
+2026-06-21T17:45:07.554 - MouseFunctions: getOpticalSensorId
+2026-06-21T17:45:07.557 - MouseFunctions: WaitForDpiStep
+2026-06-21T17:45:07.634 - MouseFunctions: saveToRAM
+2026-06-21T17:45:07.638 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-21T17:45:07.643 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-21T17:45:07.759 - ConfigFile: saved to file
+2026-06-22T11:20:15.105 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-22T11:20:15.326 - Blfwk: libblfwk_wrapper not loaded
+2026-06-22T11:20:15.619 - ExpertView: loadSaveFile() start
+2026-06-22T11:20:15.780 - copyStarterFile:  true
+2026-06-22T11:20:15.780 - ExpertView: loadSaveFile():  161 msec
+2026-06-22T11:20:15.799 - HIDManager: mouse match, PID: 10
+2026-06-22T11:20:16.286 - Autostart - launched minimized
+2026-06-22T11:20:16.348 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-22T11:20:16.348 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-22T11:20:16.431 - MouseFunctions: getBuildNumber
+2026-06-22T11:20:16.432 - Firmware version: "000208"
+2026-06-22T11:20:16.499 - MouseFunctions: getOpticalSensorId
+2026-06-22T11:20:16.502 - MouseFunctions: WaitForDpiStep
+2026-06-22T11:20:16.545 - MouseFunctions: saveToRAM
+2026-06-22T11:20:16.636 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-22T11:20:16.641 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-22T11:20:16.671 - ConfigFile: saved to file
+2026-06-22T12:32:51.860 - "No such interface “org.freedesktop.DBus.Properties” on object at path /org/freedesktop/NetworkManager/ActiveConnection/4"
+2026-06-22T13:18:11.879 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T14:13:31.850 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T14:43:51.851 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T16:44:11.846 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T17:29:34.851 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T18:29:54.856 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T18:40:14.846 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:06:11.432 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:26:31.988 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:26:57.076 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:27:19.199 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:42:39.138 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:52:59.858 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T20:58:20.905 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T22:23:41.862 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T22:49:02.859 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T23:04:22.854 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-22T23:29:34.462 - Opening Window in Expert Mode
+2026-06-22T23:30:10.082 - MouseFunctions: saveToRAM
+2026-06-22T23:30:10.204 - ConfigFile: saved to file
+2026-06-22T23:30:41.110 - MouseFunctions: saveToRAM
+2026-06-22T23:30:41.231 - ConfigFile: saved to file
+2026-06-22T23:30:57.826 - Mappings: save()
+2026-06-22T23:31:36.260 - MouseFunctions: saveToRAM
+2026-06-22T23:31:36.381 - ConfigFile: saved to file
+2026-06-22T23:31:43.509 - MouseFunctions: saveToRAM
+2026-06-22T23:31:43.630 - ConfigFile: saved to file
+2026-06-22T23:32:07.257 - Mappings: save()
+2026-06-22T23:32:08.961 - Mappings: save()
+2026-06-22T23:32:14.867 - MouseFunctions: saveToRAM
+2026-06-22T23:32:14.989 - ConfigFile: saved to file
+2026-06-22T23:32:25.614 - Mappings: save()
+2026-06-22T23:32:26.686 - MouseFunctions: saveToRAM
+2026-06-22T23:32:26.809 - ConfigFile: saved to file
+2026-06-22T23:32:28.017 - Mappings: save()
+2026-06-22T23:33:06.288 - MouseFunctions: saveToRAM
+2026-06-22T23:33:06.411 - ConfigFile: saved to file
+2026-06-22T23:34:07.179 - Mappings: save()
+2026-06-22T23:34:34.217 - Mappings: save()
+2026-06-22T23:34:36.202 - Mappings: save()
+2026-06-22T23:34:58.662 - MouseFunctions: saveToRAM
+2026-06-22T23:34:58.783 - ConfigFile: saved to file
+2026-06-22T23:35:06.359 - MouseFunctions: saveToRAM
+2026-06-22T23:35:06.481 - ConfigFile: saved to file
+2026-06-22T23:35:16.084 - Mappings: save()
+2026-06-22T23:35:51.317 - MouseFunctions: saveToRAM
+2026-06-22T23:35:51.440 - ConfigFile: saved to file
+2026-06-22T23:36:14.855 - MouseFunctions: saveToRAM
+2026-06-22T23:36:14.976 - ConfigFile: saved to file
+2026-06-22T23:43:09.040 - Mappings: save()
+2026-06-22T23:43:15.143 - MouseFunctions: saveToRAM
+2026-06-22T23:43:15.269 - ConfigFile: saved to file
+2026-06-22T23:43:43.446 - Mappings: save()
+2026-06-22T23:43:58.772 - MouseFunctions: saveToRAM
+2026-06-22T23:43:58.899 - ConfigFile: saved to file
+2026-06-22T23:44:03.234 - Mappings: save()
+2026-06-22T23:44:04.556 - MouseFunctions: saveToRAM
+2026-06-22T23:44:04.680 - ConfigFile: saved to file
+2026-06-22T23:44:09.274 - Mappings: save()
+2026-06-22T23:44:10.779 - Mappings: save()
+2026-06-22T23:44:12.116 - Mappings: save()
+2026-06-22T23:44:13.431 - MouseFunctions: saveToRAM
+2026-06-22T23:44:13.553 - ConfigFile: saved to file
+2026-06-22T23:44:17.583 - Mappings: save()
+2026-06-22T23:44:23.730 - Mappings: save()
+2026-06-22T23:44:26.993 - Mappings: save()
+2026-06-22T23:44:27.696 - MouseFunctions: saveToRAM
+2026-06-22T23:44:27.811 - ConfigFile: saved to file
+2026-06-22T23:44:32.991 - Mappings: save()
+2026-06-22T23:44:33.714 - MouseFunctions: saveToRAM
+2026-06-22T23:44:33.834 - ConfigFile: saved to file
+2026-06-22T23:45:42.991 - Mappings: save()
+2026-06-22T23:45:47.864 - MouseFunctions: saveToRAM
+2026-06-22T23:45:47.956 - ConfigFile: saved to file
+2026-06-22T23:45:52.441 - MouseFunctions: saveToRAM
+2026-06-22T23:45:52.500 - ConfigFile: saved to file
+2026-06-22T23:46:19.175 - Mappings: save()
+2026-06-22T23:46:37.456 - Mappings: save()
+2026-06-22T23:46:44.894 - Mappings: save()
+2026-06-22T23:46:50.970 - MouseFunctions: saveToRAM
+2026-06-22T23:46:51.030 - ConfigFile: saved to file
+2026-06-22T23:47:00.088 - MouseFunctions: saveToRAM
+2026-06-22T23:47:00.148 - ConfigFile: saved to file
+2026-06-22T23:47:08.427 - Mappings: save()
+2026-06-22T23:47:22.022 - MouseFunctions: saveToRAM
+2026-06-22T23:47:22.082 - ConfigFile: saved to file
+2026-06-22T23:48:00.513 - Mappings: save()
+2026-06-22T23:48:32.349 - MouseFunctions: saveToRAM
+2026-06-22T23:48:32.407 - ConfigFile: saved to file
+2026-06-22T23:49:05.161 - MouseFunctions: saveToRAM
+2026-06-22T23:49:05.225 - ConfigFile: saved to file
+2026-06-22T23:49:38.396 - Mappings: save()
+2026-06-22T23:49:54.582 - MouseFunctions: saveToRAM
+2026-06-22T23:49:54.647 - ConfigFile: saved to file
+2026-06-22T23:51:38.121 - Mappings: save()
+2026-06-22T23:51:59.483 - MouseFunctions: saveToRAM
+2026-06-22T23:51:59.548 - ConfigFile: saved to file
+2026-06-22T23:56:14.763 - Mappings: save()
+2026-06-22T23:56:29.849 - MouseFunctions: saveToRAM
+2026-06-22T23:56:29.916 - ConfigFile: saved to file
+2026-06-22T23:57:19.522 - Mappings: save()
+2026-06-22T23:57:37.391 - MouseFunctions: saveToRAM
+2026-06-22T23:57:37.458 - ConfigFile: saved to file
+2026-06-22T23:58:56.083 - Mappings: save()
+2026-06-22T23:59:10.716 - MouseFunctions: saveToRAM
+2026-06-22T23:59:10.786 - ConfigFile: saved to file
+2026-06-23T00:00:11.012 - Mappings: save()
+2026-06-23T00:00:27.640 - MouseFunctions: saveToRAM
+2026-06-23T00:00:27.708 - ConfigFile: saved to file
+2026-06-23T00:01:07.102 - MouseFunctions: saveToRAM
+2026-06-23T00:01:07.172 - ConfigFile: saved to file
+2026-06-23T00:01:38.052 - Mappings: save()
+2026-06-23T00:02:08.192 - MouseFunctions: saveToRAM
+2026-06-23T00:02:08.264 - ConfigFile: saved to file
+2026-06-23T00:02:20.561 - MouseFunctions: saveToRAM
+2026-06-23T00:02:20.635 - ConfigFile: saved to file
+2026-06-23T00:02:56.406 - MouseFunctions: saveToRAM
+2026-06-23T00:02:56.478 - ConfigFile: saved to file
+2026-06-23T00:04:43.866 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-23T00:06:35.027 - Mappings: save()
+2026-06-23T00:06:42.428 - MouseFunctions: saveToRAM
+2026-06-23T00:06:42.499 - ConfigFile: saved to file
+2026-06-23T00:06:45.307 - MouseFunctions: saveToRAM
+2026-06-23T00:06:45.380 - ConfigFile: saved to file
+2026-06-23T00:08:47.792 - MouseFunctions: saveToRAM
+2026-06-23T00:08:47.863 - ConfigFile: saved to file
+2026-06-23T00:09:42.810 - MouseFunctions: saveToRAM
+2026-06-23T00:09:42.882 - ConfigFile: saved to file
+2026-06-23T00:09:51.863 - Mappings: save()
+2026-06-23T00:09:53.209 - MouseFunctions: saveToRAM
+2026-06-23T00:09:53.281 - ConfigFile: saved to file
+2026-06-23T00:11:14.685 - Mappings: save()
+2026-06-23T00:11:16.053 - MouseFunctions: saveToRAM
+2026-06-23T00:11:16.126 - ConfigFile: saved to file
+2026-06-23T00:11:29.817 - MouseFunctions: saveToRAM
+2026-06-23T00:11:29.889 - ConfigFile: saved to file
+2026-06-23T00:11:31.824 - MouseFunctions: saveToRAM
+2026-06-23T00:11:31.896 - ConfigFile: saved to file
+2026-06-23T00:12:30.876 - Mappings: save()
+2026-06-23T00:12:31.969 - Mappings: save()
+2026-06-23T00:12:43.932 - MouseFunctions: saveToRAM
+2026-06-23T00:12:44.006 - ConfigFile: saved to file
+2026-06-23T00:15:47.111 - MouseFunctions: saveToRAM
+2026-06-23T00:15:47.183 - ConfigFile: saved to file
+2026-06-23T00:16:01.191 - MouseFunctions: saveToRAM
+2026-06-23T00:16:01.265 - ConfigFile: saved to file
+2026-06-23T00:16:41.731 - MouseFunctions: saveToRAM
+2026-06-23T00:16:41.805 - ConfigFile: saved to file
+2026-06-23T00:16:54.513 - MouseFunctions: saveToRAM
+2026-06-23T00:16:54.588 - ConfigFile: saved to file
+2026-06-23T00:17:03.463 - MouseFunctions: saveToRAM
+2026-06-23T00:17:03.540 - ConfigFile: saved to file
+2026-06-23T00:17:32.899 - MouseFunctions: saveToRAM
+2026-06-23T00:17:32.975 - ConfigFile: saved to file
+2026-06-23T00:17:44.842 - MouseFunctions: saveToRAM
+2026-06-23T00:17:44.917 - ConfigFile: saved to file
+2026-06-23T00:17:50.340 - MouseFunctions: saveToRAM
+2026-06-23T00:17:50.412 - ConfigFile: saved to file
+2026-06-23T00:17:59.467 - MouseFunctions: saveToRAM
+2026-06-23T00:17:59.543 - ConfigFile: saved to file
+2026-06-23T00:18:07.959 - MouseFunctions: saveToRAM
+2026-06-23T00:18:08.034 - ConfigFile: saved to file
+2026-06-23T00:18:28.329 - MouseFunctions: saveToRAM
+2026-06-23T00:18:28.405 - ConfigFile: saved to file
+2026-06-23T00:18:37.211 - MouseFunctions: saveToRAM
+2026-06-23T00:18:37.287 - ConfigFile: saved to file
+2026-06-23T00:19:32.012 - MouseFunctions: saveToRAM
+2026-06-23T00:19:32.088 - ConfigFile: saved to file
+2026-06-23T00:32:52.052 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-23T13:37:25.949 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-23T13:37:26.199 - Blfwk: libblfwk_wrapper not loaded
+2026-06-23T13:37:26.475 - ExpertView: loadSaveFile() start
+2026-06-23T13:37:26.683 - copyStarterFile:  true
+2026-06-23T13:37:26.683 - ExpertView: loadSaveFile():  207 msec
+2026-06-23T13:37:26.702 - HIDManager: mouse match, PID: 10
+2026-06-23T13:37:27.167 - Autostart - launched minimized
+2026-06-23T13:37:27.207 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-23T13:37:27.207 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-23T13:37:27.321 - MouseFunctions: getBuildNumber
+2026-06-23T13:37:27.323 - Firmware version: "000208"
+2026-06-23T13:37:27.395 - MouseFunctions: getOpticalSensorId
+2026-06-23T13:37:27.398 - MouseFunctions: WaitForDpiStep
+2026-06-23T13:37:27.440 - MouseFunctions: saveToRAM
+2026-06-23T13:37:27.519 - ConfigFile: saved to file
+2026-06-23T13:37:27.536 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-23T13:37:27.539 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-23T18:13:29.093 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-23T23:38:40.608 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-24T12:54:27.412 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-24T12:54:27.564 - Blfwk: libblfwk_wrapper not loaded
+2026-06-24T12:54:27.812 - ExpertView: loadSaveFile() start
+2026-06-24T12:54:27.965 - copyStarterFile:  true
+2026-06-24T12:54:27.965 - ExpertView: loadSaveFile():  153 msec
+2026-06-24T12:54:27.987 - HIDManager: mouse match, PID: 10
+2026-06-24T12:54:28.292 - Autostart - launched minimized
+2026-06-24T12:54:28.333 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-24T12:54:28.334 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-24T12:54:28.429 - MouseFunctions: getBuildNumber
+2026-06-24T12:54:28.430 - Firmware version: "000208"
+2026-06-24T12:54:28.523 - MouseFunctions: getOpticalSensorId
+2026-06-24T12:54:28.526 - MouseFunctions: WaitForDpiStep
+2026-06-24T12:54:28.579 - MouseFunctions: saveToRAM
+2026-06-24T12:54:28.657 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-24T12:54:28.658 - ConfigFile: saved to file
+2026-06-24T12:54:28.676 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-25T00:10:57.502 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-25T00:10:57.828 - Blfwk: libblfwk_wrapper not loaded
+2026-06-25T00:10:58.125 - ExpertView: loadSaveFile() start
+2026-06-25T00:10:58.326 - copyStarterFile:  true
+2026-06-25T00:10:58.326 - ExpertView: loadSaveFile():  201 msec
+2026-06-25T00:10:58.356 - HIDManager: mouse match, PID: 10
+2026-06-25T00:10:58.544 - Autostart - launched minimized
+2026-06-25T00:10:58.553 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-25T00:10:58.554 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-25T00:10:58.644 - MouseFunctions: getBuildNumber
+2026-06-25T00:10:58.645 - Firmware version: "000208"
+2026-06-25T00:10:58.718 - MouseFunctions: getOpticalSensorId
+2026-06-25T00:10:58.721 - MouseFunctions: WaitForDpiStep
+2026-06-25T00:10:58.765 - MouseFunctions: saveToRAM
+2026-06-25T00:10:58.839 - ConfigFile: saved to file
+2026-06-25T00:10:58.855 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-25T00:10:58.857 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-25T11:52:16.298 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-25T11:52:16.473 - Blfwk: libblfwk_wrapper not loaded
+2026-06-25T11:52:16.771 - ExpertView: loadSaveFile() start
+2026-06-25T11:52:16.930 - copyStarterFile:  true
+2026-06-25T11:52:16.930 - ExpertView: loadSaveFile():  159 msec
+2026-06-25T11:52:16.954 - HIDManager: mouse match, PID: 10
+2026-06-25T11:52:17.344 - Autostart - launched minimized
+2026-06-25T11:52:17.409 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-25T11:52:17.409 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-25T11:52:17.482 - MouseFunctions: getBuildNumber
+2026-06-25T11:52:17.483 - Firmware version: "000208"
+2026-06-25T11:52:17.539 - MouseFunctions: getOpticalSensorId
+2026-06-25T11:52:17.543 - MouseFunctions: WaitForDpiStep
+2026-06-25T11:52:17.583 - MouseFunctions: saveToRAM
+2026-06-25T11:52:17.660 - ConfigFile: saved to file
+2026-06-25T11:52:17.677 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-25T11:52:17.678 - SWUpdate: netReply error "SSL handshake failed"

@@ -1,0 +1,62 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,View,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,View,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,View,Toggle Object Panel,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,View,Enter Scrolling View,None,AltLeft ↓ + ControlLeft ↓ + 1 ↓,AltLeft ↑ + ControlLeft ↑ + 1 ↑
+0,View,Enter Thumbnail View,None,AltLeft ↓ + ControlLeft ↓ + 2 ↓,AltLeft ↑ + ControlLeft ↑ + 2 ↑
+0,View,Enter Grid View,None,AltLeft ↓ + ControlLeft ↓ + 3 ↓,AltLeft ↑ + ControlLeft ↑ + 3 ↑
+0,View,Show Ruler,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Elements,Magic (Search),None,/ ↓,/ ↑
+0,Elements > Add,Add a Line,None,L ↓,L ↑
+0,Elements > Add,Add a Rectangle,None,R ↓,R ↑
+0,Elements > Add,Add a Circle,None,C ↓,C ↑
+0,Elements > Add,Add a Text Box,None,T ↓,T ↑
+0,Elements > Manage,Duplicate Element,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Elements > Manage,Delete an Element,None,Delete ↓,Delete ↑
+0,Elements > Manage,Lock or Unlock Element,None,AltLeft ↓ + ShiftLeft ↓ + L ↓,AltLeft ↑ + ShiftLeft ↑ + L ↑
+0,Elements > Manage,Select Next Element,None,Tab ↓,Tab ↑
+0,Elements > Manage,Select Previous Element,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Elements > Manage,Ungroup Elements,None,ShiftLeft ↓ + ControlLeft ↓ + G ↓,ShiftLeft ↑ + ControlLeft ↑ + G ↑
+0,Elements > Move,Move Element Left 1px,None,Left ↓,Left ↑
+0,Elements > Move,Move Element Right 1px,None,Right ↓,Right ↑
+0,Elements > Move,Move Element Up 1px,None,Up ↓,Up ↑
+0,Elements > Move,Move Element Down 1px,None,Down ↓,Down ↑
+0,Elements > Move,Move Element Left 10px,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Elements > Move,Move Element Right 10px,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Elements > Move,Move Element Up 10px,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Elements > Move,Move Element Down 10px,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Elements > Move,Move Element Forward,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Elements > Move,Move Element Backward,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Elements > Move,Move Element to Front,None,ControlLeft ↓ + ShiftLeft ↓ + ] ↓,ControlLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Elements > Move,Move Element to Back,None,ControlLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Text,Copy Text Style,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Text,Paste Text Style,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Text,Bold Text,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Text,Italicize Text,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Text,Toggle Upper/Lowercase,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,Text,Open Font Menu,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Text,Copy Text Style,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Text,Center Align Text,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Text,Left Align Text,None,ControlLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + ShiftLeft ↑ + L ↑
+0,Text,Right Align Text,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,Video,Pause or Play Video,None,Space ↓,Space ↑
+0,Video,Mute or Unmute Video,None,M ↓,M ↑
+0,Presentation,Present in Full Screen Mode,None,ControlLeft ↓ + AltLeft ↓ + P ↓,ControlLeft ↑ + AltLeft ↑ + P ↑
+0,Presentation,Shush Crowd in Presentation,None,Q ↓,Q ↑
+0,Presentation,Confetti in Presentation,None,C ↓,C ↑
+0,Presentation,Drumroll in Presentation,None,D ↓,D ↑
+0,Presentation,Bubbles in Presentation,None,O ↓,O ↑
+0,Presentation,Blur Your Presentation,None,B ↓,B ↑
+0,Presentation,Mic Drop,None,M ↓,M ↑
+0,Presentation,Curtain Call,None,U ↓,U ↑
+0,Gestures,Zoom Gesture,None,None,None
+1,Gestures,Zoom In,Movement Y- 100 Repeat,ControlLeft ↓ + = + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+1,Gestures,Zoom Out,Movement Y+ 100 Repeat,ControlLeft ↓ + - + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+0,Gestures,Element Order Gesture,None,None,None
+1,Gestures,Move Element Backward,Movement Y- 100 Repeat,ControlLeft ↓ + [ + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+1,Gestures,Move Element Forward,Movement Y+ 100 Repeat,ControlLeft ↓ + ] + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+0,Gestures,Move Element Gesture,None,None,None
+1,Gestures,Move Element Left 1px,Movement X- 10 Repeat,Left,None
+1,Gestures,Move Element Right 1px,Movement X+ 10 Repeat,Right,None
+1,Gestures,Move Element Up 1px,Movement Y- 10 Repeat,Up,None
+1,Gestures,Move Element Down 1px,Movement Y+ 10 Repeat,Down,None

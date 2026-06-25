@@ -1,0 +1,56 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Action Bar,Use flask in slot 1,None,1 ↓,1 ↑
+0,Action Bar,Use flask in slot 2,None,2 ↓,2 ↑
+0,Action Bar,Use flask in slot 3,None,3 ↓,3 ↑
+0,Action Bar,Use flask in slot 4,None,4 ↓,4 ↑
+0,Action Bar,Use flask in slot 5,None,5 ↓,5 ↑
+0,Action Bar,Use temp bound skill 1,None,6 ↓,6 ↑
+0,Action Bar,Use temp bound skill 2,None,7 ↓,7 ↑
+0,Action Bar,Use bound skill 1,None,MouseButton1 ↓,MouseButton1 ↑
+0,Action Bar,Use bound skill 2,None,MouseButton2 ↓,MouseButton2 ↑
+0,Action Bar,Use bound skill 3,None,MouseButton3 ↓,MouseButton3 ↑
+0,Action Bar,Use bound skill 4,None,Q ↓,Q ↑
+0,Action Bar,Use bound skill 5,None,W ↓,W ↑
+0,Action Bar,Use bound skill 6,None,E ↓,E ↑
+0,Action Bar,Use bound skill 7,None,R ↓,R ↑
+0,Action Bar,Use bound skill 8,None,T ↓,T ↑
+0,Action Bar,Use bound skill 9,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,Action Bar,Use bound skill 10,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,Action Bar,Use bound skill 11,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Action Bar,Use bound skill 12,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Action Bar,Use bound skill 13,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Action Bar,Toggle skill set,None,ControlLeft ↓,ControlLeft ↑
+0,Game Actions,Attack in place,None,ShiftLeft ↓,ShiftLeft ↑
+0,Game Actions,Overlay map,None,Tab ↓,Tab ↑
+0,Game Actions,League interface,None,V ↓,V ↑
+0,Game Actions,Weapon swap,None,X ↓,X ↑
+0,Game Actions,Detonate mines,None,D ↓,D ↑
+0,Game Actions,Highlight items and objects,None,AltLeft ↓,AltLeft ↑
+0,Game Actions,Toggle highlighting,None,Z ↓,Z ↑
+0,Game Actions,Enable corpse targeting,None,A ↓,A ↑
+0,Game Actions,Chat,None,Enter ↓,Enter ↑
+0,Game Actions,Whisper to last message,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Interface Panels,Atlas,None,G ↓,G ↑
+0,Interface Panels,World (Quests),None,U ↓,U ↑
+0,Interface Panels,Inventory,None,I ↓,I ↑
+0,Interface Panels,Passive Skill Tree,None,P ↓,P ↑
+0,Interface Panels,Character,None,C ↓,C ↑
+0,Interface Panels,Pantheon,None,Y ↓,Y ↑
+0,Interface Panels,Challenges/Achievements,None,H ↓,H ↑
+0,Interface Panels,Options,None,O ↓,O ↑
+0,Interface Panels,Social,None,S ↓,S ↑
+0,Interface Panels,Ladder,None,L ↓,L ↑
+0,Interface Panels,Events and PvP,None,B ↓,B ↑
+0,Interface Panels,Cosmetics,None,K ↓,K ↑
+0,Interface Panels,Microtransaction list,None,N ↓,N ↑
+0,Interface Panels,Microtransaction shop,None,M ↓,M ↑
+0,Interface Panels,Help,None,; ↓,; ↑
+0,Interface Panels,Close all user interface,None,Space ↓,Space ↑
+0,Miscellaneous,Take a screenshot,None,F8 ↓,F8 ↑
+0,Miscellaneous,Zoom the camera in,None,PageUp ↓,PageUp ↑
+0,Miscellaneous,Zoom the camera out,None,PageDown ↓,PageDown ↑
+0,Miscellaneous,Toggle perfomance statistics,None,F1 ↓,F1 ↑
+0,Miscellaneous,Item pickup key,None,F ↓,F ↑
+0,On Cursor Tricks,Split Stack,None,ShiftLeft ↓ + MouseButton1 + ShiftLeft ↑, None
+0,On Cursor Tricks,Buys a full stack,None,ControlLeft ↓ + ShiftLeft ↓ + MouseButton1 + ControlLeft ↑ + ShiftLeft ↑, None
+0,On Cursor Tricks,Move item between Stash/Inventory,None,ControlLeft ↓ + MouseButton1 + ControlLeft ↑, None

@@ -1,0 +1,3 @@
+Name=Team Fortress 2
+BundleID=Team Fortress 2
+MouseSupport=5,20,30,

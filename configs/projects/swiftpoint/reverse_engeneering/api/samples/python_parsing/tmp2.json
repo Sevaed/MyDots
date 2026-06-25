@@ -1,0 +1,272 @@
+[
+	{
+		"ActionMappingIndexToBlockOnActivation": 65535,
+		"ActionMappingIndexToBlockOnDeactivation": 65535,
+		"ActivationOutputActionItems": [
+			{
+				"$type": "ZMouseConfig.OutputActionItems.MouseButtonOutputActionItem, ZMouseConfig",
+				"ButtonId": 0,
+				"ButtonState": "tap",
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"TypeId": "mouseButton"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.KeyboardMediaOutputActionItem, ZMouseConfig",
+				"ButtonState": "tap",
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"MediaKeyCode": {
+					"HidPageValue": 205
+				},
+				"TypeId": "keyboardMedia"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.HapticFeedbackOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"HapticFeedbackOption": "configured",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"StrengthPercentage": 83,
+				"Time10ms": 7,
+				"TypeId": "hapticFeedback"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.AlternateOutputActionsOutputActionItem, ZMouseConfig",
+				"ActionCount": 2,
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"TypeId": "alternateOutputActions"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.GotoOutputActionOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"Index": 3,
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"LoopCount": 0,
+				"TypeId": "gotoOutputAction"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.StopLoopingOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"SkipWaitActions": false,
+				"TypeId": "stopLooping"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.JoystickButtonOutputActionItem, ZMouseConfig",
+				"ButtonId": 29,
+				"ButtonState": "tap",
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"TypeId": "joystickButton"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.LiftOffSelectOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"Level": "",
+				"TypeId": "liftOffSelect"
+			},
+			{
+				"$type": "ZMouseConfig.OutputActionItems.ProfileJumpOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"IsAuto": false,
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"LastSelected": [],
+				"ProfileJumpId": {
+					"ProfileIndex": 0,
+					"ProfileName": "Desktop",
+					"SubProfileIndex": 255
+				},
+				"TypeId": "profileJump"
+			}
+		],
+		"ActivationOutputName": "",
+		"DeactivationOutputActionItems": [],
+		"Id": "1",
+		"InputActionType": {
+			"$type": "ZMouseConfig.InputActionTypes.ButtonToggleInputActionType, ZMouseConfig",
+			"ActiveState": "activeWhenOn",
+			"Button": {
+				"Id": "fingertipLeft",
+				"IsValid": true,
+				"KeyName": "MouseButtonFingertipLeft"
+			},
+			"DataType": "trigger",
+			"Id": "buttonToggle",
+			"IsValid": true
+		},
+		"ItemType": "actionMapping",
+		"OutputActionSequenceDelay": 0,
+		"Predecessor": null,
+		"PredecessorId": 65535,
+		"ShouldBlockOnActivation": false,
+		"ShouldBlockOnDeactivation": false
+	},
+	{
+		"ActionMappingIndexToBlockOnActivation": 65535,
+		"ActionMappingIndexToBlockOnDeactivation": 65535,
+		"ActivationOutputActionItems": [
+			{
+				"$type": "ZMouseConfig.OutputActionItems.HapticFeedbackOutputActionItem, ZMouseConfig",
+				"DataType": "trigger",
+				"HapticFeedbackOption": "configured",
+				"IsValid": true,
+				"ItemType": "outputAction",
+				"StrengthPercentage": 0,
+				"Time10ms": 7,
+				"TypeId": "hapticFeedback"
+			}
+		],
+		"ActivationOutputName": "",
+		"DeactivationOutputActionItems": [],
+		"Id": "1",
+		"InputActionType": {
+			"$type": "ZMouseConfig.InputActionTypes.ForceRegionToggleInputActionType, ZMouseConfig",
+			"ActiveState": "activeWhenOn",
+			"Button": {
+				"Id": "fingertipLeft",
+				"IsValid": true,
+				"KeyName": "MouseButtonFingertipLeft"
+			},
+			"DataType": "trigger",
+			"Direction": "increasing",
+			"Id": "forceRegionToggle",
+			"IsValid": true,
+			"Region": {
+				"EntryEndPercentageTenths": 1000,
+				"EntryStartPercentageTenths": 500,
+				"ExitEndPercentageTenths": 1000,
+				"ExitStartPercentageTenths": 400,
+				"IsValid": true
+			}
+		},
+		"ItemType": "actionMapping",
+		"OutputActionSequenceDelay": 0,
+		"Predecessor": {
+			"ActionMappingIndexToBlockOnActivation": 65535,
+			"ActionMappingIndexToBlockOnDeactivation": 65535,
+			"ActivationOutputActionItems": [
+				{
+					"$type": "ZMouseConfig.OutputActionItems.MouseButtonOutputActionItem, ZMouseConfig",
+					"ButtonId": 0,
+					"ButtonState": "tap",
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"TypeId": "mouseButton"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.KeyboardMediaOutputActionItem, ZMouseConfig",
+					"ButtonState": "tap",
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"MediaKeyCode": {
+						"HidPageValue": 205
+					},
+					"TypeId": "keyboardMedia"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.HapticFeedbackOutputActionItem, ZMouseConfig",
+					"DataType": "trigger",
+					"HapticFeedbackOption": "configured",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"StrengthPercentage": 83,
+					"Time10ms": 7,
+					"TypeId": "hapticFeedback"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.AlternateOutputActionsOutputActionItem, ZMouseConfig",
+					"ActionCount": 2,
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"TypeId": "alternateOutputActions"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.GotoOutputActionOutputActionItem, ZMouseConfig",
+					"DataType": "trigger",
+					"Index": 3,
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"LoopCount": 0,
+					"TypeId": "gotoOutputAction"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.StopLoopingOutputActionItem, ZMouseConfig",
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"SkipWaitActions": false,
+					"TypeId": "stopLooping"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.JoystickButtonOutputActionItem, ZMouseConfig",
+					"ButtonId": 29,
+					"ButtonState": "tap",
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"TypeId": "joystickButton"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.LiftOffSelectOutputActionItem, ZMouseConfig",
+					"DataType": "trigger",
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"Level": "",
+					"TypeId": "liftOffSelect"
+				},
+				{
+					"$type": "ZMouseConfig.OutputActionItems.ProfileJumpOutputActionItem, ZMouseConfig",
+					"DataType": "trigger",
+					"IsAuto": false,
+					"IsValid": true,
+					"ItemType": "outputAction",
+					"LastSelected": [],
+					"ProfileJumpId": {
+						"ProfileIndex": 0,
+						"ProfileName": "Desktop",
+						"SubProfileIndex": 255
+					},
+					"TypeId": "profileJump"
+				}
+			],
+			"ActivationOutputName": "",
+			"DeactivationOutputActionItems": [],
+			"Id": "1",
+			"InputActionType": {
+				"$type": "ZMouseConfig.InputActionTypes.ButtonToggleInputActionType, ZMouseConfig",
+				"ActiveState": "activeWhenOn",
+				"Button": {
+					"Id": "fingertipLeft",
+					"IsValid": true,
+					"KeyName": "MouseButtonFingertipLeft"
+				},
+				"DataType": "trigger",
+				"Id": "buttonToggle",
+				"IsValid": true
+			},
+			"ItemType": "actionMapping",
+			"OutputActionSequenceDelay": 0,
+			"Predecessor": null,
+			"PredecessorId": 65535,
+			"ShouldBlockOnActivation": false,
+			"ShouldBlockOnDeactivation": false
+		},
+		"PredecessorId": 0,
+		"ShouldBlockOnActivation": false,
+		"ShouldBlockOnDeactivation": false
+	}
+]

@@ -1,0 +1,383 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Resolve,Preferences,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Resolve,New Folder,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Resolve,New Timeline,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Resolve,Save Project,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Resolve,Save Project As,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Resolve,Export Xml,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Resolve,Import Media,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Resolve,Import Xml,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Resolve,Export Project,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Resolve,Project Manager,None,ShiftLeft ↓ + 1 ↓,ShiftLeft ↑ + 1 ↑
+0,Resolve,Project Settings,None,ShiftLeft ↓ + 9 ↓,ShiftLeft ↑ + 9 ↑
+0,Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Edit,Redo,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Edit,Ripple Cut,None,ControlLeft ↓ + ShiftLeft ↓ + X ↓,ControlLeft ↑ + ShiftLeft ↑ + X ↑
+0,Edit,Paste Insert,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Paste Attributes,None,AltLeft ↓ + V ↓,AltLeft ↑ + V ↑
+0,Edit,Paste Value,None,AltLeft ↓ + ShiftLeft ↓ + V ↓,AltLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Edit,Deselect All,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,Edit,Select Next,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Edit,Select Previous,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Edit,Select Above,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Edit,Select Below,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Edit,Insert,None,F9 ↓,F9 ↑
+0,Edit,Overwrite,None,F10 ↓,F10 ↑
+0,Edit,Replace,None,F11 ↓,F11 ↑
+0,Edit,Place On Top,None,F12 ↓,F12 ↑
+0,Edit,Ripple Overwrite,None,ShiftLeft ↓ + F10 ↓,ShiftLeft ↑ + F10 ↑
+0,Edit,Fit to Fill,None,ShiftLeft ↓ + F11 ↓,ShiftLeft ↑ + F11 ↑
+0,Edit,Append at End,None,ShiftLeft ↓ + F12 ↓,ShiftLeft ↑ + F12 ↑
+0,Edit > Multicam,Prev Angle,None,ShiftLeft ↓ + ControlLeft ↓ + Left ↓,ShiftLeft ↑ + ControlLeft ↑ + Left ↑
+0,Edit > Multicam,Next Angle,None,ShiftLeft ↓ + ControlLeft ↓ + Right ↓,ShiftLeft ↑ + ControlLeft ↑ + Right ↑
+0,Edit > Multicam,Prev Page,None,AltLeft ↓ + ShiftLeft ↓ + Left ↓,AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Edit > Multicam,Next Page,None,AltLeft ↓ + ShiftLeft ↓ + Right ↓,AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Edit > Multicam,Audio and Video,None,AltLeft ↓ + ShiftLeft ↓ + [ ↓,AltLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Edit > Multicam,Video Only,None,AltLeft ↓ + ShiftLeft ↓ + ] ↓,AltLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Edit > Multicam,Audio Only,None,AltLeft ↓ + ShiftLeft ↓ + \ ↓,AltLeft ↑ + ShiftLeft ↑ + \ ↑
+0,Edit,Swap Clips Right,None,ControlLeft ↓ + ShiftLeft ↓ + . ↓,ControlLeft ↑ + ShiftLeft ↑ + . ↑
+0,Edit,Swap Clips Left,None,"ControlLeft ↓ + ShiftLeft ↓ + , ↓","ControlLeft ↑ + ShiftLeft ↑ + , ↑"
+0,Edit,Switch to Timeline After Edit,None,AltLeft ↓ + ShiftLeft ↓ + Q ↓,AltLeft ↑ + ShiftLeft ↑ + Q ↑
+0,Trim,Select Item At Playhead,None,ShiftLeft ↓ + V ↓,ShiftLeft ↑ + V ↑
+0,Trim,Pointer,None,A ↓,A ↑
+0,Trim,Range Selection,None,R ↓,R ↑
+0,Trim,Trim Tool,None,T ↓,T ↑
+0,Trim,Select Edit Point,None,V ↓,V ↑
+0,Trim,Select Video Edit Point,None,AltLeft ↓ + E ↓,AltLeft ↑ + E ↑
+0,Trim,Select Audio Edit Point,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Trim,Toggle Edit Point Type,None,U ↓,U ↑
+0,Trim,Toggle Video Audio Selection,None,AltLeft ↓ + U ↓,AltLeft ↑ + U ↑
+0,Trim,Nudge One Frame Right,None,. ↓,. ↑
+0,Trim,Nudge One Frame Left,None,", ↓",", ↑"
+0,Trim,Nudge Multiframe Left,None,"ShiftLeft ↓ + , ↓","ShiftLeft ↑ + , ↑"
+0,Trim,Nudge Multiframe Right,None,ShiftLeft ↓ + . ↓,ShiftLeft ↑ + . ↑
+0,Trim,Slip Audio OneFrame Forward,None,AltLeft ↓ + . ↓,AltLeft ↑ + . ↑
+0,Trim,Slip Audio OneFrame Reverse,None,"AltLeft ↓ + , ↓","AltLeft ↑ + , ↑"
+0,Trim,Slip Audio One SubFrame Forward,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Trim,Slip Audio One SubFrame Reverse,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Trim,Opposite Eye One Frame Right,None,AltLeft ↓ + ControlLeft ↓ + . ↓,AltLeft ↑ + ControlLeft ↑ + . ↑
+0,Trim,Opposite Eye One Frame Left,None,"AltLeft ↓ + ControlLeft ↓ + , ↓","AltLeft ↑ + ControlLeft ↑ + , ↑"
+0,Trim,Trim Start,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Trim,Trim End,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Trim,Extend Edit,None,E ↓,E ↑
+0,Trim,Dynamic Trim Mode,None,W ↓,W ↑
+0,Trim,Ripple Start to Playhead,None,ControlLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Trim,Ripple End to Playhead,None,ControlLeft ↓ + ShiftLeft ↓ + ] ↓,ControlLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Trim,Toggle Slide Mode,None,S ↓,S ↑
+0,Trim,Blade,None,B ↓,B ↑
+0,Trim,Fade In To Playhead,None,AltLeft ↓ + ShiftLeft ↓ + D ↓,AltLeft ↑ + ShiftLeft ↑ + D ↑
+0,Trim,Fade Out To Playhead,None,AltLeft ↓ + ShiftLeft ↓ + G ↓,AltLeft ↑ + ShiftLeft ↑ + G ↑
+0,Timeline,Split Clip,None,ControlLeft ↓ + \ ↓,ControlLeft ↑ + \ ↑
+0,Timeline,Join Clips,None,AltLeft ↓ + \ ↓,AltLeft ↑ + \ ↑
+0,Timeline,Razor,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Timeline > SelectClips,Select Track Before,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Timeline > SelectClips,Select All Tracks Before,None,ControlLeft ↓ + AltLeft ↓ + Y ↓,ControlLeft ↑ + AltLeft ↑ + Y ↑
+0,Timeline > SelectClips,Select Track After,None,Y ↓,Y ↑
+0,Timeline > SelectClips,Select All Tracks After,None,AltLeft ↓ + Y ↓,AltLeft ↑ + Y ↑
+0,Timeline,Snapping,None,N ↓,N ↑
+0,Timeline,Audio Scrubbing,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Timeline,Linked Selection,None,ShiftLeft ↓ + ControlLeft ↓ + L ↓,ShiftLeft ↑ + ControlLeft ↑ + L ↑
+0,Timeline > Track Destination Selection,Video Destination V1,None,AltLeft ↓ + 1 ↓,AltLeft ↑ + 1 ↑
+0,Timeline > Track Destination Selection,Video Destination V2,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Timeline > Track Destination Selection,Video Destination V3,None,AltLeft ↓ + 3 ↓,AltLeft ↑ + 3 ↑
+0,Timeline > Track Destination Selection,Video Destination V4,None,AltLeft ↓ + 4 ↓,AltLeft ↑ + 4 ↑
+0,Timeline > Track Destination Selection,Video Destination V5,None,AltLeft ↓ + 5 ↓,AltLeft ↑ + 5 ↑
+0,Timeline > Track Destination Selection,Video Destination V6,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Timeline > Track Destination Selection,Video Destination V7,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Timeline > Track Destination Selection,Video Destination V8,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Timeline > Track Destination Selection,Audio Destination A1,None,AltLeft ↓ + ControlLeft ↓ + 1 ↓,AltLeft ↑ + ControlLeft ↑ + 1 ↑
+0,Timeline > Track Destination Selection,Audio Destination A2,None,AltLeft ↓ + ControlLeft ↓ + 2 ↓,AltLeft ↑ + ControlLeft ↑ + 2 ↑
+0,Timeline > Track Destination Selection,Audio Destination A3,None,AltLeft ↓ + ControlLeft ↓ + 3 ↓,AltLeft ↑ + ControlLeft ↑ + 3 ↑
+0,Timeline > Track Destination Selection,Audio Destination A4,None,AltLeft ↓ + ControlLeft ↓ + 4 ↓,AltLeft ↑ + ControlLeft ↑ + 4 ↑
+0,Timeline > Track Destination Selection,Audio Destination A5,None,AltLeft ↓ + ControlLeft ↓ + 5 ↓,AltLeft ↑ + ControlLeft ↑ + 5 ↑
+0,Timeline > Track Destination Selection,Audio Destination A6,None,AltLeft ↓ + ControlLeft ↓ + 6 ↓,AltLeft ↑ + ControlLeft ↑ + 6 ↑
+0,Timeline > Track Destination Selection,Audio Destination A7,None,AltLeft ↓ + ControlLeft ↓ + 7 ↓,AltLeft ↑ + ControlLeft ↑ + 7 ↑
+0,Timeline > Track Destination Selection,Audio Destination A8,None,AltLeft ↓ + ControlLeft ↓ + 8 ↓,AltLeft ↑ + ControlLeft ↑ + 8 ↑
+0,Timeline > Track Destination Selection,Move Video Track Destination Up,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Timeline > Track Destination Selection,Move Video Track Destination Down,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Timeline > Track Destination Selection,Move Audio Track Destination Up,None,ControlLeft ↓ + AltLeft ↓ + Up ↓,ControlLeft ↑ + AltLeft ↑ + Up ↑
+0,Timeline > Track Destination Selection,Move Audio Track Destination Down,None,ControlLeft ↓ + AltLeft ↓ + Down ↓,ControlLeft ↑ + AltLeft ↑ + Down ↑
+0,Timeline > Lock Tracks,Lock/Unlock V1,None,AltLeft ↓ + ShiftLeft ↓ + 1 ↓,AltLeft ↑ + ShiftLeft ↑ + 1 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V2,None,AltLeft ↓ + ShiftLeft ↓ + 2 ↓,AltLeft ↑ + ShiftLeft ↑ + 2 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V3,None,AltLeft ↓ + ShiftLeft ↓ + 3 ↓,AltLeft ↑ + ShiftLeft ↑ + 3 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V4,None,AltLeft ↓ + ShiftLeft ↓ + 4 ↓,AltLeft ↑ + ShiftLeft ↑ + 4 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V5,None,AltLeft ↓ + ShiftLeft ↓ + 5 ↓,AltLeft ↑ + ShiftLeft ↑ + 5 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V6,None,AltLeft ↓ + ShiftLeft ↓ + 6 ↓,AltLeft ↑ + ShiftLeft ↑ + 6 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V7,None,AltLeft ↓ + ShiftLeft ↓ + 7 ↓,AltLeft ↑ + ShiftLeft ↑ + 7 ↑
+0,Timeline > Lock Tracks,Lock/Unlock V8,None,AltLeft ↓ + ShiftLeft ↓ + 8 ↓,AltLeft ↑ + ShiftLeft ↑ + 8 ↑
+0,Timeline > Lock Tracks,Lock/Unlock All Video,None,AltLeft ↓ + ShiftLeft ↓ + 9 ↓,AltLeft ↑ + ShiftLeft ↑ + 9 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A1,None,AltLeft ↓ + ShiftLeft ↓ + F1 ↓,AltLeft ↑ + ShiftLeft ↑ + F1 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A2,None,AltLeft ↓ + ShiftLeft ↓ + F2 ↓,AltLeft ↑ + ShiftLeft ↑ + F2 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A3,None,AltLeft ↓ + ShiftLeft ↓ + F3 ↓,AltLeft ↑ + ShiftLeft ↑ + F3 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A4,None,AltLeft ↓ + ShiftLeft ↓ + F4 ↓,AltLeft ↑ + ShiftLeft ↑ + F4 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A5,None,AltLeft ↓ + ShiftLeft ↓ + F5 ↓,AltLeft ↑ + ShiftLeft ↑ + F5 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A6,None,AltLeft ↓ + ShiftLeft ↓ + F6 ↓,AltLeft ↑ + ShiftLeft ↑ + F6 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A7,None,AltLeft ↓ + ShiftLeft ↓ + F7 ↓,AltLeft ↑ + ShiftLeft ↑ + F7 ↑
+0,Timeline > Lock Tracks,Lock/Unlock A8,None,AltLeft ↓ + ShiftLeft ↓ + F8 ↓,AltLeft ↑ + ShiftLeft ↑ + F8 ↑
+0,Timeline > Lock Tracks,Lock/Unlock All Audio,None,AltLeft ↓ + ShiftLeft ↓ + F9 ↓,AltLeft ↑ + ShiftLeft ↑ + F9 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V1,None,AltLeft ↓ + F1 ↓,AltLeft ↑ + F1 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V2,None,AltLeft ↓ + F2 ↓,AltLeft ↑ + F2 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V3,None,AltLeft ↓ + F3 ↓,AltLeft ↑ + F3 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V4,None,AltLeft ↓ + F4 ↓,AltLeft ↑ + F4 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V5,None,AltLeft ↓ + F5 ↓,AltLeft ↑ + F5 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V6,None,AltLeft ↓ + F6 ↓,AltLeft ↑ + F6 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V7,None,AltLeft ↓ + F7 ↓,AltLeft ↑ + F7 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect V8,None,AltLeft ↓ + F8 ↓,AltLeft ↑ + F8 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect All Video,None,AltLeft ↓ + F9 ↓,AltLeft ↑ + F9 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A1,None,AltLeft ↓ + ControlLeft ↓ + F1 ↓,AltLeft ↑ + ControlLeft ↑ + F1 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A2,None,AltLeft ↓ + ControlLeft ↓ + F2 ↓,AltLeft ↑ + ControlLeft ↑ + F2 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A3,None,AltLeft ↓ + ControlLeft ↓ + F3 ↓,AltLeft ↑ + ControlLeft ↑ + F3 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A4,None,AltLeft ↓ + ControlLeft ↓ + F4 ↓,AltLeft ↑ + ControlLeft ↑ + F4 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A5,None,AltLeft ↓ + ControlLeft ↓ + F5 ↓,AltLeft ↑ + ControlLeft ↑ + F5 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A6,None,AltLeft ↓ + ControlLeft ↓ + F6 ↓,AltLeft ↑ + ControlLeft ↑ + F6 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A7,None,AltLeft ↓ + ControlLeft ↓ + F7 ↓,AltLeft ↑ + ControlLeft ↑ + F7 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect A8,None,AltLeft ↓ + ControlLeft ↓ + F8 ↓,AltLeft ↑ + ControlLeft ↑ + F8 ↑
+0,Timeline > Auto Track Selector,Auto Select/Deselect All Audio,None,AltLeft ↓ + ControlLeft ↓ + F9 ↓,AltLeft ↑ + ControlLeft ↑ + F9 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V1,None,ShiftLeft ↓ + ControlLeft ↓ + 1 ↓,ShiftLeft ↑ + ControlLeft ↑ + 1 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V2,None,ShiftLeft ↓ + ControlLeft ↓ + 2 ↓,ShiftLeft ↑ + ControlLeft ↑ + 2 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V3,None,ShiftLeft ↓ + ControlLeft ↓ + 3 ↓,ShiftLeft ↑ + ControlLeft ↑ + 3 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V4,None,ShiftLeft ↓ + ControlLeft ↓ + 4 ↓,ShiftLeft ↑ + ControlLeft ↑ + 4 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V5,None,ShiftLeft ↓ + ControlLeft ↓ + 5 ↓,ShiftLeft ↑ + ControlLeft ↑ + 5 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V6,None,ShiftLeft ↓ + ControlLeft ↓ + 6 ↓,ShiftLeft ↑ + ControlLeft ↑ + 6 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V7,None,ShiftLeft ↓ + ControlLeft ↓ + 7 ↓,ShiftLeft ↑ + ControlLeft ↑ + 7 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable V8,None,ShiftLeft ↓ + ControlLeft ↓ + 8 ↓,ShiftLeft ↑ + ControlLeft ↑ + 8 ↑
+0,Timeline > Enable/Disable Video Tracks,Enable Disable All Video,None,ShiftLeft ↓ + ControlLeft ↓ + 9 ↓,ShiftLeft ↑ + ControlLeft ↑ + 9 ↑
+0,Timeline,Add Transition,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Timeline,Add Video Transition,None,AltLeft ↓ + T ↓,AltLeft ↑ + T ↑
+0,Timeline,Add Audio Transition,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Timeline,Match Frame,None,F ↓,F ↑
+0,Timeline,Swap Timeline and Source Viewer,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Clip,Change Clip Speed,None,R ↓,R ↑
+0,Clip,Retime Controls,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Clip,Change Clip Duration,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Clip,Freeze Frame,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Clip,ResetRetime,None,AltLeft ↓ + ControlLeft ↓ + R ↓,AltLeft ↑ + ControlLeft ↑ + R ↑
+0,Clip,Enable/Disable Clip,None,D ↓,D ↑
+0,Clip,Link Clips,None,ControlLeft ↓ + AltLeft ↓ + L ↓,ControlLeft ↑ + AltLeft ↑ + L ↑
+0,Clip,Show Keyframe Editor,None,ShiftLeft ↓ + ControlLeft ↓ + C ↓,ShiftLeft ↑ + ControlLeft ↑ + C ↑
+0,Clip,Show Curve Editor,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Clip,Find Clip In Media Pool,None,AltLeft ↓ + F ↓,AltLeft ↑ + F ↑
+0,Clip > Audio,Increase Audio Level 1dB,None,ControlLeft ↓ + AltLeft ↓ + = ↓,ControlLeft ↑ + AltLeft ↑ + = ↑
+0,Clip > Audio,Decrease Audio Level 1dB,None,ControlLeft ↓ + AltLeft ↓ + - ↓,ControlLeft ↑ + AltLeft ↑ + - ↑
+0,Clip > Audio,Increase Audio Level 3dB,None,AltLeft ↓ + ShiftLeft ↓ + = ↓,AltLeft ↑ + ShiftLeft ↑ + = ↑
+0,Clip > Audio,Decrease Audio Level 3dB,None,AltLeft ↓ + ShiftLeft ↓ + - ↓,AltLeft ↑ + ShiftLeft ↑ + - ↑
+0,Clip > Multicam Cut,Cut to Angle 1,None,1 ↓,1 ↑
+0,Clip > Multicam Cut,Cut to Angle 2,None,2 ↓,2 ↑
+0,Clip > Multicam Cut,Cut to Angle 3,None,3 ↓,3 ↑
+0,Clip > Multicam Cut,Cut to Angle 4,None,4 ↓,4 ↑
+0,Clip > Multicam Cut,Cut to Angle 5,None,5 ↓,5 ↑
+0,Clip > Multicam Cut,Cut to Angle 6,None,6 ↓,6 ↑
+0,Clip > Multicam Cut,Cut to Angle 7,None,7 ↓,7 ↑
+0,Clip > Multicam Cut,Cut to Angle 8,None,8 ↓,8 ↑
+0,Clip > Multicam Cut,Cut to Angle 9,None,9 ↓,9 ↑
+0,Clip > Multicam Switch,Switch to Angle 1,None,AltLeft ↓ + 1 ↓,AltLeft ↑ + 1 ↑
+0,Clip > Multicam Switch,Switch to Angle 2,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Clip > Multicam Switch,Switch to Angle 3,None,AltLeft ↓ + 3 ↓,AltLeft ↑ + 3 ↑
+0,Clip > Multicam Switch,Switch to Angle 4,None,AltLeft ↓ + 4 ↓,AltLeft ↑ + 4 ↑
+0,Clip > Multicam Switch,Switch to Angle 5,None,AltLeft ↓ + 5 ↓,AltLeft ↑ + 5 ↑
+0,Clip > Multicam Switch,Switch to Angle 6,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Clip > Multicam Switch,Switch to Angle 7,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Clip > Multicam Switch,Switch to Angle 8,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Clip > Multicam Switch,Switch to Angle 9,None,AltLeft ↓ + 9 ↓,AltLeft ↑ + 9 ↑
+0,Mark,Mark In,None,I ↓,I ↑
+0,Mark,Mark Out,None,O ↓,O ↑
+0,Mark,Mark Video In,None,AltLeft ↓ + ShiftLeft ↓ + I ↓,AltLeft ↑ + ShiftLeft ↑ + I ↑
+0,Mark,Mark Video Out,None,AltLeft ↓ + ShiftLeft ↓ + O ↓,AltLeft ↑ + ShiftLeft ↑ + O ↑
+0,Mark,Mark Audio In,None,AltLeft ↓ + ControlLeft ↓ + I ↓,AltLeft ↑ + ControlLeft ↑ + I ↑
+0,Mark,Mark Audio Out,None,AltLeft ↓ + ControlLeft ↓ + O ↓,AltLeft ↑ + ControlLeft ↑ + O ↑
+0,Mark,Mark Clip,None,X ↓,X ↑
+0,Mark,Mark Selection,None,ShiftLeft ↓ + A ↓,ShiftLeft ↑ + A ↑
+0,Mark,Clear In,None,AltLeft ↓ + I ↓,AltLeft ↑ + I ↑
+0,Mark,Clear Out,None,AltLeft ↓ + O ↓,AltLeft ↑ + O ↑
+0,Mark,Clear In and Out,None,AltLeft ↓ + X ↓,AltLeft ↑ + X ↑
+0,Mark,Clear Video In and Out,None,AltLeft ↓ + ShiftLeft ↓ + X ↓,AltLeft ↑ + ShiftLeft ↑ + X ↑
+0,Mark,Clear Audio In and Out,None,AltLeft ↓ + ControlLeft ↓ + X ↓,AltLeft ↑ + ControlLeft ↑ + X ↑
+0,Mark,Add Keyframe,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Mark,Add Static Keyframe,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Mark,Delete Keyframe,None,AltLeft ↓ + ] ↓,AltLeft ↑ + ] ↑
+0,Mark,Add Marker to Selection,None,M ↓,M ↑
+0,Mark,Modify Marker...,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Mark,Add and Modify Marker,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Mark,Delete Marker,None,AltLeft ↓ + M ↓,AltLeft ↑ + M ↑
+0,Mark,Add Flag to Selection,None,G ↓,G ↑
+0,Mark,Create SubClip,None,AltLeft ↓ + B ↓,AltLeft ↑ + B ↑
+0,View > Stills,Grab Still,None,ControlLeft ↓ + AltLeft ↓ + G ↓,ControlLeft ↑ + AltLeft ↑ + G ↑
+0,View > Stills,Play Still,None,ControlLeft ↓ + AltLeft ↓ + F ↓,ControlLeft ↑ + AltLeft ↑ + F ↑
+0,View > Stills,Next Still,None,ControlLeft ↓ + AltLeft ↓ + N ↓,ControlLeft ↑ + AltLeft ↑ + N ↑
+0,View > Stills,Prev Still,None,ControlLeft ↓ + AltLeft ↓ + B ↓,ControlLeft ↑ + AltLeft ↑ + B ↑
+0,View > Highlight,Highlight,None,ShiftLeft ↓ + H ↓,ShiftLeft ↑ + H ↑
+0,View > Highlight,Highlight B&W,None,AltLeft ↓ + ShiftLeft ↓ + H ↓,AltLeft ↑ + ShiftLeft ↑ + H ↑
+0,View > Highlight,Highlight Difference,None,ShiftLeft ↓ + ControlLeft ↓ + H ↓,ShiftLeft ↑ + ControlLeft ↑ + H ↑
+0,View,Bypass Color Grades,None,ShiftLeft ↓ + D ↓,ShiftLeft ↑ + D ↑
+0,View,Show Reference Wipe,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,View,Invert Wipe,None,AltLeft ↓ + W ↓,AltLeft ↑ + W ↑
+0,View,Reference Reposition,None,AltLeft ↓ + ShiftLeft ↓ + R ↓,AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,View,Step Timeline Wipe One Frame Reverse,None,AltLeft ↓ + ControlLeft ↓ + Left ↓,AltLeft ↑ + ControlLeft ↑ + Left ↑
+0,View,Step Timeline Wipe One Frame Forward,None,AltLeft ↓ + ControlLeft ↓ + Right ↓,AltLeft ↑ + ControlLeft ↑ + Right ↑
+0,View > Zoom,Zoom to Actual Size,None,AltLeft ↓ + ShiftLeft ↓ + Z ↓,AltLeft ↑ + ShiftLeft ↑ + Z ↑
+0,View > Zoom,Zoom Viewer to Fit,None,Z ↓,Z ↑
+0,View > Zoom,Zoom to Fit,None,ShiftLeft ↓ + Z ↓,ShiftLeft ↑ + Z ↑
+0,View > Zoom,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,View > Zoom,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,View > Zoom,Default Zoom,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,View,Source/Timeline Viewer,None,Q ↓,Q ↑
+0,View,Source Clip/Source Tape,None,ShiftLeft ↓ + Q ↓,ShiftLeft ↑ + Q ↑
+0,View,Primaries/Log Color Wheels,None,AltLeft ↓ + Z ↓,AltLeft ↑ + Z ↑
+0,View,Viewer Channels RGB,None,ControlLeft ↓ + ShiftLeft ↓ + 0 ↓,ControlLeft ↑ + ShiftLeft ↑ + 0 ↑
+0,View,Show Viewer Overlay,None,ShiftLeft ↓ + ` ↓,ShiftLeft ↑ + ` ↑
+0,Playback,Play Forward,None,L ↓,L ↑
+0,Playback,Play Reverse,None,J ↓,J ↑
+0,Playback,Stop,None,K ↓,K ↑
+0,Playback,Fast Forward,None,ShiftLeft ↓ + L ↓,ShiftLeft ↑ + L ↑
+0,Playback,Fast Reverse,None,ShiftLeft ↓ + J ↓,ShiftLeft ↑ + J ↑
+0,Playback,Play Slow,None,ShiftLeft ↓ + K ↓,ShiftLeft ↑ + K ↑
+0,Playback,Pause/Start Playback,None,Space ↓,Space ↑
+0,Playback,Loop/Unloop,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Playback,Play Again,None,AltLeft ↓ + L ↓,AltLeft ↑ + L ↑
+0,Playback,Jump Left,None,AltLeft ↓ + ControlLeft ↓ + Left ↓,AltLeft ↑ + ControlLeft ↑ + Left ↑
+0,Playback,Jump Right,None,AltLeft ↓ + ControlLeft ↓ + Right ↓,AltLeft ↑ + ControlLeft ↑ + Right ↑
+0,Playback,Timecode Increment,None,Num+ ↓,Num+ ↑
+0,Playback,Timecode Decrement,None,Num- ↓,Num- ↑
+0,Playback,Prev Clip,None,Up ↓,Up ↑
+0,Playback,Next Clip,None,Down ↓,Down ↑
+0,Playback,Prev Gap,None,AltLeft ↓ + ControlLeft ↓ + ; ↓,AltLeft ↑ + ControlLeft ↑ + ; ↑
+0,Playback,Next Gap,None,AltLeft ↓ + ControlLeft ↓ + ' ↓,AltLeft ↑ + ControlLeft ↑ + ' ↑
+0,Playback,Prev Keyframe,None,[ ↓,[ ↑
+0,Playback,Next Keyframe,None,] ↓,] ↑
+0,Playback,Prev Marker,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Playback,Next Marker,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Playback > Step One,Step One Frame Forward,None,Right ↓,Right ↑
+0,Playback > Step One,Step One Frame Reverse,None,Left ↓,Left ↑
+0,Playback > Step One,Step One Second Forward,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Playback > Step One,Step One Second Reverse,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Playback > Go To,Go to Timecode,None,= ↓,= ↑
+0,Playback > Go To,Go to First Frame,None,; ↓,; ↑
+0,Playback > Go To,Go to Last Frame,None,' ↓,' ↑
+0,Playback > Go To,Go to Timeline Start,None,Home ↓,Home ↑
+0,Playback > Go To,Go to Timeline End,None,End ↓,End ↑
+0,Playback > Go To,Go to In,None,ShiftLeft ↓ + I ↓,ShiftLeft ↑ + I ↑
+0,Playback > Go To,Go to Out,None,ShiftLeft ↓ + O ↓,ShiftLeft ↑ + O ↑
+0,Playback > Play Around/To,Play Around Current Selection,None,/ ↓,/ ↑
+0,Playback > Play Around/To,Play Around Current Clip,None,ShiftLeft ↓ + / ↓,ShiftLeft ↑ + / ↑
+0,Playback > Play Around/To,Play In to Out,None,AltLeft ↓ + / ↓,AltLeft ↑ + / ↑
+0,Playback > Play Around/To,Play Around In,None,AltLeft ↓ + Space ↓,AltLeft ↑ + Space ↑
+0,Playback > Play Around/To,Play Around Out,None,ShiftLeft ↓ + Space ↓,ShiftLeft ↑ + Space ↑
+0,Playback > Play Around/To,Play to Out,None,AltLeft ↓ + ControlLeft ↓ + / ↓,AltLeft ↑ + ControlLeft ↑ + / ↑
+0,Playback > Cintel Scanner,Step One Perforation Forward,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Playback > Cintel Scanner,Step One Perforation Reverse,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Playback > Cintel Scanner,Slip Film Reverse,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Playback > Cintel Scanner,Slip Film Forward,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Color > Reset,Reset Selected Node Grade,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,Color > Reset,Reset Grades and Keep Nodes,None,ControlLeft ↓ + ShiftLeft ↓ + Home ↓,ControlLeft ↑ + ShiftLeft ↑ + Home ↑
+0,Color > Reset,Reset All Grades and Nodes,None,ControlLeft ↓ + Home ↓,ControlLeft ↑ + Home ↑
+0,Color,Preview Memory,None,AltLeft ↓ + ShiftLeft ↓ + P ↓,AltLeft ↑ + ShiftLeft ↑ + P ↑
+0,Color,Original Memory,None,AltLeft ↓ + ShiftLeft ↓ + O ↓,AltLeft ↑ + ShiftLeft ↑ + O ↑
+0,Color,Apply Grade From One Clip Prior,None,ShiftLeft ↓ + = ↓,ShiftLeft ↑ + = ↑
+0,Color,Apply Grade From Two Clips Prior,None,ShiftLeft ↓ + - ↓,ShiftLeft ↑ + - ↑
+0,Color > Grade Version,Grade Version Add,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Color > Grade Version,Grade Version Default,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Color > Grade Version,Grade Version Prev,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Color > Grade Version,Grade Version Next,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Color,AutoColor,None,AltLeft ↓ + ShiftLeft ↓ + C ↓,AltLeft ↑ + ShiftLeft ↑ + C ↑
+0,Color > Memories,Save Memory A,None,AltLeft ↓ + 1 ↓,AltLeft ↑ + 1 ↑
+0,Color > Memories,Save Memory B,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Color > Memories,Save Memory C,None,AltLeft ↓ + 3 ↓,AltLeft ↑ + 3 ↑
+0,Color > Memories,Save Memory D,None,AltLeft ↓ + 4 ↓,AltLeft ↑ + 4 ↑
+0,Color > Memories,Save Memory E,None,AltLeft ↓ + 5 ↓,AltLeft ↑ + 5 ↑
+0,Color > Memories,Save Memory F,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Color > Memories,Save Memory G,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Color > Memories,Save Memory H,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Color,Printer Light Hotkeys,None,ControlLeft ↓ + AltLeft ↓ + ` ↓,ControlLeft ↑ + AltLeft ↑ + ` ↑
+0,Color > Full Printer Light,Master +,None,Num+ ↓,Num+ ↑
+0,Color > Full Printer Light,Master -,None,NumEnter ↓,NumEnter ↑
+0,Color > Full Printer Light,Red +,None,Num7 ↓,Num7 ↑
+0,Color > Full Printer Light,Red -,None,Num4 ↓,Num4 ↑
+0,Color > Full Printer Light,Green +,None,Num8 ↓,Num8 ↑
+0,Color > Full Printer Light,Green -,None,Num5 ↓,Num5 ↑
+0,Color > Full Printer Light,Blue +,None,Num9 ↓,Num9 ↑
+0,Color > Full Printer Light,Blue -,None,Num6 ↓,Num6 ↑
+0,Color > Full Printer Light,Cyan +,None,Num1 ↓,Num1 ↑
+0,Color > Full Printer Light,Cyan -,None,Num- ↓,Num- ↑
+0,Color > Full Printer Light,Magenta +,None,Num2 ↓,Num2 ↑
+0,Color > Full Printer Light,Magenta -,None,Num0 ↓,Num0 ↑
+0,Color > Full Printer Light,Yellow +,None,Num3 ↓,Num3 ↑
+0,Color > Full Printer Light,Yellow -,None,Num. ↓,Num. ↑
+0,Color > Quarter Printer Light,Master +,None,ControlLeft ↓ + Num+ ↓,ControlLeft ↑ + Num+ ↑
+0,Color > Quarter Printer Light,Master -,None,ControlLeft ↓ + NumEnter ↓,ControlLeft ↑ + NumEnter ↑
+0,Color > Quarter Printer Light,Red +,None,ControlLeft ↓ + Num7 ↓,ControlLeft ↑ + Num7 ↑
+0,Color > Quarter Printer Light,Red -,None,ControlLeft ↓ + Num4 ↓,ControlLeft ↑ + Num4 ↑
+0,Color > Quarter Printer Light,Green +,None,ControlLeft ↓ + Num8 ↓,ControlLeft ↑ + Num8 ↑
+0,Color > Quarter Printer Light,Green -,None,ControlLeft ↓ + Num5 ↓,ControlLeft ↑ + Num5 ↑
+0,Color > Quarter Printer Light,Blue +,None,ControlLeft ↓ + Num9 ↓,ControlLeft ↑ + Num9 ↑
+0,Color > Quarter Printer Light,Blue -,None,ControlLeft ↓ + Num6 ↓,ControlLeft ↑ + Num6 ↑
+0,Color > Quarter Printer Light,Cyan +,None,ControlLeft ↓ + Num1 ↓,ControlLeft ↑ + Num1 ↑
+0,Color > Quarter Printer Light,Cyan -,None,ControlLeft ↓ + Num- ↓,ControlLeft ↑ + Num- ↑
+0,Color > Quarter Printer Light,Magenta +,None,ControlLeft ↓ + Num2 ↓,ControlLeft ↑ + Num2 ↑
+0,Color > Quarter Printer Light,Magenta -,None,ControlLeft ↓ + Num0 ↓,ControlLeft ↑ + Num0 ↑
+0,Color > Quarter Printer Light,Yellow +,None,ControlLeft ↓ + Num3 ↓,ControlLeft ↑ + Num3 ↑
+0,Color > Quarter Printer Light,Yellow -,None,ControlLeft ↓ + Num. ↓,ControlLeft ↑ + Num. ↑
+0,Color > Resolve Live,Live Grade On,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Color > Resolve Live,Live Grade Pause,None,ShiftLeft ↓ + ControlLeft ↓ + R ↓,ShiftLeft ↑ + ControlLeft ↑ + R ↑
+0,Color > Resolve Live,Live Grade Snapshot,None,ControlLeft ↓ + AltLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + R ↑
+0,Color > Tracker,Tracker Forward,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Color > Tracker,Tracker Reverse,None,AltLeft ↓ + T ↓,AltLeft ↑ + T ↑
+0,Color > Tracker,Tracker Stop,None,ControlLeft ↓ + AltLeft ↓ + T ↓,ControlLeft ↑ + AltLeft ↑ + T ↑
+0,Color > Tracker,Tracker One Frame Forward,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Color > Tracker,Tracker One Frame Reverse,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Nodes,Previous Node,None,AltLeft ↓ + ShiftLeft ↓ + ; ↓,AltLeft ↑ + ShiftLeft ↑ + ; ↑
+0,Nodes,Next Node,None,AltLeft ↓ + ShiftLeft ↓ + ' ↓,AltLeft ↑ + ShiftLeft ↑ + ' ↑
+0,Nodes,Add Serial Node,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,Nodes,Add Serial Before Current Node,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Nodes,Add Parallel Node,None,AltLeft ↓ + P ↓,AltLeft ↑ + P ↑
+0,Nodes,Add Layer Node,None,AltLeft ↓ + L ↓,AltLeft ↑ + L ↑
+0,Nodes,Append a Node,None,AltLeft ↓ + K ↓,AltLeft ↑ + K ↑
+0,Nodes,Add Outside Node,None,AltLeft ↓ + O ↓,AltLeft ↑ + O ↑
+0,Nodes,Add Splitter Combiner Node,None,AltLeft ↓ + Y ↓,AltLeft ↑ + Y ↑
+0,Nodes,Add Serial Node CPW,None,AltLeft ↓ + C ↓,AltLeft ↑ + C ↑
+0,Nodes,Add Serial Node LPW,None,AltLeft ↓ + Q ↓,AltLeft ↑ + Q ↑
+0,Nodes,Add Serial Node PPW,None,AltLeft ↓ + G ↓,AltLeft ↑ + G ↑
+0,Nodes,Add Serial Node PCW,None,AltLeft ↓ + B ↓,AltLeft ↑ + B ↑
+0,Nodes,Enable/Disable Selected Nodes,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Nodes,Enable/Disable All Nodes,None,AltLeft ↓ + D ↓,AltLeft ↑ + D ↑
+0,Nodes,ExtractCurrent Node,None,E ↓,E ↑
+0,Workspace > Active Panel Selection,Source Viewer,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Workspace > Active Panel Selection,Timeline Viewer,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Workspace > Active Panel Selection,Timeline,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Workspace > Active Panel Selection,Media Folders,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Workspace > Active Panel Selection,Media Clips,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Workspace > Active Panel Selection,Effects,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Workspace > Active Panel Selection,Edit Index,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Workspace > Active Panel Selection,Inspector,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Workspace > Switch to Page,Switch to Media Page,None,ShiftLeft ↓ + 2 ↓,ShiftLeft ↑ + 2 ↑
+0,Workspace > Switch to Page,Switch to Cut Page,None,ShiftLeft ↓ + 3 ↓,ShiftLeft ↑ + 3 ↑
+0,Workspace > Switch to Page,Switch to Edit Page,None,ShiftLeft ↓ + 4 ↓,ShiftLeft ↑ + 4 ↑
+0,Workspace > Switch to Page,Switch to Fusion Page,None,ShiftLeft ↓ + 5 ↓,ShiftLeft ↑ + 5 ↑
+0,Workspace > Switch to Page,Switch to Color Page,None,ShiftLeft ↓ + 6 ↓,ShiftLeft ↑ + 6 ↑
+0,Workspace > Switch to Page,Switch to Fairlight Page,None,ShiftLeft ↓ + 7 ↓,ShiftLeft ↑ + 7 ↑
+0,Workspace > Switch to Page,Switch to Deliver,None,ShiftLeft ↓ + 8 ↓,ShiftLeft ↑ + 8 ↑
+0,Workspace,Video Scopes Toggle,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Workspace > Viewer Mode,Enhanced Viewer,None,AltLeft ↓ + F ↓,AltLeft ↑ + F ↑
+0,Workspace > Viewer Mode,Full Page Viewer,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,Workspace > Viewer Mode,Cinema Viewer,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Workspace,Show Lightbox Panel,None,ShiftLeft ↓ + ControlLeft ↓ + F ↓,ShiftLeft ↑ + ControlLeft ↑ + F ↑
+0,FairlightTimeline > Extend Edit Selection,Extend Edit Selection to Next Edit,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,FairlightTimeline > Extend Edit Selection,Extend Edit Selection to Previous Edit,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,FairlightTimeline > Extend Edit Selection,Extend Edit Selection to Next Track,None,ControlLeft ↓ + ShiftLeft ↓ + ; ↓,ControlLeft ↑ + ShiftLeft ↑ + ; ↑
+0,FairlightTimeline > Extend Edit Selection,Extend Edit Selection to Previous Track,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,FairlightTimeline > Edit Selection,Move to Next Track,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,FairlightTimeline > Edit Selection,Move to Previous Track,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,FairlightTimeline > Edit Selection,Move to Next Edit,None,ControlLeft ↓ + ' ↓,ControlLeft ↑ + ' ↑
+0,FairlightTimeline > Edit Selection,Move to Previous Edit,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,FairlightTimeline > Edit Selection Editing,Trim to Selection,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,FairlightTimeline > Edit Selection Editing,Duplicate Selection,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,FairlightTimeline > Edit Selection Editing,Crossfade Selection,None,AltLeft ↓ + ShiftLeft ↓ + F ↓,AltLeft ↑ + ShiftLeft ↑ + F ↑
+0,FairlightTimeline > Track Waveform Zoom,Reset Zoom All Tracks,None,ControlLeft ↓ + AltLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + R ↑
+0,FairlightTimeline > Track Waveform Zoom,Reset Zoom Selected Tracks,None,AltLeft ↓ + ShiftLeft ↓ + R ↓,AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,Advanced,Middle Click with Zoom on Scroll,None,MouseButton3 ↓, MouseButton3 ↑
+1,Advanced,Zoom In,Scroll Forward,ControlLeft ↓ + = + ControlLeft ↑, None
+1,Advanced,Zoom Out,Scroll Back,ControlLeft ↓ + - + ControlLeft ↑, None
+0,Advanced,"Tap: Paste, Hold: Paste Attributes",None,ControlLeft ↓ + Wait 200 + ControlLeft ↑ + AltLeft ↓,V + Stop DontWait + Wait 250 + AltLeft ↑
+0,Advanced,Cut & Ripple Delete Gesture,None,ControlLeft ↓ + B + ControlLeft ↑, None
+1,Advanced,Ripple Delete Left,Movement X- 300 DontRepeat,ControlLeft ↓ + Z + ShiftLeft ↓ + [ + ShiftLeft ↑ + ControlLeft ↓ + Vibrate 50 7 DontWait,None
+1,Advanced,Ripple Delete Right,Movement X+ 300 DontRepeat,ControlLeft ↓ + Z + ShiftLeft ↓ + ] + ShiftLeft ↑ + ControlLeft ↓ + Vibrate 50 7 DontWait,None

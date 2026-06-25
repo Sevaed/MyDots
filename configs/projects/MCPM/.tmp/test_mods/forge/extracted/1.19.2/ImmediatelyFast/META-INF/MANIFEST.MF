@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+MixinConfigs: immediatelyfast-forge.mixins.json,immediatelyfast-common.m
+ ixins.json
+

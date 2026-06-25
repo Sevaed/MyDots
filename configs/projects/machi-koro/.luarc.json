@@ -1,0 +1,15 @@
+{
+  "runtime.path": [
+    "?.lua",
+    "?/init.lua",
+    "src/?.lua",
+    "src/?/init.lua"
+  ],
+  "workspace.library": [
+    "."
+  ],
+  "diagnostics.globals": [
+    "UI"
+  ],
+  "workspace.checkThirdParty": false
+}

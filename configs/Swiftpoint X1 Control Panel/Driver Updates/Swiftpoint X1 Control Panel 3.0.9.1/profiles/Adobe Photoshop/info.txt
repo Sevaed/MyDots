@@ -1,0 +1,3 @@
+Name=Adobe Photoshop
+BundleID=Adobe Photoshop
+MouseSupport=5,10,30,

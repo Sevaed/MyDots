@@ -1,0 +1,10 @@
+{
+    "id":"example",
+    "modloader":"fabric",
+    "versions":{
+        "minecraft":"1.19.2",
+        "modloader":">=0.8.9",
+        "mod":"0.42"
+    },
+    "dependencies":{}
+}

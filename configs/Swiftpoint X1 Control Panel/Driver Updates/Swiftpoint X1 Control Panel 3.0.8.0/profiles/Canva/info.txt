@@ -1,0 +1,3 @@
+Name=Canva
+BundleID=Canva
+MouseSupport=5,10,30,

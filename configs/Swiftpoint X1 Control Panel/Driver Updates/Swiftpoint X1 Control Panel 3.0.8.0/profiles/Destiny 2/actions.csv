@@ -1,0 +1,43 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Common,Move Forward,None,W ↓,W ↑
+0,Common,Move Backward,None,S ↓,S ↑
+0,Common,Move Left (strafe),None,A ↓,A ↑
+0,Common,Move Right (strafe),None,D ↓,D ↑
+0,Common,Finisher/Player Highlight,None,G ↓,G ↑
+0,Common,Emote 1,None,Up ↓,Up ↑
+0,Common,Emote 2,None,Down ↓,Down ↑
+0,Common,Emote 3,None,Left ↓,Left ↑
+0,Common,Emote 4,None,Right ↓,Right ↑
+0,Common,Push-To-Talk,None,T ↓,T ↑
+0,Common,Return to Orbit / Abort Activity,None,O ↓,O ↑
+0,Character,Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Character,Reload,None,R ↓,R ↑
+0,Character,Melee,None,C ↓,C ↑
+0,Character,Hold Zoom,None,MouseButton2 ↓,MouseButton2 ↑
+0,Character,Light Attack,None,MouseButton1 ↓,MouseButton1 ↑
+0,Character,Heavy Attack,None,MouseButton2 ↓,MouseButton2 ↑
+0,Character,Block,None,C ↓,C ↑
+0,Character,Jump,None,Space ↓,Space ↑
+0,Character,Toggle Sprint,None,ShiftLeft ↓,ShiftLeft ↑
+0,Character,Toggle Crouch,None,ControlLeft ↓,ControlLeft ↑
+0,Character,Class Ability,None,V ↓,V ↑
+0,Character,Air Move,None,X ↓,X ↑
+0,Character,Interact,None,E ↓,E ↑
+0,Character,Grenade,None,Q ↓,Q ↑
+0,Character,Super,None,F ↓,F ↑
+0,Character,Switch to Kinetic Weapon,None,1 ↓,1 ↑
+0,Character,Switch to Energy Weapon,None,2 ↓,2 ↑
+0,Character,Switch to Power Weapon,None,3 ↓,3 ↑
+0,Character,Switch Weapon,None,` ↓,` ↑
+0,Character,Next Weapon,None,ScrollUp,None
+0,Character,Previous Weapon,None,ScrollDown,None
+0,Vehicle,Primary Weapon Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicle,Secondary Weapon Fire,None,E ↓,E ↑
+0,Vehicle,Zoom,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicle,Boost,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicle,Brake,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicle,Exit Vehicle,None,Space ↓,Space ↑
+0,UI Shortcuts,Deploy Ghost,None,Tab ↓,Tab ↑
+0,UI Shortcuts,Open Director,None,M ↓,M ↑
+0,UI Shortcuts,Open Director - Roster,None,U ↓,U ↑
+0,UI Shortcuts,Open Start Menu - Character,None,I ↓,I ↑

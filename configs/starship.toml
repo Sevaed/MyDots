@@ -1,0 +1,67 @@
+add_newline = false
+format = '  $os$hostname $python ([](green) $git_branch $git_status)$directory $character'
+
+"$schema" = 'https://starship.rs/config-schema.json'
+
+
+[os]
+disabled = false
+
+
+[os.symbols]
+Arch = "[󰣇](bold #1793D1)"
+NixOS = "[󱄅](bold #7EBAE4)"
+Ubuntu = "[](bold #E95420)"
+Debian = "[](bold #A81D33)"
+Fedora = "[](bold #51A2DA)"
+CentOS = "[](bold #932279)"
+RockyLinux = "[](bold #10B981)"
+Alpine = "[](bold #0D597F)"
+Gentoo = "[](bold #54487A)"
+Manjaro = "[](bold #35BF5C)"
+Mint = "[󰣭](bold #87CF3E)"
+openSUSE = "[](bold #73BA25)"
+Void = "[](bold #478061)"
+Kali = "[](bold #2777FF)"
+Raspbian = "[](bold #C51A4A)"
+Macos = "[](bold #A2AAAD)"
+Android = "[](bold #3DDC84)"
+Unknown = "[?](bold #888888)"
+
+[python]
+format = '[ $virtualenv]($style) '
+style = 'bold #63ADF2'
+detect_extensions = []
+detect_files = []
+detect_folders = []
+
+[character]
+success_symbol = "[>](bold #6E9075) "
+
+[hostname]
+ssh_only = true
+format = "[$hostname](#1793D1)"
+
+[time]
+disabled = true
+format = "[$time]($style)"
+time_format = "%H:%M:%S"
+style = "#CC998D"
+
+[directory]
+format = "[$path]($style)"
+style = "bold #A03E99"
+
+[git_branch]
+format = '[ $branch](bold purple) '
+only_attached = true
+
+[git_status]
+format = '($staged$modified$untracked)'
+staged = '[✚+$count](green) '
+modified = '[~$count](yellow) '
+untracked = '[?$count](red) '
+
+[nodejs]
+format = 'on [󰎙 $version](bold green)'
+

@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Specification-Title: Xaero's World Map
+Specification-Vendor: xaero96
+Specification-Version: 1.40.6
+Implementation-Title: forge
+Implementation-Version: 1.40.6
+Implementation-Vendor: xaero96
+Implementation-Timestamp: 2026-01-04T16:49:13+0200
+Timestamp: 1767538153287
+Built-On-Java: 21.0.7+6-LTS (Eclipse Adoptium)
+Built-On-Minecraft: 1.21.10
+MixinConfigs: xaeroworldmap.mixins.json,xaeroworldmap.forge.mixins.json
+

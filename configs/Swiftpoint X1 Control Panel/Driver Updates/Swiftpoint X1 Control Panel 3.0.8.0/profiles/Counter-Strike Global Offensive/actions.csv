@@ -1,0 +1,41 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement Keys,Move Forward,None,W ↓,W ↑
+0,Movement Keys,Move Backward,None,S ↓,S ↑
+0,Movement Keys,Move Left (Strafe),None,A ↓,A ↑
+0,Movement Keys,Move Right (Strafe),None,D ↓,D ↑
+0,Movement Keys,Duck,None,ControlLeft ↓,ControlLeft ↑
+0,Movement Keys,Walk,None,ShiftLeft ↓,ShiftLeft ↑
+0,Movement Keys,Jump,None,Space ↓,Space ↑
+0,Movement Keys,Toggle Inventory Display,None,I ↓,I ↑
+0,Weapon Keys,Use,None,E ↓,E ↑
+0,Weapon Keys,Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Weapon Keys,Secondary Fire,None,MouseButton2 ↓,MouseButton2 ↑
+0,Weapon Keys,Reload,None,R ↓,R ↑
+0,Weapon Keys,Select Previous Weapon,None,ScrollUp,None
+0,Weapon Keys,Select Next Weapon,None,ScrollDown,None
+0,Weapon Keys,Last Weapon Used,None,Q ↓,Q ↑
+0,Weapon Keys,Drop Weapon,None,G ↓,G ↑
+0,Weapon Keys,Inspect Weapon,None,F ↓,F ↑
+0,Weapon Keys,Buy Menu,None,B ↓,B ↑
+0,Weapon Keys,Autobuy,None,F3 ↓,F3 ↑
+0,Weapon Keys,Rebuy,None,F4 ↓,F4 ↑
+0,Weapon Keys,Primary Weapon,None,1 ↓,1 ↑
+0,Weapon Keys,Secondary Weapon,None,2 ↓,2 ↑
+0,Weapon Keys,Melee Weapons,None,3 ↓,3 ↑
+0,Weapon Keys,Cycle Grenades,None,4 ↓,4 ↑
+0,Weapon Keys,Explosives & Traps,None,5 ↓,5 ↑
+0,Weapon Keys,HE Grenade,None,6 ↓,6 ↑
+0,Weapon Keys,Flashbang,None,7 ↓,7 ↑
+0,Weapon Keys,Smoke Grenade,None,8 ↓,8 ↑
+0,Weapon Keys,Decoy Grenade,None,9 ↓,9 ↑
+0,Weapon Keys,Molotov Cocktail,None,0 ↓,0 ↑
+0,Weapon Keys,Healthshot,None,X ↓,X ↑
+0,Weapon Keys,Graffiti Menu,None,T ↓,T ↑
+0,Communication Options,Player Ping,None,MouseButton3 ↓,MouseButton3 ↑
+0,Communication Options,Radio Message,None,Z ↓,Z ↑
+0,Communication Options,Team Message,None,U ↓,U ↑
+0,Communication Options,Chat Message,None,Y ↓,Y ↑
+0,Communication Options,Use Mic,None,K ↓,K ↑
+0,UI Keys,Scoreboard,None,Tab ↓,Tab ↑
+0,UI Keys,Choose Team,None,MouseButton1 ↓,MouseButton1 ↑
+0,UI Keys,Toggle Console,None,` ↓,` ↑

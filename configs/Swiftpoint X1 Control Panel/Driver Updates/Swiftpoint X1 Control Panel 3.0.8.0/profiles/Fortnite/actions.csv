@@ -1,0 +1,139 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward,None,W ↓,W ↑
+0,Movement,Move Backward,None,S ↓,S ↑
+0,Movement,Move Left,None,A ↓,A ↑
+0,Movement,Move Right,None,D ↓,D ↑
+0,Movement,Jump,None,Space ↓,Space ↑
+0,Movement,Sprint,None,ShiftLeft ↓,ShiftLeft ↑
+0,Movement,Auto Run,None,= ↓,= ↑
+0,Movement,Auto Run (Sprint),None,ShiftLeft ↓ + = ↓,ShiftLeft ↑ + = ↑
+0,Movement,Crouch,None,ControlLeft ↓,ControlLeft ↑
+0,Combat,Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Combat,Target,None,MouseButton2 ↓,MouseButton2 ↑
+0,Combat,Reload,None,R ↓,R ↑
+0,Combat,Use,None,E ↓,E ↑
+0,Combat,Weapon Slot 1,None,1 ↓,1 ↑
+0,Combat,Weapon Slot 2,None,2 ↓,2 ↑
+0,Combat,Weapon Slot 3,None,3 ↓,3 ↑
+0,Combat,Weapon Slot 4,None,4 ↓,4 ↑
+0,Combat,Weapon Slot 5,None,5 ↓,5 ↑
+0,Building,Crouch While Building,None,ControlLeft ↓,ControlLeft ↑
+0,Building,Wall,None,Z ↓,Z ↑
+0,Building,Floor,None,X ↓,X ↑
+0,Building,Stairs,None,C ↓,C ↑
+0,Building,Roof,None,V ↓,V ↑
+0,Building,Trap,None,Y ↓,Y ↑
+0,Building,Place Building,None,MouseButton1 ↓,MouseButton1 ↑
+0,Building,Repair/Upgrade,None,H ↓,H ↑
+0,Building,Rotate Building,None,R ↓,R ↑
+0,Building,Change Building Material,None,MouseButton2 ↓,MouseButton2 ↑
+0,Building,Building Edit,None,G ↓,G ↑
+0,Building,Crouch While Editing,None,ControlLeft ↓,ControlLeft ↑
+0,Building,Select Building Edit,None,MouseButton1 ↓,MouseButton1 ↑
+0,Building,Reset Building Edit,None,MouseButton2 ↓,MouseButton2 ↑
+0,Communication,Ping / Place Marker,None,MouseButton3 ↓,MouseButton3 ↑
+0,Communication,Push To Talk,None,T ↓,T ↑
+0,Communication,Squad Comms,None,F4 ↓,F4 ↑
+0,Communication,Chat,None,Enter ↓,Enter ↑
+0,Emote,Emote,None,B ↓,B ↑
+0,Misc,Toggle Harvesting Tool,None,F ↓,F ↑
+0,Misc,Trap Equip/Picker,None,F3 ↓,F3 ↑
+0,Misc,Switch Quickbar,None,Q ↓,Q ↑
+0,Misc,Slot Up,None,ScrollDown,None
+0,Misc,Slot Down,None,ScrollUp,None
+0,Misc,Previous Picker Wheel,None,ScrollDown,None
+0,Misc,Next Picker Wheel,None,ScrollUp,None
+0,Misc,Cursor Mode,None,AltLeft ↓,AltLeft ↑
+0,Misc,Toggle Map,None,M ↓,M ↑
+0,Misc,Toggle Inventory,None,Tab ↓,Tab ↑
+0,Misc,Carry,None,F ↓,F ↑
+0,Vehicles > Shopping Cart,Driver Push(Tap)/Coast(Hold),None,Space ↓,Space ↑
+0,Vehicles > Shopping Cart,Driver Exit,None,E ↓,E ↑
+0,Vehicles > Shopping Cart,Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > Shopping Cart,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > Pirate Cannon,Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > Pirate Cannon,Driver Push(Tap)/Coast(Hold),None,Space ↓,Space ↑
+0,Vehicles > Pirate Cannon,Driver Exit,None,E ↓,E ↑
+0,Vehicles > Pirate Cannon,Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > Pirate Cannon,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > All Terrain Kart(ATK),Driver Powerslide,None,Space ↓,Space ↑
+0,Vehicles > All Terrain Kart(ATK),Driver Honk,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > All Terrain Kart(ATK),Driver Exit,None,E ↓,E ↑
+0,Vehicles > All Terrain Kart(ATK),Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > All Terrain Kart(ATK),Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > Quadcrasher,Driver Boost,None,Space ↓,Space ↑
+0,Vehicles > Quadcrasher,Driver Honk,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > Quadcrasher,Driver Exit,None,E ↓,E ↑
+0,Vehicles > Quadcrasher,Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > Quadcrasher,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > Driftboard,Boost,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicles > Driftboard,Use/Exit,None,E ↓,E ↑
+0,Vehicles > Driftboard,Jump,None,Space ↓,Space ↑
+0,Vehicles > Baller,Boost,None,Space ↓,Space ↑
+0,Vehicles > Baller,Fire/Contract Grapple,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > Baller,Extend Grapple,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicles > Baller,Exit,None,E ↓,E ↑
+0,Vehicles > X-4 Stormwing,Driver Boost,None,Space ↓,Space ↑
+0,Vehicles > X-4 Stormwing,Driver Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > X-4 Stormwing,Driver Roll RIght,None,C ↓,C ↑
+0,Vehicles > X-4 Stormwing,Driver Roll Left,None,Z ↓,Z ↑
+0,Vehicles > X-4 Stormwing,Driver Roll Invert,None,X ↓,X ↑
+0,Vehicles > X-4 Stormwing,Driver Start Engine,None,W ↓,W ↑
+0,Vehicles > X-4 Stormwing,Driver Stop Engine,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicles > X-4 Stormwing,Driver Free Look,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicles > X-4 Stormwing,Driver Backwards,None,S ↓,S ↑
+0,Vehicles > X-4 Stormwing,Driver Exit,None,E ↓,E ↑
+0,Vehicles > X-4 Stormwing,Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > X-4 Stormwing,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > B.R.U.T.E.,Driver Boost,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicles > B.R.U.T.E.,Driver Jump,None,Space ↓,Space ↑
+0,Vehicles > B.R.U.T.E.,Driver Stomp,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > B.R.U.T.E.,Driver Honk,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicles > B.R.U.T.E.,Driver Self Destruct,None,Delete ↓,Delete ↑
+0,Vehicles > B.R.U.T.E.,Driver Exit,None,E ↓,E ↑
+0,Vehicles > B.R.U.T.E.,Passenger Shotgun,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > B.R.U.T.E.,Passenger Missiles,None,Mousebutton2 ↓,Mousebutton2 ↑
+0,Vehicles > B.R.U.T.E.,Passenger Shield Boost,None,Q ↓,Q ↑
+0,Vehicles > B.R.U.T.E.,Passenger Self Destruct,None,Delete ↓,Delete ↑
+0,Vehicles > B.R.U.T.E.,Passenger Exit,None,E ↓,E ↑
+0,Vehicles > B.R.U.T.E.,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Vehicles > Motorboat,Driver Boost,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicles > Motorboat,Driver Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicles > Motorboat,Driver Targeting,None,MouseButton2 ↓,MouseButton2 ↑
+0,Vehicles > Motorboat,Driver Exit,None,E ↓,E ↑
+0,Vehicles > Motorboat,Passenger Use/Exit,None,E ↓,E ↑
+0,Vehicles > Motorboat,Switch Seat,None,ControlLeft ↓,ControlLeft ↑
+0,Creative,Creative Phone Toggle,None,` ↓,` ↑
+0,Creative,Open Creative Global Player Options,None,B ↓,B ↑
+0,Creative,Creative Pick Up/Exit,None,MouseButton2 ↓,MouseButton2 ↑
+0,Creative,Creative Copy,None,MouseButton1 ↓,MouseButton1 ↑
+0,Creative,Creative Delete,None,X ↓,X ↑
+0,Creative,Creative Select,None,R ↓,R ↑
+0,Creative,Creative Slot 1,None,1 ↓,1 ↑
+0,Creative,Creative Slot 2,None,2 ↓,2 ↑
+0,Creative,Creative Slot 3,None,3 ↓,3 ↑
+0,Creative,Creative Slot 4,None,4 ↓,4 ↑
+0,Creative,Creative Slot 5,None,5 ↓,5 ↑
+0,Creative,Creative Slot 6,None,6 ↓,6 ↑
+0,Creative,Creative Slot 7,None,7 ↓,7 ↑
+0,Creative,Creative Slot 8,None,8 ↓,8 ↑
+0,Creative,Creative Prop Copy,None,MouseButton1 ↓,MouseButton1 ↑
+0,Creative,Creative Prop Rotate Clockwise,None,R ↓,R ↑
+0,Creative,Creative Prop Rotate Counterclockwise,None,E ↓,E ↑
+0,Creative,Creative Prop Rotation Axis(Tap)/Reset(Hold),None,Tab ↓,Tab ↑
+0,Creative,Creative Prop Push,None,F ↓,F ↑
+0,Creative,Creative Prop Pull,None,C ↓,C ↑
+0,Creative,Creative Prop Exit,None,MouseButton2 ↓,MouseButton2 ↑
+0,Creative,Creative Prop Remove From Quickbar,None,X ↓,X ↑
+0,Creative,Creative Building Copy,None,MouseButton1 ↓,MouseButton1 ↑
+0,Creative,Creative Building Rotate Clockwise,None,R ↓,R ↑
+0,Creative,Creative Building Rotate Counterclockwise,None,Z ↓,Z ↑
+0,Creative,Creative Building Mirror,None,M ↓,M ↑
+0,Creative,Creative Building Exit,None,MouseButton2 ↓,MouseButton2 ↑
+0,Creative,Creative Building Grid Snap,None,V ↓,V ↑
+0,Creative,Creative Fly Up,None,ShiftLeft ↓,ShiftLeft ↑
+0,Creative,Creative Fly Down,None,ControlLeft ↓,ControlLeft ↑
+0,Creative,Creative Island Panel Support Creator,None,Q ↓,Q ↑
+0,Creative,Creative Island Panel Start Game,None,E ↓,E ↑
+0,Creative,Creative Island Panel Toggle Details,None,H ↓,H ↑
+0,Creative,Possess Prop,None,MouseButton1 ↓,MouseButton1 ↑

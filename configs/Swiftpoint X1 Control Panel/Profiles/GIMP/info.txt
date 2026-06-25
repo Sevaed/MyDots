@@ -1,0 +1,3 @@
+Name=GIMP
+BundleID=GIMP
+MouseSupport=5,10,30,

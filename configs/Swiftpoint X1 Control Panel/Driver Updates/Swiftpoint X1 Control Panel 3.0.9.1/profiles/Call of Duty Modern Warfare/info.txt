@@ -1,0 +1,3 @@
+Name=COD Modern Warfare
+BundleID=Call of Duty Modern Warfare
+MouseSupport=5,20,30,

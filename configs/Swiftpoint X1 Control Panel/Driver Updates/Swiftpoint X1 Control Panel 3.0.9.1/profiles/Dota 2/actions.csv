@@ -1,0 +1,115 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Abilities,Ability 1,None,Q ↓,Q ↑
+0,Abilities,Ability 2,None,W ↓,W ↑
+0,Abilities,Ability 3,None,E ↓,E ↑
+0,Abilities,Ability 4,None,D ↓,D ↑
+0,Abilities,Ability 5,None,F ↓,F ↑
+0,Abilities,Ability Ultimate,None,R ↓,R ↑
+0,Abilities,Autocast Ability 1,None,AltLeft ↓ + Q ↓,AltLeft ↑ + Q ↑
+0,Abilities,Autocast Ability 2,None,AltLeft ↓ + W ↓,AltLeft ↑ + W ↑
+0,Abilities,Autocast Ability 3,None,AltLeft ↓ + E ↓,AltLeft ↑ + E ↑
+0,Abilities,Autocast Ability 4,None,AltLeft ↓ + D ↓,AltLeft ↑ + D ↑
+0,Abilities,Autocast Ability 5,None,AltLeft ↓ + F ↓,AltLeft ↑ + F ↑
+0,Abilities,Autocast Ability Ultimate,None,AltLeft ↓ + R ↓,AltLeft ↑ + R ↑
+0,Abilities,Quick Cast Ability 1,None,,
+0,Abilities,Quick Cast Ability 2,None,,
+0,Abilities,Quick Cast Ability 3,None,,
+0,Abilities,Quick Cast Ability 4,None,,
+0,Abilities,Quick Cast Ability 5,None,,
+0,Abilities,Quick Cast Ability Ultimate,None,,
+0,Abilities,Ability Learn,None,O ↓,O ↑
+0,Abilities,Upgrade Stats,None,U ↓,U ↑
+0,Unit Actions,Select All Controlled Units,None,,
+0,Unit Actions,Attack Move / Force Attack,None,A ↓,A ↑
+0,Unit Actions,Move,None,M ↓,M ↑
+0,Unit Actions,Directional Move,None,,
+0,Unit Actions,Patrol,None,,
+0,Unit Actions,Hold Position,None,H ↓,H ↑
+0,Unit Actions,Cancel Current Action,None,S ↓,S ↑
+0,Unit Actions,Activate Glyph,None,J ↓,J ↑
+0,Unit Actions,Activate Scan,None,P ↓,P ↑
+0,Unit Actions,Select Unit,None,MouseButton1 ↓,MouseButton1 ↑
+0,Unit Actions,Move / Attack / Follow,None,MouseButton2 ↓,MouseButton2 ↑
+0,Unit Actions,Select All Other Units,None,,
+0,Unit Actions,Taunt Item,None,,
+0,Unit Actions,Toggle Autoattack,None,,
+0,Unit Actions,Select Hero,None,F1 ↓,F1 ↑
+0,Shop Actions,Select Courier,None,F2 ↓,F2 ↑
+0,Shop Actions,Courier Delivery Items,None,F3 ↓,F3 ↑
+0,Shop Actions,Open Shop,None,F4 ↓,F4 ↑
+0,Shop Actions,Purchase Quickbuy,None,F5 ↓,F5 ↑
+0,Shop Actions,Courier Shield,None,,
+0,Shop Actions,Purchase Sticky,None,F8 ↓,F8 ↑
+0,Shop Actions,Take Stash Items,None,,
+0,Chat,Chat to Team,None,Enter ↓,Enter ↑
+0,Chat,Chat to Everyone,None,ShiftLeft ↓ + Enter ↓,ShiftLeft ↑ + Enter ↑
+0,Chat,Voice Chat (Party),None,,
+0,Chat,Voice Chat (Team),None,G ↓,G ↑
+0,Chat,Chat Wheel,None,Y ↓,Y ↑
+0,Chat,Chat Wheel #2,None,,
+0,Chat,Hero Chat Wheel,None,K ↓,K ↑
+0,Interface,Camera Grip,None,MouseButton3 ↓,MouseButton3 ↑
+0,Interface,Scoreboard,None,` ↓,` ↑
+0,Interface,Pause,None,F9 ↓,F9 ↑
+0,Interface,Screenshot,None,F6 ↓,F6 ↑
+0,Interface,Console,None,\ ↓,\ ↑
+0,Interface,Death Summary,None,,
+0,Control Groups,Next Unit,None,Tab ↓,Tab ↑
+0,Control Groups,Prev Unit,None,,
+0,Control Groups,Group 1,None,1 ↓,1 ↑
+0,Control Groups,Group 2,None,2 ↓,2 ↑
+0,Control Groups,Group 3,None,3 ↓,3 ↑
+0,Control Groups,Group 4,None,4 ↓,4 ↑
+0,Control Groups,Group 5,None,5 ↓,5 ↑
+0,Control Groups,Group 6,None,6 ↓,6 ↑
+0,Control Groups,Group 7,None,7 ↓,7 ↑
+0,Control Groups,Group 8,None,8 ↓,8 ↑
+0,Control Groups,Group 9,None,9 ↓,9 ↑
+0,Control Groups,Group 10,None,0 ↓,0 ↑
+0,Items,Inventory 1,None,Z ↓,Z ↑
+0,Items,Inventory 2,None,X ↓,X ↑
+0,Items,Inventory 3,None,C ↓,C ↑
+0,Items,Inventory 4,None,V ↓,V ↑
+0,Items,Inventory 5,None,B ↓,B ↑
+0,Items,Inventory 6,None,N ↓,N ↑
+0,Items,Teleport Scroll,None,T ↓,T ↑
+0,Items,Quick Cast Inventory 1,None,,
+0,Items,Quick Cast Inventory 2,None,,
+0,Items,Quick Cast Inventory 3,None,,
+0,Items,Quick Cast Inventory 4,None,,
+0,Items,Quick Cast Inventory 5,None,,
+0,Items,Quick Cast Inventory 6,None,,
+0,Camera,Camera Forward,None,Up ↓,Up ↑
+0,Camera,Camera Back,None,Down ↓,Down ↑
+0,Camera,Camera Left,None,Left ↓,Left ↑
+0,Camera,Camera Right,None,Right ↓,Right ↑
+0,Camera,Camera Zoom In,None,ScrollUp,None
+0,Camera,Camera Zoom Out,None,ScrollDown,None
+0,Camera,Show Recent Event,None,Space ↓,Space ↑
+0,Camera,Showcase View,None,I ↓,I ↑
+0,Select Allies,Select Ally 1,None,,
+0,Select Allies,Select Ally 2,None,,
+0,Select Allies,Select Ally 3,None,,
+0,Select Allies,Select Ally 4,None,,
+0,Select Allies,Select Ally 5,None,,
+0,Saved Camera Positions,Camera Position 1,None,,
+0,Saved Camera Positions,Camera Position 2,None,,
+0,Saved Camera Positions,Camera Position 3,None,,
+0,Saved Camera Positions,Camera Position 4,None,,
+0,Saved Camera Positions,Camera Position 5,None,,
+0,Saved Camera Positions,Camera Position 6,None,,
+0,Saved Camera Positions,Camera Position 7,None,,
+0,Saved Camera Positions,Camera Position 8,None,,
+0,Saved Camera Positions,Camera Position 9,None,,
+0,Saved Camera Positions,Camera Position 10,None,,
+0,Phrases,Care,None,,
+0,Phrases,Get Back,None,,
+0,Phrases,Need Wards,None,,
+0,Phrases,Stun,None,,
+0,Phrases,Help,None,,
+0,Phrases,Push,None,,
+0,Phrases,Well Played,None,,
+0,Phrases,Missing,None,,
+0,Phrases,Missing Top,None,,
+0,Phrases,Missing Mid,None,,
+0,Phrases,Missing Bottom,None,,

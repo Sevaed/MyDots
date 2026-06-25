@@ -1,0 +1,3 @@
+Name=Solidworks
+BundleID=SOLIDWORKS
+MouseSupport=5,10,30,

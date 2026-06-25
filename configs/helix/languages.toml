@@ -1,0 +1,9 @@
+[[language]]
+name = "lua"
+language-servers = [ "lua-language-server" ]
+
+[language-server.lua-language-server.config.Lua]
+diagnostics.globals = ["hl"]
+
+[language-server.lua-language-server.config.Lua.workspace]
+library = ["/usr/share/hypr/stubs"]

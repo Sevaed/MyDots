@@ -1,0 +1,183 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Common,Move Forward,None,W ↓,W ↑
+0,Common,Move Backward,None,S ↓,S ↑
+0,Common,Strafe Left,None,A ↓,A ↑
+0,Common,Strafe Right,None,D ↓,D ↑
+0,Common,Walk,None,ControlLeft ↓,ControlLeft ↑
+0,Common,Sprint,None,ShiftLeft ↓,ShiftLeft ↑
+0,Common,Jump / Vault,None,Space ↓,Space ↑
+0,Common,Crouch,None,C ↓,C ↑
+0,Common,Prone,None,Z ↓,Z ↑
+0,Common,Interact,None,F ↓,F ↑
+0,Common,Toggle Perspective,None,V ↓,V ↑
+0,Common,Auto Run / Accelerate,None,= ↓,= ↑
+0,Common,Free Look,None,AltLeft ↓,AltLeft ↑
+0,Combat,Fire,None,MouseButton1 ↓,MouseButton1 ↑
+0,Combat,Aim / ADS,None,MouseButton2 ↓,MouseButton2 ↑
+0,Combat,Toggle Canted Sights,None,AltLeft ↓ + MouseButton1 ↓,AltLeft ↑ + MouseButton1 ↑
+0,Combat,Reload,None,R ↓,R ↑
+0,Combat,Next Weapon,None,ScrollUp,None
+0,Combat,Previous Weapon,None,ScrollDown,None
+0,Combat,Primary Weapon 1,None,1 ↓,1 ↑
+0,Combat,Primary Weapon 2,None,2 ↓,2 ↑
+0,Combat,Secondary Weapon,None,3 ↓,3 ↑
+0,Combat,Melee Weapon,None,4 ↓,4 ↑
+0,Combat,Throwables,None,5 ↓,5 ↑
+0,Combat,Cycle Firing Mode,None,B ↓,B ↑
+0,Combat,Peek Left,None,Q ↓,Q ↑
+0,Combat,Peek Right,None,E ↓,E ↑
+0,Combat,Holster Weapons,None,X ↓,X ↑
+0,Combat,Inspect Weapon,None,J ↓,J ↑
+0,Combat,Radio Message Wheel,None,MouseButton3 ↓,MouseButton3 ↑
+0,ADS,Scope Zoom In,None,ScrollUp,None
+0,ADS,Scope Zoom Out,None,ScrollDown,None
+0,ADS,Increase Zeroing / Next Reticle Type,None,PageUp ↓,PageUp ↑
+0,ADS,Decrease Zeroing / Previous Reticle Type,None,PageDown ↓,PageDown ↑
+0,ADS,Increase Reticle Brightness,None,ScrollUp,None
+0,ADS,Decrease Reticle Brightness,None,ScrollDown,None
+0,ADS,Hold Breath,None,ShiftLeft ↓,ShiftLeft ↑
+0,Throwing,Toggle Throwing Stance,None,MouseButton2 ↓,MouseButton2 ↑
+0,Throwing,Cook Grenade,None,R ↓,R ↑
+0,Item,Use MedKit,None,7 ↓,7 ↑
+0,Item,Use FirstAid,None,8 ↓,8 ↑
+0,Item,Use Bandage,None,9 ↓,9 ↑
+0,Item,Use Boost Item,None,0 ↓,0 ↑
+0,Item,Use Heal Item,None,- ↓,- ↑
+0,Vehicle,Accelerate,None,W ↓,W ↑
+0,Vehicle,Brake / Reverse,None,S ↓,S ↑
+0,Vehicle,Steer Left,None,A ↓,A ↑
+0,Vehicle,Steer Right,None,D ↓,D ↑
+0,Vehicle,Handbrake,None,Space ↓,Space ↑
+0,Vehicle,Boost,None,ShiftLeft ↓,ShiftLeft ↑
+0,Vehicle,Toggle Ignition,None,Z ↓,Z ↑
+0,Vehicle,Horn,None,MouseButton1 ↓,MouseButton1 ↑
+0,Vehicle,Re-skin Vehicle,None,L ↓,L ↑
+0,Vehicle,Toggle Vehicle Music,None,F5 ↓,F5 ↑
+0,Vehicle,Change Vehicle Music,None,F6 ↓,F6 ↑
+0,Vehicle,Increase Vehicle Music Volume,None,ScrollUp,None
+0,Vehicle,Decrease Vehicle Music Volume,None,ScrollDown,None
+0,Motorcycle,Air Control - Lean Back,None,Space ↓,Space ↑
+0,Motorcycle,Air Control - Lean Forward,None,ControlLeft ↓,ControlLeft ↑
+0,Motorcycle,Air Control - Lean Right,None,E ↓,E ↑
+0,Motorcycle,Air Control - Lean Left,None,Q ↓,Q ↑
+0,Vehicle Seats,Vehicle Driver's Seat,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Vehicle Seats,Move to Vehicle Seat 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Vehicle Seats,Move to Vehicle Seat 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Vehicle Seats,Move to Vehicle Seat 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Vehicle Seats,Move to Vehicle Seat 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Vehicle Seats,Move to Vehicle Seat 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Vehicle Seats,Move to Vehicle Seat 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Vehicle Seats,Move to Vehicle Seat 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Vehicle Seats,Move to Vehicle Seat 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Vehicle Seats,Move to Vehicle Seat 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Swimming,Swim Up,None,Space ↓,Space ↑
+0,Swimming,Dive,None,C ↓,C ↑
+0,UI,World Map,None,M ↓,M ↑
+0,UI,Mark my Location,None,Insert ↓,Insert ↑
+0,UI,Delete Marker,None,Delete ↓,Delete ↑
+0,UI,Extended Minimap,None,N ↓,N ↑
+0,UI,Quick Marker,None,AltLeft ↓ + MouseButton3 ↓,AltLeft ↑ + MouseButton3 ↑
+0,UI,Inventory,None,Insert ↓,Insert ↑
+0,UI,Select Item Quantity,None,ControlLeft ↓,ControlLeft ↑
+0,UI,Throwable Items Wheel,None,G ↓,G ↑
+0,UI,Heal Items Wheel,None,` ↓,` ↑
+0,UI,Emotes Wheel,None,F4 ↓,F4 ↑
+0,UI,Mission List,None,P ↓,P ↑
+0,UI,Toggle UI,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,UI,Toggle Key Guide,None,AltLeft ↓ + K ↓,AltLeft ↑ + K ↑
+0,UI,Settings,None,O ↓,O ↑
+0,Sound,Push to Talk,None,T ↓,T ↑
+0,Sound,Mute Voice Chat,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Sound,Cycle Voice Channels,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Sound,Mute Master Volume,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Sound,Instant Volume Reducer,None,F7 ↓,F7 ↑
+0,Spectator Mode,Next Player,None,PageUp ↓,PageUp ↑
+0,Spectator Mode,Previous Player,None,PageDown ↓,PageDown ↑
+0,Spectator Mode,Report Player,None,R ↓,R ↑
+0,Observer Mode,Spectator Cam,None,MouseButton1 ↓,MouseButton1 ↑
+0,Observer Mode,Follow Cam,None,MouseButton2 ↓,MouseButton2 ↑
+0,Observer Mode,Free Cam,None,Space ↓,Space ↑
+0,Observer Mode,Third Person Spectate,None,Y ↓,Y ↑
+0,Observer Mode,Cam Zoom Reset,None,MouseButton3 ↓,MouseButton3 ↑
+0,Observer Mode,Free Cam Ascend,None,E ↓,E ↑
+0,Observer Mode,Free Cam Descend,None,Q ↓,Q ↑
+0,Observer Mode,Increase Camera Speed,None,ShiftLeft ↓,ShiftLeft ↑
+0,Observer Mode,Decrease Camera Speed,None,Enter ↓,Enter ↑
+0,Observer Mode,Smooth Free Cam,None,ControlLeft ↓,ControlLeft ↑
+0,Observer Mode,Toggle Player Tag,None,K ↓,K ↑
+0,Observer Mode,Toggle Player Stats,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Observer Mode,Increase Player Tag Visibility Range,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,Observer Mode,Decrease Player Tag Visibility Range,None,] ↓,] ↑
+0,Observer Mode,Toggle X-Ray,None,[ ↓,[ ↑
+0,Observer Mode,Player List,None,X ↓,X ↑
+0,Observer Mode,Show Care Package,None,Tab ↓,Tab ↑
+0,Observer Mode,Toggle Damage Indicator,None,AltLeft ↓ + D ↓,AltLeft ↑ + D ↑
+0,Observer Mode,Toggle Tracer Visibility,None,Backspace ↓,Backspace ↑
+0,Observer Mode,Tracer Team Color,None,ShiftLeft ↓ + Backspace ↓,ShiftLeft ↑ + Backspace ↑
+0,Observer Mode,Tracer Display Mode,None,ControlLeft ↓ + Backspace ↓,ControlLeft ↑ + Backspace ↑
+0,Observer Mode,Toggle World Map Team Logos,None,Num+ ↓,Num+ ↑
+0,Observer Presets,Save Position 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Observer Presets,Save Position 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Observer Presets,Save Position 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Observer Presets,Save Position 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Observer Presets,Save Position 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Observer Presets,Save Position 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Observer Presets,Save Position 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Observer Presets,Save Position 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Observer Presets,Save Position 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Observer Presets,Save Position 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Observer Presets,Move to Saved Position 1,None,1 ↓,1 ↑
+0,Observer Presets,Move to Saved Position 2,None,2 ↓,2 ↑
+0,Observer Presets,Move to Saved Position 3,None,3 ↓,3 ↑
+0,Observer Presets,Move to Saved Position 4,None,4 ↓,4 ↑
+0,Observer Presets,Move to Saved Position 5,None,5 ↓,5 ↑
+0,Observer Presets,Move to Saved Position 6,None,6 ↓,6 ↑
+0,Observer Presets,Move to Saved Position 7,None,7 ↓,7 ↑
+0,Observer Presets,Move to Saved Position 8,None,8 ↓,8 ↑
+0,Observer Presets,Move to Saved Position 9,None,9 ↓,9 ↑
+0,Observer Presets,Move to Saved Position 10,None,0 ↓,0 ↑
+0,Observer Presets,Save Player 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Observer Presets,Save Player 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Observer Presets,Save Player 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Observer Presets,Save Player 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Observer Presets,Save Player 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Observer Presets,Save Player 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Observer Presets,Save Player 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Observer Presets,Save Player 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Observer Presets,Save Player 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Observer Presets,Save Player 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Observer Presets,Save Player 11,None,ControlLeft ↓ + F1 ↓,ControlLeft ↑ + F1 ↑
+0,Observer Presets,Save Player 12,None,ControlLeft ↓ + F2 ↓,ControlLeft ↑ + F2 ↑
+0,Observer Presets,Save Player 13,None,ControlLeft ↓ + F3 ↓,ControlLeft ↑ + F3 ↑
+0,Observer Presets,Save Player 14,None,ControlLeft ↓ + F4 ↓,ControlLeft ↑ + F4 ↑
+0,Observer Presets,Save Player 15,None,ControlLeft ↓ + F5 ↓,ControlLeft ↑ + F5 ↑
+0,Observer Presets,Save Player 16,None,ControlLeft ↓ + F6 ↓,ControlLeft ↑ + F6 ↑
+0,Observer Presets,Save Player 17,None,ControlLeft ↓ + F7 ↓,ControlLeft ↑ + F7 ↑
+0,Observer Presets,Save Player 18,None,ControlLeft ↓ + F8 ↓,ControlLeft ↑ + F8 ↑
+0,Observer Presets,Save Player 19,None,ControlLeft ↓ + F9 ↓,ControlLeft ↑ + F9 ↑
+0,Observer Presets,Save Player 20,None,ControlLeft ↓ + F10 ↓,ControlLeft ↑ + F10 ↑
+0,Observer Presets,Spectate Saved Player 1,None,1 ↓,1 ↑
+0,Observer Presets,Spectate Saved Player 2,None,2 ↓,2 ↑
+0,Observer Presets,Spectate Saved Player 3,None,3 ↓,3 ↑
+0,Observer Presets,Spectate Saved Player 4,None,4 ↓,4 ↑
+0,Observer Presets,Spectate Saved Player 5,None,5 ↓,5 ↑
+0,Observer Presets,Spectate Saved Player 6,None,6 ↓,6 ↑
+0,Observer Presets,Spectate Saved Player 7,None,7 ↓,7 ↑
+0,Observer Presets,Spectate Saved Player 8,None,8 ↓,8 ↑
+0,Observer Presets,Spectate Saved Player 9,None,9 ↓,9 ↑
+0,Observer Presets,Spectate Saved Player 10,None,0 ↓,0 ↑
+0,Observer Presets,Spectate Saved Player 11,None,F1 ↓,F1 ↑
+0,Observer Presets,Spectate Saved Player 12,None,F2 ↓,F2 ↑
+0,Observer Presets,Spectate Saved Player 13,None,F3 ↓,F3 ↑
+0,Observer Presets,Spectate Saved Player 14,None,F4 ↓,F4 ↑
+0,Observer Presets,Spectate Saved Player 15,None,F5 ↓,F5 ↑
+0,Observer Presets,Spectate Saved Player 16,None,F6 ↓,F6 ↑
+0,Observer Presets,Spectate Saved Player 17,None,F7 ↓,F7 ↑
+0,Observer Presets,Spectate Saved Player 18,None,F8 ↓,F8 ↑
+0,Observer Presets,Spectate Saved Player 19,None,F9 ↓,F9 ↑
+0,Observer Presets,Spectate Saved Player 20,None,F10 ↓,F10 ↑
+0,Replay,Toggle Timeline,None,J ↓,J ↑
+0,Replay,Play / Pause,None,P ↓,P ↑
+0,Replay,Increase Play Speed,None,Up ↓,Up ↑
+0,Replay,Decrease Play Speed,None,Down ↓,Down ↑
+0,Replay,Return to Recorded Player,None,B ↓,B ↑

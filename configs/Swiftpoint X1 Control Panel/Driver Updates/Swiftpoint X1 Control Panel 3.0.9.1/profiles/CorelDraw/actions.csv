@@ -1,0 +1,389 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Anchor Editing,Micro Nudge Anchor Down,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Anchor Editing,Micro Nudge Anchor Left,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Anchor Editing,Micro Nudge Anchor Right,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Anchor Editing,Micro Nudge Anchor Up,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Anchor Editing,Nudge Anchor Down,None,Down ↓,Down ↑
+0,Anchor Editing,Nudge Anchor Left,None,Left ↓,Left ↑
+0,Anchor Editing,Nudge Anchor Right,None,Right ↓,Right ↑
+0,Anchor Editing,Nudge Anchor Up,None,Up ↓,Up ↑
+0,Anchor Editing,Select All Anchors,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Anchor Editing,Super Nudge Anchor Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Anchor Editing,Super Nudge Anchor Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Anchor Editing,Super Nudge Anchor Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Anchor Editing,Super Nudge Anchor Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Curve Editing,Toggle Cusp and Smooth,None,C ↓,C ↑
+0,Curve Editing,Toggle Line,None,L ↓,L ↑
+0,Curve Editing,Toggle Smooth and Symmetrical,None,S ↓,S ↑
+0,Effects,Displays an image at normal size,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Effects,Displays an image to fit in the window,None,F4 ↓,F4 ↑
+0,Effects,Pan tool,None,H ↓,H ↑
+0,Effects,Redoes the last undo operation,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Effects,Reset,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Effects,Reverses the last operation,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Effects Preview,Displays an image to fit in the window,None,F4 ↓,F4 ↑
+0,Effects Preview,Pan tool,None,H ↓,H ↑
+0,Effects Preview,Reset,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Effects Preview,Zoom in,None,F2 ↓,F2 ↑
+0,Effects Preview,Zoom out,None,F3 ↓,F3 ↑
+0,Main,Add to Selection Group 0,None,AltLeft ↓ + 0 ↓,AltLeft ↑ + 0 ↑
+0,Main,Add to Selection Group 1,None,AltLeft ↓ + 1 ↓,AltLeft ↑ + 1 ↑
+0,Main,Add to Selection Group 2,None,AltLeft ↓ + 2 ↓,AltLeft ↑ + 2 ↑
+0,Main,Add to Selection Group 3,None,AltLeft ↓ + 3 ↓,AltLeft ↑ + 3 ↑
+0,Main,Add to Selection Group 4,None,AltLeft ↓ + 4 ↓,AltLeft ↑ + 4 ↑
+0,Main,Add to Selection Group 5,None,AltLeft ↓ + 5 ↓,AltLeft ↑ + 5 ↑
+0,Main,Add to Selection Group 6,None,AltLeft ↓ + 6 ↓,AltLeft ↑ + 6 ↑
+0,Main,Add to Selection Group 7,None,AltLeft ↓ + 7 ↓,AltLeft ↑ + 7 ↑
+0,Main,Add to Selection Group 8,None,AltLeft ↓ + 8 ↓,AltLeft ↑ + 8 ↑
+0,Main,Add to Selection Group 9,None,AltLeft ↓ + 9 ↓,AltLeft ↑ + 9 ↑
+0,Main,Align Bottom,None,B ↓,B ↑
+0,Main,Align Centers Horizontally,None,C ↓,C ↑
+0,Main,Align Centers Vertically,None,E ↓,E ↑
+0,Main,Align Left,None,L ↓,L ↑
+0,Main,Align Right,None,R ↓,R ↑
+0,Main,Align Top,None,T ↓,T ↑
+0,Main,Align and Distribute,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,Main,Align to Baseline,None,AltLeft ↓ + F12 ↓,AltLeft ↑ + F12 ↑
+0,Main,Alignment Guides,None,AltLeft ↓ + ShiftLeft ↓ + A ↓,AltLeft ↑ + ShiftLeft ↑ + A ↑
+0,Main,Artistic Media,None,I ↓,I ↑
+0,Main,Back One,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Main,Break Apart,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Main,Break Symmetry Link,None,AltLeft ↓ + X ↓,AltLeft ↑ + X ↑
+0,Main,Brightness/Contrast/Intensity...,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Main,Bring up Property Bar,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Main,Bullets,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Main,Center to Page,None,P ↓,P ↑
+0,Main,Close Window,None,ControlLeft ↓ + F4 ↓,ControlLeft ↑ + F4 ↑
+0,Main,Color Balance...,None,ControlLeft ↓ + ShiftLeft ↓ + B ↓,ControlLeft ↑ + ShiftLeft ↑ + B ↑
+0,Main,Color Eyedropper,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Main,Color Styles,None,ControlLeft ↓ + F6 ↓,ControlLeft ↑ + F6 ↑
+0,Main,Combine,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Main,Contour,None,ControlLeft ↓ + F9 ↓,ControlLeft ↑ + F9 ↑
+0,Main,Convert,None,ControlLeft ↓ + F8 ↓,ControlLeft ↑ + F8 ↑
+0,Main,Convert Outline to Object,None,ControlLeft ↓ + ShiftLeft ↓ + Q ↓,ControlLeft ↑ + ShiftLeft ↑ + Q ↑
+0,Main,Convert to Curves,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,Main,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Main,Copy,None,ControlLeft ↓ + Insert ↓,ControlLeft ↑ + Insert ↑
+0,Main,CorelDRAW...,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Main,Create New Symmetry,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,Main,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Main,Cut,None,ShiftLeft ↓ + Delete ↓,ShiftLeft ↑ + Delete ↑
+0,Main,Define Selection Group 0,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Main,Define Selection Group 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Main,Define Selection Group 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Main,Define Selection Group 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Main,Define Selection Group 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Main,Define Selection Group 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Main,Define Selection Group 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Main,Define Selection Group 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Main,Define Selection Group 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Main,Define Selection Group 9,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Main,Delete,None,Delete ↓,Delete ↑
+0,Main,Distribute Bottom,None,ShiftLeft ↓ + B ↓,ShiftLeft ↑ + B ↑
+0,Main,Distribute Centers Horizontally,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Main,Distribute Centers Vertically,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Main,Distribute Left,None,ShiftLeft ↓ + L ↓,ShiftLeft ↑ + L ↑
+0,Main,Distribute Right,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Main,Distribute Spacing Horizontally,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Main,Distribute Spacing Vertically,None,ShiftLeft ↓ + A ↓,ShiftLeft ↑ + A ↑
+0,Main,Distribute Top,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Main,Document Grid,None,AltLeft ↓ + Y ↓,AltLeft ↑ + Y ↑
+0,Main,Duplicate,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Main,Dynamic Guides,None,AltLeft ↓ + ShiftLeft ↓ + D ↓,AltLeft ↑ + ShiftLeft ↑ + D ↑
+0,Main,Edit Symmetry,None,AltLeft ↓ + ShiftLeft ↓ + Y ↓,AltLeft ↑ + ShiftLeft ↑ + Y ↑
+0,Main,Edit Text...,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,Main,Ellipse,None,F7 ↓,F7 ↑
+0,Main,Envelope,None,ControlLeft ↓ + F7 ↓,ControlLeft ↑ + F7 ↑
+0,Main,Eraser,None,X ↓,X ↑
+0,Main,Exit,None,AltLeft ↓ + F4 ↓,AltLeft ↑ + F4 ↑
+0,Main,Export...,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Main,Find and Replace,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Main,Finish Editing Symmetry,None,AltLeft ↓ + ShiftLeft ↓ + E ↓,AltLeft ↑ + ShiftLeft ↑ + E ↑
+0,Main,Font Size Decrease,None,ControlLeft ↓ + Num2 ↓,ControlLeft ↑ + Num2 ↑
+0,Main,Font Size Increase,None,ControlLeft ↓ + Num8 ↓,ControlLeft ↑ + Num8 ↑
+0,Main,Font Size Next Combo Size,None,ControlLeft ↓ + Num6 ↓,ControlLeft ↑ + Num6 ↑
+0,Main,Font Size Previous Combo Size,None,ControlLeft ↓ + Num4 ↓,ControlLeft ↑ + Num4 ↑
+0,Main,Forward One,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Main,Fountain Fill,None,F11 ↓,F11 ↑
+0,Main,Freehand,None,F5 ↓,F5 ↑
+0,Main,Full-screen Preview,None,F9 ↓,F9 ↑
+0,Main,Glyphs,None,ControlLeft ↓ + F11 ↓,ControlLeft ↑ + F11 ↑
+0,Main,Graph Paper,None,D ↓,D ↑
+0,Main,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Main,Horizontal Text,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Main,Hue/Saturation/Lightness...,None,ControlLeft ↓ + ShiftLeft ↓ + U ↓,ControlLeft ↑ + ShiftLeft ↑ + U ↑
+0,Main,Import...,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Main,Interactive Fill,None,G ↓,G ↑
+0,Main,Join Curves,None,ControlLeft ↓ + ShiftLeft ↓ + J ↓,ControlLeft ↑ + ShiftLeft ↑ + J ↑
+0,Main,Lens,None,AltLeft ↓ + F3 ↓,AltLeft ↑ + F3 ↑
+0,Main,LiveSketch,None,S ↓,S ↑
+0,Main,Mesh Fill,None,M ↓,M ↑
+0,Main,Micro Nudge Down,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Main,Micro Nudge Left,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Main,Micro Nudge Right,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Main,Micro Nudge Up,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Main,Mirror Symmetry,None,AltLeft ↓ + ShiftLeft ↓ + M ↓,AltLeft ↑ + ShiftLeft ↑ + M ↑
+0,Main,Navigator,None,N ↓,N ↑
+0,Main,New...,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Main,Next Page,None,PageDown ↓,PageDown ↑
+0,Main,Nudge Down,None,Down ↓,Down ↑
+0,Main,Nudge Left,None,Left ↓,Left ↑
+0,Main,Nudge Right,None,Right ↓,Right ↑
+0,Main,Nudge Up,None,Up ↓,Up ↑
+0,Main,Object Styles,None,ControlLeft ↓ + F5 ↓,ControlLeft ↑ + F5 ↑
+0,Main,Objects,None,AltLeft ↓ + Z ↓,AltLeft ↑ + Z ↑
+0,Main,Open...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Main,Outline Color,None,ShiftLeft ↓ + F12 ↓,ShiftLeft ↑ + F12 ↑
+0,Main,Outline Pen,None,F12 ↓,F12 ↑
+0,Main,Pan,None,H ↓,H ↑
+0,Main,Pan Down,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Main,Pan Left,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Main,Pan Right,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Main,Pan Up,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Main,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Main,Paste,None,ShiftLeft ↓ + Insert ↓,ShiftLeft ↑ + Insert ↑
+0,Main,Paste in View,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Main,Polygon,None,Y ↓,Y ↑
+0,Main,Previous Page,None,PageUp ↓,PageUp ↑
+0,Main,Print...,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Main,Properties,None,AltLeft ↓ + Enter ↓,AltLeft ↑ + Enter ↑
+0,Main,Record Temporary Script,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,Main,Rectangle,None,F6 ↓,F6 ↑
+0,Main,Redo %s,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Main,Refresh Window,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,Main,Remove Symmetry,None,AltLeft ↓ + ShiftLeft ↓ + S ↓,AltLeft ↑ + ShiftLeft ↑ + S ↑
+0,Main,Repeat %s,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Main,Rotate,None,AltLeft ↓ + F8 ↓,AltLeft ↑ + F8 ↑
+0,Main,Rulers,None,AltLeft ↓ + ShiftLeft ↓ + R ↓,AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,Main,Run Temporary Script,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Main,Sample Mesh Fill Color,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Main,Save As...,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Main,Save...,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Main,Scale and mirror,None,AltLeft ↓ + F9 ↓,AltLeft ↑ + F9 ↑
+0,Main,Script Editor...,None,AltLeft ↓ + F11 ↓,AltLeft ↑ + F11 ↑
+0,Main,Scripts,None,AltLeft ↓ + ShiftLeft ↓ + F11 ↓,AltLeft ↑ + ShiftLeft ↑ + F11 ↑
+0,Main,Select all objects,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Main,Self,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Main,Shape,None,F10 ↓,F10 ↑
+0,Main,Show full preview,None,AltLeft ↓ + ShiftLeft ↓ + P ↓,AltLeft ↑ + ShiftLeft ↑ + P ↑
+0,Main,Show unselected nodes with fill,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,Main,Size,None,AltLeft ↓ + F10 ↓,AltLeft ↑ + F10 ↑
+0,Main,Smart Drawing,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Main,Snap Off,None,AltLeft ↓ + Q ↓,AltLeft ↑ + Q ↑
+0,Main,Spell Check...,None,ControlLeft ↓ + F12 ↓,ControlLeft ↑ + F12 ↑
+0,Main,Spiral,None,A ↓,A ↑
+0,Main,Step and Repeat,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Main,Stop Recording,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Main,Super Nudge Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Main,Super Nudge Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Main,Super Nudge Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Main,Super Nudge Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Main,Symbols,None,ControlLeft ↓ + F3 ↓,ControlLeft ↑ + F3 ↑
+0,Main,Text,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Main,Text,None,F8 ↓,F8 ↑
+0,Main,To Back of Layer,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft ↑ + PageDown ↑
+0,Main,To Back of Page,None,ControlLeft ↓ + End ↓,ControlLeft ↑ + End ↑
+0,Main,To Front of Layer,None,ShiftLeft ↓ + PageUp ↓,ShiftLeft ↑ + PageUp ↑
+0,Main,To Front of Page,None,ControlLeft ↓ + Home ↓,ControlLeft ↑ + Home ↑
+0,Main,Toggle Tool,None,Space ↓,Space ↑
+0,Main,Toggle Pick State,None,ControlLeft ↓ + Space ↓,ControlLeft ↑ + Space ↑
+0,Main,Toggle View,None,ShiftLeft ↓ + F9 ↓,ShiftLeft ↑ + F9 ↑
+0,Main,Toggle preview colors,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Main,Transform,None,AltLeft ↓ + F7 ↓,AltLeft ↑ + F7 ↑
+0,Main,Undo %s,None,AltLeft ↓ + Backspace ↓,AltLeft ↑ + Backspace ↑
+0,Main,Undo %s,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Main,Ungroup,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Main,Uniform Fill,None,ShiftLeft ↓ + F11 ↓,ShiftLeft ↑ + F11 ↑
+0,Main,Vertical Text,None,ControlLeft ↓ + . ↓,ControlLeft ↑ + . ↑
+0,Main,Views,None,ControlLeft ↓ + F2 ↓,ControlLeft ↑ + F2 ↑
+0,Main,Visual Studio Editor...,None,AltLeft ↓ + ShiftLeft ↓ + F12 ↓,AltLeft ↑ + ShiftLeft ↑ + F12 ↑
+0,Main,What's This?,None,ShiftLeft ↓ + F1 ↓,ShiftLeft ↑ + F1 ↑
+0,Main,Zoom,None,Z ↓,Z ↑
+0,Main,Zoom In,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,Main,Zoom One-Shot,None,F2 ↓,F2 ↑
+0,Main,Zoom Out,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Main,Zoom To Fit,None,F4 ↓,F4 ↑
+0,Main,Zoom To Page,None,ShiftLeft ↓ + F4 ↓,ShiftLeft ↑ + F4 ↑
+0,Main,Zoom To Selection,None,ShiftLeft ↓ + F2 ↓,ShiftLeft ↑ + F2 ↑
+0,Print Merge,Add Column...,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Print Merge,Add column ending value,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Print Merge,Add column starting vlue,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Print Merge,Configure Columns,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Print Merge,Continually increment value,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Print Merge,Continually increment value,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Print Merge,Edit column starting value,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Print Merge,Edit ending value,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Print Merge,Import File...,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Print Merge,Open ODBC Data Source...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Print Merge,Save Data Source...,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Print Merge,View Single Record,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Print Preview,Close Print Preview,None,AltLeft ↓ + C ↓,AltLeft ↑ + C ↑
+0,Print Preview,Close Print Preview,None,AltLeft ↓ + F4 ↓,AltLeft ↑ + F4 ↑
+0,Print Preview,Duplexing Setup Wizard...,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Print Preview,Full Screen,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Print Preview,Full Screen,None,F9 ↓,F9 ↑
+0,Print Preview,General...,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Print Preview,Go To...,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Print Preview,Help Topics...,None,ControlLeft ↓ + F1 ↓,ControlLeft ↑ + F1 ↑
+0,Print Preview,Layout...,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Print Preview,Preflight...,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Print Preview,Prepress...,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Print Preview,Print,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Print Preview,Print Options,None,AltLeft ↓ + O ↓,AltLeft ↑ + O ↑
+0,Print Preview,Print This Sheet Now,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Print Preview,Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Print Preview,Save Print Style As...,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Print Preview,Save Print Style As...,None,F12 ↓,F12 ↑
+0,Print Preview,Separations...,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Print Preview,Show Current Tile,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Straighten Image,Crop image,None,C ↓,C ↑
+0,Straighten Image,Displays an image at normal size,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Straighten Image,Displays an image to fit in the window,None,F4 ↓,F4 ↑
+0,Straighten Image,Grid:,None,G ↓,G ↑
+0,Straighten Image,Pan tool,None,H ↓,H ↑
+0,Straighten Image,Reset,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Table Editing,Expand Selection,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Table Editing,Merge Cells,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Table Editing,Move Down,None,Down ↓,Down ↑
+0,Table Editing,Move Left,None,Left ↓,Left ↑
+0,Table Editing,Move Right,None,Right ↓,Right ↑
+0,Table Editing,Move Up,None,Up ↓,Up ↑
+0,Table Editing,Select Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Table Editing,Select Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Table Editing,Select Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Table Editing,Select Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Table Editing,Table,None,Delete ↓,Delete ↑
+0,Table Text Editing,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Table Text Editing,Center,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Table Text Editing,Change Case...,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,Table Text Editing,Column/Frame Break,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Table Text Editing,Delete Character to Right,None,Delete ↓,Delete ↑
+0,Table Text Editing,Delete Word to Right,None,ControlLeft ↓ + Delete ↓,ControlLeft ↑ + Delete ↑
+0,Table Text Editing,Em Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Table Text Editing,Em Space,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,Table Text Editing,En Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Table Text Editing,En Space,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Table Text Editing,Expand Selection,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Table Text Editing,Find and Replace Text...,None,AltLeft ↓ + F3 ↓,AltLeft ↑ + F3 ↑
+0,Table Text Editing,Font List,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Table Text Editing,Font Size,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Table Text Editing,Font Size Decrease,None,ControlLeft ↓ + Num2 ↓,ControlLeft ↑ + Num2 ↑
+0,Table Text Editing,Font Size Increase,None,ControlLeft ↓ + Num8 ↓,ControlLeft ↑ + Num8 ↑
+0,Table Text Editing,Font Size Next Combo Size,None,ControlLeft ↓ + Num6 ↓,ControlLeft ↑ + Num6 ↑
+0,Table Text Editing,Font Size Previous Combo Size,None,ControlLeft ↓ + Num4 ↓,ControlLeft ↑ + Num4 ↑
+0,Table Text Editing,Font Style,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Table Text Editing,Force Justify,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Table Text Editing,Full Justify,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Table Text Editing,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Table Text Editing,Left,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Table Text Editing,Move Down 1 Frame,None,PageDown ↓,PageDown ↑
+0,Table Text Editing,Move Down 1 Line,None,Down ↓,Down ↑
+0,Table Text Editing,Move Down 1 Paragraph,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Table Text Editing,Move Left 1 Character,None,Left ↓,Left ↑
+0,Table Text Editing,Move Left 1 Word,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Table Text Editing,Move Right 1 Character,None,Right ↓,Right ↑
+0,Table Text Editing,Move Right 1 Word,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Table Text Editing,Move Up 1 Frame,None,PageUp ↓,PageUp ↑
+0,Table Text Editing,Move Up 1 Line,None,Up ↓,Up ↑
+0,Table Text Editing,Move Up 1 Paragraph,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Table Text Editing,Move to Beginning of Frame,None,ControlLeft ↓ + Home ↓,ControlLeft ↑ + Home ↑
+0,Table Text Editing,Move to Beginning of Line,None,Home ↓,Home ↑
+0,Table Text Editing,Move to Beginning of Text,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Table Text Editing,Move to End of Frame,None,ControlLeft ↓ + End ↓,ControlLeft ↑ + End ↑
+0,Table Text Editing,Move to End of Line,None,End ↓,End ↑
+0,Table Text Editing,Move to End of Text,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Table Text Editing,Non-breaking Hyphen,None,ControlLeft ↓ + ShiftLeft ↓ + - ↓,ControlLeft ↑ + ShiftLeft ↑ + - ↑
+0,Table Text Editing,Non-breaking Hyphen,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Table Text Editing,Non-breaking Space,None,ControlLeft ↓ + ShiftLeft ↓ + Space ↓,ControlLeft ↑ + ShiftLeft ↑ + Space ↑
+0,Table Text Editing,None,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Table Text Editing,Optional Hyphen,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Table Text Editing,Right,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Table Text Editing,Select Down 1 Frame,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft ↑ + PageDown ↑
+0,Table Text Editing,Select Down 1 Line,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Table Text Editing,Select Down 1 Paragraph,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Table Text Editing,Select Left 1 Character,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Table Text Editing,Select Left 1 Word,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Table Text Editing,Select Right 1 Character,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Table Text Editing,Select Right 1 Word,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Table Text Editing,Select Up 1 Frame,None,ShiftLeft ↓ + PageUp ↓,ShiftLeft ↑ + PageUp ↑
+0,Table Text Editing,Select Up 1 Line,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Table Text Editing,Select Up 1 Paragraph,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Table Text Editing,Select to Beginning of Frame,None,ControlLeft ↓ + ShiftLeft ↓ + Home ↓,ControlLeft ↑ + ShiftLeft ↑ + Home ↑
+0,Table Text Editing,Select to Beginning of Line,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,Table Text Editing,Select to Beginning of Text,None,ControlLeft ↓ + ShiftLeft ↓ + PageUp ↓,ControlLeft ↑ + ShiftLeft ↑ + PageUp ↑
+0,Table Text Editing,Select to End of Frame,None,ControlLeft ↓ + ShiftLeft ↓ + End ↓,ControlLeft ↑ + ShiftLeft ↑ + End ↑
+0,Table Text Editing,Select to End of Line,None,ShiftLeft ↓ + End ↓,ShiftLeft ↑ + End ↑
+0,Table Text Editing,Select to End of Text,None,ControlLeft ↓ + ShiftLeft ↓ + PageDown ↓,ControlLeft ↑ + ShiftLeft ↑ + PageDown ↑
+0,Table Text Editing,Show Non-Printing Characters,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Table Text Editing,Small Capitals,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,Table Text Editing,Style List,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Table Text Editing,Text,None,ControlLeft ↓ + F10 ↓,ControlLeft ↑ + F10 ↑
+0,Table Text Editing,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Table Text Editing,Use drop cap,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Table Text Editing,¼ Em Space,None,ControlLeft ↓ + AltLeft ↓ + Space ↓,ControlLeft ↑ + AltLeft ↑ + Space ↑
+0,Text Editing,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Text Editing,Center,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Text Editing,Change Case...,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,Text Editing,Column/Frame Break,None,ControlLeft ↓ + Enter ↓,ControlLeft ↑ + Enter ↑
+0,Text Editing,Delete Character to Right,None,Delete ↓,Delete ↑
+0,Text Editing,Delete Word to Right,None,ControlLeft ↓ + Delete ↓,ControlLeft ↑ + Delete ↑
+0,Text Editing,Em Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Text Editing,Em Space,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,Text Editing,En Dash,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Text Editing,En Space,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Text Editing,Font List,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Text Editing,Font Size Decrease,None,ControlLeft ↓ + Num2 ↓,ControlLeft ↑ + Num2 ↑
+0,Text Editing,Font Size Increase,None,ControlLeft ↓ + Num8 ↓,ControlLeft ↑ + Num8 ↑
+0,Text Editing,Font Size Next Combo Size,None,ControlLeft ↓ + Num6 ↓,ControlLeft ↑ + Num6 ↑
+0,Text Editing,Font Size Previous Combo Size,None,ControlLeft ↓ + Num4 ↓,ControlLeft ↑ + Num4 ↑
+0,Text Editing,Font Style,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Text Editing,Force Justify,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Text Editing,Full Justify,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Text Editing,HTML Font Size List,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Text Editing,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Text Editing,Left,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Text Editing,Move Down 1 Frame,None,PageDown ↓,PageDown ↑
+0,Text Editing,Move Down 1 Line,None,Down ↓,Down ↑
+0,Text Editing,Move Down 1 Paragraph,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Text Editing,Move Left 1 Character,None,Left ↓,Left ↑
+0,Text Editing,Move Left 1 Word,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Text Editing,Move Right 1 Character,None,Right ↓,Right ↑
+0,Text Editing,Move Right 1 Word,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Text Editing,Move Up 1 Frame,None,PageUp ↓,PageUp ↑
+0,Text Editing,Move Up 1 Line,None,Up ↓,Up ↑
+0,Text Editing,Move Up 1 Paragraph,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Text Editing,Move to Beginning of Frame,None,ControlLeft ↓ + Home ↓,ControlLeft ↑ + Home ↑
+0,Text Editing,Move to Beginning of Line,None,Home ↓,Home ↑
+0,Text Editing,Move to Beginning of Text,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Text Editing,Move to End of Frame,None,ControlLeft ↓ + End ↓,ControlLeft ↑ + End ↑
+0,Text Editing,Move to End of Line,None,End ↓,End ↑
+0,Text Editing,Move to End of Text,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Text Editing,Non-breaking Hyphen,None,ControlLeft ↓ + ShiftLeft ↓ + - ↓,ControlLeft ↑ + ShiftLeft ↑ + - ↑
+0,Text Editing,Non-breaking Hyphen,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Text Editing,Non-breaking Space,None,ControlLeft ↓ + ShiftLeft ↓ + Space ↓,ControlLeft ↑ + ShiftLeft ↑ + Space ↑
+0,Text Editing,None,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Text Editing,Optional Hyphen,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Text Editing,Right,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Text Editing,Select Down 1 Frame,None,ShiftLeft ↓ + PageDown ↓,ShiftLeft ↑ + PageDown ↑
+0,Text Editing,Select Down 1 Line,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Text Editing,Select Down 1 Paragraph,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Text Editing,Select Left 1 Character,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Text Editing,Select Left 1 Word,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Text Editing,Select Right 1 Character,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Text Editing,Select Right 1 Word,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Text Editing,Select Up 1 Frame,None,ShiftLeft ↓ + PageUp ↓,ShiftLeft ↑ + PageUp ↑
+0,Text Editing,Select Up 1 Line,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Text Editing,Select Up 1 Paragraph,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Text Editing,Select to Beginning of Frame,None,ControlLeft ↓ + ShiftLeft ↓ + Home ↓,ControlLeft ↑ + ShiftLeft ↑ + Home ↑
+0,Text Editing,Select to Beginning of Line,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,Text Editing,Select to Beginning of Text,None,ControlLeft ↓ + ShiftLeft ↓ + PageUp ↓,ControlLeft ↑ + ShiftLeft ↑ + PageUp ↑
+0,Text Editing,Select to End of Frame,None,ControlLeft ↓ + ShiftLeft ↓ + End ↓,ControlLeft ↑ + ShiftLeft ↑ + End ↑
+0,Text Editing,Select to End of Line,None,ShiftLeft ↓ + End ↓,ShiftLeft ↑ + End ↑
+0,Text Editing,Select to End of Text,None,ControlLeft ↓ + ShiftLeft ↓ + PageDown ↓,ControlLeft ↑ + ShiftLeft ↑ + PageDown ↑
+0,Text Editing,Show Non-Printing Characters,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Text Editing,Small Capitals,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,Text Editing,Style List,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Text Editing,Text,None,ControlLeft ↓ + F10 ↓,ControlLeft ↑ + F10 ↑
+0,Text Editing,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Text Editing,Use drop cap,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Text Editing,¼ Em Space,None,ControlLeft ↓ + AltLeft ↓ + Space ↓,ControlLeft ↑ + AltLeft ↑ + Space ↑

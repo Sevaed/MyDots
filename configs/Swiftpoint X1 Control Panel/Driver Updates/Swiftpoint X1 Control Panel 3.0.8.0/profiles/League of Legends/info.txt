@@ -1,0 +1,3 @@
+Name=League of Legends
+BundleID=League of Legends
+MouseSupport=5,20,30,

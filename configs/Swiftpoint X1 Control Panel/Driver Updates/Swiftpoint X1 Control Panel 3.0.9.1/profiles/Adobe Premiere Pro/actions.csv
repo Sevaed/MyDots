@@ -1,0 +1,343 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,Application,Selection Tool,None,V ↓,V ↑
+0,Application,Track Select Backward Tool,None,ShiftLeft ↓ + A ↓,ShiftLeft ↑ + A ↑
+0,Application,Track Select Forward Tool,None,A ↓,A ↑
+0,Application,Ripple Edit Tool,None,B ↓,B ↑
+0,Application,Rolling Edit Tool,None,N ↓,N ↑
+0,Application,Rate Stretch Tool,None,R ↓,R ↑
+0,Application,Razor Tool,None,C ↓,C ↑
+0,Application,Slip Tool,None,Y ↓,Y ↑
+0,Application,Slide Tool,None,U ↓,U ↑
+0,Application,Pen Tool,None,P ↓,P ↑
+0,Application,Hand Tool,None,H ↓,H ↑
+0,Application,Zoom Tool,None,Z ↓,Z ↑
+0,Application,Type Tool,None,T ↓,T ↑
+0,Application > File,New Project...,None,ControlLeft ↓ + AltLeft ↓ + N ↓,ControlLeft ↑ + AltLeft ↑ + N ↑
+0,Application > File,New Sequence...,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Application > File,New Bin,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Application > File,Open Project...,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Application > File,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,Application > File,Close Project,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,Application > File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,Application > File,Save As...,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,Application > File,Save a Copy...,None,ControlLeft ↓ + AltLeft ↓ + S ↓,ControlLeft ↑ + AltLeft ↑ + S ↑
+0,Application > File,Capture...,None,F5 ↓,F5 ↑
+0,Application > File,Batch Capture...,None,F6 ↓,F6 ↑
+0,Application > File,Import from Media Browser,None,ControlLeft ↓ + AltLeft ↓ + I ↓,ControlLeft ↑ + AltLeft ↑ + I ↑
+0,Application > File,Import...,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Application > File,Export Media...,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Application > File,Get Properties for Selection...,None,ControlLeft ↓ + ShiftLeft ↓ + H ↓,ControlLeft ↑ + ShiftLeft ↑ + H ↑
+0,Application > File,Exit,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,Application > Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Application > Edit,Redo,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Application > Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Application > Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Application > Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Application > Edit,Paste Insert,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Application > Edit,Paste Attributes...,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Application > Edit,Clear,None,Delete ↓,Delete ↑
+0,Application > Edit,Ripple Delete,None,ShiftLeft ↓ + Delete ↓,ShiftLeft ↑ + Delete ↑
+0,Application > Edit,Duplicate,None,ControlLeft ↓ + ShiftLeft ↓ + / ↓,ControlLeft ↑ + ShiftLeft ↑ + / ↑
+0,Application > Edit,Select All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Application > Edit,Deselect All,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,Application > Edit,Find...,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Application > Edit,Edit Original,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,Application > Edit,Keyboard Shortcuts...,None,ControlLeft ↓ + AltLeft ↓ + K ↓,ControlLeft ↑ + AltLeft ↑ + K ↑
+0,Application > Clip,Make Subclip...,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Application > Clip,Modify Audio Channels...,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Application > Clip,Audio Gain...,None,G ↓,G ↑
+0,Application > Clip,Speed/Duration...,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Application > Clip,Insert,None,", ↓",", ↑"
+0,Application > Clip,Overwrite,None,. ↓,. ↑
+0,Application > Clip,Enable,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Application > Clip,Link,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Application > Clip,Group,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Application > Clip,Ungroup,None,ControlLeft ↓ + ShiftLeft ↓ + G ↓,ControlLeft ↑ + ShiftLeft ↑ + G ↑
+0,Application > Sequence,Render Effects in Work Area,None,Enter ↓,Enter ↑
+0,Application > Sequence,Match Frame,None,F ↓,F ↑
+0,Application > Sequence,Reverse Match Frame,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Application > Sequence,Add Edit,None,ControlLeft ↓ + K ↓,ControlLeft ↑ + K ↑
+0,Application > Sequence,Add Edit to All Tracks,None,ControlLeft ↓ + ShiftLeft ↓ + K ↓,ControlLeft ↑ + ShiftLeft ↑ + K ↑
+0,Application > Sequence,Trim Edit,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Application > Sequence,Extend Selected Edit to Playhead,None,E ↓,E ↑
+0,Application > Sequence,Apply Video Transition,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Application > Sequence,Apply Audio Transition,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Application > Sequence,Apply Default Transitions to Selection,None,ShiftLeft ↓ + D ↓,ShiftLeft ↑ + D ↑
+0,Application > Sequence,Lift,None,; ↓,; ↑
+0,Application > Sequence,Extract,None,' ↓,' ↑
+0,Application > Sequence,Zoom In,None,= ↓,= ↑
+0,Application > Sequence,Zoom Out,None,- ↓,- ↑
+0,Application > Sequence,Go to Next Gap in Sequence,None,ShiftLeft ↓ + ; ↓,ShiftLeft ↑ + ; ↑
+0,Application > Sequence,Go to Previous Gap in Sequence,None,ControlLeft ↓ + ShiftLeft ↓ + ; ↓,ControlLeft ↑ + ShiftLeft ↑ + ; ↑
+0,Application > Sequence,Snap in Timeline,None,S ↓,S ↑
+0,Application > Sequence,Make Subsequence,None,ShiftLeft ↓ + U ↓,ShiftLeft ↑ + U ↑
+0,Application > Markers,Mark In,None,I ↓,I ↑
+0,Application > Markers,Mark Out,None,O ↓,O ↑
+0,Application > Markers,Mark Clip,None,X ↓,X ↑
+0,Application > Markers,Mark Selection,None,/ ↓,/ ↑
+0,Application > Markers,Go to In,None,ShiftLeft ↓ + I ↓,ShiftLeft ↑ + I ↑
+0,Application > Markers,Go to Out,None,ShiftLeft ↓ + O ↓,ShiftLeft ↑ + O ↑
+0,Application > Markers,Clear In,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Application > Markers,Clear Out,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Application > Markers,Clear In and Out,None,ControlLeft ↓ + ShiftLeft ↓ + X ↓,ControlLeft ↑ + ShiftLeft ↑ + X ↑
+0,Application > Markers,Add Marker,None,M ↓,M ↑
+0,Application > Markers,Go to Next Marker,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Application > Markers,Go to Previous Marker,None,ControlLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + ShiftLeft ↑ + M ↑
+0,Application > Markers,Clear Selected Marker,None,ControlLeft ↓ + AltLeft ↓ + M ↓,ControlLeft ↑ + AltLeft ↑ + M ↑
+0,Application > Markers,Clear Markers,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + M ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + M ↑
+0,Application > Graphics and Titles,Text,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,Application > Graphics and Titles,Rectangle,None,ControlLeft ↓ + AltLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + R ↑
+0,Application > Graphics and Titles,Ellipse,None,ControlLeft ↓ + AltLeft ↓ + E ↓,ControlLeft ↑ + AltLeft ↑ + E ↑
+0,Application > Graphics and Titles,Bring to Front,None,ControlLeft ↓ + ShiftLeft ↓ + ] ↓,ControlLeft ↑ + ShiftLeft ↑ + ] ↑
+0,Application > Graphics and Titles,Bring Forward,None,ControlLeft ↓ + ] ↓,ControlLeft ↑ + ] ↑
+0,Application > Graphics and Titles,Send Backward,None,ControlLeft ↓ + [ ↓,ControlLeft ↑ + [ ↑
+0,Application > Graphics and Titles,Send to Back,None,ControlLeft ↓ + ShiftLeft ↓ + [ ↓,ControlLeft ↑ + ShiftLeft ↑ + [ ↑
+0,Application > Graphics and Titles,Select Next Layer,None,ControlLeft ↓ + AltLeft ↓ + ] ↓,ControlLeft ↑ + AltLeft ↑ + ] ↑
+0,Application > Graphics and Titles,Select Previous Layer,None,ControlLeft ↓ + AltLeft ↓ + [ ↓,ControlLeft ↑ + AltLeft ↑ + [ ↑
+0,Application > Window,Reset to Saved Layout,None,AltLeft ↓ + ShiftLeft ↓ + 0 ↓,AltLeft ↑ + ShiftLeft ↑ + 0 ↑
+0,Application > Window,Audio Clip Mixer,None,ShiftLeft ↓ + 9 ↓,ShiftLeft ↑ + 9 ↑
+0,Application > Window,Audio Track Mixer,None,ShiftLeft ↓ + 6 ↓,ShiftLeft ↑ + 6 ↑
+0,Application > Window,Effect Controls,None,ShiftLeft ↓ + 5 ↓,ShiftLeft ↑ + 5 ↑
+0,Application > Window,Effects,None,ShiftLeft ↓ + 7 ↓,ShiftLeft ↑ + 7 ↑
+0,Application > Window,Media Browser,None,ShiftLeft ↓ + 8 ↓,ShiftLeft ↑ + 8 ↑
+0,Application > Window,Program Monitor,None,ShiftLeft ↓ + 4 ↓,ShiftLeft ↑ + 4 ↑
+0,Application > Window,Projects,None,ShiftLeft ↓ + 1 ↓,ShiftLeft ↑ + 1 ↑
+0,Application > Window,Source Monitor,None,ShiftLeft ↓ + 2 ↓,ShiftLeft ↑ + 2 ↑
+0,Application > Window,Timelines,None,ShiftLeft ↓ + 3 ↓,ShiftLeft ↑ + 3 ↑
+0,Application > Help,Premiere Pro Help...,None,F1 ↓,F1 ↑
+0,Application > Title,Templates...,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,Application,Add Captions Track...,None,ControlLeft ↓ + AltLeft ↓ + A ↓,ControlLeft ↑ + AltLeft ↑ + A ↑
+0,Application,Add new caption segment at playhead,None,ControlLeft ↓ + AltLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + C ↑
+0,Application,Begin Text Editing for a Graphic Layer,None,ControlLeft ↓ + AltLeft ↓ + ' ↓,ControlLeft ↑ + AltLeft ↑ + ' ↑
+0,Application,Center align text,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Application,Clear Poster Frame,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Application,Cut to Camera 1,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,Application,Cut to Camera 2,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,Application,Cut to Camera 3,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,Application,Cut to Camera 4,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,Application,Cut to Camera 5,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,Application,Cut to Camera 6,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,Application,Cut to Camera 7,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,Application,Cut to Camera 8,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,Application,Decrease Clip Volume,None,[ ↓,[ ↑
+0,Application,Decrease Clip Volume Many,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Application,Decrease Font Size by Five Units,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Application,Decrease Font Size by One Unit,None,ControlLeft ↓ + AltLeft ↓ + Left ↓,ControlLeft ↑ + AltLeft ↑ + Left ↑
+0,Application,Decrease Leading by Five Units,None,AltLeft ↓ + ShiftLeft ↓ + Down ↓,AltLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Application,Decrease Leading by One Unit,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Application,Expand All Tracks,None,ShiftLeft ↓ + = ↓,ShiftLeft ↑ + = ↑
+0,Application,Export Frame,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,Application,Extend Next Edit To Playhead,None,ShiftLeft ↓ + W ↓,ShiftLeft ↑ + W ↑
+0,Application,Extend Previous Edit To Playhead,None,ShiftLeft ↓ + Q ↓,ShiftLeft ↑ + Q ↑
+0,Application,Go to Next Edit Point,None,Down ↓,Down ↑
+0,Application,Go to Next Edit Point on Any Track,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Application,Go to Previous Edit Point,None,Up ↓,Up ↑
+0,Application,Go to Previous Edit Point on Any Track,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Application,Go to Selected Clip End,None,ShiftLeft ↓ + End ↓,ShiftLeft ↑ + End ↑
+0,Application,Go to Selected Clip Start,None,ShiftLeft ↓ + Home ↓,ShiftLeft ↑ + Home ↑
+0,Application,Go to Sequence-Clip End,None,End ↓,End ↑
+0,Application,Go to Sequence-Clip Start,None,Home ↓,Home ↑
+0,Application,Increase Clip Volume,None,] ↓,] ↑
+0,Application,Increase Clip Volume Many,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Application,Increase Font Size by Five Units,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Application,Increase Font Size by One Unit,None,ControlLeft ↓ + AltLeft ↓ + Right ↓,ControlLeft ↑ + AltLeft ↑ + Right ↑
+0,Application,Increase Leading by Five Units,None,AltLeft ↓ + ShiftLeft ↓ + Up ↓,AltLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Application,Increase Leading by One Unit,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Application,Left align text,None,ControlLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + ShiftLeft ↑ + L ↑
+0,Application,Maximize or Restore Active Frame,None,ShiftLeft ↓ + ` ↓,ShiftLeft ↑ + ` ↑
+0,Application,Maximize or Restore Frame Under Cursor,None,` ↓,` ↑
+0,Application,Minimize All Tracks,None,ShiftLeft ↓ + - ↓,ShiftLeft ↑ + - ↑
+0,Application,Multi-Camera Record On/Off Toggle,None,0 ↓,0 ↑
+0,Application,Play Around,None,ShiftLeft ↓ + K ↓,ShiftLeft ↑ + K ↑
+0,Application,Play In to Out,None,ControlLeft ↓ + ShiftLeft ↓ + Space ↓,ControlLeft ↑ + ShiftLeft ↑ + Space ↑
+0,Application,Play In to Out with Preroll/Postroll,None,ShiftLeft ↓ + Space ↓,ShiftLeft ↑ + Space ↑
+0,Application,Play from Playhead to Out Point,None,ControlLeft ↓ + Space ↓,ControlLeft ↑ + Space ↑
+0,Application,Play-Stop Toggle,None,Space ↓,Space ↑
+0,Application,Reveal Nested Sequence,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Application,Right align text,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,Application,Ripple Trim Next Edit To Playhead,None,W ↓,W ↑
+0,Application,Ripple Trim Previous Edit To Playhead,None,Q ↓,Q ↑
+0,Application,Select Camera 1,None,1 ↓,1 ↑
+0,Application,Select Camera 2,None,2 ↓,2 ↑
+0,Application,Select Camera 3,None,3 ↓,3 ↑
+0,Application,Select Camera 4,None,4 ↓,4 ↑
+0,Application,Select Camera 5,None,5 ↓,5 ↑
+0,Application,Select Camera 6,None,6 ↓,6 ↑
+0,Application,Select Camera 7,None,7 ↓,7 ↑
+0,Application,Select Camera 8,None,8 ↓,8 ↑
+0,Application,Select Camera 9,None,9 ↓,9 ↑
+0,Application,Select Clip at Playhead,None,D ↓,D ↑
+0,Application,Select Find Box,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,Application,Select Next Clip,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Application,Select Next Panel,None,ControlLeft ↓ + ShiftLeft ↓ + . ↓,ControlLeft ↑ + ShiftLeft ↑ + . ↑
+0,Application,Select Previous Clip,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Application,Select Previous Panel,None,"ControlLeft ↓ + ShiftLeft ↓ + , ↓","ControlLeft ↑ + ShiftLeft ↑ + , ↑"
+0,Application,Set Poster Frame,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Application,Shuttle Left,None,J ↓,J ↑
+0,Application,Shuttle Right,None,L ↓,L ↑
+0,Application,Shuttle Slow Left,None,ShiftLeft ↓ + J ↓,ShiftLeft ↑ + J ↑
+0,Application,Shuttle Slow Right,None,ShiftLeft ↓ + L ↓,ShiftLeft ↑ + L ↑
+0,Application,Shuttle Stop,None,K ↓,K ↑
+0,Application,Step Back 1 Frame,None,Left ↓,Left ↑
+0,Application,Step Back Many Frames - Units,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Application,Step Forward 1 Frame,None,Right ↓,Right ↑
+0,Application,Step Forward Many Frames - Units,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Application,Toggle All Audio Targets,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,Application,Toggle All Source Audio,None,ControlLeft ↓ + AltLeft ↓ + 9 ↓,ControlLeft ↑ + AltLeft ↑ + 9 ↑
+0,Application,Toggle All Source Video,None,ControlLeft ↓ + AltLeft ↓ + 0 ↓,ControlLeft ↑ + AltLeft ↑ + 0 ↑
+0,Application,Toggle All Video Targets,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,Application,Toggle Audio During Scrubbing,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Application,Toggle Full Screen,None,ControlLeft ↓ + ` ↓,ControlLeft ↑ + ` ↑
+0,Application,Toggle Multi-Camera View,None,ShiftLeft ↓ + 0 ↓,ShiftLeft ↑ + 0 ↑
+0,Application,Toggle Trim Type,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,Application,Trim Backward,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Application,Trim Backward Many,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Application,Trim Forward,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Application,Trim Forward Many,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Application,Trim Next Edit to Playhead,None,ControlLeft ↓ + AltLeft ↓ + W ↓,ControlLeft ↑ + AltLeft ↑ + W ↑
+0,Application,Trim Previous Edit to Playhead,None,ControlLeft ↓ + AltLeft ↓ + Q ↓,ControlLeft ↑ + AltLeft ↑ + Q ↑
+0,Application,Workspace 1,None,AltLeft ↓ + ShiftLeft ↓ + 1 ↓,AltLeft ↑ + ShiftLeft ↑ + 1 ↑
+0,Application,Workspace 2,None,AltLeft ↓ + ShiftLeft ↓ + 2 ↓,AltLeft ↑ + ShiftLeft ↑ + 2 ↑
+0,Application,Workspace 3,None,AltLeft ↓ + ShiftLeft ↓ + 3 ↓,AltLeft ↑ + ShiftLeft ↑ + 3 ↑
+0,Application,Workspace 4,None,AltLeft ↓ + ShiftLeft ↓ + 4 ↓,AltLeft ↑ + ShiftLeft ↑ + 4 ↑
+0,Application,Workspace 5,None,AltLeft ↓ + ShiftLeft ↓ + 5 ↓,AltLeft ↑ + ShiftLeft ↑ + 5 ↑
+0,Application,Workspace 6,None,AltLeft ↓ + ShiftLeft ↓ + 6 ↓,AltLeft ↑ + ShiftLeft ↑ + 6 ↑
+0,Application,Workspace 7,None,AltLeft ↓ + ShiftLeft ↓ + 7 ↓,AltLeft ↑ + ShiftLeft ↑ + 7 ↑
+0,Application,Workspace 8,None,AltLeft ↓ + ShiftLeft ↓ + 8 ↓,AltLeft ↑ + ShiftLeft ↑ + 8 ↑
+0,Application,Workspace 9,None,AltLeft ↓ + ShiftLeft ↓ + 9 ↓,AltLeft ↑ + ShiftLeft ↑ + 9 ↑
+0,Application,Zoom to Sequence,None,\ ↓,\ ↑
+0,Panels > Audio Track Mixer Panel,Show/Hide Tracks...,None,ControlLeft ↓ + AltLeft ↓ + T ↓,ControlLeft ↑ + AltLeft ↑ + T ↑
+0,Panels > Audio Track Mixer Panel,Loop,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Panels > Audio Track Mixer Panel,Meter Input(s) Only,None,ControlLeft ↓ + ShiftLeft ↓ + I ↓,ControlLeft ↑ + ShiftLeft ↑ + I ↑
+0,Panels > Capture Panel,Record Video,None,V ↓,V ↑
+0,Panels > Capture Panel,Record Audio,None,A ↓,A ↑
+0,Panels > Capture Panel,Eject,None,E ↓,E ↑
+0,Panels > Capture Panel,Fast Forward,None,F ↓,F ↑
+0,Panels > Capture Panel,Go to In point,None,Q ↓,Q ↑
+0,Panels > Capture Panel,Go to Out point,None,W ↓,W ↑
+0,Panels > Capture Panel,Record,None,G ↓,G ↑
+0,Panels > Capture Panel,Rewind,None,R ↓,R ↑
+0,Panels > Capture Panel,Step Back,None,Left ↓,Left ↑
+0,Panels > Capture Panel,Step Forward,None,Right ↓,Right ↑
+0,Panels > Capture Panel,Stop,None,S ↓,S ↑
+0,Panels > Effect Controls Panel,Remove Selected Effect,None,Backspace ↓,Backspace ↑
+0,Panels > Effect Controls Panel,Loop During Audio-Only Playback,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Panels > Effects Panel,New Custom Bin,None,ControlLeft ↓ + / ↓,ControlLeft ↑ + / ↑
+0,Panels > Effects Panel,Delete Custom Item,None,Backspace ↓,Backspace ↑
+0,Panels > Essential Graphics Panel,Clear Selection,None,Backspace ↓,Backspace ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object down by one,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object to left by one,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object to right by one,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object up by one,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object down by five,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object to left by five,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object to right by five,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Panels > Essential Graphics Panel,Nudge Selected Object up by five,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Panels > History Panel,Step Backward,None,Left ↓,Left ↑
+0,Panels > History Panel,Step Forward,None,Right ↓,Right ↑
+0,Panels > Legacy Titler Panel,Arc Tool,None,A ↓,A ↑
+0,Panels > Legacy Titler Panel,Bold,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Panels > Legacy Titler Panel,Ellipse Tool,None,E ↓,E ↑
+0,Panels > Legacy Titler Panel,Insert Copyright Symbol,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + C ↑
+0,Panels > Legacy Titler Panel,Insert Registered Symbol,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,Panels > Legacy Titler Panel,Italic,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Panels > Legacy Titler Panel,Line Tool,None,L ↓,L ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Down by One Pixel,None,Down ↓,Down ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Left by One Pixel,None,Left ↓,Left ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Right by One Pixel,None,Right ↓,Right ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Up by One Pixel,None,Up ↓,Up ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Down by Five Pixels,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Left by Five Pixels,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Right by Five Pixels,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Panels > Legacy Titler Panel,Nudge Selected Object Up by Five Pixels,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Panels > Legacy Titler Panel,Position Object(s) to Bottom Title Safe Margin,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Panels > Legacy Titler Panel,Position Object(s) to Left Title Safe Margin,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Panels > Legacy Titler Panel,Position Object(s) to Top Title Safe Margin,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Panels > Legacy Titler Panel,Rectangle Tool,None,R ↓,R ↑
+0,Panels > Legacy Titler Panel,Rotation Tool,None,O ↓,O ↑
+0,Panels > Legacy Titler Panel,Underline,None,ControlLeft ↓ + U ↓,ControlLeft ↑ + U ↑
+0,Panels > Legacy Titler Panel,Vertical Type Tool,None,C ↓,C ↑
+0,Panels > Legacy Titler Panel,Wedge Tool,None,W ↓,W ↑
+0,Panels > Media Browser Panel,Open In Source Monitor,None,ShiftLeft ↓ + O ↓,ShiftLeft ↑ + O ↑
+0,Panels > Media Browser Panel,Select Directory List,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Panels > Media Browser Panel,Select Media List,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Panels > Metadata Panel,Loop,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Panels > Metadata Panel,Play,None,Space ↓,Space ↑
+0,Panels > Production Panel,New Folder...,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Panels > Production Panel,Make a Copy,None,ControlLeft ↓ + ShiftLeft ↓ + / ↓,ControlLeft ↑ + ShiftLeft ↑ + / ↑
+0,Panels > Production Panel,Move Selection End,None,End ↓,End ↑
+0,Panels > Production Panel,Move Selection Home,None,Home ↓,Home ↑
+0,Panels > Production Panel,Move Selection Page Down,None,PageDown ↓,PageDown ↑
+0,Panels > Production Panel,Move Selection Page Up,None,PageUp ↓,PageUp ↑
+0,Panels > Production Panel,Move To Trash,None,ControlLeft ↓ + Backspace ↓,ControlLeft ↑ + Backspace ↑
+0,Panels > Production Panel,Open Project,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,Panels > Program Monitor Panel,Show Rulers,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,Panels > Program Monitor Panel,Show Guides,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,Panels > Program Monitor Panel,Snap in Program Monitor,None,ControlLeft ↓ + ShiftLeft ↓ + ; ↓,ControlLeft ↑ + ShiftLeft ↑ + ; ↑
+0,Panels > Program Monitor Panel,Lock Guides,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + R ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object down by one,None,ControlLeft ↓ + Down ↓,ControlLeft ↑ + Down ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object to left by one,None,ControlLeft ↓ + Left ↓,ControlLeft ↑ + Left ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object to right by one,None,ControlLeft ↓ + Right ↓,ControlLeft ↑ + Right ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object up by one,None,ControlLeft ↓ + Up ↓,ControlLeft ↑ + Up ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object down by five,None,ControlLeft ↓ + ShiftLeft ↓ + Down ↓,ControlLeft ↑ + ShiftLeft ↑ + Down ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object to left by five,None,ControlLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object to right by five,None,ControlLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Panels > Program Monitor Panel,Nudge Selected Object up by five,None,ControlLeft ↓ + ShiftLeft ↓ + Up ↓,ControlLeft ↑ + ShiftLeft ↑ + Up ↑
+0,Panels > Project Panel,New Bin,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Panels > Project Panel,New Bin From Selection,None,ShiftLeft ↓ + B ↓,ShiftLeft ↑ + B ↑
+0,Panels > Project Panel,List,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,Panels > Project Panel,Icon,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,Panels > Project Panel,Hover Scrub,None,ShiftLeft ↓ + H ↓,ShiftLeft ↑ + H ↑
+0,Panels > Project Panel,Delete Selection with Options,None,ControlLeft ↓ + Delete ↓,ControlLeft ↑ + Delete ↑
+0,Panels > Project Panel,Extend Selection Down,None,ShiftLeft ↓ + Down ↓,ShiftLeft ↑ + Down ↑
+0,Panels > Project Panel,Extend Selection Left,None,ShiftLeft ↓ + Left ↓,ShiftLeft ↑ + Left ↑
+0,Panels > Project Panel,Extend Selection Right,None,ShiftLeft ↓ + Right ↓,ShiftLeft ↑ + Right ↑
+0,Panels > Project Panel,Extend Selection Up,None,ShiftLeft ↓ + Up ↓,ShiftLeft ↑ + Up ↑
+0,Panels > Project Panel,Move Selection Down,None,Down ↓,Down ↑
+0,Panels > Project Panel,Move Selection Left,None,Left ↓,Left ↑
+0,Panels > Project Panel,Move Selection Right,None,Right ↓,Right ↑
+0,Panels > Project Panel,Move Selection Up,None,Up ↓,Up ↑
+0,Panels > Project Panel,Next Column Field,None,Tab ↓,Tab ↑
+0,Panels > Project Panel,Next Row Field,None,Enter ↓,Enter ↑
+0,Panels > Project Panel,Previous Column Field,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,Panels > Project Panel,Previous Row Field,None,ShiftLeft ↓ + Enter ↓,ShiftLeft ↑ + Enter ↑
+0,Panels > Project Panel,Thumbnail Size Next,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Panels > Project Panel,Thumbnail Size Previous,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Panels > Project Panel,Toggle View,None,ShiftLeft ↓ + \ ↓,ShiftLeft ↑ + \ ↑
+0,Panels > Timeline Panel,Decrease Audio Tracks Height,None,AltLeft ↓ + - ↓,AltLeft ↑ + - ↑
+0,Panels > Timeline Panel,Decrease Video Tracks Height,None,ControlLeft ↓ + - ↓,ControlLeft ↑ + - ↑
+0,Panels > Timeline Panel,Go to next caption segment,None,ControlLeft ↓ + AltLeft ↓ + Down ↓,ControlLeft ↑ + AltLeft ↑ + Down ↑
+0,Panels > Timeline Panel,Go to previous caption segment,None,ControlLeft ↓ + AltLeft ↓ + Up ↓,ControlLeft ↑ + AltLeft ↑ + Up ↑
+0,Panels > Timeline Panel,Increase Audio Tracks Height,None,AltLeft ↓ + = ↓,AltLeft ↑ + = ↑
+0,Panels > Timeline Panel,Increase Video Tracks Height,None,ControlLeft ↓ + = ↓,ControlLeft ↑ + = ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Down,None,AltLeft ↓ + Down ↓,AltLeft ↑ + Down ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Left Five Frames,None,AltLeft ↓ + ShiftLeft ↓ + Left ↓,AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Left One Frame,None,AltLeft ↓ + Left ↓,AltLeft ↑ + Left ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Right Five Frames,None,AltLeft ↓ + ShiftLeft ↓ + Right ↓,AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Right One Frame,None,AltLeft ↓ + Right ↓,AltLeft ↑ + Right ↑
+0,Panels > Timeline Panel,Nudge Clip Selection Up,None,AltLeft ↓ + Up ↓,AltLeft ↑ + Up ↑
+0,Panels > Timeline Panel,Timeline Ripple Delete,None,AltLeft ↓ + Backspace ↓,AltLeft ↑ + Backspace ↑
+0,Panels > Timeline Panel,Set Work Area Bar In Point,None,AltLeft ↓ + [ ↓,AltLeft ↑ + [ ↑
+0,Panels > Timeline Panel,Set Work Area Bar Out Point,None,AltLeft ↓ + ] ↓,AltLeft ↑ + ] ↑
+0,Panels > Timeline Panel,Show Next Screen,None,PageDown ↓,PageDown ↑
+0,Panels > Timeline Panel,Show Previous Screen,None,PageUp ↓,PageUp ↑
+0,Panels > Timeline Panel,Slide Clip Selection Left Five Frames,None,"AltLeft ↓ + ShiftLeft ↓ + , ↓","AltLeft ↑ + ShiftLeft ↑ + , ↑"
+0,Panels > Timeline Panel,Slide Clip Selection Left One Frame,None,"AltLeft ↓ + , ↓","AltLeft ↑ + , ↑"
+0,Panels > Timeline Panel,Slide Clip Selection Right Five Frames,None,AltLeft ↓ + ShiftLeft ↓ + . ↓,AltLeft ↑ + ShiftLeft ↑ + . ↑
+0,Panels > Timeline Panel,Slide Clip Selection Right One Frame,None,AltLeft ↓ + . ↓,AltLeft ↑ + . ↑
+0,Panels > Timeline Panel,Slip Clip Selection Left Five Frames,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Left ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Left ↑
+0,Panels > Timeline Panel,Slip Clip Selection Left One Frame,None,ControlLeft ↓ + AltLeft ↓ + Left ↓,ControlLeft ↑ + AltLeft ↑ + Left ↑
+0,Panels > Timeline Panel,Slip Clip Selection Right Five Frames,None,ControlLeft ↓ + AltLeft ↓ + ShiftLeft ↓ + Right ↓,ControlLeft ↑ + AltLeft ↑ + ShiftLeft ↑ + Right ↑
+0,Panels > Timeline Panel,Slip Clip Selection Right One Frame,None,ControlLeft ↓ + AltLeft ↓ + Right ↓,ControlLeft ↑ + AltLeft ↑ + Right ↑
+0,Advanced,Cut & Ripple Delete Gesture,None,ControlLeft ↓ + K ↓ + ControlLeft ↑, None
+1,Advanced,Ripple Delete Left (Selected Tracks),Movement X- 300 DontRepeat,ControlLeft ↓ + Up + ControlLeft ↑ + ShiftLeft ↓ + Delete + ShiftLeft ↑ + Vibrate 50 7 DontWait,None
+1,Advanced,Ripple Delete Right (Selected Tracks),Movement X+ 300 DontRepeat,ControlLeft ↓ + Up + Down + ControlLeft ↑ + ShiftLeft ↓ + Delete + ShiftLeft ↑ + Vibrate 50 7 DontWait,None
+0,Advanced,Add/Remove & Navigate Markers Gesture,None,None, None
+1,Advanced,Add Marker,Movement Y+ 300 Repeat,M + Vibrate 25 7 DontWait,None
+1,Advanced,Clear Selected Marker,Movement Y- 300 Repeat,ControlLeft ↓ + AltLeft ↓ + M + AltLeft ↑ + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+1,Advanced,Go to Previous Marker,Movement X- 300 Repeat,ControlLeft ↓ + ShiftLeft ↓ + M + ShiftLeft ↑ + ControlLeft ↑ + Vibrate 25 7 DontWait,None
+1,Advanced,Go to Next Marker,Movement X+ 300 Repeat,ShiftLeft ↓ + M + ShiftLeft ↑ + Vibrate 25 7 DontWait,None
+0,Advanced,"Tap: Paste, Hold: Paste Attributes",None,Wait 200 + AltLeft ↓, ControlLeft ↓ + V + ControlLeft ↑ + Stop DontWait + Wait 250 + AltLeft ↑
+0,Advanced,Middle Click with Zoom on Scroll,None,MouseButton3 ↓, MouseButton3 ↑
+1,Advanced,Zoom In,Scroll Forward,ControlLeft ↓ + = + ControlLeft ↑, None
+1,Advanced,Zoom Out,Scroll Back,ControlLeft ↓ + - + ControlLeft ↑, None

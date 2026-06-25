@@ -1,0 +1,210 @@
+[general]
+font-sans = "Ubuntu Nerd Font"
+font-mono = "UbuntuMono Nerd Font Mono"
+tearing-mode = true
+
+[bar]
+scale = 0.8500000238418579
+inset-edge = 0.5
+inset-ends = 0.5
+module-gap = 0.6000000238418579
+border-location = "all"
+border-width = 2
+border-color = "#3dc7f1"
+rounding = "md"
+button-variant = "basic"
+button-label-size = 1.0499999523162842
+button-label-weight = "bold"
+button-border-location = "none"
+button-group-module-gap = 0.75
+button-group-background = "transparent"
+button-group-rounding = "none"
+
+[[bar.layout]]
+monitor = "*"
+show = true
+left = [
+    "dashboard",
+    "keyboard-input",
+    "custom-hypr_workspaces",
+    "window-title",
+    "custom-dualsense_power",
+]
+center = [
+    "storage",
+    "ram",
+    "cava",
+    "clock",
+    "media",
+    "cpu",
+]
+right = [
+    "microphone",
+    "volume",
+    "network",
+    "systray",
+]
+
+[styling]
+rounding = "md"
+
+[styling.palette]
+bg = "#1e2030"
+surface = "#222436"
+elevated = "#2f334d"
+fg = "#c8d3f5"
+fg-muted = "#828bb8"
+primary = "#82aaff"
+red = "#ff757f"
+yellow = "#ffc777"
+green = "#c3e88d"
+blue = "#86e1fc"
+
+[modules.bluetooth]
+label-max-length = 6
+
+[modules.cava]
+bars = 10
+left-click = ' kitty sh -c "cava"'
+
+[modules.clock]
+format = "%T"
+icon-name = "tb-clock-symbolic"
+dropdown-show-seconds = true
+
+[modules.cpu]
+format = "{{ percent }}% {{ temp_c }}"
+left-click = ' kitty sh -c "btop"'
+
+[modules.dashboard]
+icon-color = "accent"
+
+[modules.hyprland-workspaces]
+monitor-specific = false
+show-special = false
+
+[modules.hyprland-workspaces.workspace-map.-98]
+icon = ""
+
+[modules.keyboard-input]
+icon-color = "accent"
+label-color = "accent"
+
+[modules.keyboard-input.layout-alias-map]
+"English (US)" = "US"
+Russian = "RU"
+
+[modules.mango-workspaces]
+occupied-color = "#c9b890"
+
+[modules.media]
+players-ignored = ["*ReVanced*"]
+label-max-length = 15
+
+[modules.network]
+label-show = false
+
+[modules.ram]
+format = "{{ used_gib }} GiB"
+left-click = ' kitty sh -c "btop"'
+
+[modules.storage]
+left-click = ' kitty sh -c "gdu /"'
+
+[modules.systray]
+blacklist = [
+    "flameshot",
+    "CopyQ_copyq",
+    "KDE Connect Indicator",
+]
+
+[[modules.systray.overrides]]
+name = "chrome_status_icon_1"
+icon = "si-discord-symbolic"
+color = "#C9B890"
+
+[[modules.systray.overrides]]
+name = "*Telegram*"
+icon = "si-telegram-symbolic"
+color = "#C9B890"
+
+[[modules.systray.overrides]]
+name = "*steam*"
+icon = "si-steam-symbolic"
+color = "#C9B890"
+
+[[modules.systray.overrides]]
+name = "*obs*"
+icon = "si-obsstudio-symbolic"
+color = "#C9B890"
+
+[[modules.systray.overrides]]
+name = "*Swiftpoint*"
+icon = "ld-mouse-symbolic"
+color = "#C9B890"
+
+[modules.volume]
+right-click = "pavucontrol"
+
+[modules.weather]
+location = "haifa"
+time-format = "24h"
+
+[modules.window-title]
+label-max-length = 10
+
+[[modules.custom]]
+id = "dualsense_power"
+command = "/home/sevaed/.config/projects/small/panel_scripts/dualsenseinfo.py"
+mode = "poll"
+interval-ms = 100
+restart-policy = "never"
+restart-interval-ms = 1000
+format = "{{ output }}"
+hide-if-empty = true
+icon-name = ""
+icon-show = false
+icon-color = "auto"
+icon-bg-color = "auto"
+label-show = true
+label-color = "auto"
+label-max-length = 0
+button-bg-color = "bg-surface-elevated"
+border-show = false
+border-color = "auto"
+left-click = "dualsensectl power-off"
+right-click = ""
+middle-click = ""
+scroll-up = ""
+scroll-down = ""
+
+[[modules.custom]]
+id = "hypr_workspaces"
+command = "/home/sevaed/.config/projects/small/panel_scripts/hypr_workspaces.py"
+mode = "poll"
+interval-ms = 100
+restart-policy = "never"
+restart-interval-ms = 1000
+format = "{{ output }}"
+hide-if-empty = false
+icon-name = ""
+icon-show = false
+icon-color = "auto"
+icon-bg-color = "auto"
+label-show = true
+label-color = "auto"
+label-max-length = 0
+button-bg-color = "bg-surface-elevated"
+border-show = false
+border-color = "auto"
+left-click = ""
+right-click = ""
+middle-click = ""
+scroll-up = ""
+scroll-down = ""
+
+[osd]
+enabled = false
+
+[wallpaper]
+engine-enabled = false

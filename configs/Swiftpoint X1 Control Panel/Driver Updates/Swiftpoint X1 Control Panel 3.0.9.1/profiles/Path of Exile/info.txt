@@ -1,0 +1,3 @@
+Name=Path of Exile
+BundleID=Path of Exile
+MouseSupport=5,20,30,

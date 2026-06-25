@@ -1,0 +1,3 @@
+Name=Fortnite
+BundleID=Fortnite
+MouseSupport=5,20,30,

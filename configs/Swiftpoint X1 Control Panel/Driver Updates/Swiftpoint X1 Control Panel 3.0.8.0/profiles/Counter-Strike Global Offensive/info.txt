@@ -1,0 +1,3 @@
+Name=Counter-Strike GO
+BundleID=Counter-Strike: Global Offensive
+MouseSupport=5,20,30,

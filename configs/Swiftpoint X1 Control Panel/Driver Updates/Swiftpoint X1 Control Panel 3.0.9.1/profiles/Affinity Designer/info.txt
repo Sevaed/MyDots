@@ -1,0 +1,3 @@
+Name=Affinity Designer
+BundleID=Affinity Designer
+MouseSupport=5,10,30,

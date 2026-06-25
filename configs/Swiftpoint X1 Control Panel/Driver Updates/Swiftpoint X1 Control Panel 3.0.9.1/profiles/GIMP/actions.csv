@@ -1,0 +1,146 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,File,Close All,None,ControlLeft ↓ + ShiftLeft ↓ + W ↓,ControlLeft ↑ + ShiftLeft ↑ + W ↑
+0,File,Export As,None,ControlLeft ↓ + ShiftLeft ↓ + E ↓,ControlLeft ↑ + ShiftLeft ↑ + E ↑
+0,File,Export,None,ControlLeft ↓ + E ↓,ControlLeft ↑ + E ↑
+0,File,Open As Layers,None,ControlLeft ↓ + AltLeft ↓ + O ↓,ControlLeft ↑ + AltLeft ↑ + O ↑
+0,File,Open Recent 01,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,File,Open Recent 02,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,File,Open Recent 03,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,File,Open Recent 04,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,File,Open Recent 05,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,File,Open Recent 06,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,File,Open Recent 07,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,File,Open Recent 08,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,File,Open Recent 09,None,ControlLeft ↓ + 9 ↓,ControlLeft ↑ + 9 ↑
+0,File,Open Recent 10,None,ControlLeft ↓ + 0 ↓,ControlLeft ↑ + 0 ↑
+0,File,Open,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,File,Quit,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,File,Save As,None,ControlLeft ↓ + ShiftLeft ↓ + S ↓,ControlLeft ↑ + ShiftLeft ↑ + S ↑
+0,File,Save,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,File,Show In File Manager,None,ControlLeft ↓ + AltLeft ↓ + F ↓,ControlLeft ↑ + AltLeft ↑ + F ↑
+0,Context,Colors Default,None,D ↓,D ↑
+0,Context,Colors Swap,None,X ↓,X ↑
+0,Context,Swatch Foreground Next,None,0 ↓,0 ↑
+0,Context,Swatch Foreground Previous,None,9 ↓,9 ↑
+0,Help,Context Help,None,ShiftLeft ↓ + F1 ↓,ShiftLeft ↑ + F1 ↑
+0,Help,Help,None,F1 ↓,F1 ↑
+0,Edit,Clear,None,Delete ↓,Delete ↑
+0,Edit,Copy Visible,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,Edit,Copy,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,Edit,Cut,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,Edit,Fill Bg,None,ControlLeft ↓ + . ↓,ControlLeft ↑ + . ↑
+0,Edit,Fill Fg,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Edit,Fill Pattern,None,ControlLeft ↓ + ; ↓,ControlLeft ↑ + ; ↑
+0,Edit,Paste As New Image,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,Edit,Paste In Place,None,ControlLeft ↓ + AltLeft ↓ + V ↓,ControlLeft ↑ + AltLeft ↑ + V ↑
+0,Edit,Paste,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,Edit,Redo,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,Edit,Strong Redo,None,ControlLeft ↓ + ShiftLeft ↓ + Y ↓,ControlLeft ↑ + ShiftLeft ↑ + Y ↑
+0,Edit,Strong Undo,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,Edit,Undo,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,Select,All,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,Select,Float,None,ControlLeft ↓ + ShiftLeft ↓ + L ↓,ControlLeft ↑ + ShiftLeft ↑ + L ↑
+0,Select,Invert,None,ControlLeft ↓ + I ↓,ControlLeft ↑ + I ↑
+0,Select,None,None,ControlLeft ↓ + ShiftLeft ↓ + A ↓,ControlLeft ↑ + ShiftLeft ↑ + A ↑
+0,View,Close,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,View,Fullscreen,None,F11 ↓,F11 ↑
+0,View,Rotate Reset,None,ShiftLeft ↓ + 1 ↓,ShiftLeft ↑ + 1 ↑
+0,View,Scroll Center,None,ShiftLeft ↓ + J ↓,ShiftLeft ↑ + J ↑
+0,View,Show Guides,None,ControlLeft ↓ + ShiftLeft ↓ + T ↓,ControlLeft ↑ + ShiftLeft ↑ + T ↑
+0,View,Show Rulers,None,ControlLeft ↓ + ShiftLeft ↓ + R ↓,ControlLeft ↑ + ShiftLeft ↑ + R ↑
+0,View,Show Selection,None,ControlLeft ↓ + T ↓,ControlLeft ↑ + T ↑
+0,View,Shrink Wrap,None,ControlLeft ↓ + J ↓,ControlLeft ↑ + J ↑
+0,View,Zoom 1 1,None,1 ↓,1 ↑
+0,View,Zoom 2 1,None,2 ↓,2 ↑
+0,View,Zoom 4 1,None,3 ↓,3 ↑
+0,View,Zoom 8 1,None,4 ↓,4 ↑
+0,View,Zoom 16 1,None,5 ↓,5 ↑
+0,View,Zoom 1 2,None,ShiftLeft ↓ + 2 ↓,ShiftLeft ↑ + 2 ↑
+0,View,Zoom 1 4,None,ShiftLeft ↓ + 3 ↓,ShiftLeft ↑ + 3 ↑
+0,View,Zoom 1 8,None,ShiftLeft ↓ + 4 ↓,ShiftLeft ↑ + 4 ↑
+0,View,Zoom 1 16,None,ShiftLeft ↓ + 5 ↓,ShiftLeft ↑ + 5 ↑
+0,View,Zoom 1 1 Accel,None,Num1 ↓,Num1 ↑
+0,View,Zoom 2 1 Accel,None,Num2 ↓,Num2 ↑
+0,View,Zoom 4 1 Accel,None,Num3 ↓,Num3 ↑
+0,View,Zoom 8 1 Accel,None,Num4 ↓,Num4 ↑
+0,View,Zoom 16 1 Accel,None,Num5 ↓,Num5 ↑
+0,View,Zoom Fit In,None,ControlLeft ↓ + ShiftLeft ↓ + J ↓,ControlLeft ↑ + ShiftLeft ↑ + J ↑
+0,View,Zoom In Accel,None,Num+ ↓,Num+ ↑
+0,View,Zoom In,None,= ↓,= ↑
+0,View,Zoom Out Accel,None,Num- ↓,Num- ↑
+0,View,Zoom Out,None,- ↓,- ↑
+0,View,Zoom Revert,None,` ↓,` ↑
+0,Image,Duplicate,None,ControlLeft ↓ + D ↓,ControlLeft ↑ + D ↑
+0,Image,Merge Layers,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,Image,New,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,Image,Properties,None,AltLeft ↓ + Enter ↓,AltLeft ↑ + Enter ↑
+0,Layers,Anchor,None,ControlLeft ↓ + H ↓,ControlLeft ↑ + H ↑
+0,Layers,Duplicate,None,ControlLeft ↓ + ShiftLeft ↓ + D ↓,ControlLeft ↑ + ShiftLeft ↑ + D ↑
+0,Layers,New,None,ControlLeft ↓ + ShiftLeft ↓ + N ↓,ControlLeft ↑ + ShiftLeft ↑ + N ↑
+0,Layers,Select Bottom,None,End ↓,End ↑
+0,Layers,Select Next,None,PageDown ↓,PageDown ↑
+0,Layers,Select Previous,None,PageUp ↓,PageUp ↑
+0,Layers,Select Top,None,Home ↓,Home ↑
+0,Tools,Airbrush,None,A ↓,A ↑
+0,Tools,Align,None,Q ↓,Q ↑
+0,Tools,Bucket Fill,None,ShiftLeft ↓ + B ↓,ShiftLeft ↑ + B ↑
+0,Tools,By Color Select,None,ShiftLeft ↓ + O ↓,ShiftLeft ↑ + O ↑
+0,Tools,Cage,None,ShiftLeft ↓ + G ↓,ShiftLeft ↑ + G ↑
+0,Tools,Clone,None,C ↓,C ↑
+0,Tools,Color Picker,None,O ↓,O ↑
+0,Tools,Convolve,None,ShiftLeft ↓ + U ↓,ShiftLeft ↑ + U ↑
+0,Tools,Crop,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,Tools,Dodge Burn,None,ShiftLeft ↓ + D ↓,ShiftLeft ↑ + D ↑
+0,Tools,Ellipse Select,None,E ↓,E ↑
+0,Tools,Eraser,None,ShiftLeft ↓ + E ↓,ShiftLeft ↑ + E ↑
+0,Tools,Flip,None,ShiftLeft ↓ + F ↓,ShiftLeft ↑ + F ↑
+0,Tools,Free Select,None,F ↓,F ↑
+0,Tools,Fuzzy Select,None,U ↓,U ↑
+0,Tools,Gradient,None,G ↓,G ↑
+0,Tools,Handle Transform,None,ShiftLeft ↓ + L ↓,ShiftLeft ↑ + L ↑
+0,Tools,Heal,None,H ↓,H ↑
+0,Tools,Ink,None,K ↓,K ↑
+0,Tools,Iscissors,None,I ↓,I ↑
+0,Tools,Measure,None,ShiftLeft ↓ + M ↓,ShiftLeft ↑ + M ↑
+0,Tools,Move,None,M ↓,M ↑
+0,Tools,Mypaint Brush,None,Y ↓,Y ↑
+0,Tools,Opacity Decrease Skip,None,"ControlLeft ↓ + , ↓","ControlLeft ↑ + , ↑"
+0,Tools,Opacity Decrease,None,", ↓",", ↑"
+0,Tools,Opacity Increase Skip,None,ControlLeft ↓ + . ↓,ControlLeft ↑ + . ↑
+0,Tools,Opacity Increase,None,. ↓,. ↑
+0,Tools,Paintbrush,None,P ↓,P ↑
+0,Tools,Pencil,None,N ↓,N ↑
+0,Tools,Perspective,None,ShiftLeft ↓ + P ↓,ShiftLeft ↑ + P ↑
+0,Tools,Rect Select,None,R ↓,R ↑
+0,Tools,Rotate,None,ShiftLeft ↓ + R ↓,ShiftLeft ↑ + R ↑
+0,Tools,Scale,None,ShiftLeft ↓ + S ↓,ShiftLeft ↑ + S ↑
+0,Tools,Shear,None,ShiftLeft ↓ + H ↓,ShiftLeft ↑ + H ↑
+0,Tools,Size Decrease Skip,None,ShiftLeft ↓ + [ ↓,ShiftLeft ↑ + [ ↑
+0,Tools,Size Decrease,None,[ ↓,[ ↑
+0,Tools,Size Increase Skip,None,ShiftLeft ↓ + ] ↓,ShiftLeft ↑ + ] ↑
+0,Tools,Size Increase,None,] ↓,] ↑
+0,Tools,Size Set To Default,None,\ ↓,\ ↑
+0,Tools,Smudge,None,S ↓,S ↑
+0,Tools,Text,None,T ↓,T ↑
+0,Tools,Transform 3d,None,ShiftLeft ↓ + W ↓,ShiftLeft ↑ + W ↑
+0,Tools,Unified Transform,None,ShiftLeft ↓ + T ↓,ShiftLeft ↑ + T ↑
+0,Tools,Vector,None,B ↓,B ↑
+0,Tools,Warp,None,W ↓,W ↑
+0,Tools,Zoom,None,Z ↓,Z ↑
+0,Dialogs,Action Search,None,/ ↓,/ ↑
+0,Dialogs,Brushes,None,ControlLeft ↓ + ShiftLeft ↓ + B ↓,ControlLeft ↑ + ShiftLeft ↑ + B ↑
+0,Dialogs,Gradients,None,ControlLeft ↓ + G ↓,ControlLeft ↑ + G ↑
+0,Dialogs,Layers,None,ControlLeft ↓ + L ↓,ControlLeft ↑ + L ↑
+0,Dialogs,Patterns,None,ControlLeft ↓ + ShiftLeft ↓ + P ↓,ControlLeft ↑ + ShiftLeft ↑ + P ↑
+0,Dialogs,Toolbox,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,Windows,Hide Docks,None,Tab ↓,Tab ↑
+0,Windows,Show Display Next,None,AltLeft ↓ + Tab ↓,AltLeft ↑ + Tab ↑
+0,Windows,Show Display Previous,None,ShiftLeft ↓ + AltLeft ↓ + Tab ↓,ShiftLeft ↑ + AltLeft ↑ + Tab ↑
+0,Plug In,Print Gtk,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,Filters,Offset,None,ControlLeft ↓ + ShiftLeft ↓ + O ↓,ControlLeft ↑ + ShiftLeft ↑ + O ↑
+0,Filters,Repeat,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,Filters,Reshow,None,ControlLeft ↓ + ShiftLeft ↓ + F ↓,ControlLeft ↑ + ShiftLeft ↑ + F ↑
+0,Quick Mask,Toggle,None,ShiftLeft ↓ + Q ↓,ShiftLeft ↑ + Q ↑
+0,Gestures,Tab Switching Gesture(GIMP),None,ControlLeft ↓ + PageDown,ControlLeft ↑
+1,Gestures,Next Tab,Movement X+ 300 Repeat,PageDown + Vibrate 26 7 DontWait,None
+1,Gestures,Previous Tab,Movement X- 300 Repeat,PageUp + Vibrate 26 7 DontWait, None

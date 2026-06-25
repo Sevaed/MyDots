@@ -1,0 +1,3 @@
+Name=Cyberpunk 2077
+BundleID=Cyberpunk 2077
+MouseSupport=5,20,30,

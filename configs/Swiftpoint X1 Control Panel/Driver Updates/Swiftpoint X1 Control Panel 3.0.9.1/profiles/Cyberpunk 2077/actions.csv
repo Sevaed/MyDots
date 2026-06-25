@@ -1,0 +1,37 @@
+Nested Level,Action Group,Action Name,Input,Press Output,Release Output
+0,Movement,Move Forward / Accelerate,None,W ↓,W ↑
+0,Movement,Move Backward / Brake,None,S ↓,S ↑
+0,Movement,Move Left,None,A ↓,A ↑
+0,Movement,Move Right,None,D ↓,D ↑
+0,Movement,Jump / Handbrake / Pause Braindance,None,Space ↓,Space ↑
+0,Movement,Sprint (Hold),None,ShiftRight ↓,ShiftRight ↑
+0,Movement,Sprint (Toggle) / Change Braindance Layer,None,ShiftLeft ↓,ShiftLeft ↑
+0,Movement,Crouch (Hold) / Horn / Panzer: Smokescreen,None,ControlLeft ↓,ControlLeft ↑
+0,Movement,Crouch (Toggle) / Skip Dialogue,None,C ↓,C ↑
+0,Movement,Interact / Exit Vehicle,None,F ↓,F ↑
+0,Vehicle,Call Vehicle,None,V ↓,V ↑
+0,Weapons,Cycle Weapon (Hold for Equip Wheel)/ Cycle Vehicle Lights,None,AltLeft ↓,AltLeft ↑
+0,Weapons,Next Weapon / Zoom In,None,ScrollUp,None
+0,Weapons,Previous Weapon / Zoom Out,None,ScrollDown,None
+0,Weapons,First weapon / Previous Item,None,1 ↓,1 ↑
+0,Weapons,Second Weapon,None,2 ↓,2 ↑
+0,Weapons,Third Weapon / Next Item,None,3 ↓,3 ↑
+0,Weapons,Melee Weapon,None,4 ↓,4 ↑
+0,Weapons,Shoot,None,MouseButton1 ↓,MouseButton1 ↑
+0,Weapons,Aim,None,MouseButton2 ↓,MouseButton2 ↑
+0,Weapons,Quick Melee / Vehicle Camera / Rewind Braindance,None,Q ↓,Q ↑
+0,Weapons,Reload / Radio / Restart Braindance,None,R ↓,R ↑
+0,Exploration and Combat,Cyberware Systems / Fast-Forward Braindance,None,E ↓,E ↑
+0,Exploration and Combat,Use Combat Gadget / Tag / Reverse Camera,None,MouseButton3 ↓,MouseButton3 ↑
+0,Exploration and Combat,Use Consumable / Exit Braindance,None,X ↓,X ↑
+0,Exploration and Combat,Scan (Hold) / Braindance: Analysis Mode,None,Tab ↓,Tab ↑
+0,Exploration and Combat,Scan (Toggle),None,CapsLock ↓,CapsLock ↑
+0,UI Panels,Open Notifications / Quickhack Details,None,Z ↓,Z ↑
+0,UI Panels,Open Phone,None,T ↓,T ↑
+0,UI Panels,Map,None,M ↓,M ↑
+0,UI Panels,Menu (Toggle),None,I ↓,I ↑
+0,UI Panels,Inventory,None,O ↓,O ↑
+0,UI Panels,Perks / Attributes,None,P ↓,P ↑
+0,UI Panels,Crafting,None,K ↓,K ↑
+0,UI Panels,Journal,None,J ↓,J ↑
+0,UI Panels,Open Photo Mode,None,N ↓,N ↑

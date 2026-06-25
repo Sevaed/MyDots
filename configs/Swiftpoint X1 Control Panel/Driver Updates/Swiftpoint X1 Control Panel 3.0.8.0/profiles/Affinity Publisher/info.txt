@@ -1,0 +1,3 @@
+Name=Affinity Publisher
+BundleID=Affinity Publisher
+MouseSupport=5,10,30,

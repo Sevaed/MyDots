@@ -1,0 +1,84 @@
+Nested Level,Action Group,Action Name,Input,Press Outputs,Release Outputs
+0,SOLIDWORKS > File,New..,None,ControlLeft ↓ + N ↓,ControlLeft ↑ + N ↑
+0,SOLIDWORKS > File,Open..,None,ControlLeft ↓ + O ↓,ControlLeft ↑ + O ↑
+0,SOLIDWORKS > File,Browse Recent Documents..,None,R ↓,R ↑
+0,SOLIDWORKS > File,Close..,None,ControlLeft ↓ + W ↓,ControlLeft ↑ + W ↑
+0,SOLIDWORKS > File,Save..,None,ControlLeft ↓ + S ↓,ControlLeft ↑ + S ↑
+0,SOLIDWORKS > File,Print..,None,ControlLeft ↓ + P ↓,ControlLeft ↑ + P ↑
+0,SOLIDWORKS > Edit,Undo..,None,ControlLeft ↓ + Z ↓,ControlLeft ↑ + Z ↑
+0,SOLIDWORKS > Edit,Redo..,None,ControlLeft ↓ + Y ↓,ControlLeft ↑ + Y ↑
+0,SOLIDWORKS > Edit,Repeat Last Command..,None,Enter ↓,Enter ↑
+0,SOLIDWORKS > Edit,Select All..,None,ControlLeft ↓ + A ↓,ControlLeft ↑ + A ↑
+0,SOLIDWORKS > Edit,Cut..,None,ControlLeft ↓ + X ↓,ControlLeft ↑ + X ↑
+0,SOLIDWORKS > Edit,Copy..,None,ControlLeft ↓ + C ↓,ControlLeft ↑ + C ↑
+0,SOLIDWORKS > Edit,Paste..,None,ControlLeft ↓ + V ↓,ControlLeft ↑ + V ↑
+0,SOLIDWORKS > Edit,Delete..,None,Delete ↓,Delete ↑
+0,SOLIDWORKS > Edit,Rebuild..,None,ControlLeft ↓ + B ↓,ControlLeft ↑ + B ↑
+0,SOLIDWORKS > Edit,Rebuild All Configurations..,None,ControlLeft ↓ + ShiftLeft ↓ + B ↓,ControlLeft ↑ + ShiftLeft ↑ + B ↑
+0,SOLIDWORKS > Edit,Copy Appearance..,None,ControlLeft ↓ + ShiftLeft ↓ + C ↓,ControlLeft ↑ + ShiftLeft ↑ + C ↑
+0,SOLIDWORKS > Edit,Paste Appearance..,None,ControlLeft ↓ + ShiftLeft ↓ + V ↓,ControlLeft ↑ + ShiftLeft ↑ + V ↑
+0,SOLIDWORKS > View,Front,None,ControlLeft ↓ + 1 ↓,ControlLeft ↑ + 1 ↑
+0,SOLIDWORKS > View,Back,None,ControlLeft ↓ + 2 ↓,ControlLeft ↑ + 2 ↑
+0,SOLIDWORKS > View,Left,None,ControlLeft ↓ + 3 ↓,ControlLeft ↑ + 3 ↑
+0,SOLIDWORKS > View,Right,None,ControlLeft ↓ + 4 ↓,ControlLeft ↑ + 4 ↑
+0,SOLIDWORKS > View,Top,None,ControlLeft ↓ + 5 ↓,ControlLeft ↑ + 5 ↑
+0,SOLIDWORKS > View,Bottom,None,ControlLeft ↓ + 6 ↓,ControlLeft ↑ + 6 ↑
+0,SOLIDWORKS > View,Isometric,None,ControlLeft ↓ + 7 ↓,ControlLeft ↑ + 7 ↑
+0,SOLIDWORKS > View,Normal To,None,ControlLeft ↓ + 8 ↓,ControlLeft ↑ + 8 ↑
+0,SOLIDWORKS > View,Redraw..,None,ControlLeft ↓ + R ↓,ControlLeft ↑ + R ↑
+0,SOLIDWORKS > View,Take Snapshot..,None,AltLeft ↓ + Space ↓,AltLeft ↑ + Space ↑
+0,SOLIDWORKS > View,Display SpeedPak Graphics Circle..,None,AltLeft ↓ + S ↓,AltLeft ↑ + S ↑
+0,SOLIDWORKS > View,Orientation..,None,Space ↓,Space ↑
+0,SOLIDWORKS > View,Zoom to Fit..,None,F ↓,F ↑
+0,SOLIDWORKS > View,Previous View..,None,ControlLeft ↓ + ShiftLeft ↓ + Z ↓,ControlLeft ↑ + ShiftLeft ↑ + Z ↑
+0,SOLIDWORKS > View,Quick Snaps..,None,F3 ↓,F3 ↑
+0,SOLIDWORKS > View,FeatureManager Tree Area..,None,F9 ↓,F9 ↑
+0,SOLIDWORKS > View,Toolbars..,None,F10 ↓,F10 ↑
+0,SOLIDWORKS > View,Task Pane..,None,ControlLeft ↓ + F1 ↓,ControlLeft ↑ + F1 ↑
+0,SOLIDWORKS > View,Full Screen..,None,F11 ↓,F11 ↑
+0,SOLIDWORKS > Tools,Magnetic Mate ON/OFF..,None,AltLeft ↓ + M ↓,AltLeft ↑ + M ↑
+0,SOLIDWORKS > Tools,Magnified Selection..,None,G ↓,G ↑
+0,SOLIDWORKS > Tools,Select over Geometry..,None,T ↓,T ↑
+0,SOLIDWORKS > Tools,Line..,None,L ↓,L ↑
+0,SOLIDWORKS > Tools,MateXpert..,None,ControlLeft ↓ + M ↓,ControlLeft ↑ + M ↑
+0,SOLIDWORKS > Help,Welcome to SOLIDWORKS..,None,ControlLeft ↓ + F2 ↓,ControlLeft ↑ + F2 ↑
+0,SOLIDWORKS > Help,Help..,None,H ↓,H ↑
+0,SOLIDWORKS > Help,Commands..,None,W ↓,W ↑
+0,SOLIDWORKS > Help,Files and Models..,None,I ↓,I ↑
+0,SOLIDWORKS > General,Command option toggle,None,A ↓,A ↑
+0,SOLIDWORKS > General,Expand/Collapse Tree,None,C ↓,C ↑
+0,SOLIDWORKS > General,Collapse all Items.,None,ShiftLeft ↓ + C ↓,ShiftLeft ↑ + C ↑
+0,SOLIDWORKS > General,"Confirmation Corner, Move Selection Breadcrumbs",None,D ↓,D ↑
+0,SOLIDWORKS > General,Filter Edges,None,E ↓,E ↑
+0,SOLIDWORKS > General,Find/Replace,None,ControlLeft ↓ + F ↓,ControlLeft ↑ + F ↑
+0,SOLIDWORKS > General,Force Rebuild Top Level Assembly,None,ControlLeft ↓ + Q ↓,ControlLeft ↑ + Q ↑
+0,SOLIDWORKS > General,Force Rebuild All Configurations,None,ControlLeft ↓ + ShiftLeft ↓ + Q ↓,ControlLeft ↑ + ShiftLeft ↑ + Q ↑
+0,SOLIDWORKS > General,"Primary and Reference planes, Coordinates and Origins",None,Q ↓,Q ↑
+0,SOLIDWORKS > General,Shortcut Bar,None,S ↓,S ↑
+0,SOLIDWORKS > General,Filter Vertices,None,V ↓,V ↑
+0,SOLIDWORKS > General,Scroll to FeatureManager tree bottom,None,End ↓,End ↑
+0,SOLIDWORKS > General,Toggle Notes Upper Case.,None,ShiftLeft ↓ + F3 ↓,ShiftLeft ↑ + F3 ↑
+0,SOLIDWORKS > General,Toggle Selection Filter Toolbar,None,F5 ↓,F5 ↑
+0,SOLIDWORKS > General,Toggle Selection Filters,None,F6 ↓,F6 ↑
+0,SOLIDWORKS > General,Spell Checker,None,F7 ↓,F7 ↑
+0,SOLIDWORKS > General,Hide/Show Display Pane.,None,F8 ↓,F8 ↑
+0,SOLIDWORKS > General,Scroll to FeatureManager tree top,None,Home ↓,Home ↑
+0,SOLIDWORKS > General,Select Annotation View,None,' ↓,' ↑
+0,SOLIDWORKS > General,Next Command Manager Tab,None,ControlLeft ↓ + PageDown ↓,ControlLeft ↑ + PageDown ↑
+0,SOLIDWORKS > General,Previous Command Manager Tab,None,ControlLeft ↓ + PageUp ↓,ControlLeft ↑ + PageUp ↑
+0,SOLIDWORKS > General,View Selector,None,ControlLeft ↓ + Space ↓,ControlLeft ↑ + Space ↑
+0,SOLIDWORKS > General,Filter Faces,None,X ↓,X ↑
+0,SOLIDWORKS > General,Zoom Out,None,Z ↓,Z ↑
+0,SOLIDWORKS > General,Zoom In,None,ShiftLeft ↓ + Z ↓,ShiftLeft ↑ + Z ↑
+0,SOLIDWORKS > General,Cycle connection point (moving component),None,[ ↓,[ ↑
+0,SOLIDWORKS > General,Cycle connection point (static component),None,] ↓,] ↑
+0,SOLIDWORKS > General,Hide the Hovered-over Component/Bodies,None,Tab ↓,Tab ↑
+0,SOLIDWORKS > General,Show the Hovered-over Component/Bodies,None,ShiftLeft ↓ + Tab ↓,ShiftLeft ↑ + Tab ↑
+0,SOLIDWORKS > General,Show all the hidden Components/Bodies,None,ControlLeft ↓ + ShiftLeft ↓ + Tab ↓,ControlLeft ↑ + ShiftLeft ↑ + Tab ↑
+0,SOLIDWORKS > General,Select over Geometry,None,T ↓,T ↑
+0,SOLIDWORKS > General,Hide the Hovered-over Face,None,AltLeft ↓,AltLeft ↑
+0,SOLIDWORKS > General,Show the Hovered-over Face,None,ShiftLeft ↓ + AltLeft ↓,ShiftLeft ↑ + AltLeft ↑
+0,SOLIDWORKS > General,Show all the temporarily hidden Face(s),None,ControlLeft ↓ + ShiftLeft ↓ + AltLeft ↓,ControlLeft ↑ + ShiftLeft ↑ + AltLeft ↑
+0,SOLIDWORKS > Search,Search SOLIDWORKS Help,None,H ↓,H ↑
+0,SOLIDWORKS > Search,Search Commands,None,W ↓,W ↑
+0,SOLIDWORKS > Search,Search Files and Models,None,I ↓,I ↑

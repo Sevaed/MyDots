@@ -1,0 +1,3 @@
+Name=Adobe XD
+BundleID=Adobe XD
+MouseSupport=5,10,30,
