@@ -3006,3 +3006,20 @@
 2026-06-25T11:52:17.660 - ConfigFile: saved to file
 2026-06-25T11:52:17.677 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
 2026-06-25T11:52:17.678 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-26T11:17:47.285 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-26T11:17:47.460 - Blfwk: libblfwk_wrapper not loaded
+2026-06-26T11:17:47.713 - ExpertView: loadSaveFile() start
+2026-06-26T11:17:47.873 - copyStarterFile:  true
+2026-06-26T11:17:47.873 - ExpertView: loadSaveFile():  160 msec
+2026-06-26T11:17:47.894 - HIDManager: mouse match, PID: 10
+2026-06-26T11:17:48.222 - Autostart - launched minimized
+2026-06-26T11:17:48.238 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-26T11:17:48.238 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-26T11:17:48.352 - MouseFunctions: getBuildNumber
+2026-06-26T11:17:48.353 - Firmware version: "000208"
+2026-06-26T11:17:48.423 - MouseFunctions: getOpticalSensorId
+2026-06-26T11:17:48.426 - MouseFunctions: WaitForDpiStep
+2026-06-26T11:17:48.465 - MouseFunctions: saveToRAM
+2026-06-26T11:17:48.509 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-26T11:17:48.513 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-26T11:17:48.546 - ConfigFile: saved to file
