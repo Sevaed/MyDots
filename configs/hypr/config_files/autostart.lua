@@ -1,7 +1,7 @@
 User_apps = {
   browser, telegram .. " -startintray", discord .. " -m", SwiftPoint_X1, "qpwgraph -m",
   "copyq --start-server",
-  "kdeconnect-indicator", "steam -silent", "obs --collection Base --startreplaybuffer --minimize-to-tray" }
+  "kdeconnect-indicator", "steam -silent", "obs --collection Base --minimize-to-tray" }
 Background_services = { bar, "AmneziaVPN", "wl-clipdord-history -t", "wl-paste --watch cliphist store",
   "wl-clip-persist --clipbord regulr --disply wayland-1",
   "dbus-update-activation-environment --systemd --all", "ydotoold", "hyprpm reload",

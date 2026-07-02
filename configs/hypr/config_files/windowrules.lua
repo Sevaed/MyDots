@@ -61,5 +61,19 @@ windowrule({
   move = { 0, 0 },
 })
 windowrule({
-  decorate = false,focus_on_activate=true
+  decorate = false, focus_on_activate = true
+})
+hl.window_rule({
+  name = "LCH",
+  match = {
+    class = "LCH",
+  },
+  float = true,
+  size = { 100, 100 },
+  min_size = { 100, 100 },
+  center = true,
+  border_size = 0,
+  dim_around = true,
+  no_shadow = true,
+  stay_focused = true,
 })

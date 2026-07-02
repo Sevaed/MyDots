@@ -3023,3 +3023,280 @@
 2026-06-26T11:17:48.509 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
 2026-06-26T11:17:48.513 - SWUpdate: netReply error "SSL handshake failed"
 2026-06-26T11:17:48.546 - ConfigFile: saved to file
+2026-06-26T14:45:29.064 - no keyboard layouts with latin keys present
+2026-06-26T14:52:23.577 - no keyboard layouts with latin keys present
+2026-06-26T18:16:54.062 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:03.135 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:03.136 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:03.137 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:48.267 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:48.270 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:48.272 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:48.281 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:17:48.292 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-06-26T18:20:37.597 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:22:32.814 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:29:06.672 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:31:41.008 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:32:23.693 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:33:18.408 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:35:06.139 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:35:33.725 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:35:48.344 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:35:48.346 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:36:21.008 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:36:21.010 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:36:21.022 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:36:46.115 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:36:46.117 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:38:34.761 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:38:34.763 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:38:34.775 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:39:22.838 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:40:48.717 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:40:54.151 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T18:40:54.152 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:16.538 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:16.540 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:16.559 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:36.234 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:36.236 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:42.171 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:42.172 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:42.184 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:44.927 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:07:44.928 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:11:11.494 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:11:11.496 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:11:11.509 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:23:14.425 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:41:57.214 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T19:41:57.215 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:26.800 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:26.802 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:26.819 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:29.426 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:29.563 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:10:29.565 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:54:20.062 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:54:20.063 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T20:54:20.077 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:01:40.255 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:01:40.263 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:01:40.265 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:10:52.301 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:10:52.302 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:10:52.315 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:43:44.886 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:43:44.895 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-26T21:43:44.897 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-27T01:48:19.797 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-27T01:48:20.017 - Blfwk: libblfwk_wrapper not loaded
+2026-06-27T01:48:20.357 - ExpertView: loadSaveFile() start
+2026-06-27T01:48:20.488 - copyStarterFile:  true
+2026-06-27T01:48:20.488 - ExpertView: loadSaveFile():  131 msec
+2026-06-27T01:48:20.508 - HIDManager: mouse match, PID: 10
+2026-06-27T01:48:20.966 - Autostart - launched minimized
+2026-06-27T01:48:20.992 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-27T01:48:20.992 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-27T01:48:21.070 - MouseFunctions: getBuildNumber
+2026-06-27T01:48:21.072 - Firmware version: "000208"
+2026-06-27T01:48:21.142 - MouseFunctions: getOpticalSensorId
+2026-06-27T01:48:21.146 - MouseFunctions: WaitForDpiStep
+2026-06-27T01:48:21.189 - MouseFunctions: saveToRAM
+2026-06-27T01:48:21.267 - ConfigFile: saved to file
+2026-06-27T01:48:21.401 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-27T01:48:21.401 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-27T13:32:11.681 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-27T13:32:11.878 - Blfwk: libblfwk_wrapper not loaded
+2026-06-27T13:32:12.145 - ExpertView: loadSaveFile() start
+2026-06-27T13:32:12.313 - copyStarterFile:  true
+2026-06-27T13:32:12.313 - ExpertView: loadSaveFile():  167 msec
+2026-06-27T13:32:12.330 - HIDManager: mouse match, PID: 10
+2026-06-27T13:32:12.690 - Autostart - launched minimized
+2026-06-27T13:32:12.721 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-27T13:32:12.721 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-27T13:32:12.791 - MouseFunctions: getBuildNumber
+2026-06-27T13:32:12.792 - Firmware version: "000208"
+2026-06-27T13:32:12.854 - MouseFunctions: getOpticalSensorId
+2026-06-27T13:32:12.856 - MouseFunctions: WaitForDpiStep
+2026-06-27T13:32:12.892 - MouseFunctions: saveToRAM
+2026-06-27T13:32:12.969 - ConfigFile: saved to file
+2026-06-27T13:32:13.144 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-27T13:32:13.145 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-28T13:09:43.449 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-28T13:09:43.642 - Blfwk: libblfwk_wrapper not loaded
+2026-06-28T13:09:43.912 - ExpertView: loadSaveFile() start
+2026-06-28T13:09:44.051 - copyStarterFile:  true
+2026-06-28T13:09:44.051 - ExpertView: loadSaveFile():  138 msec
+2026-06-28T13:09:44.073 - HIDManager: mouse match, PID: 10
+2026-06-28T13:09:44.608 - Autostart - launched minimized
+2026-06-28T13:09:44.644 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-28T13:09:44.644 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-28T13:09:44.746 - MouseFunctions: getBuildNumber
+2026-06-28T13:09:44.747 - Firmware version: "000208"
+2026-06-28T13:09:44.809 - MouseFunctions: getOpticalSensorId
+2026-06-28T13:09:44.812 - MouseFunctions: WaitForDpiStep
+2026-06-28T13:09:44.843 - MouseFunctions: saveToRAM
+2026-06-28T13:09:44.920 - ConfigFile: saved to file
+2026-06-28T13:09:44.947 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-28T13:09:44.948 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-28T18:14:38.230 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T19:10:02.233 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T19:10:22.142 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T19:35:35.067 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T19:51:09.129 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:11:29.128 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:21:50.394 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:23:15.472 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:33:41.429 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:44:00.140 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:54:26.256 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:54:57.850 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T20:55:12.185 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T21:05:44.333 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T21:06:10.194 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T21:46:34.190 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:01:53.157 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:02:22.287 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:02:41.169 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:18:07.315 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:18:22.161 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:23:42.126 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:25:12.348 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:42:37.259 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:48:04.226 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:58:22.163 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T22:58:56.335 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T23:24:10.159 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-28T23:39:32.158 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T00:05:09.424 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T00:25:31.284 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T00:25:54.288 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T00:26:50.276 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T12:47:02.204 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-29T12:47:02.399 - Blfwk: libblfwk_wrapper not loaded
+2026-06-29T12:47:02.820 - ExpertView: loadSaveFile() start
+2026-06-29T12:47:03.064 - copyStarterFile:  true
+2026-06-29T12:47:03.064 - ExpertView: loadSaveFile():  244 msec
+2026-06-29T12:47:03.083 - HIDManager: mouse match, PID: 10
+2026-06-29T12:47:03.506 - Autostart - launched minimized
+2026-06-29T12:47:03.536 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-29T12:47:03.536 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-29T12:47:03.606 - MouseFunctions: getBuildNumber
+2026-06-29T12:47:03.607 - Firmware version: "000208"
+2026-06-29T12:47:03.665 - MouseFunctions: getOpticalSensorId
+2026-06-29T12:47:03.668 - MouseFunctions: WaitForDpiStep
+2026-06-29T12:47:03.719 - MouseFunctions: saveToRAM
+2026-06-29T12:47:03.753 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-29T12:47:03.758 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-29T12:47:03.799 - ConfigFile: saved to file
+2026-06-29T13:15:47.126 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T13:21:07.111 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T14:01:27.130 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T14:11:47.122 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T20:02:07.143 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T20:42:27.144 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T20:52:47.123 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:08:07.128 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:13:35.296 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:13:54.389 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:34:25.362 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:44:45.167 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:55:12.276 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T21:55:31.181 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T22:05:53.713 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T22:06:16.501 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T22:06:35.117 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T22:26:57.226 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-29T22:42:17.161 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T12:22:58.415 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-06-30T12:22:58.640 - Blfwk: libblfwk_wrapper not loaded
+2026-06-30T12:22:58.885 - ExpertView: loadSaveFile() start
+2026-06-30T12:22:59.032 - copyStarterFile:  true
+2026-06-30T12:22:59.032 - ExpertView: loadSaveFile():  147 msec
+2026-06-30T12:22:59.053 - HIDManager: mouse match, PID: 10
+2026-06-30T12:22:59.699 - Autostart - launched minimized
+2026-06-30T12:22:59.724 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-06-30T12:22:59.725 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-06-30T12:22:59.822 - MouseFunctions: getBuildNumber
+2026-06-30T12:22:59.823 - Firmware version: "000208"
+2026-06-30T12:22:59.889 - MouseFunctions: getOpticalSensorId
+2026-06-30T12:22:59.892 - MouseFunctions: WaitForDpiStep
+2026-06-30T12:22:59.930 - MouseFunctions: saveToRAM
+2026-06-30T12:22:59.979 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-06-30T12:22:59.981 - SWUpdate: netReply error "SSL handshake failed"
+2026-06-30T12:23:00.015 - ConfigFile: saved to file
+2026-06-30T14:51:24.004 - no keyboard layouts with latin keys present
+2026-06-30T21:41:23.680 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T21:41:54.296 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T21:47:16.247 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T21:47:50.177 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:20:58.621 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:20:58.624 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T22:36:20.397 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:36:20.398 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T22:46:41.187 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:46:41.188 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T22:47:04.156 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:47:04.157 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T22:52:35.393 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T22:52:35.396 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T23:08:05.378 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T23:08:05.383 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T23:23:26.211 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T23:23:26.287 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T23:33:53.094 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T23:33:53.283 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T23:54:16.151 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T23:54:16.155 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-06-30T23:59:37.188 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-06-30T23:59:37.192 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:05:05.042 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:05:05.046 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:05:25.179 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:05:25.180 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:10:49.187 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:10:49.187 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:12:05.623 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:12:05.627 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:12:10.446 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:12:10.447 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T00:12:10.448 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:12:10.448 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-01T00:12:10.449 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-01T13:12:45.403 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-01T13:12:45.623 - Blfwk: libblfwk_wrapper not loaded
+2026-07-01T13:12:45.934 - ExpertView: loadSaveFile() start
+2026-07-01T13:12:46.170 - copyStarterFile:  true
+2026-07-01T13:12:46.170 - ExpertView: loadSaveFile():  235 msec
+2026-07-01T13:12:46.188 - HIDManager: mouse match, PID: 10
+2026-07-01T13:12:46.634 - Autostart - launched minimized
+2026-07-01T13:12:46.663 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-01T13:12:46.663 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-01T13:12:46.737 - MouseFunctions: getBuildNumber
+2026-07-01T13:12:46.738 - Firmware version: "000208"
+2026-07-01T13:12:46.799 - MouseFunctions: getOpticalSensorId
+2026-07-01T13:12:46.801 - MouseFunctions: WaitForDpiStep
+2026-07-01T13:12:46.835 - MouseFunctions: saveToRAM
+2026-07-01T13:12:46.916 - ConfigFile: saved to file
+2026-07-01T13:12:47.229 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-01T13:12:47.229 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-01T18:15:42.453 - Opening Window in Expert Mode
+2026-07-02T12:21:02.447 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-02T12:21:02.609 - Blfwk: libblfwk_wrapper not loaded
+2026-07-02T12:21:04.727 - ExpertView: loadSaveFile() start
+2026-07-02T12:21:04.962 - copyStarterFile:  true
+2026-07-02T12:21:04.962 - ExpertView: loadSaveFile():  234 msec
+2026-07-02T12:21:04.982 - HIDManager: mouse match, PID: 10
+2026-07-02T12:21:06.562 - Autostart - launched minimized
+2026-07-02T12:21:07.196 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-02T12:21:07.196 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-02T12:21:07.417 - MouseFunctions: getBuildNumber
+2026-07-02T12:21:07.418 - Firmware version: "000208"
+2026-07-02T12:21:07.643 - MouseFunctions: getOpticalSensorId
+2026-07-02T12:21:07.672 - MouseFunctions: WaitForDpiStep
+2026-07-02T12:21:07.765 - MouseFunctions: saveToRAM
+2026-07-02T12:21:07.843 - ConfigFile: saved to file
+2026-07-02T12:21:07.989 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-02T12:21:07.989 - SWUpdate: netReply error "SSL handshake failed"

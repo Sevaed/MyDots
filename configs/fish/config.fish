@@ -31,6 +31,7 @@ set -x XDG_CONFIG_HOME ~/.config
 set -Ux FZF_DEFAULT_COMMAND 'fd --hidden --follow'
 
 set AUR "sudo pacman"
+set -Ux QMK_HOME "/home/sevaed/.config/qmk/qmk_firmware"
 
 # Добавляем пути в переменную PATH
 export PATH="/home/sevaed/.local/xonsh-env/xbin:/opt/android-sdk/platform-tools/:$HOME/.cargo/bin:/home/sevaed/.local/bin:/home/sevaed/go/bin:$PATH"

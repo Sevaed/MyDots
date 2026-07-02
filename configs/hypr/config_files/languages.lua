@@ -1,1 +1,1 @@
-return "us,ru"
+return "us, ru"

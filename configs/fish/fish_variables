@@ -3,6 +3,7 @@
 SETUVAR --export FZF_DEFAULT_COMMAND:fd\x20\x2d\x2dhidden\x20\x2d\x2dfollow
 SETUVAR --export --path PATH:/home/sevaed/\x2epyenv/bin\x1e/home/sevaed/\x2ecargo/bin\x1e/home/seva/\x2elocal/bin\x1e/home/seva/go/bin\x1e/home/seva/\x2enix\x2dprofile/bin\x1e/home/seva/\x2elocal/share/nvim/plugged/fzf/bin\x1e/home/seva/\x2elocal/share/nvim/lazy/fzf/bin\x1e/home/sevaed/\x2ecargo/bin\x1e/home/seva/\x2elocal/bin\x1e/home/seva/go/bin\x1e/home/sevaed/\x2ecargo/bin\x1e/home/seva/\x2elocal/bin\x1e/home/seva/go/bin\x1e/usr/local/sbin\x1e/usr/local/bin\x1e/usr/sbin\x1e/usr/bin\x1e/sbin\x1e/bin\x1e/usr/bin/site_perl\x1e/usr/bin/vendor_perl\x1e/usr/bin/core_perl\x1e/home/sevaed/\x2elocal/bin\x1e/home/sevaed/\x2elocal/bin
 SETUVAR --export PYENV_ROOT:/home/sevaed/\x2epyenv
+SETUVAR --export QMK_HOME:/home/sevaed/\x2econfig/qmk/qmk_firmware
 SETUVAR --export VCPKG_ROOT:/home/seva/\x2elocal/share/vcpkg
 SETUVAR __fish_initialized:4300
 SETUVAR fish_greeting:
