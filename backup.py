@@ -26,7 +26,7 @@ def backup():
         dst = path.join(file_path, path.dirname(i))
         makedirs(dst, exist_ok=True)
         # print("rsync", "-drq", "--mkpath", '--exclude="git"', src, " ", dst)
-        run(["rsync", "-drq", "--mkpath", "--exclude=git", src, dst], check=True)
+        run(["rsync", "-drq", "--mkpath", "--exclude=git", "--exclude=.git", src, dst], check=True)
 
 if len(argv) == 2:
     if argv[1] in ["backup","--backup","back","-b"]:
