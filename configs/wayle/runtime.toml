@@ -91,8 +91,8 @@ icon-color = "accent"
 label-color = "accent"
 
 [modules.keyboard-input.layout-alias-map]
-"English (US)" = "US"
 Russian = "RU"
+"English (US)" = "US"
 
 [modules.mango-workspaces]
 occupied-color = "#c9b890"
@@ -157,7 +157,7 @@ label-max-length = 10
 id = "dualsense_power"
 command = "/home/sevaed/.config/projects/small/panel_scripts/dualsenseinfo.py"
 mode = "poll"
-interval-ms = 100
+interval-ms = 1000
 restart-policy = "never"
 restart-interval-ms = 1000
 format = "{{ output }}"
@@ -182,7 +182,7 @@ scroll-down = ""
 id = "hypr_workspaces"
 command = "/home/sevaed/.config/projects/small/panel_scripts/hypr_workspaces.py"
 mode = "poll"
-interval-ms = 100
+interval-ms = 500
 restart-policy = "never"
 restart-interval-ms = 1000
 format = "{{ output }}"

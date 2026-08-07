@@ -10,7 +10,7 @@ args = sys.argv
 
 def play_sound(name):
     path = os.path.join(sounds_dir, name + ".mp3")
-    subprocess.call(["ffplay", "-nodisp", "-autoexit", path])
+    subprocess.call(["ffplay","-nodisp", "-hide_banner" ,"-loglevel","error", "-autoexit", path])
 
 
 subprocess.call(["mkdir", "-p", sounds_dir])

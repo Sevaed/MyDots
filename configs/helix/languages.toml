@@ -7,3 +7,7 @@ diagnostics.globals = ["hl"]
 
 [language-server.lua-language-server.config.Lua.workspace]
 library = ["/usr/share/hypr/stubs"]
+
+# [[language]]
+# name="html"
+# formatter={command = "prettier",args=["--parser","html","--bracket-same-line","true"]}

@@ -4,7 +4,7 @@ theme = "tokyonight_moon"
 # line-number = "relative"
 mouse = false
 clipboard-provider = "wayland"
-# auto-pairs = false
+auto-pairs = true
 color-modes = true
 
 [editor.cursor-shape]

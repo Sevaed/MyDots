@@ -4,23 +4,19 @@
   },
   "hyprland": {
     "path": "/home/sevaed/.config/hypr/hyprland.lua",
-    "group": "hyprland"
+    "group": "Hyprland"
   },
   "keybindings": {
     "path": "/home/sevaed/.config/hypr/config_files/keybindings.lua",
-    "group": "hyprland"
+    "group": "Hyprland"
   },
   "autostart": {
     "path": "/home/sevaed/.config/hypr/config_files/autostart.lua",
-    "group": "hyprland"
+    "group": "Hyprland"
   },
   "windowrules": {
     "path": "/home/sevaed/.config/hypr/config_files/windowrules.lua",
-    "group": "hyprland"
-  },
-  "plugins": {
-    "path": "/home/sevaed/.config/hypr/config_files/plugins.lua",
-    "group": "hyprland"
+    "group": "Hyprland"
   },
   "kitty": {
     "path": "/home/sevaed/.config/kitty/kitty.conf",
@@ -39,7 +35,7 @@
   },
   "hypr_plugins": {
     "path": "/home/sevaed/.config/hypr/config_files/plugins.lua",
-    "group": "hyprland"
+    "group": "Hyprland"
   },
   "starship": {
     "path": "/home/sevaed/.config/starship.toml"

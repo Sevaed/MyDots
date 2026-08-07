@@ -1,4 +1,5 @@
 local languages = require("config_files/languages")
+local mouses = require("config_files/mouses")
 hl.config({
   input = {
     kb_layout    = languages,
@@ -14,7 +15,18 @@ hl.config({
     touchpad     = {
       natural_scroll = false,
     },
-
+  },
+  misc = {
+    middle_click_paste = false
   }
 })
 
+
+hl.device({
+  name = "swiftpoint-limited-swiftpoint-creator",
+  enabled = mouses.swiftpoint
+})
+hl.device({
+  name = "razer-razer-basilisk-v3-x-hyperspeed-3",
+  enabled = mouses.razer
+})

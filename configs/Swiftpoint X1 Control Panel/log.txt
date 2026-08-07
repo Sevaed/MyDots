@@ -3300,3 +3300,848 @@
 2026-07-02T12:21:07.843 - ConfigFile: saved to file
 2026-07-02T12:21:07.989 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
 2026-07-02T12:21:07.989 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-03T12:24:36.498 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-03T12:24:36.709 - Blfwk: libblfwk_wrapper not loaded
+2026-07-03T12:24:37.094 - ExpertView: loadSaveFile() start
+2026-07-03T12:24:37.259 - copyStarterFile:  true
+2026-07-03T12:24:37.259 - ExpertView: loadSaveFile():  165 msec
+2026-07-03T12:24:37.280 - HIDManager: mouse match, PID: 10
+2026-07-03T12:24:37.676 - Autostart - launched minimized
+2026-07-03T12:24:37.736 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-03T12:24:37.736 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-03T12:24:37.803 - MouseFunctions: getBuildNumber
+2026-07-03T12:24:37.804 - Firmware version: "000208"
+2026-07-03T12:24:37.861 - MouseFunctions: getOpticalSensorId
+2026-07-03T12:24:37.863 - MouseFunctions: WaitForDpiStep
+2026-07-03T12:24:37.904 - MouseFunctions: saveToRAM
+2026-07-03T12:24:37.983 - ConfigFile: saved to file
+2026-07-03T12:24:46.891 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-03T12:24:46.895 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-03T15:33:39.624 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-03T15:35:16.416 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-03T17:54:57.863 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-03T17:54:58.081 - Blfwk: libblfwk_wrapper not loaded
+2026-07-03T17:54:58.476 - ExpertView: loadSaveFile() start
+2026-07-03T17:54:58.640 - copyStarterFile:  true
+2026-07-03T17:54:58.640 - ExpertView: loadSaveFile():  163 msec
+2026-07-03T17:54:58.656 - HIDManager: mouse match, PID: 10
+2026-07-03T17:54:59.211 - Autostart - launched minimized
+2026-07-03T17:54:59.242 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-03T17:54:59.242 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-03T17:54:59.301 - MouseFunctions: getBuildNumber
+2026-07-03T17:54:59.302 - Firmware version: "000208"
+2026-07-03T17:54:59.361 - MouseFunctions: getOpticalSensorId
+2026-07-03T17:54:59.364 - MouseFunctions: WaitForDpiStep
+2026-07-03T17:54:59.406 - MouseFunctions: saveToRAM
+2026-07-03T17:54:59.487 - ConfigFile: saved to file
+2026-07-03T17:54:59.585 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-03T17:54:59.585 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-04T17:54:58.218 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-04T17:54:58.218 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-04T20:34:48.623 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-05T12:01:32.795 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-05T12:01:33.020 - Blfwk: libblfwk_wrapper not loaded
+2026-07-05T12:01:33.411 - ExpertView: loadSaveFile() start
+2026-07-05T12:01:33.566 - copyStarterFile:  true
+2026-07-05T12:01:33.566 - ExpertView: loadSaveFile():  154 msec
+2026-07-05T12:01:33.584 - HIDManager: mouse match, PID: 10
+2026-07-05T12:01:33.953 - Autostart - launched minimized
+2026-07-05T12:01:33.977 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-05T12:01:33.977 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-05T12:01:34.038 - MouseFunctions: getBuildNumber
+2026-07-05T12:01:34.039 - Firmware version: "000208"
+2026-07-05T12:01:34.092 - MouseFunctions: getOpticalSensorId
+2026-07-05T12:01:34.095 - MouseFunctions: WaitForDpiStep
+2026-07-05T12:01:34.131 - MouseFunctions: saveToRAM
+2026-07-05T12:01:34.208 - ConfigFile: saved to file
+2026-07-05T12:01:43.330 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-05T12:01:43.331 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-05T23:52:21.206 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-05T23:52:21.435 - Blfwk: libblfwk_wrapper not loaded
+2026-07-05T23:52:21.813 - ExpertView: loadSaveFile() start
+2026-07-05T23:52:21.993 - copyStarterFile:  true
+2026-07-05T23:52:21.994 - ExpertView: loadSaveFile():  180 msec
+2026-07-05T23:52:22.013 - HIDManager: mouse match, PID: 10
+2026-07-05T23:52:22.779 - Autostart - launched minimized
+2026-07-05T23:52:22.824 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-05T23:52:22.824 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-05T23:52:22.884 - MouseFunctions: getBuildNumber
+2026-07-05T23:52:22.885 - Firmware version: "000208"
+2026-07-05T23:52:22.942 - MouseFunctions: getOpticalSensorId
+2026-07-05T23:52:22.946 - MouseFunctions: WaitForDpiStep
+2026-07-05T23:52:22.994 - MouseFunctions: saveToRAM
+2026-07-05T23:52:23.067 - ConfigFile: saved to file
+2026-07-05T23:52:23.099 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-05T23:52:23.099 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-06T11:59:04.322 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-06T11:59:04.554 - Blfwk: libblfwk_wrapper not loaded
+2026-07-06T11:59:04.901 - ExpertView: loadSaveFile() start
+2026-07-06T11:59:05.073 - copyStarterFile:  true
+2026-07-06T11:59:05.073 - ExpertView: loadSaveFile():  172 msec
+2026-07-06T11:59:05.090 - HIDManager: mouse match, PID: 10
+2026-07-06T11:59:05.448 - Autostart - launched minimized
+2026-07-06T11:59:05.492 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-06T11:59:05.492 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-06T11:59:05.564 - MouseFunctions: getBuildNumber
+2026-07-06T11:59:05.564 - Firmware version: "000208"
+2026-07-06T11:59:05.630 - MouseFunctions: getOpticalSensorId
+2026-07-06T11:59:05.632 - MouseFunctions: WaitForDpiStep
+2026-07-06T11:59:05.673 - MouseFunctions: saveToRAM
+2026-07-06T11:59:05.752 - ConfigFile: saved to file
+2026-07-06T11:59:14.670 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-06T11:59:14.671 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-06T13:10:19.243 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-06T14:22:31.533 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-06T14:22:31.535 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-06T20:00:47.074 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-06T20:00:47.187 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-07-07T12:48:15.248 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-07T12:48:15.455 - Blfwk: libblfwk_wrapper not loaded
+2026-07-07T12:48:15.792 - ExpertView: loadSaveFile() start
+2026-07-07T12:48:15.939 - copyStarterFile:  true
+2026-07-07T12:48:15.939 - ExpertView: loadSaveFile():  146 msec
+2026-07-07T12:48:15.955 - HIDManager: mouse match, PID: 10
+2026-07-07T12:48:16.391 - Autostart - launched minimized
+2026-07-07T12:48:16.458 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-07T12:48:16.458 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-07T12:48:16.533 - MouseFunctions: getBuildNumber
+2026-07-07T12:48:16.534 - Firmware version: "000208"
+2026-07-07T12:48:16.586 - MouseFunctions: getOpticalSensorId
+2026-07-07T12:48:16.588 - MouseFunctions: WaitForDpiStep
+2026-07-07T12:48:16.625 - MouseFunctions: saveToRAM
+2026-07-07T12:48:16.703 - ConfigFile: saved to file
+2026-07-07T12:48:25.943 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-07T12:48:25.944 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-08T11:42:56.014 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-08T11:42:56.383 - Blfwk: libblfwk_wrapper not loaded
+2026-07-08T11:42:56.827 - ExpertView: loadSaveFile() start
+2026-07-08T11:42:57.003 - copyStarterFile:  true
+2026-07-08T11:42:57.003 - ExpertView: loadSaveFile():  176 msec
+2026-07-08T11:42:57.020 - HIDManager: mouse match, PID: 10
+2026-07-08T11:42:57.380 - Autostart - launched minimized
+2026-07-08T11:42:57.396 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-08T11:42:57.396 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-08T11:42:57.467 - MouseFunctions: getBuildNumber
+2026-07-08T11:42:57.467 - Firmware version: "000208"
+2026-07-08T11:42:57.535 - MouseFunctions: getOpticalSensorId
+2026-07-08T11:42:57.537 - MouseFunctions: WaitForDpiStep
+2026-07-08T11:42:57.572 - MouseFunctions: saveToRAM
+2026-07-08T11:42:57.649 - ConfigFile: saved to file
+2026-07-08T11:42:58.029 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-08T11:42:58.030 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-08T13:32:29.134 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-08T14:02:47.100 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-08T16:48:07.116 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-09T05:27:18.520 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-09T05:27:18.729 - Blfwk: libblfwk_wrapper not loaded
+2026-07-09T05:27:20.050 - ExpertView: loadSaveFile() start
+2026-07-09T05:27:20.930 - copyStarterFile:  true
+2026-07-09T05:27:20.930 - ExpertView: loadSaveFile():  880 msec
+2026-07-09T05:27:20.955 - HIDManager: mouse match, PID: 10
+2026-07-09T05:27:23.999 - Autostart - launched minimized
+2026-07-09T05:27:24.195 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-09T05:27:24.195 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-09T05:27:24.258 - MouseFunctions: getBuildNumber
+2026-07-09T05:27:24.259 - Firmware version: "000208"
+2026-07-09T05:27:24.652 - MouseFunctions: getOpticalSensorId
+2026-07-09T05:27:24.654 - MouseFunctions: WaitForDpiStep
+2026-07-09T05:27:24.862 - MouseFunctions: saveToRAM
+2026-07-09T05:27:24.897 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-09T05:27:24.901 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-09T05:27:24.938 - ConfigFile: saved to file
+2026-07-09T12:20:27.904 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-10T09:31:28.205 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-10T09:31:28.444 - Blfwk: libblfwk_wrapper not loaded
+2026-07-10T09:31:28.792 - ExpertView: loadSaveFile() start
+2026-07-10T09:31:28.974 - copyStarterFile:  true
+2026-07-10T09:31:28.974 - ExpertView: loadSaveFile():  181 msec
+2026-07-10T09:31:28.993 - HIDManager: mouse match, PID: 10
+2026-07-10T09:31:29.363 - Autostart - launched minimized
+2026-07-10T09:31:29.392 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-10T09:31:29.392 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-10T09:31:29.458 - MouseFunctions: getBuildNumber
+2026-07-10T09:31:29.459 - Firmware version: "000208"
+2026-07-10T09:31:29.527 - MouseFunctions: getOpticalSensorId
+2026-07-10T09:31:29.530 - MouseFunctions: WaitForDpiStep
+2026-07-10T09:31:29.571 - MouseFunctions: saveToRAM
+2026-07-10T09:31:29.649 - ConfigFile: saved to file
+2026-07-10T09:31:29.743 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-10T09:31:29.743 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-10T16:29:45.831 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-10T16:57:31.380 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-10T16:58:59.674 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-10T23:35:23.756 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-11T14:36:10.350 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-11T14:36:10.521 - Blfwk: libblfwk_wrapper not loaded
+2026-07-11T14:36:10.896 - ExpertView: loadSaveFile() start
+2026-07-11T14:36:11.071 - copyStarterFile:  true
+2026-07-11T14:36:11.071 - ExpertView: loadSaveFile():  175 msec
+2026-07-11T14:36:11.089 - HIDManager: mouse match, PID: 10
+2026-07-11T14:36:11.519 - Autostart - launched minimized
+2026-07-11T14:36:11.549 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-11T14:36:11.549 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-11T14:36:11.617 - MouseFunctions: getBuildNumber
+2026-07-11T14:36:11.619 - Firmware version: "000208"
+2026-07-11T14:36:11.698 - MouseFunctions: getOpticalSensorId
+2026-07-11T14:36:11.702 - MouseFunctions: WaitForDpiStep
+2026-07-11T14:36:11.761 - MouseFunctions: saveToRAM
+2026-07-11T14:36:11.841 - ConfigFile: saved to file
+2026-07-11T14:36:11.908 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-11T14:36:11.909 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-12T14:15:30.382 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-12T14:15:30.546 - Blfwk: libblfwk_wrapper not loaded
+2026-07-12T14:15:30.897 - ExpertView: loadSaveFile() start
+2026-07-12T14:15:31.031 - copyStarterFile:  true
+2026-07-12T14:15:31.031 - ExpertView: loadSaveFile():  134 msec
+2026-07-12T14:15:31.053 - HIDManager: mouse match, PID: 10
+2026-07-12T14:15:31.464 - Autostart - launched minimized
+2026-07-12T14:15:31.554 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-12T14:15:31.554 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-12T14:15:31.640 - MouseFunctions: getBuildNumber
+2026-07-12T14:15:31.641 - Firmware version: "000208"
+2026-07-12T14:15:31.703 - MouseFunctions: getOpticalSensorId
+2026-07-12T14:15:31.706 - MouseFunctions: WaitForDpiStep
+2026-07-12T14:15:31.743 - MouseFunctions: saveToRAM
+2026-07-12T14:15:31.830 - ConfigFile: saved to file
+2026-07-12T14:15:31.941 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-12T14:15:31.942 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-13T13:38:39.528 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-13T13:38:39.698 - Blfwk: libblfwk_wrapper not loaded
+2026-07-13T13:38:40.067 - ExpertView: loadSaveFile() start
+2026-07-13T13:38:40.200 - copyStarterFile:  true
+2026-07-13T13:38:40.200 - ExpertView: loadSaveFile():  132 msec
+2026-07-13T13:38:40.220 - HIDManager: mouse match, PID: 10
+2026-07-13T13:38:40.890 - Autostart - launched minimized
+2026-07-13T13:38:40.912 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-13T13:38:40.912 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-13T13:38:40.994 - MouseFunctions: getBuildNumber
+2026-07-13T13:38:40.995 - Firmware version: "000208"
+2026-07-13T13:38:41.077 - MouseFunctions: getOpticalSensorId
+2026-07-13T13:38:41.079 - MouseFunctions: WaitForDpiStep
+2026-07-13T13:38:41.115 - MouseFunctions: saveToRAM
+2026-07-13T13:38:41.209 - ConfigFile: saved to file
+2026-07-13T13:38:41.301 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-13T13:38:41.301 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-13T15:12:42.516 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-13T16:46:39.725 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-13T17:11:20.012 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-13T17:11:20.237 - Blfwk: libblfwk_wrapper not loaded
+2026-07-13T17:11:20.611 - ExpertView: loadSaveFile() start
+2026-07-13T17:11:20.756 - copyStarterFile:  true
+2026-07-13T17:11:20.756 - ExpertView: loadSaveFile():  144 msec
+2026-07-13T17:11:20.776 - HIDManager: mouse match, PID: 10
+2026-07-13T17:11:21.152 - Autostart - launched minimized
+2026-07-13T17:11:21.395 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-13T17:11:21.395 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-13T17:11:21.489 - MouseFunctions: getBuildNumber
+2026-07-13T17:11:21.490 - Firmware version: "000208"
+2026-07-13T17:11:21.557 - MouseFunctions: getOpticalSensorId
+2026-07-13T17:11:21.562 - MouseFunctions: WaitForDpiStep
+2026-07-13T17:11:21.660 - MouseFunctions: saveToRAM
+2026-07-13T17:11:21.743 - ConfigFile: saved to file
+2026-07-13T17:11:21.808 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-13T17:11:21.809 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-13T17:18:10.482 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T17:46:36.372 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T17:48:54.929 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-13T17:48:55.308 - Blfwk: libblfwk_wrapper not loaded
+2026-07-13T17:48:55.728 - ExpertView: loadSaveFile() start
+2026-07-13T17:48:55.863 - copyStarterFile:  true
+2026-07-13T17:48:55.863 - ExpertView: loadSaveFile():  135 msec
+2026-07-13T17:48:55.885 - HIDManager: mouse match, PID: 10
+2026-07-13T17:48:57.704 - Autostart - launched minimized
+2026-07-13T17:48:58.681 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-13T17:48:58.681 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-13T17:48:58.787 - MouseFunctions: getBuildNumber
+2026-07-13T17:48:58.789 - Firmware version: "000208"
+2026-07-13T17:48:58.966 - MouseFunctions: getOpticalSensorId
+2026-07-13T17:48:59.021 - MouseFunctions: WaitForDpiStep
+2026-07-13T17:48:59.186 - MouseFunctions: saveToRAM
+2026-07-13T17:48:59.271 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-13T17:48:59.411 - ConfigFile: saved to file
+2026-07-13T17:48:59.435 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-13T18:02:47.390 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-13T18:02:47.754 - Blfwk: libblfwk_wrapper not loaded
+2026-07-13T18:02:48.150 - ExpertView: loadSaveFile() start
+2026-07-13T18:02:48.334 - copyStarterFile:  true
+2026-07-13T18:02:48.334 - ExpertView: loadSaveFile():  184 msec
+2026-07-13T18:02:48.354 - HIDManager: mouse match, PID: 10
+2026-07-13T18:02:48.984 - Autostart - launched minimized
+2026-07-13T18:02:49.077 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-13T18:02:49.077 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-13T18:02:49.155 - MouseFunctions: getBuildNumber
+2026-07-13T18:02:49.156 - Firmware version: "000208"
+2026-07-13T18:02:49.233 - MouseFunctions: getOpticalSensorId
+2026-07-13T18:02:49.237 - MouseFunctions: WaitForDpiStep
+2026-07-13T18:02:49.288 - MouseFunctions: saveToRAM
+2026-07-13T18:02:49.365 - ConfigFile: saved to file
+2026-07-13T18:02:49.472 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-13T18:02:49.472 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-13T19:01:50.322 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T19:02:49.546 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T19:19:53.512 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T20:09:09.544 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T20:21:52.546 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T20:32:37.551 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T20:33:13.286 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-13T20:54:46.331 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-07-14T11:17:27.409 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-14T11:17:27.607 - Blfwk: libblfwk_wrapper not loaded
+2026-07-14T11:17:27.935 - ExpertView: loadSaveFile() start
+2026-07-14T11:17:28.085 - copyStarterFile:  true
+2026-07-14T11:17:28.085 - ExpertView: loadSaveFile():  149 msec
+2026-07-14T11:17:28.107 - HIDManager: mouse match, PID: 10
+2026-07-14T11:17:28.418 - Autostart - launched minimized
+2026-07-14T11:17:28.447 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-14T11:17:28.447 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-14T11:17:28.550 - MouseFunctions: getBuildNumber
+2026-07-14T11:17:28.551 - Firmware version: "000208"
+2026-07-14T11:17:28.644 - MouseFunctions: getOpticalSensorId
+2026-07-14T11:17:28.648 - MouseFunctions: WaitForDpiStep
+2026-07-14T11:17:28.717 - MouseFunctions: saveToRAM
+2026-07-14T11:17:28.802 - ConfigFile: saved to file
+2026-07-14T11:17:28.913 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-14T11:17:28.914 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-14T15:26:12.657 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-14T15:27:21.109 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-14T21:03:33.864 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-14T21:04:10.471 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T01:46:08.478 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T01:46:37.833 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T01:47:06.852 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T09:27:23.141 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T11:17:28.165 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-15T11:17:28.165 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-15T14:17:43.120 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T14:38:03.099 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T15:22:13.721 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T16:10:10.203 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T16:10:10.213 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T16:43:23.016 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T17:54:58.475 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T20:27:28.500 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T20:28:01.658 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T20:28:30.839 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T21:45:59.704 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-15T21:58:34.997 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-15T21:58:35.317 - Blfwk: libblfwk_wrapper not loaded
+2026-07-15T21:58:35.725 - ExpertView: loadSaveFile() start
+2026-07-15T21:58:35.909 - copyStarterFile:  true
+2026-07-15T21:58:35.909 - ExpertView: loadSaveFile():  184 msec
+2026-07-15T21:58:35.934 - HIDManager: mouse match, PID: 10
+2026-07-15T21:58:36.483 - Autostart - launched minimized
+2026-07-15T21:58:36.537 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-15T21:58:36.539 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-15T21:58:36.665 - MouseFunctions: getBuildNumber
+2026-07-15T21:58:36.666 - Firmware version: "000208"
+2026-07-15T21:58:36.819 - MouseFunctions: getOpticalSensorId
+2026-07-15T21:58:36.823 - MouseFunctions: WaitForDpiStep
+2026-07-15T21:58:36.877 - MouseFunctions: saveToRAM
+2026-07-15T21:58:36.955 - ConfigFile: saved to file
+2026-07-15T21:58:37.053 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-15T21:58:37.053 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-16T13:45:51.315 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-16T13:45:51.471 - Blfwk: libblfwk_wrapper not loaded
+2026-07-16T13:45:51.803 - ExpertView: loadSaveFile() start
+2026-07-16T13:45:51.968 - copyStarterFile:  true
+2026-07-16T13:45:51.968 - ExpertView: loadSaveFile():  164 msec
+2026-07-16T13:45:51.984 - HIDManager: mouse match, PID: 10
+2026-07-16T13:45:52.299 - Autostart - launched minimized
+2026-07-16T13:45:52.429 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-16T13:45:52.430 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-16T13:45:52.527 - MouseFunctions: getBuildNumber
+2026-07-16T13:45:52.528 - Firmware version: "000208"
+2026-07-16T13:45:52.599 - MouseFunctions: getOpticalSensorId
+2026-07-16T13:45:52.601 - MouseFunctions: WaitForDpiStep
+2026-07-16T13:45:52.648 - MouseFunctions: saveToRAM
+2026-07-16T13:45:52.724 - ConfigFile: saved to file
+2026-07-16T13:45:52.857 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-16T13:45:52.857 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-16T14:05:28.309 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T15:59:22.536 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T16:04:04.339 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T16:04:33.669 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T16:44:59.928 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T18:10:24.711 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-16T18:10:24.711 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T21:33:43.546 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-16T21:33:43.547 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T22:05:36.579 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-16T22:05:36.579 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T22:06:18.346 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-16T22:06:18.347 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-16T22:50:19.928 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-16T22:50:19.929 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T00:45:07.340 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T00:45:07.340 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T02:25:39.968 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T02:25:39.969 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T12:57:17.552 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T12:57:17.553 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T13:45:52.019 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-17T13:45:52.020 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-17T15:14:34.316 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T15:14:34.316 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T15:28:47.156 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T15:28:47.156 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T15:30:07.313 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T15:30:07.313 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:33:13.540 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:33:13.540 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:33:38.798 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:33:38.798 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:34:15.314 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:34:15.314 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:41:48.350 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:41:48.350 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:42:17.680 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:42:17.680 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:42:46.688 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:42:46.688 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:43:35.544 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:43:35.544 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:49:00.915 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:49:00.915 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:49:25.802 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:49:25.803 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:50:07.537 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:50:07.537 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:50:36.664 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:50:36.664 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:51:09.512 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:51:09.512 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:56:34.915 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:56:34.915 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T16:57:33.543 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T16:57:33.543 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-17T22:00:59.931 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-17T22:00:59.932 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-18T03:21:20.979 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-18T03:21:20.979 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-18T03:46:40.953 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-07-18T03:46:40.953 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-07-18T13:45:52.036 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-18T13:45:52.037 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-19T13:45:52.066 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-19T13:45:52.067 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-20T13:45:52.029 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-20T13:45:52.032 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-20T17:18:22.189 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-20T17:18:22.443 - Blfwk: libblfwk_wrapper not loaded
+2026-07-20T17:18:23.016 - ExpertView: loadSaveFile() start
+2026-07-20T17:18:23.337 - copyStarterFile:  true
+2026-07-20T17:18:23.337 - ExpertView: loadSaveFile():  320 msec
+2026-07-20T17:18:23.353 - HIDManager: mouse match, PID: 10
+2026-07-20T17:18:25.606 - Autostart - launched minimized
+2026-07-20T17:18:26.425 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-20T17:18:26.425 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-20T17:18:26.486 - MouseFunctions: getBuildNumber
+2026-07-20T17:18:26.487 - Firmware version: "000208"
+2026-07-20T17:18:27.026 - MouseFunctions: getOpticalSensorId
+2026-07-20T17:18:27.326 - MouseFunctions: WaitForDpiStep
+2026-07-20T17:18:27.680 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-20T17:18:31.313 - MouseFunctions: saveToRAM
+2026-07-20T17:18:31.315 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-20T17:18:32.464 - ConfigFile: saved to file
+2026-07-21T17:18:22.238 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-21T17:18:22.238 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-22T01:07:03.189 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-22T01:07:03.509 - Blfwk: libblfwk_wrapper not loaded
+2026-07-22T01:07:03.773 - ExpertView: loadSaveFile() start
+2026-07-22T01:07:03.930 - copyStarterFile:  true
+2026-07-22T01:07:03.930 - ExpertView: loadSaveFile():  157 msec
+2026-07-22T01:07:03.948 - HIDManager: mouse match, PID: 10
+2026-07-22T01:07:04.169 - Autostart - launched minimized
+2026-07-22T01:07:04.182 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-22T01:07:04.182 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-22T01:07:04.247 - MouseFunctions: getBuildNumber
+2026-07-22T01:07:04.247 - Firmware version: "000208"
+2026-07-22T01:07:04.309 - MouseFunctions: getOpticalSensorId
+2026-07-22T01:07:04.322 - MouseFunctions: WaitForDpiStep
+2026-07-22T01:07:04.394 - MouseFunctions: saveToRAM
+2026-07-22T01:07:04.473 - ConfigFile: saved to file
+2026-07-22T01:07:10.695 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-22T01:07:10.695 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-22T03:17:06.246 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-22T03:17:06.427 - Blfwk: libblfwk_wrapper not loaded
+2026-07-22T03:17:06.837 - ExpertView: loadSaveFile() start
+2026-07-22T03:17:06.987 - copyStarterFile:  true
+2026-07-22T03:17:06.987 - ExpertView: loadSaveFile():  150 msec
+2026-07-22T03:17:07.004 - HIDManager: mouse match, PID: 10
+2026-07-22T03:17:09.046 - Autostart - launched minimized
+2026-07-22T03:17:09.710 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-22T03:17:09.710 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-22T03:17:09.790 - MouseFunctions: getBuildNumber
+2026-07-22T03:17:10.039 - Firmware version: "000208"
+2026-07-22T03:17:10.125 - MouseFunctions: getOpticalSensorId
+2026-07-22T03:17:10.367 - MouseFunctions: WaitForDpiStep
+2026-07-22T03:17:10.838 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-22T03:17:11.515 - MouseFunctions: saveToRAM
+2026-07-22T03:17:11.518 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-22T03:17:12.261 - ConfigFile: saved to file
+2026-07-23T03:17:07.044 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-23T03:17:07.044 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-24T03:17:06.935 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-24T03:17:06.936 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-24T15:01:36.699 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-24T15:01:37.053 - Blfwk: libblfwk_wrapper not loaded
+2026-07-24T15:01:37.349 - ExpertView: loadSaveFile() start
+2026-07-24T15:01:37.571 - copyStarterFile:  true
+2026-07-24T15:01:37.571 - ExpertView: loadSaveFile():  222 msec
+2026-07-24T15:01:37.604 - HIDManager: mouse match, PID: 10
+2026-07-24T15:01:38.868 - Autostart - launched minimized
+2026-07-24T15:01:38.886 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-24T15:01:38.886 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-24T15:01:38.969 - MouseFunctions: getBuildNumber
+2026-07-24T15:01:38.971 - Firmware version: "000208"
+2026-07-24T15:01:40.231 - MouseFunctions: getOpticalSensorId
+2026-07-24T15:01:40.406 - MouseFunctions: WaitForDpiStep
+2026-07-24T15:01:40.749 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-24T15:01:40.888 - MouseFunctions: saveToRAM
+2026-07-24T15:01:40.891 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-24T15:01:41.133 - ConfigFile: saved to file
+2026-07-24T22:25:35.781 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-25T00:15:55.861 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-25T12:09:33.642 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-25T13:26:18.916 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-25T15:01:37.239 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-25T15:01:37.240 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-25T16:20:38.920 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-25T20:47:51.173 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-25T20:47:51.378 - Blfwk: libblfwk_wrapper not loaded
+2026-07-25T20:47:51.738 - ExpertView: loadSaveFile() start
+2026-07-25T20:47:51.920 - copyStarterFile:  true
+2026-07-25T20:47:51.920 - ExpertView: loadSaveFile():  181 msec
+2026-07-25T20:47:51.941 - HIDManager: mouse match, PID: 10
+2026-07-25T20:47:52.314 - Autostart - launched minimized
+2026-07-25T20:47:52.345 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-25T20:47:52.345 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-25T20:47:52.422 - MouseFunctions: getBuildNumber
+2026-07-25T20:47:52.423 - Firmware version: "000208"
+2026-07-25T20:47:52.493 - MouseFunctions: getOpticalSensorId
+2026-07-25T20:47:52.495 - MouseFunctions: WaitForDpiStep
+2026-07-25T20:47:52.658 - MouseFunctions: saveToRAM
+2026-07-25T20:47:52.737 - ConfigFile: saved to file
+2026-07-25T20:47:52.786 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-25T20:47:52.786 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-25T20:55:58.457 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-25T20:55:58.803 - Blfwk: libblfwk_wrapper not loaded
+2026-07-25T20:55:59.098 - ExpertView: loadSaveFile() start
+2026-07-25T20:55:59.277 - copyStarterFile:  true
+2026-07-25T20:55:59.277 - ExpertView: loadSaveFile():  178 msec
+2026-07-25T20:55:59.294 - HIDManager: mouse match, PID: 10
+2026-07-25T20:55:59.614 - Autostart - launched minimized
+2026-07-25T20:56:00.165 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-25T20:56:00.165 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-25T20:56:00.266 - MouseFunctions: getBuildNumber
+2026-07-25T20:56:00.267 - Firmware version: "000208"
+2026-07-25T20:56:00.395 - MouseFunctions: getOpticalSensorId
+2026-07-25T20:56:00.399 - MouseFunctions: WaitForDpiStep
+2026-07-25T20:56:00.583 - MouseFunctions: saveToRAM
+2026-07-25T20:56:00.696 - ConfigFile: saved to file
+2026-07-25T20:56:05.821 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-25T20:56:05.822 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-26T11:51:51.453 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-26T11:51:51.649 - Blfwk: libblfwk_wrapper not loaded
+2026-07-26T11:51:51.995 - ExpertView: loadSaveFile() start
+2026-07-26T11:51:52.157 - copyStarterFile:  true
+2026-07-26T11:51:52.157 - ExpertView: loadSaveFile():  162 msec
+2026-07-26T11:51:52.177 - HIDManager: mouse match, PID: 10
+2026-07-26T11:51:52.426 - Autostart - launched minimized
+2026-07-26T11:51:52.658 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-26T11:51:52.658 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-26T11:51:52.725 - MouseFunctions: getBuildNumber
+2026-07-26T11:51:52.726 - Firmware version: "000208"
+2026-07-26T11:51:52.795 - MouseFunctions: getOpticalSensorId
+2026-07-26T11:51:52.864 - MouseFunctions: WaitForDpiStep
+2026-07-26T11:51:52.920 - MouseFunctions: saveToRAM
+2026-07-26T11:51:53.005 - ConfigFile: saved to file
+2026-07-26T11:51:53.138 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-26T11:51:53.139 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-27T11:53:52.034 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-07-27T14:43:53.273 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T14:44:10.589 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T14:44:10.592 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T14:44:10.593 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T14:47:49.798 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-27T14:47:49.960 - Blfwk: libblfwk_wrapper not loaded
+2026-07-27T14:47:50.247 - ExpertView: loadSaveFile() start
+2026-07-27T14:47:50.389 - copyStarterFile:  true
+2026-07-27T14:47:50.389 - ExpertView: loadSaveFile():  142 msec
+2026-07-27T14:47:50.409 - HIDManager: mouse match, PID: 10
+2026-07-27T14:47:50.658 - Autostart - launched minimized
+2026-07-27T14:47:50.731 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-27T14:47:50.731 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-27T14:47:50.793 - MouseFunctions: getBuildNumber
+2026-07-27T14:47:50.795 - Firmware version: "000208"
+2026-07-27T14:47:50.886 - MouseFunctions: getOpticalSensorId
+2026-07-27T14:47:50.891 - MouseFunctions: WaitForDpiStep
+2026-07-27T14:47:51.288 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-27T14:47:51.349 - MouseFunctions: saveToRAM
+2026-07-27T14:47:51.352 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-27T14:47:51.432 - ConfigFile: saved to file
+2026-07-27T17:17:32.284 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-07-27T17:17:32.476 - Blfwk: libblfwk_wrapper not loaded
+2026-07-27T17:17:33.312 - ExpertView: loadSaveFile() start
+2026-07-27T17:17:33.520 - copyStarterFile:  true
+2026-07-27T17:17:33.520 - ExpertView: loadSaveFile():  207 msec
+2026-07-27T17:17:33.544 - HIDManager: mouse match, PID: 10
+2026-07-27T17:17:34.288 - Autostart - launched minimized
+2026-07-27T17:17:34.306 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-07-27T17:17:34.306 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-07-27T17:17:34.373 - MouseFunctions: getBuildNumber
+2026-07-27T17:17:34.374 - Firmware version: "000208"
+2026-07-27T17:17:34.438 - MouseFunctions: getOpticalSensorId
+2026-07-27T17:17:34.441 - MouseFunctions: WaitForDpiStep
+2026-07-27T17:17:35.416 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-27T17:17:35.433 - MouseFunctions: saveToRAM
+2026-07-27T17:17:35.436 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-27T17:17:36.073 - ConfigFile: saved to file
+2026-07-27T18:32:49.096 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T18:32:49.250 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T18:32:49.252 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T18:32:49.252 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.078 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.080 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.081 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.090 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.094 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.253 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.254 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-27T20:53:09.255 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:52:58.529 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:52:58.553 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:52:58.554 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:52:58.555 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:52:58.558 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:00.179 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:00.181 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:00.182 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.681 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.686 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.687 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.693 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.704 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:25.710 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:47.710 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:53:47.716 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:08.989 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:08.993 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:20.544 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:24.931 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:24.933 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:24.933 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:25.844 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:25.845 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:25.846 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:25.857 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:25.861 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:26.342 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:26.343 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T16:54:26.344 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:17:34.310 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-28T17:17:34.311 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-28T17:41:16.206 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:36.435 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:36.437 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:37.948 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:41.231 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:41.232 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:41.233 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:45.288 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:45.289 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:45.290 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:45.301 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-28T17:42:45.305 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-29T08:58:29.026 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-29T17:17:33.021 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-29T17:17:33.024 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-30T15:56:01.000 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T17:17:33.049 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-30T17:17:33.049 - SWUpdate: netReply error "SSL handshake failed"
+2026-07-30T20:44:18.129 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:45.527 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:47.725 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:47.743 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:47.746 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:47.747 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.705 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.709 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.709 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.711 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.727 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:48.736 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:49.612 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:49.615 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:49.616 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.896 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.899 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.901 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.902 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.914 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:44:52.919 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:08.147 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:19.682 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:19.688 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:38.344 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:38.351 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:45:52.885 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:46:55.890 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:46:57.423 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:47:28.844 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:47:42.758 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:49:36.109 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:49:36.114 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:49:47.334 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:49:47.342 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:50:21.057 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:50:21.067 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:54:47.672 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-30T20:56:05.396 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-07-31T17:17:33.168 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-07-31T17:17:33.170 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-01T17:17:33.032 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-01T17:17:33.034 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-01T22:39:19.275 - Opening Window in Expert Mode
+2026-08-02T00:19:34.915 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-02T00:19:35.101 - Blfwk: libblfwk_wrapper not loaded
+2026-08-02T00:19:35.537 - ExpertView: loadSaveFile() start
+2026-08-02T00:19:35.746 - copyStarterFile:  true
+2026-08-02T00:19:35.746 - ExpertView: loadSaveFile():  208 msec
+2026-08-02T00:19:35.763 - HIDManager: mouse match, PID: 10
+2026-08-02T00:19:36.317 - Autostart - launched minimized
+2026-08-02T00:19:36.341 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-02T00:19:36.341 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-02T00:19:36.426 - MouseFunctions: getBuildNumber
+2026-08-02T00:19:36.427 - Firmware version: "000208"
+2026-08-02T00:19:36.496 - MouseFunctions: getOpticalSensorId
+2026-08-02T00:19:36.499 - MouseFunctions: WaitForDpiStep
+2026-08-02T00:19:36.538 - MouseFunctions: saveToRAM
+2026-08-02T00:19:36.614 - ConfigFile: saved to file
+2026-08-02T00:19:36.741 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-02T00:19:36.742 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-02T14:21:04.755 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-02T14:21:04.959 - Blfwk: libblfwk_wrapper not loaded
+2026-08-02T14:21:05.352 - ExpertView: loadSaveFile() start
+2026-08-02T14:21:06.243 - copyStarterFile:  true
+2026-08-02T14:21:06.243 - ExpertView: loadSaveFile():  891 msec
+2026-08-02T14:21:06.260 - HIDManager: mouse match, PID: 10
+2026-08-02T14:21:07.523 - Autostart - launched minimized
+2026-08-02T14:21:07.660 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-02T14:21:07.660 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-02T14:21:07.738 - MouseFunctions: getBuildNumber
+2026-08-02T14:21:07.739 - Firmware version: "000208"
+2026-08-02T14:21:07.955 - MouseFunctions: getOpticalSensorId
+2026-08-02T14:21:07.957 - MouseFunctions: WaitForDpiStep
+2026-08-02T14:21:08.026 - MouseFunctions: saveToRAM
+2026-08-02T14:21:08.156 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-02T14:21:08.332 - ConfigFile: saved to file
+2026-08-02T14:21:08.351 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-03T13:02:10.028 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-03T13:02:10.273 - Blfwk: libblfwk_wrapper not loaded
+2026-08-03T13:02:10.582 - ExpertView: loadSaveFile() start
+2026-08-03T13:02:10.778 - copyStarterFile:  true
+2026-08-03T13:02:10.778 - ExpertView: loadSaveFile():  195 msec
+2026-08-03T13:02:10.797 - HIDManager: mouse match, PID: 10
+2026-08-03T13:02:11.220 - Autostart - launched minimized
+2026-08-03T13:02:11.247 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-03T13:02:11.247 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-03T13:02:11.326 - MouseFunctions: getBuildNumber
+2026-08-03T13:02:11.328 - Firmware version: "000208"
+2026-08-03T13:02:11.415 - MouseFunctions: getOpticalSensorId
+2026-08-03T13:02:11.420 - MouseFunctions: WaitForDpiStep
+2026-08-03T13:02:11.515 - MouseFunctions: saveToRAM
+2026-08-03T13:02:11.595 - ConfigFile: saved to file
+2026-08-03T13:02:11.597 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-03T13:02:11.621 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-03T13:04:06.847 - Opening Window in Expert Mode
+2026-08-03T13:04:20.549 - MouseFunctions: saveToRAM
+2026-08-03T13:04:20.625 - ConfigFile: saved to file
+2026-08-03T13:04:22.849 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-03T13:04:22.849 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-04T12:05:12.401 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-04T12:05:12.579 - Blfwk: libblfwk_wrapper not loaded
+2026-08-04T12:05:12.955 - ExpertView: loadSaveFile() start
+2026-08-04T12:05:13.116 - copyStarterFile:  true
+2026-08-04T12:05:13.116 - ExpertView: loadSaveFile():  161 msec
+2026-08-04T12:05:13.137 - HIDManager: mouse match, PID: 10
+2026-08-04T12:05:13.611 - Autostart - launched minimized
+2026-08-04T12:05:13.704 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-04T12:05:13.704 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-04T12:05:13.774 - MouseFunctions: getBuildNumber
+2026-08-04T12:05:13.774 - Firmware version: "000208"
+2026-08-04T12:05:13.837 - MouseFunctions: getOpticalSensorId
+2026-08-04T12:05:13.843 - MouseFunctions: WaitForDpiStep
+2026-08-04T12:05:13.908 - MouseFunctions: saveToRAM
+2026-08-04T12:05:13.983 - ConfigFile: saved to file
+2026-08-04T12:05:14.020 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-04T12:05:14.020 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-04T18:08:35.794 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-04T18:08:36.001 - Blfwk: libblfwk_wrapper not loaded
+2026-08-04T18:08:36.375 - ExpertView: loadSaveFile() start
+2026-08-04T18:08:36.543 - copyStarterFile:  true
+2026-08-04T18:08:36.543 - ExpertView: loadSaveFile():  167 msec
+2026-08-04T18:08:36.559 - HIDManager: mouse match, PID: 10
+2026-08-04T18:08:36.930 - Autostart - launched minimized
+2026-08-04T18:08:37.068 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-04T18:08:37.068 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-04T18:08:37.172 - MouseFunctions: getBuildNumber
+2026-08-04T18:08:37.173 - Firmware version: "000208"
+2026-08-04T18:08:37.265 - MouseFunctions: getOpticalSensorId
+2026-08-04T18:08:37.267 - MouseFunctions: WaitForDpiStep
+2026-08-04T18:08:37.328 - MouseFunctions: saveToRAM
+2026-08-04T18:08:37.406 - ConfigFile: saved to file
+2026-08-04T18:08:37.456 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-04T18:08:37.458 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-05T14:29:51.426 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-05T14:29:51.637 - Blfwk: libblfwk_wrapper not loaded
+2026-08-05T14:29:52.009 - ExpertView: loadSaveFile() start
+2026-08-05T14:29:52.173 - copyStarterFile:  true
+2026-08-05T14:29:52.173 - ExpertView: loadSaveFile():  163 msec
+2026-08-05T14:29:52.190 - HIDManager: mouse match, PID: 10
+2026-08-05T14:29:52.540 - Autostart - launched minimized
+2026-08-05T14:29:52.568 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-05T14:29:52.569 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-05T14:29:52.635 - MouseFunctions: getBuildNumber
+2026-08-05T14:29:52.636 - Firmware version: "000208"
+2026-08-05T14:29:52.709 - MouseFunctions: getOpticalSensorId
+2026-08-05T14:29:52.711 - MouseFunctions: WaitForDpiStep
+2026-08-05T14:29:52.744 - MouseFunctions: saveToRAM
+2026-08-05T14:29:52.821 - ConfigFile: saved to file
+2026-08-05T14:29:52.899 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-05T14:29:52.899 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-05T14:31:15.827 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-08-06T11:20:17.170 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-06T11:20:17.418 - Blfwk: libblfwk_wrapper not loaded
+2026-08-06T11:20:17.960 - ExpertView: loadSaveFile() start
+2026-08-06T11:20:18.081 - copyStarterFile:  true
+2026-08-06T11:20:18.081 - ExpertView: loadSaveFile():  121 msec
+2026-08-06T11:20:18.096 - HIDManager: mouse match, PID: 10
+2026-08-06T11:20:18.626 - Autostart - launched minimized
+2026-08-06T11:20:18.836 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-06T11:20:18.836 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-06T11:20:18.891 - MouseFunctions: getBuildNumber
+2026-08-06T11:20:18.893 - Firmware version: "000208"
+2026-08-06T11:20:18.969 - MouseFunctions: getOpticalSensorId
+2026-08-06T11:20:18.974 - MouseFunctions: WaitForDpiStep
+2026-08-06T11:20:19.124 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-06T11:20:19.335 - MouseFunctions: saveToRAM
+2026-08-06T11:20:19.338 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-06T11:20:19.551 - ConfigFile: saved to file
+2026-08-07T12:25:30.139 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-07T12:25:30.363 - Blfwk: libblfwk_wrapper not loaded
+2026-08-07T12:25:31.237 - ExpertView: loadSaveFile() start
+2026-08-07T12:25:31.369 - copyStarterFile:  true
+2026-08-07T12:25:31.370 - ExpertView: loadSaveFile():  132 msec
+2026-08-07T12:25:31.388 - HIDManager: mouse match, PID: 10
+2026-08-07T12:25:34.300 - Autostart - launched minimized
+2026-08-07T12:25:35.928 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-07T12:25:35.928 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-07T12:25:35.997 - MouseFunctions: getBuildNumber
+2026-08-07T12:25:35.998 - Firmware version: "000208"
+2026-08-07T12:25:36.536 - MouseFunctions: getOpticalSensorId
+2026-08-07T12:25:37.107 - MouseFunctions: WaitForDpiStep
+2026-08-07T12:25:37.712 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-07T12:25:38.735 - MouseFunctions: saveToRAM
+2026-08-07T12:25:38.738 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-07T12:25:39.841 - ConfigFile: saved to file

@@ -77,3 +77,17 @@ hl.window_rule({
   no_shadow = true,
   stay_focused = true,
 })
+hl.window_rule({
+  name = "MSH",
+  match = {
+    class = "MSH",
+  },
+  float = true,
+  size = { 200, 100 },
+  min_size = { 200, 100 },
+  center = true,
+  border_size = 0,
+  dim_around = true,
+  no_shadow = true,
+  stay_focused = true,
+})

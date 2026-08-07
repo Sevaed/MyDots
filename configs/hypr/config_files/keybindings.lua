@@ -45,20 +45,24 @@ local app_binds = {
 }
 
 local scrips = {
-  ["M"] = "/home/sevaed/.config/projects/small/rofi/mouse-switch.sh",
+  ["M"] = "kitty --app-id MSH ~/.config/projects/git/MouseSwitcherHyprland/mouse-switch.py",
   ["space"] = "~/.config/scripts/sound.py UwU",
-  ["ALT + F1"] =
-  "sh -c 'lockfile=/tmp/screenshot.lock; [ -e $lockfile ] && exit; touch $lockfile; grim -g \"$(slurp)\" - | wl-copy; rm -f $lockfile'",
-  ["ALT + SHIFT + F1"] = "flameshot gui -c",
-  ["ALT + F2"] =
-  "sh -c 'lockfile=/tmp/boomer.lock; [ -e $lockfile ] && exit; touch $lockfile; grim - | wayland-boomer; rm -f $lockfile'",
 }
 
 local others = {
   ["SHIFT + K"] = "kill -9 $(hyprctl -j activewindow | jq '.pid')",
 }
 
-local executable = { app_binds, scrips, others }
+local macroces = {
+  ["ALT + SHIFT + F1"] = "flameshot gui -c",
+  ["ALT + F1"] =
+  "sh -c 'lockfile=/tmp/screenshot.lock; [ -e $lockfile ] && exit; touch $lockfile; grim -g \"$(slurp)\" - | wl-copy; rm -f $lockfile'",
+  ["ALT + F2"] =
+  "sh -c 'lockfile=/tmp/boomer.lock; [ -e $lockfile ] && exit; touch $lockfile; grim - | wayland-boomer; rm -f $lockfile'",
+  ["ALT+F3"] = "",
+}
+
+local executable = { app_binds, scrips, others, macroces }
 
 
 local miscellaneous = {
@@ -73,7 +77,7 @@ local miscellaneous = {
 }
 
 
--- LOOPS
+  -- LOOPS
 for _, group in pairs(executable) do
   for bind, command in pairs(group) do
     hl.bind(mainMod .. " + " .. bind, Execute(command))
@@ -108,7 +112,7 @@ hl.bind(mainMod .. " + SHIFT + down", hl.dsp.window.move({ direction = "down" })
 -- Move active window to a workspace with mainMod + SHIFT + [0-9]
 for i = 1, 10 do
   local key = i % 10 -- 10 maps to key 0
-  hl.bind(mainMod .. " + " .. key, hl.dsp.focus({ workspace = i }))
+  hl.bind(mainMod .. " + " .. key, hl.dsp.focus({ workspace = i, on_current_monitor = true }))
   hl.bind(mainMod .. " + SHIFT + " .. key, hl.dsp.window.move({ workspace = i }))
 end
 

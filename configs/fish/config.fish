@@ -52,6 +52,8 @@ alias cat="bat -P --style plain"
 alias rofi="rofi -show drun -show-icons -theme /home/sevaed/.config/rofi/mytheme-normal.rasi -normal-window"
 alias razer_shit="echo -ne '\x03\x00' | sudo tee /sys/bus/hid/drivers/razermouse/*/device_mode"
 alias hx="helix"
+alias py="python"
+alias I_am_femboy_UwU="fastfetch && ~/.config/scripts/sound.py UwU"
 
 function crp
     realpath $argv | wl-copy
