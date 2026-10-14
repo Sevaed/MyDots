@@ -1,14 +1,15 @@
 theme = "tokyonight_moon"
 
 [editor]
-# line-number = "relative"
+line-number = "relative"
 mouse = false
-clipboard-provider = "wayland"
 auto-pairs = true
 color-modes = true
 
 [editor.cursor-shape]
 insert="bar"
+normal="block"
+select="underline"
 
 [editor.statusline]
 left=["mode","read-only-indicator","file-modification-indicator","spinner","diagnostics",]

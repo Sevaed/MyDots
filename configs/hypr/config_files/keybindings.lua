@@ -1,4 +1,4 @@
-local mainMod = "SUPER"
+local mainMod = "ALT"
 local function notify(text)
   hl.exec_cmd("notify-send " .. text)
 end
@@ -54,12 +54,12 @@ local others = {
 }
 
 local macroces = {
-  ["ALT + SHIFT + F1"] = "flameshot gui -c",
-  ["ALT + F1"] =
-  "sh -c 'lockfile=/tmp/screenshot.lock; [ -e $lockfile ] && exit; touch $lockfile; grim -g \"$(slurp)\" - | wl-copy; rm -f $lockfile'",
-  ["ALT + F2"] =
-  "sh -c 'lockfile=/tmp/boomer.lock; [ -e $lockfile ] && exit; touch $lockfile; grim - | wayland-boomer; rm -f $lockfile'",
-  ["ALT+F3"] = "",
+  -- ["ALT + SHIFT + F1"] = "flameshot gui -c",
+  -- ["ALT + F1"] =
+  -- "sh -c 'lockfile=/tmp/screenshot.lock; [ -e $lockfile ] && exit; touch $lockfile; grim -g \"$(slurp)\" - | wl-copy; rm -f $lockfile'",
+  -- ["ALT + F2"] =
+  -- "sh -c 'lockfile=/tmp/boomer.lock; [ -e $lockfile ] && exit; touch $lockfile; grim - | wayland-boomer; rm -f $lockfile'",
+  -- ["ALT+F3"] = "",
 }
 
 local executable = { app_binds, scrips, others, macroces }
@@ -72,12 +72,12 @@ local miscellaneous = {
   ["C"] = hl.dsp.window.float({ action = "toggle" }),
   ["F"] = hl.dsp.window.fullscreen({ action = "toggle" }),
   ["TAB"] = Better_move_to_special,
-  ["ALT + END"] = hl.dsp.pass({ window = "class:^(com\\.obsproject\\.Studio)$" }),
+  -- ["ALT + END"] = hl.dsp.pass({ window = "class:^(com\\.obsproject\\.Studio)$" }),
   ["T"] = Swap_workspace_and_special,
 }
 
 
-  -- LOOPS
+-- LOOPS
 for _, group in pairs(executable) do
   for bind, command in pairs(group) do
     hl.bind(mainMod .. " + " .. bind, Execute(command))
@@ -93,8 +93,8 @@ end
 
 -- MANUAL_BINDS
 
-hl.bind("ALT + TAB", hl.dsp.workspace.toggle_special("magic"))
-hl.bind("ALT + F1", Execute("grim -c - | wl-copy"))
+hl.bind("CTRL+ TAB", hl.dsp.workspace.toggle_special("magic"))
+hl.bind("CTRL+ F1", Execute("grim -c - | wl-copy"))
 
 -- HYPRSLOP
 

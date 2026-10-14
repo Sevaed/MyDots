@@ -1,0 +1,56 @@
+{
+  "apps": {
+    "EDCO": {
+      "path": "/home/sevaed/.config/EDCO.jsonc"
+    },
+    "hyprland": {
+      "path": "/home/sevaed/.config/hypr/hyprland.lua",
+      "group": "Hyprland"
+    },
+    "keybindings": {
+      "path": "/home/sevaed/.config/hypr/config_files/keybindings.lua",
+      "group": "Hyprland"
+    },
+    "autostart": {
+      "path": "/home/sevaed/.config/hypr/config_files/autostart.lua",
+      "group": "Hyprland"
+    },
+    "windowrules": {
+      "path": "/home/sevaed/.config/hypr/config_files/windowrules.lua",
+      "group": "Hyprland"
+    },
+    "kitty": {
+      "path": "/home/sevaed/.config/kitty/kitty.conf",
+      "group": "terminal"
+    },
+    "fish": {
+      "path": "/home/sevaed/.config/fish/config.fish",
+      "group": "terminal"
+    },
+    "helix": {
+      "path": "/home/sevaed/.config/helix/config.toml"
+    },
+    "hypr_plugins": {
+      "path": "/home/sevaed/.config/hypr/config_files/plugins.lua",
+      "group": "Hyprland"
+    },
+    "starship": {
+      "path": "/home/sevaed/.config/starship.toml",
+      "group": "terminal"
+    },
+    "ssh": {
+      "path": "/home/sevaed/.ssh/config",
+      "group": "terminal"
+    }
+  },
+  "backup": {
+    "type": "none",
+    "configs": {
+      "script": {
+        "config": {
+          "path": "<path_to_executable_to_call_after_any_changes>"
+        }
+      }
+    }
+  }
+}

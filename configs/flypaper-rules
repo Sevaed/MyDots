@@ -6,3 +6,5 @@
 -any -ifname enp9s0
 -comm prismlauncher -nop
 -arg /home/sevaed/.local/share/PrismLauncher/java/jre-legacy/bin/java -nop
+-comm vesktop -nop
+-comm BeamMP-Launcher -nop

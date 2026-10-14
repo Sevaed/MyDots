@@ -4145,3 +4145,1929 @@
 2026-08-07T12:25:38.735 - MouseFunctions: saveToRAM
 2026-08-07T12:25:38.738 - SWUpdate: netReply error "SSL handshake failed"
 2026-08-07T12:25:39.841 - ConfigFile: saved to file
+2026-08-08T15:06:42.279 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-08T15:06:42.547 - Blfwk: libblfwk_wrapper not loaded
+2026-08-08T15:06:42.930 - ExpertView: loadSaveFile() start
+2026-08-08T15:06:43.095 - copyStarterFile:  true
+2026-08-08T15:06:43.095 - ExpertView: loadSaveFile():  164 msec
+2026-08-08T15:06:43.112 - HIDManager: mouse match, PID: 10
+2026-08-08T15:06:43.497 - Autostart - launched minimized
+2026-08-08T15:06:43.561 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-08T15:06:43.561 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-08T15:06:43.646 - MouseFunctions: getBuildNumber
+2026-08-08T15:06:43.648 - Firmware version: "000208"
+2026-08-08T15:06:43.722 - MouseFunctions: getOpticalSensorId
+2026-08-08T15:06:43.724 - MouseFunctions: WaitForDpiStep
+2026-08-08T15:06:43.792 - MouseFunctions: saveToRAM
+2026-08-08T15:06:43.867 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-08T15:06:43.869 - ConfigFile: saved to file
+2026-08-08T15:06:43.889 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-08T15:12:31.163 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:12:52.335 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:12:52.337 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:12:52.338 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:15:15.413 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:15:15.416 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:15:15.417 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:15:15.429 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T15:15:15.434 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T19:46:51.684 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-08-08T19:46:51.684 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-08-09T05:19:15.187 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-09T05:19:15.349 - Blfwk: libblfwk_wrapper not loaded
+2026-08-09T05:19:15.534 - ExpertView: loadSaveFile() start
+2026-08-09T05:19:15.691 - copyStarterFile:  true
+2026-08-09T05:19:15.692 - ExpertView: loadSaveFile():  157 msec
+2026-08-09T05:19:15.719 - HIDManager: mouse match, PID: 10
+2026-08-09T05:19:15.874 - Autostart - launched minimized
+2026-08-09T05:19:15.888 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-09T05:19:15.888 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-09T05:19:15.997 - MouseFunctions: getBuildNumber
+2026-08-09T05:19:15.999 - Firmware version: "000208"
+2026-08-09T05:19:16.104 - MouseFunctions: getOpticalSensorId
+2026-08-09T05:19:16.108 - MouseFunctions: WaitForDpiStep
+2026-08-09T05:19:16.154 - MouseFunctions: saveToRAM
+2026-08-09T05:19:16.236 - ConfigFile: saved to file
+2026-08-09T05:19:16.296 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-09T05:19:16.297 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-10T00:29:02.221 - Opening Window in Expert Mode
+2026-08-10T00:29:11.947 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-10T00:29:11.948 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-10T05:19:15.261 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-10T05:19:15.262 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-11T05:19:15.283 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-11T05:19:15.285 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-11T16:31:52.501 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/9”"
+2026-08-12T14:25:12.969 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-12T14:25:13.164 - Blfwk: libblfwk_wrapper not loaded
+2026-08-12T14:25:13.554 - ExpertView: loadSaveFile() start
+2026-08-12T14:25:13.739 - copyStarterFile:  true
+2026-08-12T14:25:13.739 - ExpertView: loadSaveFile():  185 msec
+2026-08-12T14:25:13.761 - HIDManager: mouse match, PID: 10
+2026-08-12T14:25:14.258 - Autostart - launched minimized
+2026-08-12T14:25:14.286 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-12T14:25:14.286 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-12T14:25:14.360 - MouseFunctions: getBuildNumber
+2026-08-12T14:25:14.361 - Firmware version: "000208"
+2026-08-12T14:25:14.446 - MouseFunctions: getOpticalSensorId
+2026-08-12T14:25:14.451 - MouseFunctions: WaitForDpiStep
+2026-08-12T14:25:14.581 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-12T14:25:14.606 - MouseFunctions: saveToRAM
+2026-08-12T14:25:14.609 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-12T14:25:14.683 - ConfigFile: saved to file
+2026-08-13T12:20:26.747 - Opening Window in Expert Mode
+2026-08-13T14:25:13.143 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-13T14:25:13.144 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-14T17:42:38.481 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-14T17:42:38.760 - Blfwk: libblfwk_wrapper not loaded
+2026-08-14T17:42:39.393 - ExpertView: loadSaveFile() start
+2026-08-14T17:42:39.532 - copyStarterFile:  true
+2026-08-14T17:42:39.532 - ExpertView: loadSaveFile():  139 msec
+2026-08-14T17:42:39.549 - HIDManager: mouse match, PID: 10
+2026-08-14T17:42:40.381 - Autostart - launched minimized
+2026-08-14T17:42:40.745 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-14T17:42:40.745 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-14T17:42:40.819 - MouseFunctions: getBuildNumber
+2026-08-14T17:42:40.820 - Firmware version: "000208"
+2026-08-14T17:42:40.911 - MouseFunctions: getOpticalSensorId
+2026-08-14T17:42:40.917 - MouseFunctions: WaitForDpiStep
+2026-08-14T17:42:40.983 - MouseFunctions: saveToRAM
+2026-08-14T17:42:41.090 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-14T17:42:41.360 - ConfigFile: saved to file
+2026-08-14T17:42:41.382 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-16T11:40:24.263 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-16T11:40:24.447 - Blfwk: libblfwk_wrapper not loaded
+2026-08-16T11:40:24.981 - ExpertView: loadSaveFile() start
+2026-08-16T11:40:25.152 - copyStarterFile:  true
+2026-08-16T11:40:25.152 - ExpertView: loadSaveFile():  171 msec
+2026-08-16T11:40:25.171 - HIDManager: mouse match, PID: 10
+2026-08-16T11:40:25.650 - Autostart - launched minimized
+2026-08-16T11:40:25.778 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-16T11:40:25.778 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-16T11:40:25.847 - MouseFunctions: getBuildNumber
+2026-08-16T11:40:25.848 - Firmware version: "000208"
+2026-08-16T11:40:25.932 - MouseFunctions: getOpticalSensorId
+2026-08-16T11:40:25.934 - MouseFunctions: WaitForDpiStep
+2026-08-16T11:40:26.044 - MouseFunctions: saveToRAM
+2026-08-16T11:40:26.068 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-16T11:40:26.074 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-16T11:40:26.126 - ConfigFile: saved to file
+2026-08-16T15:05:19.619 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-17T11:40:24.192 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-17T11:40:24.193 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-17T20:36:40.194 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-17T20:36:40.195 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/2”"
+2026-08-18T14:55:56.821 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-18T14:55:57.089 - Blfwk: libblfwk_wrapper not loaded
+2026-08-18T14:55:57.446 - ExpertView: loadSaveFile() start
+2026-08-18T14:55:57.597 - copyStarterFile:  true
+2026-08-18T14:55:57.597 - ExpertView: loadSaveFile():  150 msec
+2026-08-18T14:55:57.614 - HIDManager: mouse match, PID: 10
+2026-08-18T14:55:57.999 - Autostart - launched minimized
+2026-08-18T14:55:58.126 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-18T14:55:58.126 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-18T14:55:58.183 - MouseFunctions: getBuildNumber
+2026-08-18T14:55:58.184 - Firmware version: "000208"
+2026-08-18T14:55:58.258 - MouseFunctions: getOpticalSensorId
+2026-08-18T14:55:58.263 - MouseFunctions: WaitForDpiStep
+2026-08-18T14:55:58.443 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-18T14:55:58.460 - MouseFunctions: saveToRAM
+2026-08-18T14:55:58.463 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-18T14:55:58.540 - ConfigFile: saved to file
+2026-08-19T18:57:59.004 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-19T18:57:59.211 - Blfwk: libblfwk_wrapper not loaded
+2026-08-19T18:57:59.596 - ExpertView: loadSaveFile() start
+2026-08-19T18:57:59.747 - copyStarterFile:  true
+2026-08-19T18:57:59.747 - ExpertView: loadSaveFile():  151 msec
+2026-08-19T18:57:59.764 - HIDManager: mouse match, PID: 10
+2026-08-19T18:58:00.219 - Autostart - launched minimized
+2026-08-19T18:58:00.247 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-19T18:58:00.247 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-19T18:58:00.320 - MouseFunctions: getBuildNumber
+2026-08-19T18:58:00.321 - Firmware version: "000208"
+2026-08-19T18:58:00.396 - MouseFunctions: getOpticalSensorId
+2026-08-19T18:58:00.400 - MouseFunctions: WaitForDpiStep
+2026-08-19T18:58:00.472 - MouseFunctions: saveToRAM
+2026-08-19T18:58:00.556 - ConfigFile: saved to file
+2026-08-19T18:58:00.806 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-19T18:58:00.806 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-20T12:23:10.042 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-20T12:23:10.308 - Blfwk: libblfwk_wrapper not loaded
+2026-08-20T12:23:10.693 - ExpertView: loadSaveFile() start
+2026-08-20T12:23:10.863 - copyStarterFile:  true
+2026-08-20T12:23:10.863 - ExpertView: loadSaveFile():  169 msec
+2026-08-20T12:23:10.878 - HIDManager: mouse match, PID: 10
+2026-08-20T12:23:11.288 - Autostart - launched minimized
+2026-08-20T12:23:11.325 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-20T12:23:11.325 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-20T12:23:11.395 - MouseFunctions: getBuildNumber
+2026-08-20T12:23:11.396 - Firmware version: "000208"
+2026-08-20T12:23:11.470 - MouseFunctions: getOpticalSensorId
+2026-08-20T12:23:11.475 - MouseFunctions: WaitForDpiStep
+2026-08-20T12:23:11.619 - MouseFunctions: saveToRAM
+2026-08-20T12:23:11.666 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-20T12:23:11.672 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-20T12:23:11.700 - ConfigFile: saved to file
+2026-08-20T13:52:54.871 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-20T13:52:54.872 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-20T17:53:34.099 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-20T17:53:34.101 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-20T17:53:34.112 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-20T22:35:43.690 - Opening Window in Expert Mode
+2026-08-20T22:36:12.642 - MouseFunctions: saveToRAM
+2026-08-20T22:36:12.720 - ConfigFile: saved to file
+2026-08-20T22:36:58.066 - MouseFunctions: saveToRAM
+2026-08-20T22:36:58.146 - ConfigFile: saved to file
+2026-08-21T15:43:28.292 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-21T15:43:28.465 - Blfwk: libblfwk_wrapper not loaded
+2026-08-21T15:43:28.699 - ExpertView: loadSaveFile() start
+2026-08-21T15:43:28.865 - copyStarterFile:  true
+2026-08-21T15:43:28.865 - ExpertView: loadSaveFile():  166 msec
+2026-08-21T15:43:28.883 - HIDManager: mouse match, PID: 10
+2026-08-21T15:43:29.698 - Autostart - launched minimized
+2026-08-21T15:43:29.966 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-21T15:43:29.966 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-21T15:43:30.035 - MouseFunctions: getBuildNumber
+2026-08-21T15:43:30.037 - Firmware version: "000208"
+2026-08-21T15:43:30.103 - MouseFunctions: getOpticalSensorId
+2026-08-21T15:43:30.106 - MouseFunctions: WaitForDpiStep
+2026-08-21T15:43:30.255 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-21T15:43:30.258 - MouseFunctions: saveToRAM
+2026-08-21T15:43:30.261 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-21T15:43:32.484 - ConfigFile: saved to file
+2026-08-22T10:39:24.474 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-22T10:39:24.696 - Blfwk: libblfwk_wrapper not loaded
+2026-08-22T10:39:25.026 - ExpertView: loadSaveFile() start
+2026-08-22T10:39:25.172 - copyStarterFile:  true
+2026-08-22T10:39:25.172 - ExpertView: loadSaveFile():  146 msec
+2026-08-22T10:39:25.190 - HIDManager: mouse match, PID: 10
+2026-08-22T10:39:25.646 - Autostart - launched minimized
+2026-08-22T10:39:25.676 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-22T10:39:25.676 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-22T10:39:25.758 - MouseFunctions: getBuildNumber
+2026-08-22T10:39:25.759 - Firmware version: "000208"
+2026-08-22T10:39:25.824 - MouseFunctions: getOpticalSensorId
+2026-08-22T10:39:25.831 - MouseFunctions: WaitForDpiStep
+2026-08-22T10:39:25.981 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-22T10:39:26.068 - MouseFunctions: saveToRAM
+2026-08-22T10:39:26.070 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-22T10:39:26.151 - ConfigFile: saved to file
+2026-08-23T12:04:01.929 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-23T12:04:02.175 - Blfwk: libblfwk_wrapper not loaded
+2026-08-23T12:04:02.570 - ExpertView: loadSaveFile() start
+2026-08-23T12:04:02.725 - copyStarterFile:  true
+2026-08-23T12:04:02.725 - ExpertView: loadSaveFile():  155 msec
+2026-08-23T12:04:02.744 - HIDManager: mouse match, PID: 10
+2026-08-23T12:04:03.390 - Autostart - launched minimized
+2026-08-23T12:04:03.664 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-23T12:04:03.665 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-23T12:04:03.746 - MouseFunctions: getBuildNumber
+2026-08-23T12:04:03.747 - Firmware version: "000208"
+2026-08-23T12:04:03.968 - MouseFunctions: getOpticalSensorId
+2026-08-23T12:04:03.972 - MouseFunctions: WaitForDpiStep
+2026-08-23T12:04:04.026 - MouseFunctions: saveToRAM
+2026-08-23T12:04:04.153 - ConfigFile: saved to file
+2026-08-23T12:04:04.179 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-23T12:04:04.179 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-23T16:37:46.772 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-23T16:37:47.079 - Blfwk: libblfwk_wrapper not loaded
+2026-08-23T16:37:47.791 - ExpertView: loadSaveFile() start
+2026-08-23T16:37:47.958 - copyStarterFile:  true
+2026-08-23T16:37:47.958 - ExpertView: loadSaveFile():  166 msec
+2026-08-23T16:37:47.977 - HIDManager: mouse match, PID: 10
+2026-08-23T16:37:48.331 - Autostart - launched minimized
+2026-08-23T16:37:48.427 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-23T16:37:48.427 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-23T16:37:48.498 - MouseFunctions: getBuildNumber
+2026-08-23T16:37:48.499 - Firmware version: "000208"
+2026-08-23T16:37:48.560 - MouseFunctions: getOpticalSensorId
+2026-08-23T16:37:48.566 - MouseFunctions: WaitForDpiStep
+2026-08-23T16:37:48.709 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-23T16:37:48.809 - MouseFunctions: saveToRAM
+2026-08-23T16:37:48.811 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-23T16:37:48.888 - ConfigFile: saved to file
+2026-08-23T20:19:58.576 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-23T20:20:47.471 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-24T14:22:26.658 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-24T14:22:26.837 - Blfwk: libblfwk_wrapper not loaded
+2026-08-24T14:22:27.565 - ExpertView: loadSaveFile() start
+2026-08-24T14:22:27.728 - copyStarterFile:  true
+2026-08-24T14:22:27.728 - ExpertView: loadSaveFile():  163 msec
+2026-08-24T14:22:27.744 - HIDManager: mouse match, PID: 10
+2026-08-24T14:22:28.312 - Autostart - launched minimized
+2026-08-24T14:22:28.543 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-24T14:22:28.543 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-24T14:22:28.595 - MouseFunctions: getBuildNumber
+2026-08-24T14:22:28.596 - Firmware version: "000208"
+2026-08-24T14:22:28.659 - MouseFunctions: getOpticalSensorId
+2026-08-24T14:22:28.661 - MouseFunctions: WaitForDpiStep
+2026-08-24T14:22:28.826 - MouseFunctions: saveToRAM
+2026-08-24T14:22:28.864 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-24T14:22:28.868 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-24T14:22:28.910 - ConfigFile: saved to file
+2026-08-25T15:23:11.473 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-25T15:23:11.661 - Blfwk: libblfwk_wrapper not loaded
+2026-08-25T15:23:11.958 - ExpertView: loadSaveFile() start
+2026-08-25T15:23:12.101 - copyStarterFile:  true
+2026-08-25T15:23:12.101 - ExpertView: loadSaveFile():  143 msec
+2026-08-25T15:23:12.117 - HIDManager: mouse match, PID: 10
+2026-08-25T15:23:12.370 - Autostart - launched minimized
+2026-08-25T15:23:12.445 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-25T15:23:12.445 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-25T15:23:12.515 - MouseFunctions: getBuildNumber
+2026-08-25T15:23:12.516 - Firmware version: "000208"
+2026-08-25T15:23:12.584 - MouseFunctions: getOpticalSensorId
+2026-08-25T15:23:12.589 - MouseFunctions: WaitForDpiStep
+2026-08-25T15:23:12.705 - MouseFunctions: saveToRAM
+2026-08-25T15:23:12.774 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-25T15:23:12.777 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-25T15:23:12.809 - ConfigFile: saved to file
+2026-08-25T16:21:04.381 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-25T16:21:04.437 - Blfwk: libblfwk_wrapper not loaded
+2026-08-25T16:21:04.521 - ExpertView: loadSaveFile() start
+2026-08-25T16:21:04.605 - copyStarterFile:  true
+2026-08-25T16:21:04.605 - ExpertView: loadSaveFile():  84 msec
+2026-08-25T16:21:04.620 - HIDManager: mouse match, PID: 10
+2026-08-25T16:21:04.726 - libpng warning: iCCP: known incorrect sRGB profile
+2026-08-25T16:21:04.726 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-08-25T16:21:05.037 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-25T16:21:05.037 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-25T16:21:05.054 - MouseFunctions: getBuildNumber
+2026-08-25T16:21:05.055 - Firmware version: "000208"
+2026-08-25T16:21:05.136 - Opening Window in Expert Mode
+2026-08-25T16:21:05.147 - MouseFunctions: getOpticalSensorId
+2026-08-25T16:21:05.158 - MouseFunctions: WaitForDpiStep
+2026-08-25T16:21:05.302 - MouseFunctions: saveToRAM
+2026-08-25T16:21:05.380 - ConfigFile: saved to file
+2026-08-25T16:21:05.450 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-25T16:21:05.451 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-25T23:15:41.735 - The X11 connection broke (error 1). Did the X11 server die?
+2026-08-26T09:53:39.576 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-26T09:53:39.697 - Blfwk: libblfwk_wrapper not loaded
+2026-08-26T09:53:39.937 - ExpertView: loadSaveFile() start
+2026-08-26T09:53:40.068 - copyStarterFile:  true
+2026-08-26T09:53:40.068 - ExpertView: loadSaveFile():  130 msec
+2026-08-26T09:53:40.085 - HIDManager: mouse match, PID: 10
+2026-08-26T09:53:40.812 - Autostart - launched minimized
+2026-08-26T09:53:40.879 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-26T09:53:40.879 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-26T09:53:40.962 - MouseFunctions: getBuildNumber
+2026-08-26T09:53:40.963 - Firmware version: "000208"
+2026-08-26T09:53:41.035 - MouseFunctions: getOpticalSensorId
+2026-08-26T09:53:41.038 - MouseFunctions: WaitForDpiStep
+2026-08-26T09:53:41.350 - MouseFunctions: saveToRAM
+2026-08-26T09:53:41.431 - ConfigFile: saved to file
+2026-08-26T09:53:56.918 - SWUpdate: netReply error "Host drivers.swiftpoint.com not found"
+2026-08-26T09:53:56.984 - "No such interface “org.freedesktop.DBus.Properties” on object at path /org/freedesktop/NetworkManager/ActiveConnection/3"
+2026-08-26T09:55:52.256 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T14:09:39.903 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:37:01.563 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:37:11.484 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:37:22.581 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:37:35.261 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:39:15.226 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:39:40.947 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:39:58.329 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T20:39:58.330 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:42:12.500 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:42:12.501 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:42:12.511 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:34.886 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:54.501 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:58.180 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:58.181 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:58.771 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:58.772 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:46:58.782 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:47:00.629 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:47:00.630 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:47:51.514 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:47:51.515 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T21:47:51.526 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T22:35:37.789 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-26T22:40:14.223 - Opening Window in Expert Mode
+2026-08-27T13:29:53.326 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-27T13:29:53.825 - Blfwk: libblfwk_wrapper not loaded
+2026-08-27T13:29:54.165 - ExpertView: loadSaveFile() start
+2026-08-27T13:29:54.340 - copyStarterFile:  true
+2026-08-27T13:29:54.341 - ExpertView: loadSaveFile():  175 msec
+2026-08-27T13:29:54.359 - HIDManager: mouse match, PID: 10
+2026-08-27T13:29:55.524 - Autostart - launched minimized
+2026-08-27T13:29:55.782 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-27T13:29:55.782 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-27T13:29:55.869 - MouseFunctions: getBuildNumber
+2026-08-27T13:29:55.869 - Firmware version: "000208"
+2026-08-27T13:29:56.245 - MouseFunctions: getOpticalSensorId
+2026-08-27T13:29:56.248 - MouseFunctions: WaitForDpiStep
+2026-08-27T13:29:56.516 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-27T13:29:56.708 - MouseFunctions: saveToRAM
+2026-08-27T13:29:56.711 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-27T13:29:56.788 - ConfigFile: saved to file
+2026-08-27T14:51:18.286 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T00:45:15.687 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:10:16.163 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-28T11:10:16.302 - Blfwk: libblfwk_wrapper not loaded
+2026-08-28T11:10:16.562 - ExpertView: loadSaveFile() start
+2026-08-28T11:10:16.712 - copyStarterFile:  true
+2026-08-28T11:10:16.712 - ExpertView: loadSaveFile():  149 msec
+2026-08-28T11:10:16.729 - HIDManager: mouse match, PID: 10
+2026-08-28T11:10:17.167 - Autostart - launched minimized
+2026-08-28T11:10:17.200 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-28T11:10:17.200 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-28T11:10:17.255 - MouseFunctions: getBuildNumber
+2026-08-28T11:10:17.257 - Firmware version: "000208"
+2026-08-28T11:10:17.318 - MouseFunctions: getOpticalSensorId
+2026-08-28T11:10:17.321 - MouseFunctions: WaitForDpiStep
+2026-08-28T11:10:17.367 - MouseFunctions: saveToRAM
+2026-08-28T11:10:17.448 - ConfigFile: saved to file
+2026-08-28T11:10:17.502 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-28T11:10:17.502 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-28T11:45:18.824 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:45:22.426 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:45:22.427 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:45:31.348 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:45:31.349 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-28T11:45:31.359 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-29T03:01:43.448 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-29T14:08:28.093 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-29T14:08:28.286 - Blfwk: libblfwk_wrapper not loaded
+2026-08-29T14:08:28.578 - ExpertView: loadSaveFile() start
+2026-08-29T14:08:28.732 - copyStarterFile:  true
+2026-08-29T14:08:28.733 - ExpertView: loadSaveFile():  154 msec
+2026-08-29T14:08:28.750 - HIDManager: mouse match, PID: 10
+2026-08-29T14:08:29.168 - Autostart - launched minimized
+2026-08-29T14:08:29.196 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-29T14:08:29.196 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-29T14:08:29.253 - MouseFunctions: getBuildNumber
+2026-08-29T14:08:29.254 - Firmware version: "000208"
+2026-08-29T14:08:29.310 - MouseFunctions: getOpticalSensorId
+2026-08-29T14:08:29.313 - MouseFunctions: WaitForDpiStep
+2026-08-29T14:08:29.348 - MouseFunctions: saveToRAM
+2026-08-29T14:08:29.427 - ConfigFile: saved to file
+2026-08-29T14:08:29.512 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-29T14:08:29.512 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-30T12:54:41.416 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-30T12:54:41.569 - Blfwk: libblfwk_wrapper not loaded
+2026-08-30T12:54:41.960 - ExpertView: loadSaveFile() start
+2026-08-30T12:54:42.157 - copyStarterFile:  true
+2026-08-30T12:54:42.157 - ExpertView: loadSaveFile():  197 msec
+2026-08-30T12:54:42.177 - HIDManager: mouse match, PID: 10
+2026-08-30T12:54:42.473 - Autostart - launched minimized
+2026-08-30T12:54:42.511 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-30T12:54:42.511 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-30T12:54:42.597 - MouseFunctions: getBuildNumber
+2026-08-30T12:54:42.597 - Firmware version: "000208"
+2026-08-30T12:54:42.676 - MouseFunctions: getOpticalSensorId
+2026-08-30T12:54:42.682 - MouseFunctions: WaitForDpiStep
+2026-08-30T12:54:42.742 - MouseFunctions: saveToRAM
+2026-08-30T12:54:42.828 - ConfigFile: saved to file
+2026-08-30T12:54:42.864 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-30T12:54:42.865 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-31T14:12:39.420 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-08-31T14:12:39.594 - Blfwk: libblfwk_wrapper not loaded
+2026-08-31T14:12:39.875 - ExpertView: loadSaveFile() start
+2026-08-31T14:12:40.022 - copyStarterFile:  true
+2026-08-31T14:12:40.022 - ExpertView: loadSaveFile():  146 msec
+2026-08-31T14:12:40.040 - HIDManager: mouse match, PID: 10
+2026-08-31T14:12:40.368 - Autostart - launched minimized
+2026-08-31T14:12:40.386 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-08-31T14:12:40.387 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-08-31T14:12:40.478 - MouseFunctions: getBuildNumber
+2026-08-31T14:12:40.479 - Firmware version: "000208"
+2026-08-31T14:12:40.550 - MouseFunctions: getOpticalSensorId
+2026-08-31T14:12:40.556 - MouseFunctions: WaitForDpiStep
+2026-08-31T14:12:40.671 - MouseFunctions: saveToRAM
+2026-08-31T14:12:40.710 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-08-31T14:12:40.715 - SWUpdate: netReply error "SSL handshake failed"
+2026-08-31T14:12:40.752 - ConfigFile: saved to file
+2026-08-31T17:36:13.692 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-08-31T17:36:13.693 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-31T18:34:36.880 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-08-31T18:34:36.880 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-08-31T19:12:03.032 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-08-31T19:12:03.032 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-01T14:21:10.751 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-01T14:21:10.902 - Blfwk: libblfwk_wrapper not loaded
+2026-09-01T14:21:11.196 - ExpertView: loadSaveFile() start
+2026-09-01T14:21:11.348 - copyStarterFile:  true
+2026-09-01T14:21:11.348 - ExpertView: loadSaveFile():  152 msec
+2026-09-01T14:21:11.363 - HIDManager: mouse match, PID: 10
+2026-09-01T14:21:11.729 - Autostart - launched minimized
+2026-09-01T14:21:11.765 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-01T14:21:11.770 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-01T14:21:11.829 - MouseFunctions: getBuildNumber
+2026-09-01T14:21:11.831 - Firmware version: "000208"
+2026-09-01T14:21:11.892 - MouseFunctions: getOpticalSensorId
+2026-09-01T14:21:11.895 - MouseFunctions: WaitForDpiStep
+2026-09-01T14:21:11.960 - MouseFunctions: saveToRAM
+2026-09-01T14:21:12.041 - ConfigFile: saved to file
+2026-09-01T14:21:12.086 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-01T14:21:12.086 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-01T17:24:57.832 - Opening Window in Expert Mode
+2026-09-01T18:00:16.368 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-01T19:53:57.692 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-01T22:24:02.925 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-01T22:33:51.882 - MouseFunctions: saveToRAM
+2026-09-01T22:33:51.957 - ConfigFile: saved to file
+2026-09-02T17:22:02.033 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-02T17:22:02.195 - Blfwk: libblfwk_wrapper not loaded
+2026-09-02T17:22:02.558 - ExpertView: loadSaveFile() start
+2026-09-02T17:22:02.733 - copyStarterFile:  true
+2026-09-02T17:22:02.733 - ExpertView: loadSaveFile():  174 msec
+2026-09-02T17:22:02.751 - HIDManager: mouse match, PID: 10
+2026-09-02T17:22:03.263 - Autostart - launched minimized
+2026-09-02T17:22:03.399 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-02T17:22:03.399 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-02T17:22:03.461 - MouseFunctions: getBuildNumber
+2026-09-02T17:22:03.462 - Firmware version: "000208"
+2026-09-02T17:22:03.520 - MouseFunctions: getOpticalSensorId
+2026-09-02T17:22:03.523 - MouseFunctions: WaitForDpiStep
+2026-09-02T17:22:03.562 - MouseFunctions: saveToRAM
+2026-09-02T17:22:03.640 - ConfigFile: saved to file
+2026-09-02T17:22:03.703 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-02T17:22:03.703 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-03T16:17:07.787 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-03T16:17:07.971 - Blfwk: libblfwk_wrapper not loaded
+2026-09-03T16:17:08.210 - ExpertView: loadSaveFile() start
+2026-09-03T16:17:08.322 - copyStarterFile:  true
+2026-09-03T16:17:08.322 - ExpertView: loadSaveFile():  111 msec
+2026-09-03T16:17:08.340 - HIDManager: mouse match, PID: 10
+2026-09-03T16:17:08.587 - Autostart - launched minimized
+2026-09-03T16:17:08.679 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-03T16:17:08.679 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-03T16:17:08.735 - MouseFunctions: getBuildNumber
+2026-09-03T16:17:08.735 - Firmware version: "000208"
+2026-09-03T16:17:08.803 - MouseFunctions: getOpticalSensorId
+2026-09-03T16:17:08.808 - MouseFunctions: WaitForDpiStep
+2026-09-03T16:17:08.886 - MouseFunctions: saveToRAM
+2026-09-03T16:17:08.954 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-03T16:17:08.955 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-03T16:17:08.964 - ConfigFile: saved to file
+2026-09-03T16:21:20.816 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:21:40.288 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:21:40.290 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:22:27.010 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:22:27.015 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:22:27.052 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:23:09.009 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T16:23:17.290 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T18:28:07.698 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T18:28:07.698 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-03T19:31:09.052 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T19:31:09.053 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-03T19:31:57.749 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/7”"
+2026-09-03T19:31:57.749 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-04T16:23:41.112 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-04T16:23:41.312 - Blfwk: libblfwk_wrapper not loaded
+2026-09-04T16:23:41.576 - ExpertView: loadSaveFile() start
+2026-09-04T16:23:41.702 - copyStarterFile:  true
+2026-09-04T16:23:41.702 - ExpertView: loadSaveFile():  125 msec
+2026-09-04T16:23:41.718 - HIDManager: mouse match, PID: 10
+2026-09-04T16:23:42.050 - Autostart - launched minimized
+2026-09-04T16:23:42.152 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-04T16:23:42.152 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-04T16:23:42.208 - MouseFunctions: getBuildNumber
+2026-09-04T16:23:42.208 - Firmware version: "000208"
+2026-09-04T16:23:42.288 - MouseFunctions: getOpticalSensorId
+2026-09-04T16:23:42.292 - MouseFunctions: WaitForDpiStep
+2026-09-04T16:23:42.371 - MouseFunctions: saveToRAM
+2026-09-04T16:23:42.446 - ConfigFile: saved to file
+2026-09-04T16:23:42.478 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-04T16:23:42.478 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-04T17:23:49.963 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T18:24:40.013 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T19:55:32.670 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T20:17:55.844 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T20:18:24.930 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T21:14:21.859 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T22:54:57.477 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-04T23:17:37.643 - Opening Window in Expert Mode
+2026-09-05T02:09:44.184 - Mappings: save()
+2026-09-05T02:09:46.112 - MouseFunctions: saveToRAM
+2026-09-05T02:09:46.189 - ConfigFile: saved to file
+2026-09-05T12:11:20.113 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-05T12:11:20.320 - Blfwk: libblfwk_wrapper not loaded
+2026-09-05T12:11:20.563 - ExpertView: loadSaveFile() start
+2026-09-05T12:11:20.683 - copyStarterFile:  true
+2026-09-05T12:11:20.683 - ExpertView: loadSaveFile():  120 msec
+2026-09-05T12:11:20.701 - HIDManager: mouse match, PID: 10
+2026-09-05T12:11:21.040 - Autostart - launched minimized
+2026-09-05T12:11:21.199 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-05T12:11:21.199 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-05T12:11:21.260 - MouseFunctions: getBuildNumber
+2026-09-05T12:11:21.261 - Firmware version: "000208"
+2026-09-05T12:11:21.330 - MouseFunctions: getOpticalSensorId
+2026-09-05T12:11:21.334 - MouseFunctions: WaitForDpiStep
+2026-09-05T12:11:21.395 - MouseFunctions: saveToRAM
+2026-09-05T12:11:21.476 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-05T12:11:21.476 - ConfigFile: saved to file
+2026-09-05T12:11:21.492 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-05T13:44:31.821 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-05T18:40:28.254 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-05T19:57:35.882 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/4”"
+2026-09-05T19:57:35.882 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-05T22:47:21.462 - Opening Window in Expert Mode
+2026-09-05T22:51:21.951 - Mappings: save()
+2026-09-05T22:51:27.470 - Mappings: save()
+2026-09-05T22:51:48.440 - MouseFunctions: saveToRAM
+2026-09-05T22:51:48.516 - ConfigFile: saved to file
+2026-09-05T22:51:54.954 - Mappings: save()
+2026-09-05T22:52:02.523 - MouseFunctions: saveToRAM
+2026-09-05T22:52:02.602 - ConfigFile: saved to file
+2026-09-05T22:52:06.831 - Mappings: save()
+2026-09-05T23:03:33.655 - MouseFunctions: saveToRAM
+2026-09-05T23:03:33.734 - ConfigFile: saved to file
+2026-09-05T23:03:38.473 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-05T23:03:38.473 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-05T23:05:59.198 - MouseFunctions: saveToRAM
+2026-09-05T23:05:59.276 - ConfigFile: saved to file
+2026-09-05T23:06:52.487 - Mappings: save()
+2026-09-05T23:07:04.846 - MouseFunctions: saveToRAM
+2026-09-05T23:07:04.925 - ConfigFile: saved to file
+2026-09-05T23:07:21.095 - Mappings: save()
+2026-09-05T23:07:21.118 - "QColor::setGreen": invalid value -21
+2026-09-05T23:07:42.817 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-05T23:07:42.875 - Blfwk: libblfwk_wrapper not loaded
+2026-09-05T23:07:42.959 - ExpertView: loadSaveFile() start
+2026-09-05T23:07:43.074 - copyStarterFile:  true
+2026-09-05T23:07:43.074 - ExpertView: loadSaveFile():  114 msec
+2026-09-05T23:07:43.090 - HIDManager: mouse match, PID: 10
+2026-09-05T23:07:43.205 - libpng warning: iCCP: known incorrect sRGB profile
+2026-09-05T23:07:43.205 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-09-05T23:07:43.352 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-05T23:07:43.352 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-05T23:07:43.367 - MouseFunctions: getBuildNumber
+2026-09-05T23:07:43.368 - Firmware version: "000208"
+2026-09-05T23:07:43.463 - Opening Window in Expert Mode
+2026-09-05T23:07:43.474 - MouseFunctions: getOpticalSensorId
+2026-09-05T23:07:43.492 - MouseFunctions: WaitForDpiStep
+2026-09-05T23:07:43.622 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-05T23:07:43.695 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-05T23:07:43.696 - MouseFunctions: saveToRAM
+2026-09-05T23:07:43.773 - ConfigFile: saved to file
+2026-09-05T23:07:45.696 - MouseFunctions: saveToRAM
+2026-09-05T23:07:45.773 - ConfigFile: saved to file
+2026-09-05T23:07:53.035 - Mappings: save()
+2026-09-05T23:07:55.517 - MouseFunctions: saveToRAM
+2026-09-05T23:07:55.596 - ConfigFile: saved to file
+2026-09-05T23:08:15.490 - MouseFunctions: saveToRAM
+2026-09-05T23:08:15.569 - ConfigFile: saved to file
+2026-09-05T23:18:28.459 - Mappings: save()
+2026-09-05T23:18:39.097 - MouseFunctions: saveToRAM
+2026-09-05T23:18:39.179 - ConfigFile: saved to file
+2026-09-05T23:20:37.992 - Mappings: save()
+2026-09-05T23:21:16.534 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-05T23:21:16.608 - Blfwk: libblfwk_wrapper not loaded
+2026-09-05T23:21:16.715 - ExpertView: loadSaveFile() start
+2026-09-05T23:21:16.865 - copyStarterFile:  true
+2026-09-05T23:21:16.865 - ExpertView: loadSaveFile():  149 msec
+2026-09-05T23:21:16.884 - HIDManager: mouse match, PID: 10
+2026-09-05T23:21:17.010 - libpng warning: iCCP: known incorrect sRGB profile
+2026-09-05T23:21:17.010 - libpng warning: iCCP: cHRM chunk does not match sRGB
+2026-09-05T23:21:17.196 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-05T23:21:17.196 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-05T23:21:17.217 - MouseFunctions: getBuildNumber
+2026-09-05T23:21:17.218 - Firmware version: "000208"
+2026-09-05T23:21:17.326 - Opening Window in Expert Mode
+2026-09-05T23:21:17.331 - MouseFunctions: getOpticalSensorId
+2026-09-05T23:21:17.335 - MouseFunctions: WaitForDpiStep
+2026-09-05T23:21:17.479 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-05T23:21:17.564 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-05T23:21:17.565 - MouseFunctions: saveToRAM
+2026-09-05T23:21:17.646 - ConfigFile: saved to file
+2026-09-05T23:21:39.968 - MouseFunctions: saveToRAM
+2026-09-05T23:21:40.049 - ConfigFile: saved to file
+2026-09-05T23:21:40.886 - Mappings: save()
+2026-09-05T23:21:45.039 - MouseFunctions: saveToRAM
+2026-09-05T23:21:45.120 - ConfigFile: saved to file
+2026-09-05T23:22:37.307 - Mappings: save()
+2026-09-05T23:23:04.992 - MouseFunctions: saveToRAM
+2026-09-05T23:23:05.074 - ConfigFile: saved to file
+2026-09-05T23:23:07.265 - Mappings: save()
+2026-09-05T23:23:13.912 - MouseFunctions: saveToRAM
+2026-09-05T23:23:13.995 - ConfigFile: saved to file
+2026-09-05T23:28:01.794 - Mappings: save()
+2026-09-05T23:28:15.023 - MouseFunctions: saveToRAM
+2026-09-05T23:28:15.110 - ConfigFile: saved to file
+2026-09-06T00:41:37.831 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-06T00:41:37.897 - Blfwk: libblfwk_wrapper not loaded
+2026-09-06T00:41:37.988 - ExpertView: loadSaveFile() start
+2026-09-06T00:41:38.117 - copyStarterFile:  true
+2026-09-06T00:41:38.117 - ExpertView: loadSaveFile():  128 msec
+2026-09-06T00:41:38.132 - HIDManager: mouse match, PID: 10
+2026-09-06T00:41:39.011 - Autostart - launched minimized
+2026-09-06T00:41:40.252 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-06T00:41:40.252 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-06T00:41:40.317 - MouseFunctions: getBuildNumber
+2026-09-06T00:41:40.788 - Firmware version: "000208"
+2026-09-06T00:41:40.851 - MouseFunctions: getOpticalSensorId
+2026-09-06T00:41:40.854 - MouseFunctions: WaitForDpiStep
+2026-09-06T00:41:40.995 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-06T00:41:45.210 - MouseFunctions: saveToRAM
+2026-09-06T00:41:45.212 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-06T00:41:46.310 - ConfigFile: saved to file
+2026-09-06T11:44:30.998 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-06T11:44:31.219 - Blfwk: libblfwk_wrapper not loaded
+2026-09-06T11:44:31.521 - ExpertView: loadSaveFile() start
+2026-09-06T11:44:31.702 - copyStarterFile:  true
+2026-09-06T11:44:31.702 - ExpertView: loadSaveFile():  181 msec
+2026-09-06T11:44:31.719 - HIDManager: mouse match, PID: 10
+2026-09-06T11:44:31.992 - Autostart - launched minimized
+2026-09-06T11:44:32.165 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-06T11:44:32.165 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-06T11:44:32.234 - MouseFunctions: getBuildNumber
+2026-09-06T11:44:32.235 - Firmware version: "000208"
+2026-09-06T11:44:32.297 - MouseFunctions: getOpticalSensorId
+2026-09-06T11:44:32.301 - MouseFunctions: WaitForDpiStep
+2026-09-06T11:44:32.437 - MouseFunctions: saveToRAM
+2026-09-06T11:44:32.531 - ConfigFile: saved to file
+2026-09-06T11:44:39.396 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-06T11:44:39.397 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-06T13:07:24.946 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T13:28:41.842 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T18:59:40.731 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T20:11:53.711 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T20:12:30.799 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T20:13:53.831 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-06T20:40:27.809 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-07T17:08:27.219 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-07T17:08:27.417 - Blfwk: libblfwk_wrapper not loaded
+2026-09-07T17:08:27.644 - ExpertView: loadSaveFile() start
+2026-09-07T17:08:27.793 - copyStarterFile:  true
+2026-09-07T17:08:27.793 - ExpertView: loadSaveFile():  149 msec
+2026-09-07T17:08:27.810 - HIDManager: mouse match, PID: 10
+2026-09-07T17:08:28.109 - Autostart - launched minimized
+2026-09-07T17:08:28.282 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-07T17:08:28.282 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-07T17:08:28.356 - MouseFunctions: getBuildNumber
+2026-09-07T17:08:28.357 - Firmware version: "000208"
+2026-09-07T17:08:28.425 - MouseFunctions: getOpticalSensorId
+2026-09-07T17:08:28.429 - MouseFunctions: WaitForDpiStep
+2026-09-07T17:08:28.478 - MouseFunctions: saveToRAM
+2026-09-07T17:08:28.568 - ConfigFile: saved to file
+2026-09-07T17:08:28.639 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-07T17:08:28.639 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-07T19:54:13.682 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-07T19:55:11.748 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-07T21:45:50.519 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-07T21:45:50.520 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-07T21:53:40.514 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-07T21:53:40.515 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-08T00:00:37.848 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/6”"
+2026-09-08T00:00:37.848 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-08T15:19:52.590 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-08T15:19:52.788 - Blfwk: libblfwk_wrapper not loaded
+2026-09-08T15:19:53.020 - ExpertView: loadSaveFile() start
+2026-09-08T15:19:53.180 - copyStarterFile:  true
+2026-09-08T15:19:53.180 - ExpertView: loadSaveFile():  160 msec
+2026-09-08T15:19:53.196 - HIDManager: mouse match, PID: 10
+2026-09-08T15:19:53.589 - Autostart - launched minimized
+2026-09-08T15:19:53.767 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-08T15:19:53.767 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-08T15:19:53.838 - MouseFunctions: getBuildNumber
+2026-09-08T15:19:53.838 - Firmware version: "000208"
+2026-09-08T15:19:53.904 - MouseFunctions: getOpticalSensorId
+2026-09-08T15:19:53.911 - MouseFunctions: WaitForDpiStep
+2026-09-08T15:19:54.050 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-08T15:19:54.112 - MouseFunctions: saveToRAM
+2026-09-08T15:19:54.115 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-08T15:19:54.196 - ConfigFile: saved to file
+2026-09-08T16:49:03.813 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-08T21:38:05.667 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-09T16:43:40.703 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-09T16:43:40.891 - Blfwk: libblfwk_wrapper not loaded
+2026-09-09T16:43:41.088 - ExpertView: loadSaveFile() start
+2026-09-09T16:43:41.259 - copyStarterFile:  true
+2026-09-09T16:43:41.259 - ExpertView: loadSaveFile():  171 msec
+2026-09-09T16:43:41.276 - HIDManager: mouse match, PID: 10
+2026-09-09T16:43:41.543 - Autostart - launched minimized
+2026-09-09T16:43:41.724 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-09T16:43:41.724 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-09T16:43:41.799 - MouseFunctions: getBuildNumber
+2026-09-09T16:43:41.801 - Firmware version: "000208"
+2026-09-09T16:43:41.866 - MouseFunctions: getOpticalSensorId
+2026-09-09T16:43:41.869 - MouseFunctions: WaitForDpiStep
+2026-09-09T16:43:41.914 - MouseFunctions: saveToRAM
+2026-09-09T16:43:42.001 - ConfigFile: saved to file
+2026-09-09T16:43:42.002 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-09T16:43:42.017 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-09T17:32:47.821 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-09T18:22:53.655 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-09T19:04:40.213 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-09T19:04:40.462 - Blfwk: libblfwk_wrapper not loaded
+2026-09-09T19:04:40.677 - ExpertView: loadSaveFile() start
+2026-09-09T19:04:40.852 - copyStarterFile:  true
+2026-09-09T19:04:40.852 - ExpertView: loadSaveFile():  174 msec
+2026-09-09T19:04:40.868 - HIDManager: mouse match, PID: 10
+2026-09-09T19:04:41.264 - Autostart - launched minimized
+2026-09-09T19:04:41.324 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-09T19:04:41.324 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-09T19:04:41.398 - MouseFunctions: getBuildNumber
+2026-09-09T19:04:41.399 - Firmware version: "000208"
+2026-09-09T19:04:41.483 - MouseFunctions: getOpticalSensorId
+2026-09-09T19:04:41.487 - MouseFunctions: WaitForDpiStep
+2026-09-09T19:04:41.659 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-09T19:04:41.791 - MouseFunctions: saveToRAM
+2026-09-09T19:04:41.794 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-09T19:04:41.882 - ConfigFile: saved to file
+2026-09-09T20:35:15.996 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T16:23:45.884 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-10T16:23:46.008 - Blfwk: libblfwk_wrapper not loaded
+2026-09-10T16:23:46.218 - ExpertView: loadSaveFile() start
+2026-09-10T16:23:46.417 - copyStarterFile:  true
+2026-09-10T16:23:46.417 - ExpertView: loadSaveFile():  199 msec
+2026-09-10T16:23:46.434 - HIDManager: mouse match, PID: 10
+2026-09-10T16:23:46.740 - Autostart - launched minimized
+2026-09-10T16:23:46.771 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-10T16:23:46.771 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-10T16:23:46.843 - MouseFunctions: getBuildNumber
+2026-09-10T16:23:46.844 - Firmware version: "000208"
+2026-09-10T16:23:46.925 - MouseFunctions: getOpticalSensorId
+2026-09-10T16:23:46.929 - MouseFunctions: WaitForDpiStep
+2026-09-10T16:23:47.132 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-10T16:23:47.175 - MouseFunctions: saveToRAM
+2026-09-10T16:23:47.193 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-10T16:23:47.277 - ConfigFile: saved to file
+2026-09-10T17:48:40.515 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T18:37:26.802 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T18:59:00.714 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T19:00:11.576 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T20:16:38.745 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T21:15:48.742 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T21:38:47.542 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-10T21:39:36.480 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/3”"
+2026-09-11T16:14:29.134 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.0.9.1"
+2026-09-11T16:14:29.304 - Blfwk: libblfwk_wrapper not loaded
+2026-09-11T16:14:29.665 - ExpertView: loadSaveFile() start
+2026-09-11T16:14:29.821 - copyStarterFile:  true
+2026-09-11T16:14:29.821 - ExpertView: loadSaveFile():  156 msec
+2026-09-11T16:14:29.837 - HIDManager: mouse match, PID: 10
+2026-09-11T16:14:30.062 - Autostart - launched minimized
+2026-09-11T16:14:30.182 - QSslSocket: cannot resolve EVP_PKEY_base_id
+2026-09-11T16:14:30.183 - QSslSocket: cannot resolve SSL_get_peer_certificate
+2026-09-11T16:14:30.261 - MouseFunctions: getBuildNumber
+2026-09-11T16:14:30.262 - Firmware version: "000208"
+2026-09-11T16:14:30.332 - MouseFunctions: getOpticalSensorId
+2026-09-11T16:14:30.336 - MouseFunctions: WaitForDpiStep
+2026-09-11T16:14:30.487 - QSslSocket: cannot call unresolved function SSL_get_peer_certificate
+2026-09-11T16:14:30.586 - MouseFunctions: saveToRAM
+2026-09-11T16:14:30.590 - SWUpdate: netReply error "SSL handshake failed"
+2026-09-11T16:14:30.674 - ConfigFile: saved to file
+2026-09-11T17:42:04.849 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-11T18:11:21.662 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-11T18:12:16.565 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-11T18:12:45.835 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-11T19:27:55.783 - "Object does not exist at path “/org/freedesktop/NetworkManager/ActiveConnection/5”"
+2026-09-11T19:53:23.490 - Opening Window in Expert Mode
+2026-09-11T20:20:13.102 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-11T20:20:13.102 - Failed to load app translation for language: "en"
+2026-09-11T20:20:13.115 - Blfwk: libblfwk_wrapper not loaded
+2026-09-11T20:20:13.202 - ExpertView: loadSaveFile() start
+2026-09-11T20:20:13.371 - copyStarterFile:  true
+2026-09-11T20:20:13.371 - ExpertView: loadSaveFile():  168 msec
+2026-09-11T20:20:13.414 - X1API: Socket server started
+2026-09-11T20:20:13.778 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-11T20:20:13.905 - Opening Window in Expert Mode
+2026-09-11T20:22:50.069 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-11T20:22:50.069 - Failed to load app translation for language: "en"
+2026-09-11T20:22:50.083 - Blfwk: libblfwk_wrapper not loaded
+2026-09-11T20:22:50.163 - ExpertView: loadSaveFile() start
+2026-09-11T20:22:52.446 - copyStarterFile:  true
+2026-09-11T20:22:52.447 - ExpertView: loadSaveFile():  2283 msec
+2026-09-11T20:22:52.490 - X1API: Socket server started
+2026-09-11T20:22:54.244 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-11T20:22:54.362 - Opening Window in Expert Mode
+2026-09-11T20:23:08.832 - QBoxLayout::insert: index 3 out of range (max: 1)
+2026-09-12T12:21:46.637 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-12T12:21:46.639 - Failed to load qt translation for language: "ru"
+2026-09-12T12:21:46.666 - Blfwk: libblfwk_wrapper not loaded
+2026-09-12T12:21:46.775 - ExpertView: loadSaveFile() start
+2026-09-12T12:21:46.933 - copyStarterFile:  true
+2026-09-12T12:21:46.933 - ExpertView: loadSaveFile():  157 msec
+2026-09-12T12:21:46.986 - X1API: Socket server started
+2026-09-12T12:21:47.354 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-12T12:21:47.476 - Opening Window in Expert Mode
+2026-09-12T12:22:01.181 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-12T12:22:01.181 - Failed to load qt translation for language: "ru"
+2026-09-12T12:22:01.194 - Blfwk: libblfwk_wrapper not loaded
+2026-09-12T12:22:01.272 - ExpertView: loadSaveFile() start
+2026-09-12T12:22:01.424 - copyStarterFile:  true
+2026-09-12T12:22:01.424 - ExpertView: loadSaveFile():  151 msec
+2026-09-12T12:22:01.464 - X1API: Socket server started
+2026-09-12T12:22:01.813 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-12T12:22:01.932 - Opening Window in Expert Mode
+2026-09-12T12:22:33.407 - ConfigFile: saved to file
+2026-09-12T12:23:06.488 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-12T12:23:16.258 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-12T12:23:16.258 - Failed to load qt translation for language: "ru"
+2026-09-12T12:23:16.272 - Blfwk: libblfwk_wrapper not loaded
+2026-09-12T12:23:16.351 - ExpertView: loadSaveFile() start
+2026-09-12T12:23:16.509 - copyStarterFile:  true
+2026-09-12T12:23:16.509 - ExpertView: loadSaveFile():  157 msec
+2026-09-12T12:23:16.548 - X1API: Socket server started
+2026-09-12T12:23:16.898 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-12T12:23:17.011 - Opening Window in Expert Mode
+2026-09-12T12:23:44.642 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-12T12:23:44.642 - Failed to load qt translation for language: "ru"
+2026-09-12T12:23:44.656 - Blfwk: libblfwk_wrapper not loaded
+2026-09-12T12:23:44.736 - ExpertView: loadSaveFile() start
+2026-09-12T12:23:44.892 - copyStarterFile:  true
+2026-09-12T12:23:44.892 - ExpertView: loadSaveFile():  156 msec
+2026-09-12T12:23:44.933 - X1API: Socket server started
+2026-09-12T12:23:45.302 - HIDWatcher: ERROR - failed to open device at "/dev/hidraw3" , errno: 13 , Permission denied
+2026-09-12T12:23:45.419 - Opening Window in Expert Mode
+2026-09-12T12:25:12.644 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-12T12:25:12.645 - Failed to load qt translation for language: "ru"
+2026-09-12T12:25:12.658 - Blfwk: libblfwk_wrapper not loaded
+2026-09-12T12:25:12.735 - ExpertView: loadSaveFile() start
+2026-09-12T12:25:12.887 - copyStarterFile:  true
+2026-09-12T12:25:12.887 - ExpertView: loadSaveFile():  151 msec
+2026-09-12T12:25:12.926 - X1API: Socket server started
+2026-09-12T12:25:13.328 - X1DeviceManager: "Creator" Connected
+2026-09-12T12:25:13.328 - ZeeInterface: getBuildNumber
+2026-09-12T12:25:13.329 - ZeeInterface: getResetInfo
+2026-09-12T12:25:13.417 - ZeeInterface: getMemoryInfo
+2026-09-12T12:25:14.386 - ZeeInterface: saveToRAM
+2026-09-12T12:25:14.425 - Opening Window in Expert Mode
+2026-09-12T12:25:14.483 - ConfigFile: saved to file
+2026-09-12T12:25:14.593 - ZeeInterface: saveToFlash
+2026-09-12T12:25:45.619 - QBoxLayout::insert: index 3 out of range (max: 1)
+2026-09-12T12:25:54.647 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.656 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.673 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.688 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.704 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.720 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.736 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.752 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.768 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.784 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.801 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.816 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.832 - This plugin does not support setting window opacity
+2026-09-12T12:25:54.849 - This plugin does not support setting window opacity
+2026-09-12T12:26:04.578 - ConfigFile: saved to file
+2026-09-12T12:26:04.579 - ZeeInterface: saveToRAM
+2026-09-12T12:26:04.586 - ConfigFile: saved to file
+2026-09-12T12:26:05.176 - ConfigFile: saved to file
+2026-09-14T17:59:31.178 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-14T17:59:31.180 - Failed to load qt translation for language: "ru"
+2026-09-14T17:59:31.206 - Blfwk: libblfwk_wrapper not loaded
+2026-09-14T17:59:31.331 - ExpertView: loadSaveFile() start
+2026-09-14T17:59:31.654 - copyStarterFile:  true
+2026-09-14T17:59:31.654 - ExpertView: loadSaveFile():  323 msec
+2026-09-14T17:59:31.724 - X1API: Socket server started
+2026-09-14T17:59:32.226 - X1DeviceManager: "Creator" Connected
+2026-09-14T17:59:32.226 - ZeeInterface: getBuildNumber
+2026-09-14T17:59:32.227 - ZeeInterface: getResetInfo
+2026-09-14T17:59:32.337 - ZeeInterface: getMemoryInfo
+2026-09-14T17:59:33.651 - ZeeInterface: saveToRAM
+2026-09-14T17:59:33.717 - Opening Window in Expert Mode
+2026-09-14T17:59:33.803 - ConfigFile: saved to file
+2026-09-14T17:59:33.990 - ZeeInterface: saveToFlash
+2026-09-14T18:01:14.859 - Mappings: save()
+2026-09-14T18:01:16.826 - ZeeInterface: saveToRAM
+2026-09-14T18:01:16.834 - ConfigFile: saved to file
+2026-09-14T18:01:16.935 - ZeeInterface: saveToFlash
+2026-09-14T18:51:18.290 - unknown keymap format: 0
+2026-09-14T18:51:18.890 - unknown keymap format: 0
+2026-09-14T18:53:12.032 - unknown keymap format: 0
+2026-09-14T18:53:12.130 - unknown keymap format: 0
+2026-09-14T18:56:56.856 - unknown keymap format: 0
+2026-09-14T18:57:38.258 - unknown keymap format: 0
+2026-09-14T19:03:31.492 - unknown keymap format: 0
+2026-09-14T19:03:37.234 - unknown keymap format: 0
+2026-09-14T19:07:27.384 - unknown keymap format: 0
+2026-09-14T19:08:35.391 - unknown keymap format: 0
+2026-09-14T19:08:38.597 - unknown keymap format: 0
+2026-09-14T19:08:38.984 - unknown keymap format: 0
+2026-09-14T19:08:40.400 - unknown keymap format: 0
+2026-09-14T19:08:41.370 - unknown keymap format: 0
+2026-09-14T23:46:04.567 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-15T16:55:30.304 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-15T16:55:30.306 - Failed to load qt translation for language: "ru"
+2026-09-15T16:55:30.332 - Blfwk: libblfwk_wrapper not loaded
+2026-09-15T16:55:30.445 - ExpertView: loadSaveFile() start
+2026-09-15T16:55:30.656 - copyStarterFile:  true
+2026-09-15T16:55:30.656 - ExpertView: loadSaveFile():  210 msec
+2026-09-15T16:55:30.722 - X1API: Socket server started
+2026-09-15T16:55:31.199 - X1DeviceManager: "Creator" Connected
+2026-09-15T16:55:31.199 - ZeeInterface: getBuildNumber
+2026-09-15T16:55:31.200 - ZeeInterface: getResetInfo
+2026-09-15T16:55:31.304 - ZeeInterface: getMemoryInfo
+2026-09-15T16:55:32.471 - ZeeInterface: saveToRAM
+2026-09-15T16:55:32.513 - Opening Window in Expert Mode
+2026-09-15T16:55:32.572 - ConfigFile: saved to file
+2026-09-15T16:55:32.676 - ZeeInterface: saveToFlash
+2026-09-15T18:05:54.383 - unknown keymap format: 0
+2026-09-15T18:06:53.610 - unknown keymap format: 0
+2026-09-15T18:07:17.068 - unknown keymap format: 0
+2026-09-15T18:07:17.494 - unknown keymap format: 0
+2026-09-15T18:13:24.231 - unknown keymap format: 0
+2026-09-15T18:24:21.743 - unknown keymap format: 0
+2026-09-15T18:24:24.185 - unknown keymap format: 0
+2026-09-15T18:24:24.576 - unknown keymap format: 0
+2026-09-15T18:28:53.996 - unknown keymap format: 0
+2026-09-15T18:28:54.056 - unknown keymap format: 0
+2026-09-15T19:20:51.891 - unknown keymap format: 0
+2026-09-15T21:12:37.021 - unknown keymap format: 0
+2026-09-15T21:13:08.947 - unknown keymap format: 0
+2026-09-15T21:13:08.947 - unknown keymap format: 0
+2026-09-15T22:23:30.835 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-17T18:05:37.809 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-17T18:05:37.810 - Failed to load qt translation for language: "ru"
+2026-09-17T18:05:37.835 - Blfwk: libblfwk_wrapper not loaded
+2026-09-17T18:05:37.954 - ExpertView: loadSaveFile() start
+2026-09-17T18:05:38.167 - copyStarterFile:  true
+2026-09-17T18:05:38.167 - ExpertView: loadSaveFile():  212 msec
+2026-09-17T18:05:38.233 - X1API: Socket server started
+2026-09-17T18:05:38.721 - X1DeviceManager: "Creator" Connected
+2026-09-17T18:05:38.721 - ZeeInterface: getBuildNumber
+2026-09-17T18:05:38.722 - ZeeInterface: getResetInfo
+2026-09-17T18:05:38.830 - ZeeInterface: getMemoryInfo
+2026-09-17T18:05:39.958 - ZeeInterface: saveToRAM
+2026-09-17T18:05:39.979 - Opening Window in Expert Mode
+2026-09-17T18:05:40.059 - ConfigFile: saved to file
+2026-09-17T18:05:40.170 - ZeeInterface: saveToFlash
+2026-09-17T19:11:34.626 - unknown keymap format: 0
+2026-09-18T01:03:53.586 - unknown keymap format: 0
+2026-09-18T01:04:19.987 - unknown keymap format: 0
+2026-09-18T01:04:39.087 - unknown keymap format: 0
+2026-09-18T01:04:49.915 - unknown keymap format: 0
+2026-09-18T01:05:09.911 - unknown keymap format: 0
+2026-09-18T01:05:09.925 - unknown keymap format: 0
+2026-09-18T01:06:17.454 - unknown keymap format: 0
+2026-09-18T01:12:03.598 - unknown keymap format: 0
+2026-09-18T01:14:13.525 - unknown keymap format: 0
+2026-09-18T01:14:18.359 - unknown keymap format: 0
+2026-09-18T01:14:18.534 - unknown keymap format: 0
+2026-09-18T01:15:04.216 - unknown keymap format: 0
+2026-09-18T13:46:48.851 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-18T13:46:48.871 - Failed to load qt translation for language: "ru"
+2026-09-18T13:46:48.964 - Blfwk: libblfwk_wrapper not loaded
+2026-09-18T13:46:49.328 - ExpertView: loadSaveFile() start
+2026-09-18T13:46:49.684 - copyStarterFile:  true
+2026-09-18T13:46:49.684 - ExpertView: loadSaveFile():  355 msec
+2026-09-18T13:46:49.881 - X1API: Socket server started
+2026-09-18T13:46:49.940 - Autostart - launched minimized
+2026-09-18T13:46:50.006 - X1DeviceManager: "Creator" Connected
+2026-09-18T13:46:50.007 - ZeeInterface: getBuildNumber
+2026-09-18T13:46:50.008 - ZeeInterface: getResetInfo
+2026-09-18T13:46:50.113 - ZeeInterface: getMemoryInfo
+2026-09-18T13:46:50.132 - ZeeInterface: saveToRAM
+2026-09-18T13:46:50.149 - ConfigFile: saved to file
+2026-09-18T13:46:50.253 - ZeeInterface: saveToFlash
+2026-09-18T14:52:36.224 - unknown keymap format: 0
+2026-09-18T15:00:42.314 - unknown keymap format: 0
+2026-09-18T15:01:05.211 - unknown keymap format: 0
+2026-09-18T15:01:05.508 - unknown keymap format: 0
+2026-09-18T15:03:26.219 - unknown keymap format: 0
+2026-09-18T15:03:28.022 - unknown keymap format: 0
+2026-09-18T15:03:30.530 - unknown keymap format: 0
+2026-09-18T15:03:33.230 - unknown keymap format: 0
+2026-09-18T15:03:54.003 - unknown keymap format: 0
+2026-09-18T15:04:00.525 - unknown keymap format: 0
+2026-09-18T15:07:09.624 - unknown keymap format: 0
+2026-09-18T15:07:12.564 - unknown keymap format: 0
+2026-09-18T15:19:26.179 - unknown keymap format: 0
+2026-09-18T15:19:35.962 - unknown keymap format: 0
+2026-09-18T15:22:22.124 - unknown keymap format: 0
+2026-09-18T15:22:24.279 - unknown keymap format: 0
+2026-09-18T15:28:10.945 - unknown keymap format: 0
+2026-09-18T15:28:12.136 - unknown keymap format: 0
+2026-09-18T15:31:42.443 - unknown keymap format: 0
+2026-09-18T15:31:42.563 - unknown keymap format: 0
+2026-09-18T15:34:21.174 - unknown keymap format: 0
+2026-09-18T15:34:21.816 - unknown keymap format: 0
+2026-09-18T15:34:23.340 - unknown keymap format: 0
+2026-09-18T15:36:00.507 - unknown keymap format: 0
+2026-09-18T15:36:54.508 - unknown keymap format: 0
+2026-09-18T15:37:00.047 - unknown keymap format: 0
+2026-09-18T15:38:52.549 - unknown keymap format: 0
+2026-09-18T15:40:48.415 - unknown keymap format: 0
+2026-09-18T15:40:50.525 - unknown keymap format: 0
+2026-09-18T15:41:01.663 - unknown keymap format: 0
+2026-09-18T15:41:54.776 - unknown keymap format: 0
+2026-09-18T15:41:55.878 - unknown keymap format: 0
+2026-09-18T15:42:05.496 - unknown keymap format: 0
+2026-09-18T15:42:34.306 - unknown keymap format: 0
+2026-09-18T15:42:49.406 - unknown keymap format: 0
+2026-09-18T15:42:52.261 - unknown keymap format: 0
+2026-09-18T15:42:55.120 - unknown keymap format: 0
+2026-09-18T15:42:55.611 - unknown keymap format: 0
+2026-09-18T15:43:25.818 - unknown keymap format: 0
+2026-09-18T15:52:41.536 - unknown keymap format: 0
+2026-09-18T15:52:45.125 - unknown keymap format: 0
+2026-09-18T16:07:50.455 - unknown keymap format: 0
+2026-09-18T16:07:51.027 - unknown keymap format: 0
+2026-09-18T16:07:55.583 - unknown keymap format: 0
+2026-09-18T16:08:43.455 - unknown keymap format: 0
+2026-09-18T16:08:45.482 - unknown keymap format: 0
+2026-09-18T17:20:01.843 - unknown keymap format: 0
+2026-09-18T17:25:43.535 - unknown keymap format: 0
+2026-09-18T17:25:58.776 - unknown keymap format: 0
+2026-09-18T17:26:11.398 - unknown keymap format: 0
+2026-09-18T17:26:13.841 - unknown keymap format: 0
+2026-09-18T17:26:35.577 - unknown keymap format: 0
+2026-09-18T17:29:07.518 - unknown keymap format: 0
+2026-09-18T17:29:39.641 - unknown keymap format: 0
+2026-09-18T17:29:41.315 - unknown keymap format: 0
+2026-09-18T17:33:39.682 - unknown keymap format: 0
+2026-09-18T17:33:45.141 - unknown keymap format: 0
+2026-09-18T17:43:31.848 - unknown keymap format: 0
+2026-09-18T17:43:32.864 - unknown keymap format: 0
+2026-09-18T17:51:22.259 - unknown keymap format: 0
+2026-09-18T17:51:40.573 - unknown keymap format: 0
+2026-09-18T17:55:11.448 - unknown keymap format: 0
+2026-09-18T17:55:47.548 - unknown keymap format: 0
+2026-09-18T17:57:03.225 - unknown keymap format: 0
+2026-09-18T17:57:04.901 - unknown keymap format: 0
+2026-09-18T17:57:11.533 - unknown keymap format: 0
+2026-09-18T17:57:13.592 - unknown keymap format: 0
+2026-09-18T17:58:04.746 - unknown keymap format: 0
+2026-09-18T17:58:04.749 - unknown keymap format: 0
+2026-09-18T20:04:28.859 - unknown keymap format: 0
+2026-09-18T20:04:28.901 - unknown keymap format: 0
+2026-09-18T20:04:28.902 - unknown keymap format: 0
+2026-09-18T22:16:12.629 - unknown keymap format: 0
+2026-09-19T00:35:31.903 - unknown keymap format: 0
+2026-09-19T00:35:54.858 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-19T13:59:57.808 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-19T13:59:57.827 - Failed to load qt translation for language: "ru"
+2026-09-19T13:59:57.918 - Blfwk: libblfwk_wrapper not loaded
+2026-09-19T13:59:58.333 - ExpertView: loadSaveFile() start
+2026-09-19T13:59:58.615 - copyStarterFile:  true
+2026-09-19T13:59:58.615 - ExpertView: loadSaveFile():  282 msec
+2026-09-19T13:59:58.845 - X1API: Socket server started
+2026-09-19T13:59:58.900 - Autostart - launched minimized
+2026-09-19T13:59:58.968 - X1DeviceManager: "Creator" Connected
+2026-09-19T13:59:58.968 - ZeeInterface: getBuildNumber
+2026-09-19T13:59:58.969 - ZeeInterface: getResetInfo
+2026-09-19T13:59:59.061 - ZeeInterface: getMemoryInfo
+2026-09-19T13:59:59.078 - ZeeInterface: saveToRAM
+2026-09-19T13:59:59.089 - ConfigFile: saved to file
+2026-09-19T13:59:59.194 - ZeeInterface: saveToFlash
+2026-09-19T14:14:16.188 - unknown keymap format: 0
+2026-09-19T14:15:59.718 - unknown keymap format: 0
+2026-09-19T14:23:14.978 - unknown keymap format: 0
+2026-09-19T14:23:29.009 - unknown keymap format: 0
+2026-09-19T14:24:02.156 - unknown keymap format: 0
+2026-09-19T14:24:52.500 - unknown keymap format: 0
+2026-09-19T14:27:13.547 - unknown keymap format: 0
+2026-09-19T14:27:17.584 - unknown keymap format: 0
+2026-09-19T14:27:17.633 - unknown keymap format: 0
+2026-09-19T14:32:19.115 - unknown keymap format: 0
+2026-09-19T14:32:34.679 - unknown keymap format: 0
+2026-09-19T14:35:37.616 - unknown keymap format: 0
+2026-09-19T14:36:13.736 - unknown keymap format: 0
+2026-09-19T14:36:19.158 - unknown keymap format: 0
+2026-09-19T14:37:03.424 - unknown keymap format: 0
+2026-09-19T14:39:04.019 - unknown keymap format: 0
+2026-09-19T14:39:08.780 - unknown keymap format: 0
+2026-09-19T14:39:10.235 - unknown keymap format: 0
+2026-09-19T14:39:20.954 - unknown keymap format: 0
+2026-09-19T14:39:34.793 - unknown keymap format: 0
+2026-09-19T14:39:44.214 - unknown keymap format: 0
+2026-09-19T14:39:46.532 - unknown keymap format: 0
+2026-09-19T14:40:01.916 - unknown keymap format: 0
+2026-09-19T14:40:15.190 - unknown keymap format: 0
+2026-09-19T14:40:15.190 - unknown keymap format: 0
+2026-09-19T14:40:54.625 - unknown keymap format: 0
+2026-09-19T14:41:23.290 - unknown keymap format: 0
+2026-09-19T14:42:56.958 - unknown keymap format: 0
+2026-09-19T14:43:44.480 - unknown keymap format: 0
+2026-09-19T14:43:56.936 - unknown keymap format: 0
+2026-09-19T14:44:33.855 - unknown keymap format: 0
+2026-09-19T14:44:37.108 - unknown keymap format: 0
+2026-09-19T14:47:43.027 - unknown keymap format: 0
+2026-09-19T14:48:02.490 - unknown keymap format: 0
+2026-09-19T14:48:39.535 - unknown keymap format: 0
+2026-09-19T14:48:46.460 - unknown keymap format: 0
+2026-09-19T14:49:09.945 - unknown keymap format: 0
+2026-09-19T14:49:26.458 - unknown keymap format: 0
+2026-09-19T14:50:20.934 - unknown keymap format: 0
+2026-09-19T14:50:25.812 - unknown keymap format: 0
+2026-09-19T14:51:20.723 - unknown keymap format: 0
+2026-09-19T14:52:24.702 - unknown keymap format: 0
+2026-09-19T14:52:40.165 - unknown keymap format: 0
+2026-09-19T14:52:45.146 - unknown keymap format: 0
+2026-09-19T14:55:33.650 - unknown keymap format: 0
+2026-09-19T14:56:31.468 - unknown keymap format: 0
+2026-09-19T14:56:32.629 - unknown keymap format: 0
+2026-09-19T14:58:50.155 - unknown keymap format: 0
+2026-09-19T15:07:10.020 - unknown keymap format: 0
+2026-09-19T15:07:44.094 - unknown keymap format: 0
+2026-09-19T15:08:06.584 - unknown keymap format: 0
+2026-09-19T15:08:34.641 - unknown keymap format: 0
+2026-09-19T15:09:58.556 - unknown keymap format: 0
+2026-09-19T15:10:07.009 - unknown keymap format: 0
+2026-09-19T15:10:11.984 - unknown keymap format: 0
+2026-09-19T15:10:16.370 - unknown keymap format: 0
+2026-09-19T15:10:19.250 - unknown keymap format: 0
+2026-09-19T15:10:29.416 - unknown keymap format: 0
+2026-09-19T15:10:50.570 - unknown keymap format: 0
+2026-09-19T15:11:10.542 - unknown keymap format: 0
+2026-09-19T15:11:15.884 - unknown keymap format: 0
+2026-09-19T15:11:37.171 - unknown keymap format: 0
+2026-09-19T15:11:43.758 - unknown keymap format: 0
+2026-09-19T15:11:49.720 - unknown keymap format: 0
+2026-09-19T15:11:56.296 - unknown keymap format: 0
+2026-09-19T15:12:19.172 - unknown keymap format: 0
+2026-09-19T15:12:20.406 - unknown keymap format: 0
+2026-09-19T15:15:51.609 - unknown keymap format: 0
+2026-09-19T15:15:51.609 - unknown keymap format: 0
+2026-09-19T15:15:51.609 - unknown keymap format: 0
+2026-09-19T15:15:51.609 - unknown keymap format: 0
+2026-09-19T15:15:51.740 - unknown keymap format: 0
+2026-09-19T15:17:00.947 - unknown keymap format: 0
+2026-09-19T15:17:00.953 - unknown keymap format: 0
+2026-09-19T15:18:18.184 - unknown keymap format: 0
+2026-09-19T15:18:25.784 - unknown keymap format: 0
+2026-09-19T15:18:43.073 - unknown keymap format: 0
+2026-09-19T15:19:07.248 - unknown keymap format: 0
+2026-09-19T15:19:19.370 - unknown keymap format: 0
+2026-09-19T15:19:34.849 - unknown keymap format: 0
+2026-09-19T15:20:24.817 - unknown keymap format: 0
+2026-09-19T15:20:29.184 - unknown keymap format: 0
+2026-09-19T15:20:39.994 - unknown keymap format: 0
+2026-09-19T15:20:49.106 - unknown keymap format: 0
+2026-09-19T15:20:54.043 - unknown keymap format: 0
+2026-09-19T15:21:26.200 - unknown keymap format: 0
+2026-09-19T15:21:33.104 - unknown keymap format: 0
+2026-09-19T15:21:37.942 - unknown keymap format: 0
+2026-09-19T15:21:52.510 - unknown keymap format: 0
+2026-09-19T15:21:58.883 - unknown keymap format: 0
+2026-09-19T15:23:18.010 - unknown keymap format: 0
+2026-09-19T15:24:00.218 - unknown keymap format: 0
+2026-09-19T15:24:13.262 - unknown keymap format: 0
+2026-09-19T15:24:14.112 - unknown keymap format: 0
+2026-09-19T15:24:31.500 - unknown keymap format: 0
+2026-09-19T15:37:00.780 - unknown keymap format: 0
+2026-09-19T15:37:05.398 - unknown keymap format: 0
+2026-09-19T17:09:36.210 - unknown keymap format: 0
+2026-09-19T17:43:42.715 - unknown keymap format: 0
+2026-09-19T17:43:49.402 - unknown keymap format: 0
+2026-09-19T18:14:36.006 - unknown keymap format: 0
+2026-09-20T12:43:35.066 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-20T12:43:35.087 - Failed to load qt translation for language: "ru"
+2026-09-20T12:43:35.163 - Blfwk: libblfwk_wrapper not loaded
+2026-09-20T12:43:35.525 - ExpertView: loadSaveFile() start
+2026-09-20T12:43:35.801 - copyStarterFile:  true
+2026-09-20T12:43:35.801 - ExpertView: loadSaveFile():  276 msec
+2026-09-20T12:43:35.993 - X1API: Socket server started
+2026-09-20T12:43:36.047 - Autostart - launched minimized
+2026-09-20T12:43:36.114 - X1DeviceManager: "Creator" Connected
+2026-09-20T12:43:36.115 - ZeeInterface: getBuildNumber
+2026-09-20T12:43:36.115 - ZeeInterface: getResetInfo
+2026-09-20T12:43:36.205 - ZeeInterface: getMemoryInfo
+2026-09-20T12:43:36.222 - ZeeInterface: saveToRAM
+2026-09-20T12:43:36.231 - ConfigFile: saved to file
+2026-09-20T12:43:36.334 - ZeeInterface: saveToFlash
+2026-09-20T15:13:58.457 - Opening Window in Expert Mode
+2026-09-20T15:16:02.227 - unknown keymap format: 0
+2026-09-20T15:16:02.227 - unknown keymap format: 0
+2026-09-20T23:48:13.236 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-21T18:50:59.398 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-21T18:50:59.423 - Failed to load qt translation for language: "ru"
+2026-09-21T18:50:59.524 - Blfwk: libblfwk_wrapper not loaded
+2026-09-21T18:50:59.938 - ExpertView: loadSaveFile() start
+2026-09-21T18:51:00.276 - copyStarterFile:  true
+2026-09-21T18:51:00.276 - ExpertView: loadSaveFile():  338 msec
+2026-09-21T18:51:00.482 - X1API: Socket server started
+2026-09-21T18:51:00.535 - Autostart - launched minimized
+2026-09-21T18:51:00.599 - X1DeviceManager: "Creator" Connected
+2026-09-21T18:51:00.599 - ZeeInterface: getBuildNumber
+2026-09-21T18:51:00.600 - ZeeInterface: getResetInfo
+2026-09-21T18:51:00.696 - ZeeInterface: getMemoryInfo
+2026-09-21T18:51:00.714 - ZeeInterface: saveToRAM
+2026-09-21T18:51:00.724 - ConfigFile: saved to file
+2026-09-21T18:51:00.827 - ZeeInterface: saveToFlash
+2026-09-21T19:37:40.729 - unknown keymap format: 0
+2026-09-21T19:37:42.537 - unknown keymap format: 0
+2026-09-21T19:38:31.370 - unknown keymap format: 0
+2026-09-21T19:38:38.757 - unknown keymap format: 0
+2026-09-21T19:38:38.757 - unknown keymap format: 0
+2026-09-21T19:38:40.255 - unknown keymap format: 0
+2026-09-21T19:38:40.255 - unknown keymap format: 0
+2026-09-21T19:38:40.359 - unknown keymap format: 0
+2026-09-21T19:38:40.359 - unknown keymap format: 0
+2026-09-21T19:38:40.467 - unknown keymap format: 0
+2026-09-21T19:38:40.467 - unknown keymap format: 0
+2026-09-21T19:38:44.772 - unknown keymap format: 0
+2026-09-21T19:38:44.772 - unknown keymap format: 0
+2026-09-21T19:38:45.429 - unknown keymap format: 0
+2026-09-21T19:38:45.429 - unknown keymap format: 0
+2026-09-21T19:39:12.527 - unknown keymap format: 0
+2026-09-21T19:48:28.049 - unknown keymap format: 0
+2026-09-21T19:52:43.261 - unknown keymap format: 0
+2026-09-21T19:52:43.261 - unknown keymap format: 0
+2026-09-21T19:53:01.147 - unknown keymap format: 0
+2026-09-21T19:53:35.195 - unknown keymap format: 0
+2026-09-21T19:53:35.208 - unknown keymap format: 0
+2026-09-21T19:53:36.595 - unknown keymap format: 0
+2026-09-21T19:53:37.071 - unknown keymap format: 0
+2026-09-21T19:55:02.769 - unknown keymap format: 0
+2026-09-21T20:03:09.428 - unknown keymap format: 0
+2026-09-21T20:03:09.784 - unknown keymap format: 0
+2026-09-21T20:03:12.155 - unknown keymap format: 0
+2026-09-21T20:03:12.155 - unknown keymap format: 0
+2026-09-21T20:03:57.467 - unknown keymap format: 0
+2026-09-21T20:04:25.307 - unknown keymap format: 0
+2026-09-21T20:04:28.578 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-21T20:04:42.592 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-21T20:04:42.593 - Failed to load qt translation for language: "ru"
+2026-09-21T20:04:42.633 - Blfwk: libblfwk_wrapper not loaded
+2026-09-21T20:04:42.776 - ExpertView: loadSaveFile() start
+2026-09-21T20:04:43.162 - copyStarterFile:  true
+2026-09-21T20:04:43.162 - ExpertView: loadSaveFile():  386 msec
+2026-09-21T20:04:43.223 - X1API: Socket server started
+2026-09-21T20:04:43.301 - Autostart - launched minimized
+2026-09-21T20:04:43.368 - X1DeviceManager: "Creator" Connected
+2026-09-21T20:04:43.368 - ZeeInterface: getBuildNumber
+2026-09-21T20:04:43.369 - ZeeInterface: getResetInfo
+2026-09-21T20:04:43.420 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-09-21T20:04:43.542 - ZeeInterface: getMemoryInfo
+2026-09-21T20:04:43.563 - ZeeInterface: saveToRAM
+2026-09-21T20:04:43.570 - ConfigFile: saved to file
+2026-09-21T20:05:49.162 - unknown keymap format: 0
+2026-09-21T20:06:37.730 - unknown keymap format: 0
+2026-09-21T20:14:20.888 - unknown keymap format: 0
+2026-09-21T20:14:46.359 - unknown keymap format: 0
+2026-09-21T20:14:46.359 - unknown keymap format: 0
+2026-09-21T20:14:46.359 - unknown keymap format: 0
+2026-09-21T20:19:13.627 - unknown keymap format: 0
+2026-09-21T20:19:23.408 - unknown keymap format: 0
+2026-09-21T20:19:23.408 - unknown keymap format: 0
+2026-09-21T20:23:48.654 - unknown keymap format: 0
+2026-09-21T20:23:48.654 - unknown keymap format: 0
+2026-09-21T20:23:59.302 - unknown keymap format: 0
+2026-09-21T20:23:59.302 - unknown keymap format: 0
+2026-09-21T20:24:00.446 - unknown keymap format: 0
+2026-09-21T20:24:00.446 - unknown keymap format: 0
+2026-09-21T20:46:39.801 - unknown keymap format: 0
+2026-09-21T20:46:39.801 - unknown keymap format: 0
+2026-09-21T20:46:40.465 - unknown keymap format: 0
+2026-09-21T20:46:40.465 - unknown keymap format: 0
+2026-09-21T21:17:30.093 - unknown keymap format: 0
+2026-09-22T00:13:32.229 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-22T17:04:54.073 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.2.0"
+2026-09-22T17:04:54.097 - Failed to load qt translation for language: "ru"
+2026-09-22T17:04:54.196 - Blfwk: libblfwk_wrapper not loaded
+2026-09-22T17:04:54.615 - ExpertView: loadSaveFile() start
+2026-09-22T17:04:54.983 - copyStarterFile:  true
+2026-09-22T17:04:54.983 - ExpertView: loadSaveFile():  368 msec
+2026-09-22T17:04:55.182 - X1API: Socket server started
+2026-09-22T17:04:55.241 - Autostart - launched minimized
+2026-09-22T17:04:55.303 - X1DeviceManager: "Creator" Connected
+2026-09-22T17:04:55.303 - ZeeInterface: getBuildNumber
+2026-09-22T17:04:55.303 - ZeeInterface: getResetInfo
+2026-09-22T17:04:55.393 - ZeeInterface: getMemoryInfo
+2026-09-22T17:04:55.411 - ZeeInterface: saveToRAM
+2026-09-22T17:04:55.422 - ConfigFile: saved to file
+2026-09-22T17:04:55.530 - ZeeInterface: saveToFlash
+2026-09-22T20:45:43.335 - unknown keymap format: 0
+2026-09-22T21:27:55.733 - unknown keymap format: 0
+2026-09-22T21:46:50.827 - unknown keymap format: 0
+2026-09-22T21:46:51.008 - unknown keymap format: 0
+2026-09-22T22:16:14.486 - unknown keymap format: 0
+2026-09-22T22:16:14.999 - unknown keymap format: 0
+2026-09-22T22:16:15.309 - unknown keymap format: 0
+2026-09-22T22:16:16.495 - unknown keymap format: 0
+2026-09-22T22:16:16.581 - unknown keymap format: 0
+2026-09-22T22:16:17.190 - unknown keymap format: 0
+2026-09-22T22:16:17.326 - unknown keymap format: 0
+2026-09-22T22:16:17.895 - unknown keymap format: 0
+2026-09-22T22:32:50.740 - unknown keymap format: 0
+2026-09-22T22:48:03.288 - unknown keymap format: 0
+2026-09-22T23:30:50.411 - unknown keymap format: 0
+2026-09-22T23:30:50.562 - unknown keymap format: 0
+2026-09-23T15:32:47.642 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-23T15:32:47.656 - Failed to load qt translation for language: "ru"
+2026-09-23T15:32:47.739 - Blfwk: libblfwk_wrapper not loaded
+2026-09-23T15:32:48.079 - ExpertView: loadSaveFile() start
+2026-09-23T15:32:48.341 - copyStarterFile:  true
+2026-09-23T15:32:48.344 - ExpertView: loadSaveFile():  265 msec
+2026-09-23T15:32:48.421 - X1API: Socket server started
+2026-09-23T15:32:48.451 - Autostart - launched minimized
+2026-09-23T15:32:48.514 - X1DeviceManager: "Creator" Connected
+2026-09-23T15:32:48.514 - ZeeInterface: getBuildNumber
+2026-09-23T15:32:48.515 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-23T16:10:08.839 - unknown keymap format: 0
+2026-09-23T16:10:08.839 - unknown keymap format: 0
+2026-09-23T17:33:21.028 - unknown keymap format: 0
+2026-09-23T17:33:22.926 - unknown keymap format: 0
+2026-09-23T17:33:23.473 - unknown keymap format: 0
+2026-09-23T17:33:51.594 - unknown keymap format: 0
+2026-09-23T17:36:51.836 - unknown keymap format: 0
+2026-09-23T17:36:56.166 - unknown keymap format: 0
+2026-09-23T17:39:28.192 - unknown keymap format: 0
+2026-09-23T17:39:30.471 - unknown keymap format: 0
+2026-09-23T17:39:34.830 - unknown keymap format: 0
+2026-09-23T17:39:37.160 - unknown keymap format: 0
+2026-09-23T17:39:39.042 - unknown keymap format: 0
+2026-09-23T17:39:55.903 - unknown keymap format: 0
+2026-09-23T17:39:59.819 - unknown keymap format: 0
+2026-09-23T17:40:14.547 - unknown keymap format: 0
+2026-09-23T17:40:15.597 - unknown keymap format: 0
+2026-09-23T17:40:15.675 - unknown keymap format: 0
+2026-09-23T17:40:18.972 - unknown keymap format: 0
+2026-09-23T17:40:41.136 - unknown keymap format: 0
+2026-09-23T17:40:55.332 - unknown keymap format: 0
+2026-09-23T17:41:35.624 - unknown keymap format: 0
+2026-09-23T17:41:39.731 - unknown keymap format: 0
+2026-09-23T17:41:40.368 - unknown keymap format: 0
+2026-09-23T17:41:41.430 - unknown keymap format: 0
+2026-09-23T17:41:42.384 - unknown keymap format: 0
+2026-09-23T17:42:24.382 - unknown keymap format: 0
+2026-09-23T17:42:27.773 - unknown keymap format: 0
+2026-09-23T17:42:28.191 - unknown keymap format: 0
+2026-09-23T17:42:30.612 - unknown keymap format: 0
+2026-09-23T17:42:31.011 - unknown keymap format: 0
+2026-09-23T17:42:32.625 - unknown keymap format: 0
+2026-09-23T17:42:34.302 - unknown keymap format: 0
+2026-09-23T17:42:34.311 - unknown keymap format: 0
+2026-09-23T17:42:35.113 - unknown keymap format: 0
+2026-09-23T17:42:35.633 - unknown keymap format: 0
+2026-09-23T17:42:38.179 - unknown keymap format: 0
+2026-09-23T17:42:40.612 - unknown keymap format: 0
+2026-09-23T17:42:40.621 - unknown keymap format: 0
+2026-09-23T17:42:42.541 - unknown keymap format: 0
+2026-09-23T17:42:42.607 - unknown keymap format: 0
+2026-09-23T17:42:42.968 - unknown keymap format: 0
+2026-09-23T17:42:43.528 - unknown keymap format: 0
+2026-09-23T17:42:44.120 - unknown keymap format: 0
+2026-09-23T17:42:54.128 - unknown keymap format: 0
+2026-09-23T17:43:19.796 - unknown keymap format: 0
+2026-09-23T17:43:20.742 - unknown keymap format: 0
+2026-09-23T17:43:21.815 - unknown keymap format: 0
+2026-09-23T17:43:21.830 - unknown keymap format: 0
+2026-09-23T17:43:22.893 - unknown keymap format: 0
+2026-09-23T17:43:25.567 - unknown keymap format: 0
+2026-09-23T17:43:26.961 - unknown keymap format: 0
+2026-09-23T17:43:27.003 - unknown keymap format: 0
+2026-09-23T17:43:27.118 - unknown keymap format: 0
+2026-09-23T17:43:27.133 - unknown keymap format: 0
+2026-09-23T17:43:27.993 - unknown keymap format: 0
+2026-09-23T17:44:09.905 - unknown keymap format: 0
+2026-09-23T17:44:36.301 - unknown keymap format: 0
+2026-09-23T17:44:36.903 - unknown keymap format: 0
+2026-09-23T17:44:37.316 - unknown keymap format: 0
+2026-09-23T17:44:37.931 - unknown keymap format: 0
+2026-09-23T17:44:41.152 - unknown keymap format: 0
+2026-09-23T17:44:41.405 - unknown keymap format: 0
+2026-09-23T17:44:42.189 - unknown keymap format: 0
+2026-09-23T17:45:03.355 - unknown keymap format: 0
+2026-09-23T17:45:04.292 - unknown keymap format: 0
+2026-09-23T17:45:05.566 - unknown keymap format: 0
+2026-09-23T17:45:35.994 - unknown keymap format: 0
+2026-09-23T17:45:54.017 - unknown keymap format: 0
+2026-09-23T17:46:00.993 - unknown keymap format: 0
+2026-09-23T17:46:11.649 - unknown keymap format: 0
+2026-09-23T17:47:40.305 - unknown keymap format: 0
+2026-09-23T17:47:40.860 - unknown keymap format: 0
+2026-09-23T17:47:41.205 - unknown keymap format: 0
+2026-09-23T17:47:41.663 - unknown keymap format: 0
+2026-09-23T17:47:41.690 - unknown keymap format: 0
+2026-09-23T17:48:09.359 - unknown keymap format: 0
+2026-09-23T17:48:09.567 - unknown keymap format: 0
+2026-09-23T17:48:10.181 - unknown keymap format: 0
+2026-09-23T17:48:11.451 - unknown keymap format: 0
+2026-09-23T17:48:17.284 - unknown keymap format: 0
+2026-09-23T17:48:18.649 - unknown keymap format: 0
+2026-09-23T17:48:19.026 - unknown keymap format: 0
+2026-09-23T17:48:21.628 - unknown keymap format: 0
+2026-09-23T17:48:24.459 - unknown keymap format: 0
+2026-09-23T17:48:26.329 - unknown keymap format: 0
+2026-09-23T17:48:31.978 - unknown keymap format: 0
+2026-09-23T17:48:32.177 - unknown keymap format: 0
+2026-09-23T17:48:34.028 - unknown keymap format: 0
+2026-09-23T17:48:35.080 - unknown keymap format: 0
+2026-09-23T17:48:41.258 - unknown keymap format: 0
+2026-09-23T17:48:44.304 - unknown keymap format: 0
+2026-09-23T17:48:44.304 - unknown keymap format: 0
+2026-09-23T17:48:47.180 - unknown keymap format: 0
+2026-09-23T17:48:51.844 - unknown keymap format: 0
+2026-09-23T17:48:54.684 - unknown keymap format: 0
+2026-09-23T17:48:56.218 - unknown keymap format: 0
+2026-09-23T17:48:59.541 - unknown keymap format: 0
+2026-09-23T17:49:01.132 - unknown keymap format: 0
+2026-09-23T17:49:02.070 - unknown keymap format: 0
+2026-09-23T17:49:02.083 - unknown keymap format: 0
+2026-09-23T17:49:02.711 - unknown keymap format: 0
+2026-09-23T17:49:12.664 - unknown keymap format: 0
+2026-09-23T17:49:42.998 - unknown keymap format: 0
+2026-09-23T17:49:43.004 - unknown keymap format: 0
+2026-09-23T17:49:51.543 - unknown keymap format: 0
+2026-09-23T17:49:57.281 - unknown keymap format: 0
+2026-09-23T17:51:21.025 - unknown keymap format: 0
+2026-09-23T17:51:49.907 - unknown keymap format: 0
+2026-09-23T17:51:51.764 - unknown keymap format: 0
+2026-09-23T17:51:52.047 - unknown keymap format: 0
+2026-09-23T17:51:52.348 - unknown keymap format: 0
+2026-09-23T17:52:33.936 - unknown keymap format: 0
+2026-09-23T17:52:36.786 - unknown keymap format: 0
+2026-09-23T17:53:55.739 - unknown keymap format: 0
+2026-09-23T17:53:56.802 - unknown keymap format: 0
+2026-09-23T17:53:57.205 - unknown keymap format: 0
+2026-09-23T17:53:57.288 - unknown keymap format: 0
+2026-09-23T17:53:59.857 - unknown keymap format: 0
+2026-09-23T17:55:57.077 - unknown keymap format: 0
+2026-09-23T17:56:16.216 - unknown keymap format: 0
+2026-09-23T18:02:35.737 - unknown keymap format: 0
+2026-09-23T18:02:37.551 - unknown keymap format: 0
+2026-09-23T18:04:36.744 - unknown keymap format: 0
+2026-09-23T18:04:59.448 - unknown keymap format: 0
+2026-09-23T18:05:23.371 - unknown keymap format: 0
+2026-09-23T18:05:23.781 - unknown keymap format: 0
+2026-09-23T18:05:25.347 - unknown keymap format: 0
+2026-09-23T18:05:55.619 - unknown keymap format: 0
+2026-09-23T18:07:17.072 - unknown keymap format: 0
+2026-09-23T18:10:37.778 - unknown keymap format: 0
+2026-09-23T18:10:47.180 - unknown keymap format: 0
+2026-09-23T18:10:48.874 - unknown keymap format: 0
+2026-09-23T18:10:48.916 - unknown keymap format: 0
+2026-09-23T18:10:49.876 - unknown keymap format: 0
+2026-09-23T18:12:59.056 - unknown keymap format: 0
+2026-09-23T18:15:00.717 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-23T18:15:06.659 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-23T18:15:06.659 - Failed to load qt translation for language: "ru"
+2026-09-23T18:15:06.725 - Blfwk: libblfwk_wrapper not loaded
+2026-09-23T18:15:06.860 - ExpertView: loadSaveFile() start
+2026-09-23T18:15:07.218 - copyStarterFile:  true
+2026-09-23T18:15:07.218 - ExpertView: loadSaveFile():  358 msec
+2026-09-23T18:15:07.286 - X1API: Socket server started
+2026-09-23T18:15:07.335 - Autostart - launched minimized
+2026-09-23T18:15:07.405 - X1DeviceManager: "Creator" Connected
+2026-09-23T18:15:07.405 - ZeeInterface: getBuildNumber
+2026-09-23T18:15:07.406 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-23T18:15:07.478 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-09-23T18:15:13.682 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-23T18:17:05.362 - unknown keymap format: 0
+2026-09-23T18:17:16.574 - unknown keymap format: 0
+2026-09-23T18:17:21.731 - unknown keymap format: 0
+2026-09-23T18:24:49.275 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-23T18:24:49.300 - Failed to load qt translation for language: "ru"
+2026-09-23T18:24:49.393 - Blfwk: libblfwk_wrapper not loaded
+2026-09-23T18:24:49.781 - ExpertView: loadSaveFile() start
+2026-09-23T18:24:50.164 - copyStarterFile:  true
+2026-09-23T18:24:50.164 - ExpertView: loadSaveFile():  383 msec
+2026-09-23T18:24:50.242 - X1API: Socket server started
+2026-09-23T18:24:50.272 - Autostart - launched minimized
+2026-09-23T18:24:50.334 - X1DeviceManager: "Creator" Connected
+2026-09-23T18:24:50.334 - ZeeInterface: getBuildNumber
+2026-09-23T18:24:50.335 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-23T19:52:43.956 - unknown keymap format: 0
+2026-09-23T19:52:55.431 - unknown keymap format: 0
+2026-09-23T19:53:27.279 - unknown keymap format: 0
+2026-09-23T19:53:27.494 - unknown keymap format: 0
+2026-09-23T19:53:28.218 - unknown keymap format: 0
+2026-09-23T19:53:28.357 - unknown keymap format: 0
+2026-09-23T19:53:30.639 - unknown keymap format: 0
+2026-09-23T19:54:51.694 - unknown keymap format: 0
+2026-09-23T19:54:53.176 - unknown keymap format: 0
+2026-09-23T19:54:54.613 - unknown keymap format: 0
+2026-09-23T19:54:56.807 - unknown keymap format: 0
+2026-09-23T19:55:03.135 - unknown keymap format: 0
+2026-09-23T19:55:04.133 - unknown keymap format: 0
+2026-09-23T19:55:14.371 - unknown keymap format: 0
+2026-09-23T19:55:23.279 - unknown keymap format: 0
+2026-09-23T19:55:23.479 - unknown keymap format: 0
+2026-09-23T19:58:18.108 - unknown keymap format: 0
+2026-09-23T19:58:19.662 - unknown keymap format: 0
+2026-09-23T19:58:20.031 - unknown keymap format: 0
+2026-09-23T19:58:20.797 - unknown keymap format: 0
+2026-09-23T19:58:22.090 - unknown keymap format: 0
+2026-09-23T19:58:22.181 - unknown keymap format: 0
+2026-09-23T20:00:06.978 - unknown keymap format: 0
+2026-09-23T20:00:11.947 - unknown keymap format: 0
+2026-09-23T20:00:12.893 - unknown keymap format: 0
+2026-09-23T20:00:24.345 - unknown keymap format: 0
+2026-09-23T20:00:25.411 - unknown keymap format: 0
+2026-09-23T20:00:25.411 - unknown keymap format: 0
+2026-09-23T20:00:38.888 - unknown keymap format: 0
+2026-09-23T20:00:38.888 - unknown keymap format: 0
+2026-09-23T20:00:39.918 - unknown keymap format: 0
+2026-09-23T20:00:39.918 - unknown keymap format: 0
+2026-09-23T20:00:42.245 - unknown keymap format: 0
+2026-09-23T20:00:42.245 - unknown keymap format: 0
+2026-09-23T20:00:45.813 - unknown keymap format: 0
+2026-09-23T20:00:45.813 - unknown keymap format: 0
+2026-09-23T20:00:47.181 - unknown keymap format: 0
+2026-09-23T20:00:49.393 - unknown keymap format: 0
+2026-09-23T20:00:52.765 - unknown keymap format: 0
+2026-09-23T20:00:53.548 - unknown keymap format: 0
+2026-09-23T20:01:01.573 - unknown keymap format: 0
+2026-09-23T20:01:03.485 - unknown keymap format: 0
+2026-09-23T20:02:12.076 - unknown keymap format: 0
+2026-09-23T20:03:07.821 - unknown keymap format: 0
+2026-09-23T20:08:59.280 - unknown keymap format: 0
+2026-09-23T20:10:05.534 - unknown keymap format: 0
+2026-09-23T20:22:02.419 - unknown keymap format: 0
+2026-09-23T21:10:46.897 - unknown keymap format: 0
+2026-09-23T21:10:54.290 - unknown keymap format: 0
+2026-09-23T21:10:58.073 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-23T21:11:14.791 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-23T21:11:14.791 - Failed to load qt translation for language: "ru"
+2026-09-23T21:11:15.282 - Blfwk: libblfwk_wrapper not loaded
+2026-09-23T21:11:15.989 - ExpertView: loadSaveFile() start
+2026-09-23T21:11:18.438 - copyStarterFile:  true
+2026-09-23T21:11:18.438 - ExpertView: loadSaveFile():  2449 msec
+2026-09-23T21:11:19.364 - X1API: Socket server started
+2026-09-23T21:11:19.397 - Autostart - launched minimized
+2026-09-23T21:11:19.461 - X1DeviceManager: "Creator" Connected
+2026-09-23T21:11:19.461 - ZeeInterface: getBuildNumber
+2026-09-23T21:11:19.462 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-23T21:11:19.802 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-09-23T21:12:02.546 - unknown keymap format: 0
+2026-09-23T21:12:21.327 - unknown keymap format: 0
+2026-09-23T21:13:54.932 - unknown keymap format: 0
+2026-09-23T21:13:55.670 - unknown keymap format: 0
+2026-09-23T21:14:49.755 - unknown keymap format: 0
+2026-09-23T21:14:54.114 - unknown keymap format: 0
+2026-09-23T21:17:14.342 - unknown keymap format: 0
+2026-09-23T21:17:58.042 - unknown keymap format: 0
+2026-09-23T21:18:43.302 - unknown keymap format: 0
+2026-09-23T21:22:30.963 - unknown keymap format: 0
+2026-09-23T21:22:31.284 - unknown keymap format: 0
+2026-09-23T21:22:34.446 - unknown keymap format: 0
+2026-09-23T23:01:34.676 - unknown keymap format: 0
+2026-09-24T17:44:08.855 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-24T17:44:08.874 - Failed to load qt translation for language: "ru"
+2026-09-24T17:44:08.967 - Blfwk: libblfwk_wrapper not loaded
+2026-09-24T17:44:09.363 - ExpertView: loadSaveFile() start
+2026-09-24T17:44:09.705 - copyStarterFile:  true
+2026-09-24T17:44:09.705 - ExpertView: loadSaveFile():  342 msec
+2026-09-24T17:44:09.792 - X1API: Socket server started
+2026-09-24T17:44:09.822 - Autostart - launched minimized
+2026-09-24T17:44:09.893 - X1DeviceManager: "Creator" Connected
+2026-09-24T17:44:09.893 - ZeeInterface: getBuildNumber
+2026-09-24T17:44:09.894 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-24T19:44:48.005 - unknown keymap format: 0
+2026-09-24T19:44:48.653 - unknown keymap format: 0
+2026-09-24T19:44:48.657 - unknown keymap format: 0
+2026-09-24T20:15:36.250 - unknown keymap format: 0
+2026-09-24T22:11:45.073 - The Wayland connection broke. Did the Wayland compositor die?
+2026-09-24T22:12:03.588 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-24T22:12:03.588 - Failed to load qt translation for language: "ru"
+2026-09-24T22:12:03.636 - Blfwk: libblfwk_wrapper not loaded
+2026-09-24T22:12:03.811 - ExpertView: loadSaveFile() start
+2026-09-24T22:12:04.273 - copyStarterFile:  true
+2026-09-24T22:12:04.273 - ExpertView: loadSaveFile():  462 msec
+2026-09-24T22:12:04.345 - X1API: Socket server started
+2026-09-24T22:12:04.402 - Autostart - launched minimized
+2026-09-24T22:12:04.471 - X1DeviceManager: "Creator" Connected
+2026-09-24T22:12:04.471 - ZeeInterface: getBuildNumber
+2026-09-24T22:12:04.472 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-24T22:12:04.532 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-09-25T16:11:23.174 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-25T16:11:23.197 - Failed to load qt translation for language: "ru"
+2026-09-25T16:11:23.293 - Blfwk: libblfwk_wrapper not loaded
+2026-09-25T16:11:23.627 - ExpertView: loadSaveFile() start
+2026-09-25T16:11:23.905 - copyStarterFile:  true
+2026-09-25T16:11:23.905 - ExpertView: loadSaveFile():  278 msec
+2026-09-25T16:11:23.982 - X1API: Socket server started
+2026-09-25T16:11:24.022 - Autostart - launched minimized
+2026-09-25T16:11:24.090 - X1DeviceManager: "Creator" Connected
+2026-09-25T16:11:24.090 - ZeeInterface: getBuildNumber
+2026-09-25T16:11:24.090 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-26T14:10:47.728 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-26T14:10:47.754 - Failed to load qt translation for language: "ru"
+2026-09-26T14:10:47.853 - Blfwk: libblfwk_wrapper not loaded
+2026-09-26T14:10:48.204 - ExpertView: loadSaveFile() start
+2026-09-26T14:10:48.498 - copyStarterFile:  true
+2026-09-26T14:10:48.498 - ExpertView: loadSaveFile():  294 msec
+2026-09-26T14:10:48.586 - X1API: Socket server started
+2026-09-26T14:10:48.621 - Autostart - launched minimized
+2026-09-26T14:10:48.683 - X1DeviceManager: "Creator" Connected
+2026-09-26T14:10:48.684 - ZeeInterface: getBuildNumber
+2026-09-26T14:10:48.684 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-27T13:41:43.502 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-27T13:41:43.527 - Failed to load qt translation for language: "ru"
+2026-09-27T13:41:43.628 - Blfwk: libblfwk_wrapper not loaded
+2026-09-27T13:41:44.016 - ExpertView: loadSaveFile() start
+2026-09-27T13:41:44.328 - copyStarterFile:  true
+2026-09-27T13:41:44.328 - ExpertView: loadSaveFile():  312 msec
+2026-09-27T13:41:44.413 - X1API: Socket server started
+2026-09-27T13:41:44.445 - Autostart - launched minimized
+2026-09-27T13:41:44.511 - X1DeviceManager: "Creator" Connected
+2026-09-27T13:41:44.511 - ZeeInterface: getBuildNumber
+2026-09-27T13:41:44.511 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-28T11:28:24.207 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-28T11:28:24.225 - Failed to load qt translation for language: "ru"
+2026-09-28T11:28:24.322 - Blfwk: libblfwk_wrapper not loaded
+2026-09-28T11:28:24.990 - ExpertView: loadSaveFile() start
+2026-09-28T11:28:25.742 - copyStarterFile:  true
+2026-09-28T11:28:25.742 - ExpertView: loadSaveFile():  751 msec
+2026-09-28T11:28:26.343 - X1API: Socket server started
+2026-09-28T11:28:26.373 - Autostart - launched minimized
+2026-09-28T11:28:26.436 - X1DeviceManager: "Creator" Connected
+2026-09-28T11:28:26.436 - ZeeInterface: getBuildNumber
+2026-09-28T11:28:26.437 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-29T16:22:14.524 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-29T16:22:14.548 - Failed to load qt translation for language: "ru"
+2026-09-29T16:22:14.647 - Blfwk: libblfwk_wrapper not loaded
+2026-09-29T16:22:14.989 - ExpertView: loadSaveFile() start
+2026-09-29T16:22:15.288 - copyStarterFile:  true
+2026-09-29T16:22:15.288 - ExpertView: loadSaveFile():  299 msec
+2026-09-29T16:22:15.378 - X1API: Socket server started
+2026-09-29T16:22:15.413 - Autostart - launched minimized
+2026-09-29T16:22:15.475 - X1DeviceManager: "Creator" Connected
+2026-09-29T16:22:15.475 - ZeeInterface: getBuildNumber
+2026-09-29T16:22:15.477 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-29T16:22:15.514 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-09-30T15:17:24.071 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-09-30T15:17:24.085 - Failed to load qt translation for language: "ru"
+2026-09-30T15:17:24.190 - Blfwk: libblfwk_wrapper not loaded
+2026-09-30T15:17:24.524 - ExpertView: loadSaveFile() start
+2026-09-30T15:17:24.843 - copyStarterFile:  true
+2026-09-30T15:17:24.843 - ExpertView: loadSaveFile():  319 msec
+2026-09-30T15:17:25.184 - X1API: Socket server started
+2026-09-30T15:17:25.215 - Autostart - launched minimized
+2026-09-30T15:17:25.279 - X1DeviceManager: "Creator" Connected
+2026-09-30T15:17:25.279 - ZeeInterface: getBuildNumber
+2026-09-30T15:17:25.280 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-09-30T15:17:25.319 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-10-01T16:10:28.477 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-01T16:10:28.493 - Failed to load qt translation for language: "ru"
+2026-10-01T16:10:28.590 - Blfwk: libblfwk_wrapper not loaded
+2026-10-01T16:10:28.909 - ExpertView: loadSaveFile() start
+2026-10-01T16:10:29.202 - copyStarterFile:  true
+2026-10-01T16:10:29.202 - ExpertView: loadSaveFile():  292 msec
+2026-10-01T16:10:29.288 - X1API: Socket server started
+2026-10-01T16:10:29.321 - Autostart - launched minimized
+2026-10-01T16:10:29.384 - X1DeviceManager: "Creator" Connected
+2026-10-01T16:10:29.384 - ZeeInterface: getBuildNumber
+2026-10-01T16:10:29.385 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-01T16:10:29.417 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-10-01T22:46:26.123 - Opening Window in Expert Mode
+2026-10-01T22:46:31.846 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-01T22:46:49.890 - QBoxLayout::insert: index 3 out of range (max: 1)
+2026-10-01T22:48:30.937 - QBoxLayout::insert: index 3 out of range (max: 1)
+2026-10-01T22:48:33.890 - DlgIniSettings: Error copying file to desktop - "Cannot create /home/sevaed/Desktop/log.txt for output: No such file or directory"
+2026-10-01T22:48:51.881 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-02T16:16:59.767 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-02T16:16:59.780 - Failed to load qt translation for language: "ru"
+2026-10-02T16:16:59.867 - Blfwk: libblfwk_wrapper not loaded
+2026-10-02T16:17:00.205 - ExpertView: loadSaveFile() start
+2026-10-02T16:17:00.473 - copyStarterFile:  true
+2026-10-02T16:17:00.473 - ExpertView: loadSaveFile():  267 msec
+2026-10-02T16:17:00.573 - X1API: Socket server started
+2026-10-02T16:17:00.608 - Autostart - launched minimized
+2026-10-02T16:17:00.670 - X1DeviceManager: "Creator" Connected
+2026-10-02T16:17:00.671 - ZeeInterface: getBuildNumber
+2026-10-02T16:17:00.671 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-03T15:26:40.874 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-03T15:26:40.901 - Failed to load qt translation for language: "ru"
+2026-10-03T15:26:40.994 - Blfwk: libblfwk_wrapper not loaded
+2026-10-03T15:26:41.302 - ExpertView: loadSaveFile() start
+2026-10-03T15:26:41.616 - copyStarterFile:  true
+2026-10-03T15:26:41.616 - ExpertView: loadSaveFile():  313 msec
+2026-10-03T15:26:41.695 - X1API: Socket server started
+2026-10-03T15:26:41.725 - Autostart - launched minimized
+2026-10-03T15:26:41.804 - X1DeviceManager: "Creator" Connected
+2026-10-03T15:26:41.804 - ZeeInterface: getBuildNumber
+2026-10-03T15:26:41.805 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-03T21:02:14.405 - Opening Window in Expert Mode
+2026-10-03T21:17:44.048 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.048 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.048 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.048 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.049 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.049 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.049 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:17:44.049 - QCssParser::parseColorValue: Specified color with alpha value but no alpha given: 'rgba 255, 89, 89'
+2026-10-03T21:18:06.701 - ConfigFile: saved to file
+2026-10-03T21:28:50.364 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-03T21:28:50.364 - Failed to load qt translation for language: "ru"
+2026-10-03T21:28:50.378 - Blfwk: libblfwk_wrapper not loaded
+2026-10-03T21:28:50.467 - ExpertView: loadSaveFile() start
+2026-10-03T21:28:50.690 - copyStarterFile:  true
+2026-10-03T21:28:50.690 - ExpertView: loadSaveFile():  222 msec
+2026-10-03T21:28:50.734 - X1API: Socket server started
+2026-10-03T21:28:51.135 - X1DeviceManager: "Creator" Connected
+2026-10-03T21:28:51.135 - ZeeInterface: getBuildNumber
+2026-10-03T21:28:51.136 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-03T21:28:51.279 - Opening Window in Expert Mode
+2026-10-03T21:29:00.725 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-03T21:32:07.294 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-03T21:32:07.294 - Failed to load qt translation for language: "ru"
+2026-10-03T21:32:07.310 - Blfwk: libblfwk_wrapper not loaded
+2026-10-03T21:32:07.395 - ExpertView: loadSaveFile() start
+2026-10-03T21:32:07.601 - copyStarterFile:  true
+2026-10-03T21:32:07.601 - ExpertView: loadSaveFile():  206 msec
+2026-10-03T21:32:07.645 - X1API: Socket server started
+2026-10-03T21:32:08.057 - X1DeviceManager: "Creator" Connected
+2026-10-03T21:32:08.057 - ZeeInterface: getBuildNumber
+2026-10-03T21:32:08.058 - FWUpdate: Current FW "000208" Required FW "000209"
+2026-10-03T21:32:08.195 - Opening Window in Expert Mode
+2026-10-03T22:00:14.958 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-03T22:00:14.960 - Failed to load qt translation for language: "ru"
+2026-10-03T22:00:14.984 - Blfwk: libblfwk_wrapper not loaded
+2026-10-03T22:00:15.094 - ExpertView: loadSaveFile() start
+2026-10-03T22:00:15.294 - copyStarterFile:  true
+2026-10-03T22:00:15.294 - ExpertView: loadSaveFile():  200 msec
+2026-10-03T22:00:15.340 - X1API: Socket server started
+2026-10-03T22:00:15.731 - X1DeviceManager: "Creator" Connected
+2026-10-03T22:00:15.731 - ZeeInterface: getBuildNumber
+2026-10-03T22:00:15.732 - ZeeInterface: getResetInfo
+2026-10-03T22:00:15.841 - ZeeInterface: getMemoryInfo
+2026-10-03T22:00:16.952 - ZeeInterface: saveToRAM
+2026-10-03T22:00:16.954 - ConfigFile: saved to file
+2026-10-03T22:00:17.022 - Opening Window in Expert Mode
+2026-10-03T22:00:17.208 - ZeeInterface: saveToFlash
+2026-10-03T22:00:20.466 - Mappings: save()
+2026-10-03T22:00:41.384 - Mappings: save()
+2026-10-03T22:00:43.711 - ZeeInterface: saveToRAM
+2026-10-03T22:00:43.719 - ConfigFile: saved to file
+2026-10-03T22:00:43.806 - ZeeInterface: saveToFlash
+2026-10-03T22:10:57.464 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-03T22:10:57.488 - Failed to load qt translation for language: "ru"
+2026-10-03T22:10:57.560 - Blfwk: libblfwk_wrapper not loaded
+2026-10-03T22:10:57.877 - ExpertView: loadSaveFile() start
+2026-10-03T22:10:58.325 - copyStarterFile:  true
+2026-10-03T22:10:58.325 - ExpertView: loadSaveFile():  448 msec
+2026-10-03T22:10:58.396 - X1API: Socket server started
+2026-10-03T22:10:58.427 - Autostart - launched minimized
+2026-10-03T22:10:58.490 - X1DeviceManager: "Creator" Connected
+2026-10-03T22:10:58.490 - ZeeInterface: getBuildNumber
+2026-10-03T22:10:58.491 - ZeeInterface: getResetInfo
+2026-10-03T22:10:58.600 - ZeeInterface: getMemoryInfo
+2026-10-03T22:10:58.622 - ZeeInterface: saveToRAM
+2026-10-03T22:10:58.624 - ConfigFile: saved to file
+2026-10-04T15:51:31.129 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-04T15:51:31.154 - Failed to load qt translation for language: "ru"
+2026-10-04T15:51:31.253 - Blfwk: libblfwk_wrapper not loaded
+2026-10-04T15:51:31.595 - ExpertView: loadSaveFile() start
+2026-10-04T15:51:31.879 - copyStarterFile:  true
+2026-10-04T15:51:31.879 - ExpertView: loadSaveFile():  284 msec
+2026-10-04T15:51:31.965 - X1API: Socket server started
+2026-10-04T15:51:31.995 - Autostart - launched minimized
+2026-10-04T15:51:32.056 - X1DeviceManager: "Creator" Connected
+2026-10-04T15:51:32.057 - ZeeInterface: getBuildNumber
+2026-10-04T15:51:32.058 - ZeeInterface: getResetInfo
+2026-10-04T15:51:32.147 - ZeeInterface: getMemoryInfo
+2026-10-04T15:51:32.167 - ZeeInterface: saveToRAM
+2026-10-04T15:51:32.170 - ConfigFile: saved to file
+2026-10-04T15:51:32.285 - ZeeInterface: saveToFlash
+2026-10-05T16:24:59.192 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-05T16:24:59.211 - Failed to load qt translation for language: "ru"
+2026-10-05T16:24:59.305 - Blfwk: libblfwk_wrapper not loaded
+2026-10-05T16:24:59.630 - ExpertView: loadSaveFile() start
+2026-10-05T16:24:59.930 - copyStarterFile:  true
+2026-10-05T16:24:59.930 - ExpertView: loadSaveFile():  300 msec
+2026-10-05T16:25:00.025 - X1API: Socket server started
+2026-10-05T16:25:00.057 - Autostart - launched minimized
+2026-10-05T16:25:00.121 - X1DeviceManager: "Creator" Connected
+2026-10-05T16:25:00.121 - ZeeInterface: getBuildNumber
+2026-10-05T16:25:00.121 - ZeeInterface: getResetInfo
+2026-10-05T16:25:00.226 - ZeeInterface: getMemoryInfo
+2026-10-05T16:25:00.250 - ZeeInterface: saveToRAM
+2026-10-05T16:25:00.253 - ConfigFile: saved to file
+2026-10-05T16:25:00.367 - ZeeInterface: saveToFlash
+2026-10-06T16:56:53.743 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-06T16:56:53.764 - Failed to load qt translation for language: "ru"
+2026-10-06T16:56:53.860 - Blfwk: libblfwk_wrapper not loaded
+2026-10-06T16:56:54.188 - ExpertView: loadSaveFile() start
+2026-10-06T16:56:54.450 - copyStarterFile:  true
+2026-10-06T16:56:54.450 - ExpertView: loadSaveFile():  261 msec
+2026-10-06T16:56:54.533 - X1API: Socket server started
+2026-10-06T16:56:54.564 - Autostart - launched minimized
+2026-10-06T16:56:54.627 - X1DeviceManager: "Creator" Connected
+2026-10-06T16:56:54.627 - ZeeInterface: getBuildNumber
+2026-10-06T16:56:54.628 - ZeeInterface: getResetInfo
+2026-10-06T16:56:54.661 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-10-06T16:56:54.715 - ZeeInterface: getMemoryInfo
+2026-10-06T16:56:54.737 - ZeeInterface: saveToRAM
+2026-10-06T16:56:54.741 - ConfigFile: saved to file
+2026-10-06T16:56:54.852 - ZeeInterface: saveToFlash
+2026-10-07T15:32:08.983 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-07T15:32:09.007 - Failed to load qt translation for language: "ru"
+2026-10-07T15:32:09.118 - Blfwk: libblfwk_wrapper not loaded
+2026-10-07T15:32:09.452 - ExpertView: loadSaveFile() start
+2026-10-07T15:32:09.805 - copyStarterFile:  true
+2026-10-07T15:32:09.805 - ExpertView: loadSaveFile():  353 msec
+2026-10-07T15:32:09.894 - X1API: Socket server started
+2026-10-07T15:32:09.924 - Autostart - launched minimized
+2026-10-07T15:32:09.986 - X1DeviceManager: "Creator" Connected
+2026-10-07T15:32:09.986 - ZeeInterface: getBuildNumber
+2026-10-07T15:32:09.987 - ZeeInterface: getResetInfo
+2026-10-07T15:32:10.079 - ZeeInterface: getMemoryInfo
+2026-10-07T15:32:10.100 - ZeeInterface: saveToRAM
+2026-10-07T15:32:10.104 - ConfigFile: saved to file
+2026-10-07T15:32:10.214 - ZeeInterface: saveToFlash
+2026-10-08T16:12:32.259 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-08T16:12:32.270 - Failed to load qt translation for language: "ru"
+2026-10-08T16:12:32.363 - Blfwk: libblfwk_wrapper not loaded
+2026-10-08T16:12:32.718 - ExpertView: loadSaveFile() start
+2026-10-08T16:12:33.002 - copyStarterFile:  true
+2026-10-08T16:12:33.002 - ExpertView: loadSaveFile():  283 msec
+2026-10-08T16:12:33.087 - X1API: Socket server started
+2026-10-08T16:12:33.116 - Autostart - launched minimized
+2026-10-08T16:12:33.177 - X1DeviceManager: "Creator" Connected
+2026-10-08T16:12:33.178 - ZeeInterface: getBuildNumber
+2026-10-08T16:12:33.178 - ZeeInterface: getResetInfo
+2026-10-08T16:12:33.212 - QDBusTrayIcon encountered a D-Bus error: QDBusError("org.freedesktop.DBus.Error.ServiceUnknown", "The name is not activatable")
+2026-10-08T16:12:33.269 - ZeeInterface: getMemoryInfo
+2026-10-08T16:12:33.293 - ZeeInterface: saveToRAM
+2026-10-08T16:12:33.296 - ConfigFile: saved to file
+2026-10-08T16:12:33.412 - ZeeInterface: saveToFlash
+2026-10-09T16:11:43.479 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-09T16:11:43.503 - Failed to load qt translation for language: "ru"
+2026-10-09T16:11:43.594 - Blfwk: libblfwk_wrapper not loaded
+2026-10-09T16:11:43.989 - ExpertView: loadSaveFile() start
+2026-10-09T16:11:44.393 - copyStarterFile:  true
+2026-10-09T16:11:44.393 - ExpertView: loadSaveFile():  403 msec
+2026-10-09T16:11:44.477 - X1API: Socket server started
+2026-10-09T16:11:44.508 - Autostart - launched minimized
+2026-10-09T16:11:44.575 - X1DeviceManager: "Creator" Connected
+2026-10-09T16:11:44.577 - ZeeInterface: getBuildNumber
+2026-10-09T16:11:44.578 - ZeeInterface: getResetInfo
+2026-10-09T16:11:44.674 - ZeeInterface: getMemoryInfo
+2026-10-09T16:11:44.698 - ZeeInterface: saveToRAM
+2026-10-09T16:11:44.707 - ConfigFile: saved to file
+2026-10-09T16:11:44.823 - ZeeInterface: saveToFlash
+2026-10-10T00:41:10.144 - The Wayland connection broke. Did the Wayland compositor die?
+2026-10-10T00:41:16.666 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-10T00:41:16.668 - Failed to load qt translation for language: "ru"
+2026-10-10T00:41:16.687 - Blfwk: libblfwk_wrapper not loaded
+2026-10-10T00:41:16.845 - ExpertView: loadSaveFile() start
+2026-10-10T00:41:17.220 - copyStarterFile:  true
+2026-10-10T00:41:17.220 - ExpertView: loadSaveFile():  374 msec
+2026-10-10T00:41:17.287 - X1API: Socket server started
+2026-10-10T00:41:17.350 - Autostart - launched minimized
+2026-10-10T00:41:17.421 - X1DeviceManager: "Creator" Connected
+2026-10-10T00:41:17.421 - ZeeInterface: getBuildNumber
+2026-10-10T00:41:17.422 - ZeeInterface: getResetInfo
+2026-10-10T00:41:17.577 - ZeeInterface: getMemoryInfo
+2026-10-10T00:41:17.598 - ZeeInterface: saveToRAM
+2026-10-10T00:41:17.602 - ConfigFile: saved to file
+2026-10-10T13:50:09.414 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-10T13:50:09.438 - Failed to load qt translation for language: "ru"
+2026-10-10T13:50:09.528 - Blfwk: libblfwk_wrapper not loaded
+2026-10-10T13:50:09.883 - ExpertView: loadSaveFile() start
+2026-10-10T13:50:10.182 - copyStarterFile:  true
+2026-10-10T13:50:10.182 - ExpertView: loadSaveFile():  298 msec
+2026-10-10T13:50:10.274 - X1API: Socket server started
+2026-10-10T13:50:10.305 - Autostart - launched minimized
+2026-10-10T13:50:10.372 - X1DeviceManager: "Creator" Connected
+2026-10-10T13:50:10.372 - ZeeInterface: getBuildNumber
+2026-10-10T13:50:10.373 - ZeeInterface: getResetInfo
+2026-10-10T13:50:10.470 - ZeeInterface: getMemoryInfo
+2026-10-10T13:50:10.491 - ZeeInterface: saveToRAM
+2026-10-10T13:50:10.494 - ConfigFile: saved to file
+2026-10-10T13:50:10.603 - ZeeInterface: saveToFlash
+2026-10-11T13:03:31.375 - Start "Swiftpoint X1 Control Panel - EXPERIMENTAL LINUX VERSION" "3.1.3.1"
+2026-10-11T13:03:31.402 - Failed to load qt translation for language: "ru"
+2026-10-11T13:03:31.501 - Blfwk: libblfwk_wrapper not loaded
+2026-10-11T13:03:31.837 - ExpertView: loadSaveFile() start
+2026-10-11T13:03:32.112 - copyStarterFile:  true
+2026-10-11T13:03:32.112 - ExpertView: loadSaveFile():  275 msec
+2026-10-11T13:03:32.192 - X1API: Socket server started
+2026-10-11T13:03:32.222 - Autostart - launched minimized
+2026-10-11T13:03:32.309 - X1DeviceManager: "Creator" Connected
+2026-10-11T13:03:32.309 - ZeeInterface: getBuildNumber
+2026-10-11T13:03:32.309 - ZeeInterface: getResetInfo
+2026-10-11T13:03:32.400 - ZeeInterface: getMemoryInfo
+2026-10-11T13:03:32.425 - ZeeInterface: saveToRAM
+2026-10-11T13:03:32.428 - ConfigFile: saved to file
+2026-10-11T13:03:32.538 - ZeeInterface: saveToFlash
